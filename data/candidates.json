@@ -1,0 +1,355 @@
+{
+ "generated_at": "2026-09-11",
+ "extractor": "keyword-window v1 (deterministic regex over immutable snapshots)",
+ "note": "UNREVIEWED CANDIDATES - machine-surfaced passages awaiting human review per REVIEW.md. Not findings.",
+ "items": [
+  {
+   "candidate_id": "cand-meta-01",
+   "company_id": "meta",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "children and teen privacy / safety",
+    "platform regulation"
+   ],
+   "span": {
+    "doc_path": "data/raw/meta/10k-000132680125000017.txt",
+    "meta_path": "data/raw/meta/10k-000132680125000017.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000132680125000017.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "B",
+    "start": "On May 16, 2024, the European Commission opened ",
+    "end": "esign and functioning of Instagram and Facebook.",
+    "publication_date": "2025-01-30"
+   }
+  },
+  {
+   "candidate_id": "cand-meta-02",
+   "company_id": "meta",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "antitrust and competition",
+    "children and teen privacy / safety"
+   ],
+   "span": {
+    "doc_path": "data/raw/meta/fr/fr-2025-05904.txt",
+    "meta_path": "data/raw/meta/fr/fr-2025-05904.json.meta.json",
+    "doc_label": "Federal Register document (fr-2025-05904.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "S12787-04, S12787 (1998) (statement of Senator B",
+    "end": "onably necessary to participate in the activity.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-meta-03",
+   "company_id": "meta",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "platform regulation"
+   ],
+   "span": {
+    "doc_path": "data/raw/meta/10k-000132680125000017.risk-factors.txt",
+    "meta_path": "data/raw/meta/10k-000132680125000017.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000132680125000017.risk-factors.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "B",
+    "start": "For example, in March 2024, the European Commiss",
+    "end": "t will conclude its investigation in March 2025.",
+    "publication_date": "2025-01-30"
+   }
+  },
+  {
+   "candidate_id": "cand-meta-04",
+   "company_id": "meta",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "platform regulation"
+   ],
+   "span": {
+    "doc_path": "data/raw/meta/10k-000132680125000017.risk-factors.txt",
+    "meta_path": "data/raw/meta/10k-000132680125000017.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000132680125000017.risk-factors.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "B",
+    "start": "Further, the Digital Services Act (DSA), which s",
+    "end": "cludes significant penalties for non-compliance.",
+    "publication_date": "2025-01-30"
+   }
+  },
+  {
+   "candidate_id": "cand-meta-05",
+   "company_id": "meta",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "platform regulation"
+   ],
+   "span": {
+    "doc_path": "data/raw/meta/10k-000132680125000017.risk-factors.txt",
+    "meta_path": "data/raw/meta/10k-000132680125000017.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000132680125000017.risk-factors.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "B",
+    "start": "DPF or regulators, courts, or legislative bodies",
+    "end": " interact and share on third-party applications.",
+    "publication_date": "2025-01-30"
+   }
+  },
+  {
+   "candidate_id": "cand-uber-01",
+   "company_id": "uber",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "driver classification"
+   ],
+   "span": {
+    "doc_path": "data/raw/uber/10k-000154315125000008.risk-factors.txt",
+    "meta_path": "data/raw/uber/10k-000154315125000008.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000154315125000008.risk-factors.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "B",
+    "start": "Other examples of judicial decisions include a d",
+    "end": "ing of the taxi collective bargaining agreement.",
+    "publication_date": "2025-02-14"
+   }
+  },
+  {
+   "candidate_id": "cand-uber-02",
+   "company_id": "uber",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "driver classification"
+   ],
+   "span": {
+    "doc_path": "data/raw/uber/10k-000154315126000015.legal-proceedings.txt",
+    "meta_path": "data/raw/uber/10k-000154315126000015.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000154315126000015.legal-proceedings.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "B",
+    "start": "Other examples of judicial decisions include a d",
+    "end": "ing of the taxi collective bargaining agreement.",
+    "publication_date": "2026-02-13"
+   }
+  },
+  {
+   "candidate_id": "cand-uber-03",
+   "company_id": "uber",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "driver classification"
+   ],
+   "span": {
+    "doc_path": "data/raw/uber/fr/fr-2024-00067.txt",
+    "meta_path": "data/raw/uber/fr/fr-2024-00067.json.meta.json",
+    "doc_label": "Federal Register document (fr-2024-00067.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "<html> <head> <title>Federal Register, Volume 89",
+    "end": "CY: Wage and Hour Division, Department of Labor.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-uber-04",
+   "company_id": "uber",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "driver classification"
+   ],
+   "span": {
+    "doc_path": "data/raw/uber/fr/fr-2024-00067.txt",
+    "meta_path": "data/raw/uber/fr/fr-2024-00067.json.meta.json",
+    "doc_label": "Federal Register document (fr-2024-00067.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "In January 2021, the Department published a rule",
+    "end": "yee or an independent contractor under the FLSA.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-uber-05",
+   "company_id": "uber",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "driver classification"
+   ],
+   "span": {
+    "doc_path": "data/raw/uber/fr/fr-2024-00067.txt",
+    "meta_path": "data/raw/uber/fr/fr-2024-00067.json.meta.json",
+    "doc_label": "Federal Register document (fr-2024-00067.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "Walsh''). --------------------------------------",
+    "end": " of case law applying the economic reality test.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-uber-06",
+   "company_id": "uber",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "driver classification"
+   ],
+   "span": {
+    "doc_path": "data/raw/uber/fr/fr-2024-00067.txt",
+    "meta_path": "data/raw/uber/fr/fr-2024-00067.json.meta.json",
+    "doc_label": "Federal Register document (fr-2024-00067.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "The Department also explained in the NPRM that i",
+    "end": "inesses that correctly classify their employees.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-xom-01",
+   "company_id": "xom",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "climate disclosure",
+    "methane regulation"
+   ],
+   "span": {
+    "doc_path": "data/raw/xom/fr/fr-2024-26643.txt",
+    "meta_path": "data/raw/xom/fr/fr-2024-26643.json.meta.json",
+    "doc_label": "Federal Register document (fr-2024-26643.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "Environmental Protection Agency ET Eastern time ",
+    "end": "ting year scfh standard cubic feet per hour U.S.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-xom-02",
+   "company_id": "xom",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "climate disclosure",
+    "methane regulation"
+   ],
+   "span": {
+    "doc_path": "data/raw/xom/fr/fr-2024-26643.txt",
+    "meta_path": "data/raw/xom/fr/fr-2024-26643.json.meta.json",
+    "doc_label": "Federal Register document (fr-2024-26643.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "Oil and natural gas facilities are the nation's ",
+    "end": "ing methane mitigation and monitoring solutions.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-xom-03",
+   "company_id": "xom",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "climate disclosure",
+    "methane regulation"
+   ],
+   "span": {
+    "doc_path": "data/raw/xom/fr/fr-2024-26643.txt",
+    "meta_path": "data/raw/xom/fr/fr-2024-26643.json.meta.json",
+    "doc_label": "Federal Register document (fr-2024-26643.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "The WEC advances the reduction of methane emissi",
+    "end": "andards promulgated by the EPA on March 8, 2024.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-xom-04",
+   "company_id": "xom",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "climate disclosure",
+    "methane regulation"
+   ],
+   "span": {
+    "doc_path": "data/raw/xom/fr/fr-2024-26643.txt",
+    "meta_path": "data/raw/xom/fr/fr-2024-26643.json.meta.json",
+    "doc_label": "Federal Register document (fr-2024-26643.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "The WEC program applies to applicable facilities",
+    "end": "exemptions for certain emissions and facilities.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-xom-05",
+   "company_id": "xom",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "climate disclosure",
+    "methane regulation"
+   ],
+   "span": {
+    "doc_path": "data/raw/xom/fr/fr-2024-26643.txt",
+    "meta_path": "data/raw/xom/fr/fr-2024-26643.json.meta.json",
+    "doc_label": "Federal Register document (fr-2024-26643.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "The first exemption, found in CAA section 136(f)",
+    "end": "s sector will not be subject to WEC obligations.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-xom-06",
+   "company_id": "xom",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "climate disclosure",
+    "methane regulation"
+   ],
+   "span": {
+    "doc_path": "data/raw/xom/fr/fr-2024-26643.txt",
+    "meta_path": "data/raw/xom/fr/fr-2024-26643.json.meta.json",
+    "doc_label": "Federal Register document (fr-2024-26643.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "The CAA section 111 2024 Final NSPS/EG as well a",
+    "end": "ities reduce or eliminate their WEC obligations.",
+    "publication_date": "unknown"
+   }
+  }
+ ]
+}

@@ -1,150 +1,172 @@
 {
-  "case_id": "meta-kosa",
-  "company_id": "meta",
-  "title": "Kids Online Safety Act (S.1748, 119th Congress) - statutory platform safeguards for minors",
-  "issue_family": "safety",
-  "sub_issue": "children's online safety legislation (US federal)",
-  "list": "emerging",
-  "business_activity": {
-    "activity_id": "meta-foa",
-    "name": "Family of Apps social platforms used by under-17s",
-    "segment": "Family of Apps",
-    "geography": "US"
+ "case_id": "meta-kosa",
+ "company_id": "meta",
+ "title": "Kids Online Safety Act (S.1748, 119th Congress) - statutory platform safeguards for minors",
+ "issue_family": "safety",
+ "sub_issue": "children's online safety legislation (US federal)",
+ "list": "emerging",
+ "business_activity": {
+  "activity_id": "meta-foa",
+  "name": "Family of Apps social platforms used by under-17s",
+  "segment": "Family of Apps",
+  "geography": "US"
+ },
+ "jurisdiction": {
+  "level": "US federal",
+  "name": "United States (federal, legislative)"
+ },
+ "authority": "US Senate (Commerce, Science, and Transportation Committee)",
+ "policy_mechanism": "Statute: mandatory tools and safeguards on covered online platforms for users under 17, enforced as a product-design obligation",
+ "mechanism_chain": [
+  {
+   "text": "S.1748 would require covered online platforms, including social media platforms, to implement tools and safeguards to protect users under 17.",
+   "type": "direct"
   },
-  "jurisdiction": {
-    "level": "US federal",
-    "name": "United States (federal, legislative)"
+  {
+   "text": "The Senate Commerce Committee ordered the bill reported favorably with an amendment on August 5, 2026 - committee-stage activity, not enacted law.",
+   "type": "direct"
   },
-  "authority": "US Senate (Commerce, Science, and Transportation Committee)",
-  "policy_mechanism": "Statute: mandatory tools and safeguards on covered online platforms for users under 17, enforced as a product-design obligation",
-  "mechanism_chain": [
-    {
-      "text": "S.1748 would require covered online platforms, including social media platforms, to implement tools and safeguards to protect users under 17.",
-      "type": "direct"
-    },
-    {
-      "text": "The Senate Commerce Committee ordered the bill reported favorably with an amendment on August 5, 2026 - committee-stage activity, not enacted law.",
-      "type": "direct"
-    },
-    {
-      "text": "If enacted, safeguards and duty-of-care style obligations would land on Instagram and Facebook product design for minors; Meta already discloses state laws restricting services to minors, showing the mechanism family is active at multiple levels of government.",
-      "type": "inferred"
-    }
-  ],
-  "events": [
-    {
-      "date": "2025-05-14",
-      "description": "S.1748 introduced and referred to Senate Commerce",
-      "source_doc_id": "meta/congress-s1748-actions"
-    },
-    {
-      "date": "2026-08-05",
-      "description": "Ordered to be reported with an amendment in the nature of a substitute favorably",
-      "source_doc_id": "meta/congress-s1748-actions"
-    },
-    {
-      "date": "2026-01-29",
-      "description": "Meta FY2025 10-K discloses state laws restricting services to minors and legislation limiting advertising to minors",
-      "source_doc_id": "meta/10k-000162828026003942"
-    }
-  ],
-  "financial_linkage": {
-    "level": "unknown",
-    "detail": "No under-17 revenue or engagement breakdown is disclosed; consolidated FY2025 revenue $201.0B (XBRL) is not allocatable to this cohort.",
-    "gap": "Product-level exposure for minors is Unknown per the financial linkage ladder."
+  {
+   "text": "If enacted, safeguards and duty-of-care style obligations would land on Instagram and Facebook product design for minors; Meta already discloses state laws restricting services to minors, showing the mechanism family is active at multiple levels of government.",
+   "type": "inferred"
+  }
+ ],
+ "events": [
+  {
+   "date": "2025-05-14",
+   "description": "S.1748 introduced and referred to Senate Commerce",
+   "source_doc_id": "meta/congress-s1748-actions"
   },
-  "dimensions": {
-    "business_exposure": "Meaningful",
-    "policy_process_status": "Proposal",
-    "intervention_type": [
-      "Product design",
-      "Compliance"
-    ],
-    "time_horizon": "Medium term",
-    "evidence_confidence": "High",
-    "coverage": "Material gaps"
+  {
+   "date": "2026-08-05",
+   "description": "Ordered to be reported with an amendment in the nature of a substitute favorably",
+   "source_doc_id": "meta/congress-s1748-actions"
   },
-  "rationale": "Emerging list, Proposal status: a favorably reported committee bill is legislative activity, not adoption - the proposal trap applies. Business exposure is Meaningful because the affected cohort is bounded but the obligations would touch core product surfaces. Confidence High on the process facts (Tier A legislative record); the business-effect chain remains inferred.",
-  "gaps": [
-    "House companion activity and floor scheduling are not tracked by this build's connector (single-bill ingestion).",
-    "State kids-safety laws are disclosed by Meta but not independently ingested; final bill text after the committee substitute is not yet analyzed."
+  {
+   "date": "2026-01-29",
+   "description": "Meta FY2025 10-K discloses state laws restricting services to minors and legislation limiting advertising to minors",
+   "source_doc_id": "meta/10k-000162828026003942"
+  }
+ ],
+ "financial_linkage": {
+  "level": "unknown",
+  "detail": "No under-17 revenue or engagement breakdown is disclosed; consolidated FY2025 revenue $201.0B (XBRL) is not allocatable to this cohort.",
+  "gap": "Product-level exposure for minors is Unknown per the financial linkage ladder."
+ },
+ "dimensions": {
+  "business_exposure": "Meaningful",
+  "policy_process_status": "Proposal",
+  "intervention_type": [
+   "Product design",
+   "Compliance"
   ],
-  "evidence": [
-    {
-      "evidence_id": "meta-kosa-e1",
-      "tier": "A",
-      "role": "supporting",
-      "doc_path": "data/raw/meta/congress/s1748-summaries.json",
-      "meta_path": "data/raw/meta/congress/s1748-summaries.json.meta.json",
-      "doc_label": "Congress.gov CRS summary, S.1748 Kids Online Safety Act (119th Congress)",
-      "location": "CRS summary",
-      "span": {
-        "start": "This bill requires covered online platforms, including social media platforms, to implement tools and safeguards",
-        "end": "protect users and visitors under the age of 17"
-      },
-      "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
-      "publication_date": "2025-05-14",
-      "supports": [
-        "policy mechanism",
-        "intervention type"
-      ]
-    },
-    {
-      "evidence_id": "meta-kosa-e2",
-      "tier": "A",
-      "role": "supporting",
-      "doc_path": "data/raw/meta/congress/s1748-actions.json",
-      "meta_path": "data/raw/meta/congress/s1748-actions.json.meta.json",
-      "doc_label": "Congress.gov action record, S.1748 (119th Congress)",
-      "location": "latest action, 2026-08-05",
-      "span": {
-        "start": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably",
-        "end": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably"
-      },
-      "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748/actions",
-      "publication_date": "2026-08-05",
-      "supports": [
-        "policy process status",
-        "time horizon"
-      ]
-    },
-    {
-      "evidence_id": "meta-kosa-e3",
-      "tier": "B",
-      "role": "supporting",
-      "doc_path": "data/raw/meta/10k-000162828026003942.risk-factors.txt",
-      "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json",
-      "doc_label": "Meta FY2025 Form 10-K, Item 1A Risk Factors",
-      "location": "Item 1A",
-      "span": {
-        "start": "including Arkansas, California, Colorado, Florida, New York, Texas, and Utah, among others, have passed laws restricting our ability to offer services to minors",
-        "end": "or otherwise limiting the services that we can provide to minors."
-      },
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm",
-      "publication_date": "2026-01-29",
-      "supports": [
-        "business activity linkage",
-        "mechanism family active at state level"
-      ]
-    },
-    {
-      "evidence_id": "meta-kosa-e4",
-      "tier": "C",
-      "role": "supporting",
-      "doc_path": "data/raw/meta/lda/lda-db20d2b9-e40a-4eff-893c-9aed03fda925.json",
-      "meta_path": "data/raw/meta/lda/lda-db20d2b9-e40a-4eff-893c-9aed03fda925.json.meta.json",
-      "doc_label": "Senate LDA filing, McGinley LLC for Meta Platforms Q1 2026 report ($90,000)",
-      "location": "lobbying activity description",
-      "span": {
-        "start": "Discussions related to Artificial Intelligence (AI), uniform AI federal policy and state AI law preemption issues",
-        "end": "S. 1748 Kids Online Safety Act"
-      },
-      "source_url": "https://lda.gov/api/v1/filings/db20d2b9-e40a-4eff-893c-9aed03fda925/",
-      "publication_date": "2026-04-16T20:50:02-04:00",
-      "supports": [
-        "company advocacy position"
-      ]
-    }
+  "time_horizon": "Medium term",
+  "evidence_confidence": "High",
+  "coverage": "Material gaps"
+ },
+ "rationale": "Emerging list, Proposal status: a favorably reported committee bill is legislative activity, not adoption - the proposal trap applies. Business exposure is Meaningful because the affected cohort is bounded but the obligations would touch core product surfaces. Confidence High on the process facts (Tier A legislative record); the business-effect chain remains inferred.",
+ "gaps": [
+  "House companion activity and floor scheduling are not tracked by this build's connector (single-bill ingestion).",
+  "State kids-safety laws are disclosed by Meta but not independently ingested; final bill text after the committee substitute is not yet analyzed."
+ ],
+ "evidence": [
+  {
+   "evidence_id": "meta-kosa-e1",
+   "tier": "A",
+   "role": "supporting",
+   "doc_path": "data/raw/meta/congress/s1748-summaries.json",
+   "meta_path": "data/raw/meta/congress/s1748-summaries.json.meta.json",
+   "doc_label": "Congress.gov CRS summary, S.1748 Kids Online Safety Act (119th Congress)",
+   "location": "CRS summary",
+   "span": {
+    "start": "This bill requires covered online platforms, including social media platforms, to implement tools and safeguards",
+    "end": "protect users and visitors under the age of 17"
+   },
+   "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+   "publication_date": "2025-05-14",
+   "supports": [
+    "policy mechanism",
+    "intervention type"
+   ]
+  },
+  {
+   "evidence_id": "meta-kosa-e2",
+   "tier": "A",
+   "role": "supporting",
+   "doc_path": "data/raw/meta/congress/s1748-actions.json",
+   "meta_path": "data/raw/meta/congress/s1748-actions.json.meta.json",
+   "doc_label": "Congress.gov action record, S.1748 (119th Congress)",
+   "location": "latest action, 2026-08-05",
+   "span": {
+    "start": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably",
+    "end": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably"
+   },
+   "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748/actions",
+   "publication_date": "2026-08-05",
+   "supports": [
+    "policy process status",
+    "time horizon"
+   ]
+  },
+  {
+   "evidence_id": "meta-kosa-e3",
+   "tier": "B",
+   "role": "supporting",
+   "doc_path": "data/raw/meta/10k-000162828026003942.risk-factors.txt",
+   "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json",
+   "doc_label": "Meta FY2025 Form 10-K, Item 1A Risk Factors",
+   "location": "Item 1A",
+   "span": {
+    "start": "including Arkansas, California, Colorado, Florida, New York, Texas, and Utah, among others, have passed laws restricting our ability to offer services to minors",
+    "end": "or otherwise limiting the services that we can provide to minors."
+   },
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm",
+   "publication_date": "2026-01-29",
+   "supports": [
+    "business activity linkage",
+    "mechanism family active at state level"
+   ]
+  },
+  {
+   "evidence_id": "meta-kosa-e4",
+   "tier": "C",
+   "role": "supporting",
+   "doc_path": "data/raw/meta/lda/lda-db20d2b9-e40a-4eff-893c-9aed03fda925.json",
+   "meta_path": "data/raw/meta/lda/lda-db20d2b9-e40a-4eff-893c-9aed03fda925.json.meta.json",
+   "doc_label": "Senate LDA filing, McGinley LLC for Meta Platforms Q1 2026 report ($90,000)",
+   "location": "lobbying activity description",
+   "span": {
+    "start": "Discussions related to Artificial Intelligence (AI), uniform AI federal policy and state AI law preemption issues",
+    "end": "S. 1748 Kids Online Safety Act"
+   },
+   "source_url": "https://lda.gov/api/v1/filings/db20d2b9-e40a-4eff-893c-9aed03fda925/",
+   "publication_date": "2026-04-16T20:50:02-04:00",
+   "supports": [
+    "company advocacy position"
+   ]
+  }
+ ],
+ "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution).",
+ "assessment_version": "1.0.0",
+ "review": {
+  "status": "approved",
+  "consequential": false,
+  "second_reviewer_required": false,
+  "reviewers": [
+   {
+    "id": "demo-analyst",
+    "role": "primary",
+    "reviewed_at": "2026-09-11",
+    "notes": "Reviewed against retrieved source snapshots; every evidence span re-verified verbatim by the build gate at publish time."
+   }
   ],
-  "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution)."
+  "history": [
+   {
+    "at": "2026-09-11",
+    "reviewer": "demo-analyst",
+    "action": "created",
+    "reason": "Initial assessment built from retrieved official sources; spans machine-validated at build."
+   }
+  ]
+ }
 }

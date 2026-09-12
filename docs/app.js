@@ -27,6 +27,9 @@
       <span class="badge">${esc(c.dimensions.time_horizon)}</span>
       <span class="badge">confidence: ${esc(c.dimensions.evidence_confidence)}</span>
       <span class="badge ${warn?"warn":""}">coverage: ${esc(c.dimensions.coverage)}</span>
+      ${c.review.status==="approved"
+        ? `<span class="badge ok">reviewed &middot; v${esc(c.assessment_version)}</span>`
+        : `<span class="badge pend">needs 2nd review</span>`}
     </div>`;
   }
 
@@ -47,8 +50,17 @@
       <div class="cardfoot"><span>${c.evidence.length} evidence spans</span>${c.advocacy_note?'<span class="badge" style="background:#f3e8fd;color:#6b21a8;border-color:#e2ccf7">advocacy</span>':''}<span class="go">evidence trail &rarr;</span></div>
     </div>`;
     const chg = (d.changes?d.changes.items:[]).filter(x=>x.company_id===cid);
+    const cands = (d.candidates?d.candidates.items:[]).filter(x=>x.company_id===cid);
+    const candCard = x => `<div class="cand-card">
+      <div class="cand-head"><span class="badge cand-badge">unreviewed candidate</span>
+        <span class="badge">confidence: ${esc(x.confidence)}</span>
+        ${x.issue_hints.map(h=>`<span class="badge">${esc(h)}</span>`).join("")}</div>
+      <blockquote>${esc(x.span.exact_text)}</blockquote>
+      <div class="meta">${esc(x.span.doc_label)} &middot; <a href="${esc(x.span.source_url)}" target="_blank" rel="noopener">official source &rarr;</a> &middot; sha256 ${esc((x.span.sha256||"").slice(0,12))}&hellip;</div>
+    </div>`;
     const chgCard = x => `<div class="change-card">
       <span class="cls">${esc(x.classification)}</span>
+      <span class="badge ctype-badge">${esc(x.change_type.replace(/_/g," "))}</span>
       <div class="note">${esc(x.note)}</div>
       <span class="prev">previous filing: ${esc(x.previous_state)} (structural diff)</span>
       <blockquote>${esc(x.current_span.exact_text)}</blockquote>
@@ -57,7 +69,10 @@
     lists.innerHTML =
       `<h3 class="listhead">Current exposures</h3>` + cur.map(card).join("") +
       `<h3 class="listhead">Emerging</h3>` + em.map(card).join("") +
-      (chg.length ? `<h3 class="listhead">Changes since previous review <span style="font-weight:400;text-transform:none;letter-spacing:0">(${esc(d.changes.change_window)})</span></h3>` + chg.map(chgCard).join("") : "");
+      (chg.length ? `<h3 class="listhead">Changes since previous review <span style="font-weight:400;text-transform:none;letter-spacing:0">(${esc(d.changes.change_window)})</span></h3>` + chg.map(chgCard).join("") : "") +
+      (cands.length ? `<h3 class="listhead">Candidate queue <span class="cand-sub">machine-surfaced &middot; unreviewed &middot; not findings</span></h3>` +
+        `<div class="cand-note">${esc(d.candidates.note)} Extractor: ${esc(d.candidates.extractor)}. Review workflow in REVIEW.md.</div>` +
+        cands.map(candCard).join("") : "");
     lists.querySelectorAll(".case-card").forEach(el =>
       el.onclick = () => openCase(el.dataset.case));
     [...tabs.children].forEach(b => b.classList.toggle("active", b.dataset.cid === cid));
@@ -106,6 +121,13 @@
         <div class="meta"><span class="hash">sha256 ${esc((e.sha256||"").slice(0,16))}&hellip;</span>
         <span>supports: ${e.supports.map(esc).join(", ")}</span></div>
       </div>`).join("")}
+      <h5 class="sec">Review &amp; version</h5>
+      <div class="reviewbox ${c.review.status==="approved"?"ok":"pend"}">
+        <b>${c.review.status==="approved"?"Approved":"Pending second review"}</b> &middot; assessment v${esc(c.assessment_version)}
+        ${c.review.consequential?" &middot; consequential case (second reviewer required by REVIEW.md)":""}
+        <ul>${c.review.reviewers.map(r=>`<li>${esc(r.id)} (${esc(r.role)}) - ${esc(r.reviewed_at)}: ${esc(r.notes)}</li>`).join("")}</ul>
+        <div class="hist">${c.review.history.map(h=>`<div>${esc(h.at)} &middot; ${esc(h.reviewer)} &middot; ${esc(h.action)} - ${esc(h.reason)}</div>`).join("")}</div>
+      </div>
       <p style="font-size:12px;color:var(--mut);margin-top:14px">This assessment deliberately has no single score. Each dimension above can be traced to the spans below it.</p>
     `;
     drawer.classList.remove("hidden");

@@ -79,3 +79,19 @@ h5.sec { font-size:11.5px; text-transform:uppercase; letter-spacing:.8px; color:
 .change-card blockquote { font-size:13px; font-style:italic; color:#26334a; border-left:3px solid #d97706; padding-left:10px; margin:4px 0 6px; }
 .change-card .meta { font-size:11.5px; color:var(--mut); } .change-card .meta a { color:var(--acc); font-weight:600; text-decoration:none; }
 @media (max-width:700px){ #methodology .cols{grid-template-columns:1fr;} .drawer-inner{padding:20px;margin:16px auto 40px;} }
+
+.badge.ok { background:#e8f7ee; border-color:#b9e4c8; color:#177245; font-weight:600; }
+.badge.pend { background:#fdeef0; border-color:#f3c2cb; color:#a12136; font-weight:600; }
+.ctype-badge { margin-left:8px; }
+.cand-sub { font-weight:400; text-transform:none; letter-spacing:0; }
+.cand-note { font-size:12.5px; color:var(--mut); background:#fbf7ec; border:1px dashed #e3d3a6; border-radius:10px; padding:10px 14px; margin-bottom:12px; }
+.cand-card { background:#fffdf7; border:1px dashed #d9c98f; border-radius:14px; padding:16px 20px; margin-bottom:12px; }
+.cand-card .cand-head { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:8px; }
+.cand-card blockquote { font-size:13px; margin:6px 0; }
+.cand-card .meta { font-size:12px; color:var(--mut); }
+.badge.cand-badge { background:#fbf3dc; border-color:#e8cf92; color:#8a6512; font-weight:600; }
+.reviewbox { border-radius:12px; padding:12px 16px; font-size:13px; margin-bottom:6px; }
+.reviewbox.ok { background:#f0faf4; border:1px solid #c7e8d2; }
+.reviewbox.pend { background:#fdf3f4; border:1px solid #f0c9d0; }
+.reviewbox ul { margin:8px 0 4px 18px; color:#33415c; }
+.reviewbox .hist { margin-top:8px; font-size:12px; color:var(--mut); border-top:1px solid rgba(0,0,0,.06); padding-top:6px; }

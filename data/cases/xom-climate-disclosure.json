@@ -1,30 +1,147 @@
 {
-  "case_id": "xom-climate-disclosure",
-  "company_id": "xom",
-  "title": "SEC climate-related disclosure rules (adopted 2024, rescission proposed 2026)",
-  "issue_family": "environmental and climate",
-  "sub_issue": "mandatory climate disclosure (US federal securities regulation)",
-  "list": "emerging",
-  "business_activity": {"activity_id": "xom-reporting", "name": "SEC registrant disclosure obligations", "segment": "Corporate", "geography": "US"},
-  "jurisdiction": {"level": "US federal", "name": "United States (federal)"},
-  "authority": "US Securities and Exchange Commission",
-  "policy_mechanism": "Disclosure mandate: climate-related information requirements in registration statements and annual reports",
-  "mechanism_chain": [
-    {"text": "The SEC's climate disclosure amendments require registrants to provide climate-related information in registration statements and annual reports.", "type": "direct"},
-    {"text": "In June 2026 the SEC proposed to rescind those amendments, with comments due August 3, 2026.", "type": "direct"},
-    {"text": "For ExxonMobil the mechanism is a compliance-cost and litigation-risk question, not a market-access question; XOM's 10-K already flags mandatory disclosure and due-diligence requirements as a compliance-cost driver.", "type": "inferred"}
+ "case_id": "xom-climate-disclosure",
+ "company_id": "xom",
+ "title": "SEC climate-related disclosure rules (adopted 2024, rescission proposed 2026)",
+ "issue_family": "environmental and climate",
+ "sub_issue": "mandatory climate disclosure (US federal securities regulation)",
+ "list": "emerging",
+ "business_activity": {
+  "activity_id": "xom-reporting",
+  "name": "SEC registrant disclosure obligations",
+  "segment": "Corporate",
+  "geography": "US"
+ },
+ "jurisdiction": {
+  "level": "US federal",
+  "name": "United States (federal)"
+ },
+ "authority": "US Securities and Exchange Commission",
+ "policy_mechanism": "Disclosure mandate: climate-related information requirements in registration statements and annual reports",
+ "mechanism_chain": [
+  {
+   "text": "The SEC's climate disclosure amendments require registrants to provide climate-related information in registration statements and annual reports.",
+   "type": "direct"
+  },
+  {
+   "text": "In June 2026 the SEC proposed to rescind those amendments, with comments due August 3, 2026.",
+   "type": "direct"
+  },
+  {
+   "text": "For ExxonMobil the mechanism is a compliance-cost and litigation-risk question, not a market-access question; XOM's 10-K already flags mandatory disclosure and due-diligence requirements as a compliance-cost driver.",
+   "type": "inferred"
+  }
+ ],
+ "events": [
+  {
+   "date": "2026-06-03",
+   "description": "SEC proposes rescission of climate-related disclosure rules; comments due 2026-08-03",
+   "source_doc_id": "xom/fr-2026-11091"
+  },
+  {
+   "date": "2026-02-18",
+   "description": "XOM FY2025 10-K flags mandatory disclosure and due-diligence requirements as compliance-cost drivers",
+   "source_doc_id": "xom/10k-000003408826000045"
+  }
+ ],
+ "financial_linkage": {
+  "level": "not-applicable",
+  "detail": "Compliance-cost exposure only; no revenue linkage. Disclosure rules do not map to a revenue line.",
+  "gap": "None material for this mechanism; litigation status of the original 2024 rule (8th Circuit consolidation) is not covered by a court connector."
+ },
+ "dimensions": {
+  "business_exposure": "Limited",
+  "policy_process_status": "Proposal",
+  "intervention_type": [
+   "Disclosure",
+   "Compliance"
   ],
-  "events": [
-    {"date": "2026-06-03", "description": "SEC proposes rescission of climate-related disclosure rules; comments due 2026-08-03", "source_doc_id": "xom/fr-2026-11091"},
-    {"date": "2026-02-18", "description": "XOM FY2025 10-K flags mandatory disclosure and due-diligence requirements as compliance-cost drivers", "source_doc_id": "xom/10k-000003408826000045"}
+  "time_horizon": "Near term",
+  "evidence_confidence": "High",
+  "coverage": "Material gaps"
+ },
+ "rationale": "On the emerging list because the operative fact is a proposed rescission, not a settled rulebook: the proposal trap applies in both directions (neither the 2024 rule's survival nor its rescission is certain). Business exposure is Limited - this changes reporting obligations, not operations. The original rule's court challenge is disclosed territory but outside current connector coverage, hence Material gaps.",
+ "gaps": [
+  "No court connector for the consolidated litigation over the 2024 climate disclosure rule.",
+  "State and foreign disclosure regimes (California SB 253/261, EU CSRD) are not yet connected and may bind XOM regardless of the SEC outcome."
+ ],
+ "evidence": [
+  {
+   "evidence_id": "xom-disc-e1",
+   "tier": "A",
+   "role": "supporting",
+   "doc_path": "data/raw/xom/fr/fr-2026-11091.txt",
+   "meta_path": "data/raw/xom/fr/fr-2026-11091.json.meta.json",
+   "doc_label": "Federal Register proposed rule 2026-11091, Rescission of Climate-Related Disclosure Rules",
+   "location": "SUMMARY",
+   "span": {
+    "start": "The Securities and Exchange Commission (``Commission'') proposes to rescind amendments to its rules",
+    "end": "climate- related information in their registration statements and annual reports."
+   },
+   "source_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11091/rescission-of-climate-related-disclosure-rules",
+   "publication_date": "2026-06-03",
+   "supports": [
+    "policy mechanism",
+    "policy process status"
+   ]
+  },
+  {
+   "evidence_id": "xom-disc-e2",
+   "tier": "A",
+   "role": "supporting",
+   "doc_path": "data/raw/xom/fr/fr-2026-11091.txt",
+   "meta_path": "data/raw/xom/fr/fr-2026-11091.json.meta.json",
+   "doc_label": "Federal Register proposed rule 2026-11091, Rescission of Climate-Related Disclosure Rules",
+   "location": "DATES",
+   "span": {
+    "start": "Comments should be received on or before August 3, 2026",
+    "end": "Comments should be received on or before August 3, 2026"
+   },
+   "source_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11091/rescission-of-climate-related-disclosure-rules",
+   "publication_date": "2026-06-03",
+   "supports": [
+    "time horizon"
+   ]
+  },
+  {
+   "evidence_id": "xom-disc-e3",
+   "tier": "B",
+   "role": "supporting",
+   "doc_path": "data/raw/xom/10k-000003408826000045.risk-factors.txt",
+   "meta_path": "data/raw/xom/10k-000003408826000045.html.meta.json",
+   "doc_label": "ExxonMobil FY2025 Form 10-K, Item 1A Risk Factors",
+   "location": "Item 1A",
+   "span": {
+    "start": "Current, pending, and potential greenhouse gas regulations or policies may also increase our compliance costs",
+    "end": "mandatory disclosure or due diligence requirements and government-mandated energy transition plans."
+   },
+   "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/0000034088-26-000045-index.htm",
+   "publication_date": "2026-02-18",
+   "supports": [
+    "business activity linkage",
+    "intervention type"
+   ]
+  }
+ ],
+ "assessment_version": "1.0.0",
+ "review": {
+  "status": "approved",
+  "consequential": false,
+  "second_reviewer_required": false,
+  "reviewers": [
+   {
+    "id": "demo-analyst",
+    "role": "primary",
+    "reviewed_at": "2026-09-11",
+    "notes": "Reviewed against retrieved source snapshots; every evidence span re-verified verbatim by the build gate at publish time."
+   }
   ],
-  "financial_linkage": {"level": "not-applicable", "detail": "Compliance-cost exposure only; no revenue linkage. Disclosure rules do not map to a revenue line.", "gap": "None material for this mechanism; litigation status of the original 2024 rule (8th Circuit consolidation) is not covered by a court connector."},
-  "dimensions": {"business_exposure": "Limited", "policy_process_status": "Proposal", "intervention_type": ["Disclosure", "Compliance"], "time_horizon": "Near term", "evidence_confidence": "High", "coverage": "Material gaps"},
-  "rationale": "On the emerging list because the operative fact is a proposed rescission, not a settled rulebook: the proposal trap applies in both directions (neither the 2024 rule's survival nor its rescission is certain). Business exposure is Limited - this changes reporting obligations, not operations. The original rule's court challenge is disclosed territory but outside current connector coverage, hence Material gaps.",
-  "gaps": ["No court connector for the consolidated litigation over the 2024 climate disclosure rule.", "State and foreign disclosure regimes (California SB 253/261, EU CSRD) are not yet connected and may bind XOM regardless of the SEC outcome."],
-  "evidence": [
-    {"evidence_id": "xom-disc-e1", "tier": "A", "role": "supporting", "doc_path": "data/raw/xom/fr/fr-2026-11091.txt", "meta_path": "data/raw/xom/fr/fr-2026-11091.json.meta.json", "doc_label": "Federal Register proposed rule 2026-11091, Rescission of Climate-Related Disclosure Rules", "location": "SUMMARY", "span": {"start": "The Securities and Exchange Commission (``Commission'') proposes to rescind amendments to its rules", "end": "climate- related information in their registration statements and annual reports."}, "source_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11091/rescission-of-climate-related-disclosure-rules", "publication_date": "2026-06-03", "supports": ["policy mechanism", "policy process status"]},
-    {"evidence_id": "xom-disc-e2", "tier": "A", "role": "supporting", "doc_path": "data/raw/xom/fr/fr-2026-11091.txt", "meta_path": "data/raw/xom/fr/fr-2026-11091.json.meta.json", "doc_label": "Federal Register proposed rule 2026-11091, Rescission of Climate-Related Disclosure Rules", "location": "DATES", "span": {"start": "Comments should be received on or before August 3, 2026", "end": "Comments should be received on or before August 3, 2026"}, "source_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11091/rescission-of-climate-related-disclosure-rules", "publication_date": "2026-06-03", "supports": ["time horizon"]},
-    {"evidence_id": "xom-disc-e3", "tier": "B", "role": "supporting", "doc_path": "data/raw/xom/10k-000003408826000045.risk-factors.txt", "meta_path": "data/raw/xom/10k-000003408826000045.html.meta.json", "doc_label": "ExxonMobil FY2025 Form 10-K, Item 1A Risk Factors", "location": "Item 1A", "span": {"start": "Current, pending, and potential greenhouse gas regulations or policies may also increase our compliance costs", "end": "mandatory disclosure or due diligence requirements and government-mandated energy transition plans."}, "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/0000034088-26-000045-index.htm", "publication_date": "2026-02-18", "supports": ["business activity linkage", "intervention type"]}
+  "history": [
+   {
+    "at": "2026-09-11",
+    "reviewer": "demo-analyst",
+    "action": "created",
+    "reason": "Initial assessment built from retrieved official sources; spans machine-validated at build."
+   }
   ]
+ }
 }

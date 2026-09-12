@@ -52,6 +52,18 @@ def main():
         if not fn.endswith(".json"): continue
         with open(os.path.join(ROOT, "data/cases", fn)) as f:
             case = json.load(f)
+        rv = case.get("review")
+        if not rv or rv.get("status") not in ("approved", "pending_second_review") or not rv.get("reviewers") or not rv.get("history"):
+            raise SystemExit(f"REVIEW GATE FAIL {case['case_id']}: missing or invalid review record (REVIEW.md)")
+        cons = (case["dimensions"]["business_exposure"] == "Core"
+                or case["dimensions"]["policy_process_status"] in ("Adopted or adjudicated", "Implementation")
+                or "Structural" in case["dimensions"]["intervention_type"])
+        if cons != rv.get("consequential"):
+            raise SystemExit(f"REVIEW GATE FAIL {case['case_id']}: consequential flag {rv.get('consequential')} disagrees with dimensions")
+        if cons and rv["status"] == "approved" and len(rv["reviewers"]) < 2:
+            raise SystemExit(f"REVIEW GATE FAIL {case['case_id']}: consequential case cannot be approved on one reviewer")
+        if not case.get("assessment_version"):
+            raise SystemExit(f"REVIEW GATE FAIL {case['case_id']}: missing assessment_version")
         case["evidence"] = [resolve_span(ev) for ev in case["evidence"]]
         n_spans += len(case["evidence"])
         cases.append(case)
@@ -67,9 +79,23 @@ def main():
             item["current_span"] = resolve_span(ev)
         n_spans += len(changes["items"])
 
+    candidates = None
+    cand_path = os.path.join(ROOT, "data/candidates.json")
+    if os.path.exists(cand_path):
+        with open(cand_path) as f:
+            candidates = json.load(f)
+        for item in candidates["items"]:
+            sp = item["span"]
+            ev = {k: sp[k] for k in ("doc_path", "meta_path", "doc_label", "location", "tier", "publication_date")}
+            ev["span"] = {"start": sp["start"], "end": sp["end"]}
+            ev.update({"evidence_id": item["candidate_id"] + "-span", "role": "candidate",
+                       "supports": ["candidate passage - unreviewed"]})
+            item["span"] = resolve_span(ev)
+        n_spans += len(candidates["items"])
+
     payload = {
-        "system": "Open Policy Exposure - evidence-first demo (Stage 2 slice)",
-        "assessment_version": "v0.1.0",
+        "system": "Open Policy Exposure - evidence-first demo (Stage 2-4 slice)",
+        "assessment_version": "v0.2.0",
         "extractor": "analyst-authored cases; spans machine-validated against immutable snapshots",
         "source_registry": [
             {"source": "SEC EDGAR submissions + filing documents + XBRL companyfacts", "tier": "B", "access": "unauthenticated JSON APIs", "cadence": "event-driven + daily reconciliation"},
@@ -86,8 +112,14 @@ def main():
             "coverage": ["Sufficient", "Material gaps", "Insufficient"],
         },
         "companies": companies,
+        "review_policy": {
+            "summary": "Expert review is part of the system (paper section 7). Consequential cases (Core exposure, Adopted/Implementation status, or Structural intervention) require a second reviewer; until one reviews them they show as pending second review. See REVIEW.md.",
+            "consequential_rule": "business_exposure=Core OR policy_process_status in (Adopted or adjudicated, Implementation) OR intervention_type includes Structural",
+            "statuses": ["approved", "pending_second_review"],
+        },
         "cases": cases,
         "changes": changes,
+        "candidates": candidates,
     }
     os.makedirs(os.path.join(ROOT, "docs"), exist_ok=True)
     with open(os.path.join(ROOT, "docs", "data.json"), "w") as f:

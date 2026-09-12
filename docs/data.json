@@ -1,6 +1,6 @@
 {
- "system": "Open Policy Exposure - evidence-first demo (Stage 2 slice)",
- "assessment_version": "v0.1.0",
+ "system": "Open Policy Exposure - evidence-first demo (Stage 2-4 slice)",
+ "assessment_version": "v0.2.0",
  "extractor": "analyst-authored cases; spans machine-validated against immutable snapshots",
  "source_registry": [
   {
@@ -150,6 +150,14 @@
    ]
   }
  ],
+ "review_policy": {
+  "summary": "Expert review is part of the system (paper section 7). Consequential cases (Core exposure, Adopted/Implementation status, or Structural intervention) require a second reviewer; until one reviews them they show as pending second review. See REVIEW.md.",
+  "consequential_rule": "business_exposure=Core OR policy_process_status in (Adopted or adjudicated, Implementation) OR intervention_type includes Structural",
+  "statuses": [
+   "approved",
+   "pending_second_review"
+  ]
+ },
  "cases": [
   {
    "case_id": "meta-coppa",
@@ -294,7 +302,29 @@
       "intervention type"
      ]
     }
-   ]
+   ],
+   "assessment_version": "1.0.0",
+   "review": {
+    "status": "pending_second_review",
+    "consequential": true,
+    "second_reviewer_required": true,
+    "reviewers": [
+     {
+      "id": "demo-analyst",
+      "role": "primary",
+      "reviewed_at": "2026-09-11",
+      "notes": "Reviewed against retrieved source snapshots; every evidence span re-verified verbatim by the build gate at publish time."
+     }
+    ],
+    "history": [
+     {
+      "at": "2026-09-11",
+      "reviewer": "demo-analyst",
+      "action": "created",
+      "reason": "Initial assessment built from retrieved official sources; spans machine-validated at build."
+     }
+    ]
+   }
   },
   {
    "case_id": "meta-ftc-antitrust",
@@ -421,7 +451,29 @@
       "precedent for structural remedy"
      ]
     }
-   ]
+   ],
+   "assessment_version": "1.0.0",
+   "review": {
+    "status": "pending_second_review",
+    "consequential": true,
+    "second_reviewer_required": true,
+    "reviewers": [
+     {
+      "id": "demo-analyst",
+      "role": "primary",
+      "reviewed_at": "2026-09-11",
+      "notes": "Reviewed against retrieved source snapshots; every evidence span re-verified verbatim by the build gate at publish time."
+     }
+    ],
+    "history": [
+     {
+      "at": "2026-09-11",
+      "reviewer": "demo-analyst",
+      "action": "created",
+      "reason": "Initial assessment built from retrieved official sources; spans machine-validated at build."
+     }
+    ]
+   }
   },
   {
    "case_id": "meta-kosa",
@@ -563,7 +615,29 @@
      ]
     }
    ],
-   "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution)."
+   "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution).",
+   "assessment_version": "1.0.0",
+   "review": {
+    "status": "approved",
+    "consequential": false,
+    "second_reviewer_required": false,
+    "reviewers": [
+     {
+      "id": "demo-analyst",
+      "role": "primary",
+      "reviewed_at": "2026-09-11",
+      "notes": "Reviewed against retrieved source snapshots; every evidence span re-verified verbatim by the build gate at publish time."
+     }
+    ],
+    "history": [
+     {
+      "at": "2026-09-11",
+      "reviewer": "demo-analyst",
+      "action": "created",
+      "reason": "Initial assessment built from retrieved official sources; spans machine-validated at build."
+     }
+    ]
+   }
   },
   {
    "case_id": "uber-av-framework",
@@ -697,7 +771,29 @@
       "limiting consideration"
      ]
     }
-   ]
+   ],
+   "assessment_version": "1.0.0",
+   "review": {
+    "status": "approved",
+    "consequential": false,
+    "second_reviewer_required": false,
+    "reviewers": [
+     {
+      "id": "demo-analyst",
+      "role": "primary",
+      "reviewed_at": "2026-09-11",
+      "notes": "Reviewed against retrieved source snapshots; every evidence span re-verified verbatim by the build gate at publish time."
+     }
+    ],
+    "history": [
+     {
+      "at": "2026-09-11",
+      "reviewer": "demo-analyst",
+      "action": "created",
+      "reason": "Initial assessment built from retrieved official sources; spans machine-validated at build."
+     }
+    ]
+   }
   },
   {
    "case_id": "uber-driver-classification",
@@ -897,7 +993,29 @@
      ]
     }
    ],
-   "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution)."
+   "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution).",
+   "assessment_version": "1.0.0",
+   "review": {
+    "status": "pending_second_review",
+    "consequential": true,
+    "second_reviewer_required": true,
+    "reviewers": [
+     {
+      "id": "demo-analyst",
+      "role": "primary",
+      "reviewed_at": "2026-09-11",
+      "notes": "Reviewed against retrieved source snapshots; every evidence span re-verified verbatim by the build gate at publish time."
+     }
+    ],
+    "history": [
+     {
+      "at": "2026-09-11",
+      "reviewer": "demo-analyst",
+      "action": "created",
+      "reason": "Initial assessment built from retrieved official sources; spans machine-validated at build."
+     }
+    ]
+   }
   },
   {
    "case_id": "xom-climate-disclosure",
@@ -1016,7 +1134,29 @@
       "intervention type"
      ]
     }
-   ]
+   ],
+   "assessment_version": "1.0.0",
+   "review": {
+    "status": "approved",
+    "consequential": false,
+    "second_reviewer_required": false,
+    "reviewers": [
+     {
+      "id": "demo-analyst",
+      "role": "primary",
+      "reviewed_at": "2026-09-11",
+      "notes": "Reviewed against retrieved source snapshots; every evidence span re-verified verbatim by the build gate at publish time."
+     }
+    ],
+    "history": [
+     {
+      "at": "2026-09-11",
+      "reviewer": "demo-analyst",
+      "action": "created",
+      "reason": "Initial assessment built from retrieved official sources; spans machine-validated at build."
+     }
+    ]
+   }
   },
   {
    "case_id": "xom-methane",
@@ -1206,7 +1346,29 @@
      ]
     }
    ],
-   "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution)."
+   "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution).",
+   "assessment_version": "1.0.0",
+   "review": {
+    "status": "pending_second_review",
+    "consequential": true,
+    "second_reviewer_required": true,
+    "reviewers": [
+     {
+      "id": "demo-analyst",
+      "role": "primary",
+      "reviewed_at": "2026-09-11",
+      "notes": "Reviewed against retrieved source snapshots; every evidence span re-verified verbatim by the build gate at publish time."
+     }
+    ],
+    "history": [
+     {
+      "at": "2026-09-11",
+      "reviewer": "demo-analyst",
+      "action": "created",
+      "reason": "Initial assessment built from retrieved official sources; spans machine-validated at build."
+     }
+    ]
+   }
   }
  ],
  "changes": {
@@ -1233,6 +1395,13 @@
      "retrieved_at": "2026-09-12T05:24:36Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": []
+    },
+    "change_type": "greater_specificity",
+    "review": {
+     "reviewed_by": "demo-analyst",
+     "status": "reviewed",
+     "at": "2026-09-11",
+     "note": "Classification applied after structural diff; diff artifacts (page numbers, footnote refs) discarded before classification."
     }
    },
    {
@@ -1255,6 +1424,13 @@
      "retrieved_at": "2026-09-12T05:24:36Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": []
+    },
+    "change_type": "new_signal",
+    "review": {
+     "reviewed_by": "demo-analyst",
+     "status": "reviewed",
+     "at": "2026-09-11",
+     "note": "Classification applied after structural diff; diff artifacts (page numbers, footnote refs) discarded before classification."
     }
    },
    {
@@ -1277,6 +1453,13 @@
      "retrieved_at": "2026-09-12T05:24:36Z",
      "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": []
+    },
+    "change_type": "new_authority",
+    "review": {
+     "reviewed_by": "demo-analyst",
+     "status": "reviewed",
+     "at": "2026-09-11",
+     "note": "Classification applied after structural diff; diff artifacts (page numbers, footnote refs) discarded before classification."
     }
    },
    {
@@ -1299,6 +1482,470 @@
      "retrieved_at": "2026-09-12T05:24:37Z",
      "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
      "supports": []
+    },
+    "change_type": "greater_specificity",
+    "review": {
+     "reviewed_by": "demo-analyst",
+     "status": "reviewed",
+     "at": "2026-09-11",
+     "note": "Classification applied after structural diff; diff artifacts (page numbers, footnote refs) discarded before classification."
+    }
+   }
+  ]
+ },
+ "candidates": {
+  "generated_at": "2026-09-11",
+  "extractor": "keyword-window v1 (deterministic regex over immutable snapshots)",
+  "note": "UNREVIEWED CANDIDATES - machine-surfaced passages awaiting human review per REVIEW.md. Not findings.",
+  "items": [
+   {
+    "candidate_id": "cand-meta-01",
+    "company_id": "meta",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "children and teen privacy / safety",
+     "platform regulation"
+    ],
+    "span": {
+     "evidence_id": "cand-meta-01-span",
+     "tier": "B",
+     "role": "candidate",
+     "doc_label": "SEC 10-K filing (10k-000132680125000017.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "On May 16, 2024, the European Commission opened formal proceedings assessing our compliance with certain requirements under Articles 28, 34, and 35 of the Digital Services Act (DSA), including the way in which we identified, assessed, and mitigated against certain systemic risks to minors and other vulnerable users that may stem from the design and functioning of Instagram and Facebook.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm",
+     "publication_date": "2025-01-30",
+     "retrieved_at": "2026-09-12T05:37:22Z",
+     "sha256": "931517fc551d51ced8c8348eb313f94a0baa931934eb6f189f432f5ece7e5ce1",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-meta-02",
+    "company_id": "meta",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "antitrust and competition",
+     "children and teen privacy / safety"
+    ],
+    "span": {
+     "evidence_id": "cand-meta-02-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2025-05904.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "S12787-04, S12787 (1998) (statement of Senator Bryan). \\203\\ See, e.g., FTC Press Release, FTC Announces Virtual Workshop on the Attention Economy: Monopolizing Kids' Time Online (Sept. 26, 2024), available at https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-virtual-workshop-attention-economy-monopolizing-kids-time-online. \\204\\ There may be circumstances where the collection of personal information for the purposes of increasing engagement could violate Sec. 312.7 of the COPPA Rule, where an operator conditions a child's participation in an activity on the collection of such information and such information is more than is reasonably necessary to participate in the activity.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T05:25:16Z",
+     "sha256": "7f58655437786cb1d6059541e9ae737ccef899bc3dc56739650c227f40b103b8",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-meta-03",
+    "company_id": "meta",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "platform regulation"
+    ],
+    "span": {
+     "evidence_id": "cand-meta-03-span",
+     "tier": "B",
+     "role": "candidate",
+     "doc_label": "SEC 10-K filing (10k-000132680125000017.risk-factors.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "For example, in March 2024, the European Commission opened formal proceedings regarding the compliance of our \"subscription for no ads\" model with requirements under the DMA, and it issued preliminary findings in July 2024, reflecting its preliminary view that our model does not comply with such requirements, and indicated that it will conclude its investigation in March 2025.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm",
+     "publication_date": "2025-01-30",
+     "retrieved_at": "2026-09-12T05:37:22Z",
+     "sha256": "931517fc551d51ced8c8348eb313f94a0baa931934eb6f189f432f5ece7e5ce1",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-meta-04",
+    "company_id": "meta",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "platform regulation"
+    ],
+    "span": {
+     "evidence_id": "cand-meta-04-span",
+     "tier": "B",
+     "role": "candidate",
+     "doc_label": "SEC 10-K filing (10k-000132680125000017.risk-factors.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "Further, the Digital Services Act (DSA), which started to apply to our business as of August 2023, imposes certain restrictions and requirements for our products and services, subjects us to increased compliance costs, and includes significant penalties for non-compliance.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm",
+     "publication_date": "2025-01-30",
+     "retrieved_at": "2026-09-12T05:37:22Z",
+     "sha256": "931517fc551d51ced8c8348eb313f94a0baa931934eb6f189f432f5ece7e5ce1",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-meta-05",
+    "company_id": "meta",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "platform regulation"
+    ],
+    "span": {
+     "evidence_id": "cand-meta-05-span",
+     "tier": "B",
+     "role": "candidate",
+     "doc_label": "SEC 10-K filing (10k-000132680125000017.risk-factors.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "DPF or regulators, courts, or legislative bodies determining that the legal bases we rely upon to transfer user data from the European Union to the United States are invalid; \u2022 there is decreased engagement with our products, decreased efficiency of our advertising products, or failure to accept our terms of service, as part of changes that we have implemented or may implement in the future, whether voluntarily, in connection with the GDPR, the European Union's ePrivacy Directive, the DMA, the DSA, the DMCC, U.S. state privacy laws including the California Consumer Privacy Act, as amended by the California Privacy Rights Act (CCPA), youth social media laws, or other laws, regulations, or regulatory actions, or otherwise; \u2022 technical or other problems prevent us from delivering our products in a rapid and reliable manner or otherwise affect the user experience, such as security breaches or failure to prevent or limit spam or otherwise objectionable content, or users feel their experience is diminished as a result of our efforts to protect the security and integrity of our platform; \u2022 we adopt terms, policies, or procedures related to areas such as sharing, content, user data, or advertising, or we take, or fail to take, actions to enforce our policies, that result in our removal of users from our platform or are perceived negatively by our users or the general public, including as a result of decisions or recommendations from the independent Oversight Board regarding conten...",
+     "truncated": true,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm",
+     "publication_date": "2025-01-30",
+     "retrieved_at": "2026-09-12T05:37:22Z",
+     "sha256": "931517fc551d51ced8c8348eb313f94a0baa931934eb6f189f432f5ece7e5ce1",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-uber-01",
+    "company_id": "uber",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "driver classification"
+    ],
+    "span": {
+     "evidence_id": "cand-uber-01-span",
+     "tier": "B",
+     "role": "candidate",
+     "doc_label": "SEC 10-K filing (10k-000154315125000008.risk-factors.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "Other examples of judicial decisions include a decision by the French Supreme Court that a driver for a third-party meal delivery service was under a \u201csubordinate relationship\u201d of the service, indicating an employment relationship, a decision by the French Supreme Court that reclassified an UberX Driver as an employee (which has been followed by inconsistent appellate decisions regarding employee status), decisions by several Swiss governmental bodies ruling that Drivers should be classified as employees for Swiss social security or regulatory purposes, a recent Spanish regulation of food delivery platforms that presumes employment status and a ruling in September 2021 by a Netherlands court that Mobility Drivers are employees within the meaning of the taxi collective bargaining agreement.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315125000008/uber-20241231.htm",
+     "publication_date": "2025-02-14",
+     "retrieved_at": "2026-09-12T05:37:23Z",
+     "sha256": "c1c29c670e0ebd62ba3ee4445cb8a52f7d5c3113b2073b10ee7a4fbafe3738cf",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-uber-02",
+    "company_id": "uber",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "driver classification"
+    ],
+    "span": {
+     "evidence_id": "cand-uber-02-span",
+     "tier": "B",
+     "role": "candidate",
+     "doc_label": "SEC 10-K filing (10k-000154315126000015.legal-proceedings.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "Other examples of judicial decisions include a decision by the French Supreme Court that a driver for a third-party meal delivery service was under a \u201csubordinate relationship\u201d of the service, indicating an employment relationship, decisions by the French Supreme Court in 2020 and 2023 that reclassified two UberX Drivers as employees (which were followed by inconsistent appellate decisions regarding employee status, and, in July 2025, by two French Supreme Court decisions analyzing Uber\u2019s more recent model that concluded that the Drivers were independent contractors), decisions by several Swiss governmental bodies ruling that Drivers should be classified as employees for Swiss social security or regulatory purposes, a recent Spanish regulation of food delivery platforms that presumes employment status and a ruling in September 2021 by a Netherlands court that Mobility Drivers are employees within the meaning of the taxi collective bargaining agreement.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
+     "publication_date": "2026-02-13",
+     "retrieved_at": "2026-09-12T05:24:36Z",
+     "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-uber-03",
+    "company_id": "uber",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "driver classification"
+    ],
+    "span": {
+     "evidence_id": "cand-uber-03-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2024-00067.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "  Federal Register, Volume 89 Issue 7 (Wednesday, January 10, 2024)   [Federal Register Volume 89, Number 7 (Wednesday, January 10, 2024)] [Rules and Regulations] [Pages 1638-1743] From the Federal Register Online via the Government Publishing Office [www.gpo.gov] [FR Doc No: 2024-00067] [[Page 1637]] Vol. 89 Wednesday, No. 7 January 10, 2024 Part II Department of Labor ----------------------------------------------------------------------- Wage and Hour Division ----------------------------------------------------------------------- 29 CFR Parts 780, 788, and 795 Employee or Independent Contractor Classification Under the Fair Labor Standards Act; Final Rule \u0000\u0000Federal Register / Vol. 89 , No. 7 / Wednesday, January 10, 2024 / Rules and Regulations\u0000\u0000 [[Page 1638]] ----------------------------------------------------------------------- DEPARTMENT OF LABOR Wage and Hour Division 29 CFR Parts 780, 788, and 795 RIN 1235-AA43 Employee or Independent Contractor Classification Under the Fair Labor Standards Act AGENCY: Wage and Hour Division, Department of Labor.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T05:25:17Z",
+     "sha256": "539fcc08cd6a6b277de2479a4b1dc36a90a4aedd6920af2f5d15e4395d0cc7ab",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-uber-04",
+    "company_id": "uber",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "driver classification"
+    ],
+    "span": {
+     "evidence_id": "cand-uber-04-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2024-00067.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "In January 2021, the Department published a rule titled ``Independent Contractor Status Under the Fair Labor Standards Act'' (2021 IC Rule), providing guidance on the classification of independent contractors under the FLSA applicable to workers and businesses in any industry.\\3\\ The 2021 IC Rule marked a departure from the consistent, longstanding adoption and application of the economic reality test by courts and the Department of how to determine whether a worker is an employee or an independent contractor under the FLSA.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T05:25:17Z",
+     "sha256": "539fcc08cd6a6b277de2479a4b1dc36a90a4aedd6920af2f5d15e4395d0cc7ab",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-uber-05",
+    "company_id": "uber",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "driver classification"
+    ],
+    "span": {
+     "evidence_id": "cand-uber-05-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2024-00067.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "Walsh''). --------------------------------------------------------------------------- On October 13, 2022, the Department published a Notice of Proposed Rulemaking (NPRM) regarding employee or independent contractor classification under the FLSA, proposing to rescind and replace the 2021 IC Rule.\\11\\ The Department explained in its proposal that upon further consideration, the Department believed that the 2021 IC Rule did not fully comport with the FLSA's text and purpose as interpreted by courts and departed from decades of case law applying the economic reality test.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T05:25:17Z",
+     "sha256": "539fcc08cd6a6b277de2479a4b1dc36a90a4aedd6920af2f5d15e4395d0cc7ab",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-uber-06",
+    "company_id": "uber",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "driver classification"
+    ],
+    "span": {
+     "evidence_id": "cand-uber-06-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2024-00067.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "The Department also explained in the NPRM that it believed the 2021 IC Rule's departure from the longstanding test applied by the courts could result in greater confusion among employers in applying the new analysis, which could place workers at greater risk of misclassification as independent contractors due to the new analysis being applied improperly, and thus could negatively affect both the workers and competing businesses that correctly classify their employees.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T05:25:17Z",
+     "sha256": "539fcc08cd6a6b277de2479a4b1dc36a90a4aedd6920af2f5d15e4395d0cc7ab",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-xom-01",
+    "company_id": "xom",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "climate disclosure",
+     "methane regulation"
+    ],
+    "span": {
+     "evidence_id": "cand-xom-01-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2024-26643.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "Environmental Protection Agency ET Eastern time FR Federal Register GHG greenhouse gas GHGRP Greenhouse Gas Reporting Program GWP Global Warming Potential IRA Inflation Reduction Act of 2022 ICR Information Collection Request LDC local distribution company LNG liquified natural gas mmBtu million British thermal units MMscf million standard cubic feet mt metric tons N2O nitrous oxide NAICS North American Industry Classification System NGLs natural gas liquids NSPS new source performance standards OMB Office of Management and Budget PRA Paperwork Reduction Act RFA Regulatory Flexibility Act RY reporting year scfh standard cubic feet per hour U.S.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T05:25:20Z",
+     "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-xom-02",
+    "company_id": "xom",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "climate disclosure",
+     "methane regulation"
+    ],
+    "span": {
+     "evidence_id": "cand-xom-02-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2024-26643.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "Oil and natural gas facilities are the nation's largest industrial source of methane, a greenhouse gas (GHG) that is 28 times more potent than carbon dioxide (CO2) and is responsible for approximately one third of all warming resulting from anthropogenic emissions of greenhouse gases.\\1\\ The three-part framework established by Congress in CAA section 136 addresses these emissions by: (1) directing the EPA to impose and collect a ``Waste Emissions Charge'' (WEC) on methane emissions from high-emitting and inefficient oil and gas operations; (2) directing the EPA to update subpart W of the Greenhouse Gas Reporting Program to ensure accurate reporting of methane emissions by oil and natural gas facilities that is based on empirical data; and (3) providing over $1 billion in financial and technical assistance to assist the industry, States, and communities in deploying methane mitigation and monitoring solutions.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T05:25:20Z",
+     "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-xom-03",
+    "company_id": "xom",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "climate disclosure",
+     "methane regulation"
+    ],
+    "span": {
+     "evidence_id": "cand-xom-03-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2024-26643.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "The WEC advances the reduction of methane emissions from the oil and gas sector by providing for sources covered under the CAA section 111 rules a set of emissions reduction incentives that are in effect until full implementation of oil and gas methane emissions standards promulgated by the EPA on March 8, 2024.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T05:25:20Z",
+     "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-xom-04",
+    "company_id": "xom",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "climate disclosure",
+     "methane regulation"
+    ],
+    "span": {
+     "evidence_id": "cand-xom-04-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2024-26643.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "The WEC program applies to applicable facilities that report more than 25,000 mt CO2e of greenhouse gases emitted per year pursuant to the Greenhouse Gas Reporting Rule's requirements for the petroleum and natural gas systems source category (codified as 40 CFR part 98, subpart W).\\2\\ An applicable facility, as defined in CAA section 136(d), is a facility within the following industry segments (as the following industry segments are defined in part 98, subpart W): onshore petroleum and natural gas production, offshore petroleum and natural gas production, onshore petroleum and natural gas gathering and boosting, onshore natural gas processing, onshore gas transmission compression, onshore natural gas transmission pipeline, underground natural gas storage, liquefied natural gas import and export equipment, and liquefied natural gas storage.\\3\\ --------------------------------------------------------------------------- \\2\\ 42 U.S.C. 7436(c) (``The Administrator shall impose and collect a charge on methane emissions that exceed an applicable waste emissions threshold under subsection (f) from an owner or operator of an applicable facility that reports more than 25,000 metric tons of carbon dioxide equivalent of greenhouse gases emitted per year pursuant to of part 98 of title 40, Code of Federal Regulations, regardless of the reporting threshold under that subpart.''). \\3\\ 42 U.S.C. 7436(d). --------------------------------------------------------------------------- CAA secti...",
+     "truncated": true,
+     "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T05:25:20Z",
+     "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-xom-05",
+    "company_id": "xom",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "climate disclosure",
+     "methane regulation"
+    ],
+    "span": {
+     "evidence_id": "cand-xom-05-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2024-26643.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "The first exemption, found in CAA section 136(f)(5), exempts from the charge [[Page 91097]] emissions occurring at facilities in the onshore or offshore petroleum and natural gas production industry segments that are caused by eligible delays in environmental permitting of gathering or transmission infrastructure.\\6\\ The second exemption, found in CAA section 136(f)(6), exempts from the charge, if certain conditions are met, those facilities that are subject to and in compliance with final methane emissions requirements promulgated pursuant to CAA sections 111(b) and (d).\\7\\ This exemption becomes available only if a determination is made by the Administrator that such final requirements are approved and in effect in all States with respect to the applicable facilities, and that the emissions reductions resulting from those final requirements will achieve equivalent or greater emission reductions as would have resulted from the EPA's methane emissions requirements proposed in 2021.\\8\\ The third exemption, found in CAA section 136(f)(7), exempts from the charge reporting year emissions from wells that are permanently shut in and plugged.\\9\\ --------------------------------------------------------------------------- \\6\\ 42 U.S.C. 7436(f)(5) (``Charges shall not be imposed pursuant to paragraph (1) on emissions that exceed the waste emissions threshold specified in such paragraph if such emissions are caused by unreasonable delay, as determined by the Administrator, in enviro...",
+     "truncated": true,
+     "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T05:25:20Z",
+     "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-xom-06",
+    "company_id": "xom",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "climate disclosure",
+     "methane regulation"
+    ],
+    "span": {
+     "evidence_id": "cand-xom-06-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2024-26643.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "The CAA section 111 2024 Final NSPS/EG as well as the financial and technical assistance the EPA is administering under section 136 of the CAA, are also expected to drive methane emission reductions that will help applicable facilities reduce or eliminate their WEC obligations.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T05:25:20Z",
+     "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
     }
    }
   ]

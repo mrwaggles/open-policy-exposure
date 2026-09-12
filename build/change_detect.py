@@ -9,10 +9,21 @@ PAIRS = {
  "uber": ("data/raw/uber/10k-000154315125000008.risk-factors.txt", "data/raw/uber/10k-000154315126000015.risk-factors.txt"),
  "xom":  ("data/raw/xom/10k-000003408825000010.risk-factors.txt", "data/raw/xom/10k-000003408826000045.risk-factors.txt"),
 }
+ARTIFACT=re.compile(r"^(Item\s+\d+[A-Z]?\.?|Table of Contents|Page\s+\d+|\d{1,3})$")
+def artifact(s):
+    if ARTIFACT.match(s.strip()): return True
+    return len(s)>0 and sum(c.isdigit() for c in s)/len(s)>0.4
+AUTH=re.compile(r"\b(FTC|SEC|EPA|DOJ|Congress|Commission|Act|Rule|court|statute|regulation)\b")
+NUM=re.compile(r"\$|%|\b\d{4}\b")
+def suggest(s):
+    if AUTH.search(s) and NUM.search(s): return "new_authority/quantitative"
+    if AUTH.search(s): return "new_authority"
+    if NUM.search(s): return "quantitative_shift"
+    return "narrative_update"
 def sentences(t):
     t=re.sub(r"\s+"," ",t)
     parts=re.split(r"(?<=[.!?])\s+(?=[A-Z(•\u2022])",t)
-    return [p.strip() for p in parts if len(p.strip())>60]
+    return [p.strip() for p in parts if len(p.strip())>60 and not artifact(p.strip())]
 def specificity(s):
     score=0
     if re.search(r"\$|\d{4}|%|\b\d+\b",s): score+=1
@@ -31,5 +42,5 @@ for co,(old,new) in PAIRS.items():
     added=sorted(set(added),key=lambda s:-specificity(s))[:12]
     removed=sorted(set(removed),key=lambda s:-specificity(s))[:6]
     print(f"\n##### {co}: +{len(added)} added (top by specificity), -{len(removed)} removed")
-    for s in added[:8]: print(f"  + {s[:180]}")
+    for s in added[:8]: print(f"  + [{suggest(s)}] {s[:160]}")
     for s in removed[:4]: print(f"  - {s[:150]}")

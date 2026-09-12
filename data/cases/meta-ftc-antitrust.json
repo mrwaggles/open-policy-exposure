@@ -1,32 +1,155 @@
 {
-  "case_id": "meta-ftc-antitrust",
-  "company_id": "meta",
-  "title": "FTC v. Meta structural antitrust litigation (Instagram / WhatsApp divestiture remedy sought)",
-  "issue_family": "competition",
-  "sub_issue": "monopolization enforcement, structural remedy",
-  "list": "current",
-  "business_activity": {"activity_id": "meta-foa", "name": "Instagram and WhatsApp within Family of Apps", "segment": "Family of Apps", "geography": "US"},
-  "jurisdiction": {"level": "US federal", "name": "United States (federal court, D.D.C.)"},
-  "authority": "Federal Trade Commission / US District Court for the District of Columbia",
-  "policy_mechanism": "Enforcement action with court remedy: permanent injunction and equitable relief including divestiture or reconstruction of Instagram and WhatsApp",
-  "mechanism_chain": [
-    {"text": "The FTC filed a complaint in December 2020 alleging anticompetitive conduct including the Instagram (2012) and WhatsApp (2014) acquisitions.", "type": "direct"},
-    {"text": "The complaint seeks equitable relief including divestiture or reconstruction of Instagram and WhatsApp.", "type": "direct"},
-    {"text": "A structural remedy would separate core revenue-generating products from Meta; the CMA-ordered Giphy divestiture in 2023 shows such remedies are executed in practice.", "type": "inferred"},
-    {"text": "Instagram-specific revenue is not disclosed, so the financial scale of a divestiture cannot be computed from public filings.", "type": "inferred"}
+ "case_id": "meta-ftc-antitrust",
+ "company_id": "meta",
+ "title": "FTC v. Meta structural antitrust litigation (Instagram / WhatsApp divestiture remedy sought)",
+ "issue_family": "competition",
+ "sub_issue": "monopolization enforcement, structural remedy",
+ "list": "current",
+ "business_activity": {
+  "activity_id": "meta-foa",
+  "name": "Instagram and WhatsApp within Family of Apps",
+  "segment": "Family of Apps",
+  "geography": "US"
+ },
+ "jurisdiction": {
+  "level": "US federal",
+  "name": "United States (federal court, D.D.C.)"
+ },
+ "authority": "Federal Trade Commission / US District Court for the District of Columbia",
+ "policy_mechanism": "Enforcement action with court remedy: permanent injunction and equitable relief including divestiture or reconstruction of Instagram and WhatsApp",
+ "mechanism_chain": [
+  {
+   "text": "The FTC filed a complaint in December 2020 alleging anticompetitive conduct including the Instagram (2012) and WhatsApp (2014) acquisitions.",
+   "type": "direct"
+  },
+  {
+   "text": "The complaint seeks equitable relief including divestiture or reconstruction of Instagram and WhatsApp.",
+   "type": "direct"
+  },
+  {
+   "text": "A structural remedy would separate core revenue-generating products from Meta; the CMA-ordered Giphy divestiture in 2023 shows such remedies are executed in practice.",
+   "type": "inferred"
+  },
+  {
+   "text": "Instagram-specific revenue is not disclosed, so the financial scale of a divestiture cannot be computed from public filings.",
+   "type": "inferred"
+  }
+ ],
+ "events": [
+  {
+   "date": "2020-12-09",
+   "description": "FTC files complaint in D.D.C. alleging Section 5 FTC Act / Section 2 Sherman Act violations",
+   "source_doc_id": "meta/10k-000162828026003942"
+  },
+  {
+   "date": "2023-01-01",
+   "description": "Precedent: Meta completes Giphy divestiture under UK CMA order",
+   "source_doc_id": "meta/10k-000162828026003942"
+  },
+  {
+   "date": "2026-01-29",
+   "description": "Meta FY2025 10-K continues to disclose the suit and the divestiture remedy sought",
+   "source_doc_id": "meta/10k-000162828026003942"
+  }
+ ],
+ "financial_linkage": {
+  "level": "unknown",
+  "detail": "Instagram and WhatsApp results are reported only within the Family of Apps segment; no product-level revenue is disclosed.",
+  "gap": "Cannot assign product-level exposure from consolidated or segment revenue - Unknown on the financial linkage ladder."
+ },
+ "dimensions": {
+  "business_exposure": "Core",
+  "policy_process_status": "Formal process",
+  "intervention_type": [
+   "Structural"
   ],
-  "events": [
-    {"date": "2020-12-09", "description": "FTC files complaint in D.D.C. alleging Section 5 FTC Act / Section 2 Sherman Act violations", "source_doc_id": "meta/10k-000162828026003942"},
-    {"date": "2023-01-01", "description": "Precedent: Meta completes Giphy divestiture under UK CMA order", "source_doc_id": "meta/10k-000162828026003942"},
-    {"date": "2026-01-29", "description": "Meta FY2025 10-K continues to disclose the suit and the divestiture remedy sought", "source_doc_id": "meta/10k-000162828026003942"}
+  "time_horizon": "Unclear",
+  "evidence_confidence": "High",
+  "coverage": "Material gaps"
+ },
+ "rationale": "The remedy sought strikes at core business assets, which makes business exposure Core by construction. But the case rests entirely on company disclosure of the litigation; no court-docket connector exists in this build, so current procedural posture (post-trial status, remedy phase) is a material coverage gap. No outcome probability is claimed.",
+ "gaps": [
+  "No court docket connector (PACER/D.D.C.) - the current litigation posture cannot be independently verified in this build.",
+  "Remedy scope and timing unknown; time horizon is Unclear by design."
+ ],
+ "evidence": [
+  {
+   "evidence_id": "meta-ftc-e1",
+   "tier": "B",
+   "role": "supporting",
+   "doc_path": "data/raw/meta/10k-000162828026003942.legal-proceedings.txt",
+   "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json",
+   "doc_label": "Meta FY2025 Form 10-K, Item 3 Legal Proceedings",
+   "location": "Item 3",
+   "span": {
+    "start": "On December 9, 2020, the FTC filed a complaint",
+    "end": "maintaining conditions on access to our platform."
+   },
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm",
+   "publication_date": "2026-01-29",
+   "supports": [
+    "policy mechanism",
+    "authority"
+   ]
+  },
+  {
+   "evidence_id": "meta-ftc-e2",
+   "tier": "B",
+   "role": "supporting",
+   "doc_path": "data/raw/meta/10k-000162828026003942.legal-proceedings.txt",
+   "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json",
+   "doc_label": "Meta FY2025 Form 10-K, Item 3 Legal Proceedings",
+   "location": "Item 3",
+   "span": {
+    "start": "The complaint seeks a permanent injunction",
+    "end": "including divestiture or reconstruction of Instagram and WhatsApp."
+   },
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm",
+   "publication_date": "2026-01-29",
+   "supports": [
+    "intervention type",
+    "business exposure"
+   ]
+  },
+  {
+   "evidence_id": "meta-ftc-e3",
+   "tier": "B",
+   "role": "limiting",
+   "doc_path": "data/raw/meta/10k-000162828026003942.legal-proceedings.txt",
+   "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json",
+   "doc_label": "Meta FY2025 Form 10-K, Item 3 Legal Proceedings",
+   "location": "Item 3",
+   "span": {
+    "start": "we completed our divestiture of Giphy in 2023",
+    "end": "directing us to divest Giphy post-acquisition."
+   },
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm",
+   "publication_date": "2026-01-29",
+   "supports": [
+    "precedent for structural remedy"
+   ]
+  }
+ ],
+ "assessment_version": "1.0.0",
+ "review": {
+  "status": "pending_second_review",
+  "consequential": true,
+  "second_reviewer_required": true,
+  "reviewers": [
+   {
+    "id": "demo-analyst",
+    "role": "primary",
+    "reviewed_at": "2026-09-11",
+    "notes": "Reviewed against retrieved source snapshots; every evidence span re-verified verbatim by the build gate at publish time."
+   }
   ],
-  "financial_linkage": {"level": "unknown", "detail": "Instagram and WhatsApp results are reported only within the Family of Apps segment; no product-level revenue is disclosed.", "gap": "Cannot assign product-level exposure from consolidated or segment revenue - Unknown on the financial linkage ladder."},
-  "dimensions": {"business_exposure": "Core", "policy_process_status": "Formal process", "intervention_type": ["Structural"], "time_horizon": "Unclear", "evidence_confidence": "High", "coverage": "Material gaps"},
-  "rationale": "The remedy sought strikes at core business assets, which makes business exposure Core by construction. But the case rests entirely on company disclosure of the litigation; no court-docket connector exists in this build, so current procedural posture (post-trial status, remedy phase) is a material coverage gap. No outcome probability is claimed.",
-  "gaps": ["No court docket connector (PACER/D.D.C.) - the current litigation posture cannot be independently verified in this build.", "Remedy scope and timing unknown; time horizon is Unclear by design."],
-  "evidence": [
-    {"evidence_id": "meta-ftc-e1", "tier": "B", "role": "supporting", "doc_path": "data/raw/meta/10k-000162828026003942.legal-proceedings.txt", "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json", "doc_label": "Meta FY2025 Form 10-K, Item 3 Legal Proceedings", "location": "Item 3", "span": {"start": "On December 9, 2020, the FTC filed a complaint", "end": "maintaining conditions on access to our platform."}, "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm", "publication_date": "2026-01-29", "supports": ["policy mechanism", "authority"]},
-    {"evidence_id": "meta-ftc-e2", "tier": "B", "role": "supporting", "doc_path": "data/raw/meta/10k-000162828026003942.legal-proceedings.txt", "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json", "doc_label": "Meta FY2025 Form 10-K, Item 3 Legal Proceedings", "location": "Item 3", "span": {"start": "The complaint seeks a permanent injunction", "end": "including divestiture or reconstruction of Instagram and WhatsApp."}, "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm", "publication_date": "2026-01-29", "supports": ["intervention type", "business exposure"]},
-    {"evidence_id": "meta-ftc-e3", "tier": "B", "role": "limiting", "doc_path": "data/raw/meta/10k-000162828026003942.legal-proceedings.txt", "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json", "doc_label": "Meta FY2025 Form 10-K, Item 3 Legal Proceedings", "location": "Item 3", "span": {"start": "we completed our divestiture of Giphy in 2023", "end": "directing us to divest Giphy post-acquisition."}, "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm", "publication_date": "2026-01-29", "supports": ["precedent for structural remedy"]}
+  "history": [
+   {
+    "at": "2026-09-11",
+    "reviewer": "demo-analyst",
+    "action": "created",
+    "reason": "Initial assessment built from retrieved official sources; spans machine-validated at build."
+   }
   ]
+ }
 }

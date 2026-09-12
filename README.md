@@ -96,3 +96,23 @@ citation-exactness discipline enforced as a build gate.
 
 Retrieved: 11 September 2026 (US Pacific). All documents are public records.
 Not investment, legal, or policy advice.
+
+## Review workflow and candidates (Stage 3-4 slice)
+
+- `REVIEW.md` - reviewer guidance: consequential-case rule, category edge cases
+  from the paper's red-team list, candidate triage workflow.
+- Every case carries `assessment_version` and a `review` block (reviewers,
+  status, append-only history). The build gate refuses to publish a case with a
+  missing or inconsistent review record, and a consequential case (Core
+  exposure, Adopted/Implementation status, or Structural intervention) cannot
+  publish as approved on a single reviewer - those show "needs 2nd review" in
+  the UI instead of faking a second human.
+- `build/extract_candidates.py` - deterministic keyword-window extractor that
+  scans the immutable snapshots and emits `data/candidates.json`: unreviewed
+  candidate passages with confidence and issue hints. Candidates are verified
+  verbatim by the same build gate but are never shown as findings - they render
+  in a separate, clearly labeled candidate queue per company.
+- `build/change_detect.py` - structural 10-K diffs with artifact suppression
+  (page numbers, TOCs) and advisory classification suggestions; the published
+  `data/changes.json` classifications are human review decisions with review
+  records.

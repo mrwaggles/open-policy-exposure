@@ -1,33 +1,175 @@
 {
-  "case_id": "meta-coppa",
-  "company_id": "meta",
-  "title": "Children's online privacy regulation (COPPA amended rule)",
-  "issue_family": "privacy and data",
-  "sub_issue": "children's online privacy (US federal)",
-  "list": "current",
-  "business_activity": {"activity_id": "meta-foa", "name": "Family of Apps services used by minors", "segment": "Family of Apps", "geography": "US"},
-  "jurisdiction": {"level": "US federal", "name": "United States (federal)"},
-  "authority": "Federal Trade Commission",
-  "policy_mechanism": "Product requirement and compliance rule: amended COPPA Rule (16 CFR 312) tightening consent, data retention, and safe-harbor obligations for online services directed at children",
-  "mechanism_chain": [
-    {"text": "The FTC amended the COPPA Rule with an effective date of June 23, 2025 and a compliance date of April 22, 2026 for most provisions.", "type": "direct"},
-    {"text": "The amended rule could require changes to how Meta's services handle users under 13 and how parental consent and data retention operate, which could alter product design and data practices in Family of Apps.", "type": "inferred"},
-    {"text": "The scale depends on how many Meta users are children covered by COPPA and on enforcement posture; Meta does not disclose minor-user revenue, so product-level financial exposure is unknown.", "type": "inferred"}
+ "case_id": "meta-coppa",
+ "company_id": "meta",
+ "title": "Children's online privacy regulation (COPPA amended rule)",
+ "issue_family": "privacy and data",
+ "sub_issue": "children's online privacy (US federal)",
+ "list": "current",
+ "business_activity": {
+  "activity_id": "meta-foa",
+  "name": "Family of Apps services used by minors",
+  "segment": "Family of Apps",
+  "geography": "US"
+ },
+ "jurisdiction": {
+  "level": "US federal",
+  "name": "United States (federal)"
+ },
+ "authority": "Federal Trade Commission",
+ "policy_mechanism": "Product requirement and compliance rule: amended COPPA Rule (16 CFR 312) tightening consent, data retention, and safe-harbor obligations for online services directed at children",
+ "mechanism_chain": [
+  {
+   "text": "The FTC amended the COPPA Rule with an effective date of June 23, 2025 and a compliance date of April 22, 2026 for most provisions.",
+   "type": "direct"
+  },
+  {
+   "text": "The amended rule could require changes to how Meta's services handle users under 13 and how parental consent and data retention operate, which could alter product design and data practices in Family of Apps.",
+   "type": "inferred"
+  },
+  {
+   "text": "The scale depends on how many Meta users are children covered by COPPA and on enforcement posture; Meta does not disclose minor-user revenue, so product-level financial exposure is unknown.",
+   "type": "inferred"
+  }
+ ],
+ "events": [
+  {
+   "date": "2025-04-22",
+   "description": "FTC publishes amended COPPA Rule in the Federal Register (90 FR, final rule)",
+   "source_doc_id": "meta/fr-2025-05904"
+  },
+  {
+   "date": "2025-06-23",
+   "description": "Amended rule effective",
+   "source_doc_id": "meta/fr-2025-05904"
+  },
+  {
+   "date": "2026-04-22",
+   "description": "General compliance date for regulated entities",
+   "source_doc_id": "meta/fr-2025-05904"
+  },
+  {
+   "date": "2026-01-29",
+   "description": "Meta FY2025 10-K discloses an FTC proceeding alleging COPPA violations that 'seeks changes to our business'",
+   "source_doc_id": "meta/10k-000162828026003942"
+  }
+ ],
+ "financial_linkage": {
+  "level": "unknown",
+  "detail": "Consolidated FY2025 revenue $201.0B (XBRL, company-wide). No product-level or age-cohort revenue is disclosed.",
+  "gap": "Product-level exposure for minors cannot be derived from consolidated or segment revenue - labeled Unknown per the financial linkage ladder."
+ },
+ "dimensions": {
+  "business_exposure": "Meaningful",
+  "policy_process_status": "Implementation",
+  "intervention_type": [
+   "Compliance",
+   "Product design"
   ],
-  "events": [
-    {"date": "2025-04-22", "description": "FTC publishes amended COPPA Rule in the Federal Register (90 FR, final rule)", "source_doc_id": "meta/fr-2025-05904"},
-    {"date": "2025-06-23", "description": "Amended rule effective", "source_doc_id": "meta/fr-2025-05904"},
-    {"date": "2026-04-22", "description": "General compliance date for regulated entities", "source_doc_id": "meta/fr-2025-05904"},
-    {"date": "2026-01-29", "description": "Meta FY2025 10-K discloses an FTC proceeding alleging COPPA violations that 'seeks changes to our business'", "source_doc_id": "meta/10k-000162828026003942"}
+  "time_horizon": "Current",
+  "evidence_confidence": "High",
+  "coverage": "Sufficient"
+ },
+ "rationale": "A final federal rule is past adoption and inside its compliance window, and Meta itself discloses a parallel FTC COPPA proceeding seeking business changes. Exposure is Meaningful rather than Core because the affected cohort (under-13 users) is a bounded subset of Family of Apps and Meta's own framing treats it as one of several regulatory pressures.",
+ "gaps": [
+  "State-level age-verification and parental-consent laws (disclosed by Meta for Arkansas, California, Colorado, Florida, New York, Texas, Utah) are not yet connected as sources - patchwork risk is asserted by the company but not independently verified here.",
+  "No FTC enforcement docket connector; the parallel proceeding is evidenced only by company disclosure."
+ ],
+ "evidence": [
+  {
+   "evidence_id": "meta-coppa-e1",
+   "tier": "A",
+   "role": "supporting",
+   "doc_path": "data/raw/meta/fr/fr-2025-05904.txt",
+   "meta_path": "data/raw/meta/fr/fr-2025-05904.json.meta.json",
+   "doc_label": "Federal Register final rule 2025-05904, Children's Online Privacy Protection Rule",
+   "location": "DATES section",
+   "span": {
+    "start": "Effective date: The amended Rule is effective June 23, 2025",
+    "end": "regulated entities have until April 22, 2026 to comply."
+   },
+   "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
+   "publication_date": "2025-04-22",
+   "supports": [
+    "policy process status",
+    "time horizon"
+   ]
+  },
+  {
+   "evidence_id": "meta-coppa-e2",
+   "tier": "A",
+   "role": "supporting",
+   "doc_path": "data/raw/meta/fr/fr-2025-05904.txt",
+   "meta_path": "data/raw/meta/fr/fr-2025-05904.json.meta.json",
+   "doc_label": "Federal Register final rule 2025-05904, Children's Online Privacy Protection Rule",
+   "location": "SUMMARY",
+   "span": {
+    "start": "The Federal Trade Commission amends the Children's Online Privacy Protection Rule",
+    "end": "updates to key provisions to respond to changes in technology and online practices."
+   },
+   "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
+   "publication_date": "2025-04-22",
+   "supports": [
+    "policy mechanism"
+   ]
+  },
+  {
+   "evidence_id": "meta-coppa-e3",
+   "tier": "B",
+   "role": "supporting",
+   "doc_path": "data/raw/meta/10k-000162828026003942.risk-factors.txt",
+   "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json",
+   "doc_label": "Meta FY2025 Form 10-K, Item 1A Risk Factors",
+   "location": "Item 1A",
+   "span": {
+    "start": "We are also subject to new legislation or regulatory decisions that restrict our ability to collect and use information about minors",
+    "end": "or our ability to offer products and services to minors in certain jurisdictions."
+   },
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm",
+   "publication_date": "2026-01-29",
+   "supports": [
+    "business activity linkage"
+   ]
+  },
+  {
+   "evidence_id": "meta-coppa-e4",
+   "tier": "B",
+   "role": "supporting",
+   "doc_path": "data/raw/meta/10k-000162828026003942.risk-factors.txt",
+   "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json",
+   "doc_label": "Meta FY2025 Form 10-K, Item 1A Risk Factors",
+   "location": "Item 1A",
+   "span": {
+    "start": "alleges deficient compliance and violations of the Children's Online Privacy Protection Act (COPPA), the COPPA Rule",
+    "end": "and seeks changes to our business."
+   },
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm",
+   "publication_date": "2026-01-29",
+   "supports": [
+    "enforcement context",
+    "intervention type"
+   ]
+  }
+ ],
+ "assessment_version": "1.0.0",
+ "review": {
+  "status": "pending_second_review",
+  "consequential": true,
+  "second_reviewer_required": true,
+  "reviewers": [
+   {
+    "id": "demo-analyst",
+    "role": "primary",
+    "reviewed_at": "2026-09-11",
+    "notes": "Reviewed against retrieved source snapshots; every evidence span re-verified verbatim by the build gate at publish time."
+   }
   ],
-  "financial_linkage": {"level": "unknown", "detail": "Consolidated FY2025 revenue $201.0B (XBRL, company-wide). No product-level or age-cohort revenue is disclosed.", "gap": "Product-level exposure for minors cannot be derived from consolidated or segment revenue - labeled Unknown per the financial linkage ladder."},
-  "dimensions": {"business_exposure": "Meaningful", "policy_process_status": "Implementation", "intervention_type": ["Compliance", "Product design"], "time_horizon": "Current", "evidence_confidence": "High", "coverage": "Sufficient"},
-  "rationale": "A final federal rule is past adoption and inside its compliance window, and Meta itself discloses a parallel FTC COPPA proceeding seeking business changes. Exposure is Meaningful rather than Core because the affected cohort (under-13 users) is a bounded subset of Family of Apps and Meta's own framing treats it as one of several regulatory pressures.",
-  "gaps": ["State-level age-verification and parental-consent laws (disclosed by Meta for Arkansas, California, Colorado, Florida, New York, Texas, Utah) are not yet connected as sources - patchwork risk is asserted by the company but not independently verified here.", "No FTC enforcement docket connector; the parallel proceeding is evidenced only by company disclosure."],
-  "evidence": [
-    {"evidence_id": "meta-coppa-e1", "tier": "A", "role": "supporting", "doc_path": "data/raw/meta/fr/fr-2025-05904.txt", "meta_path": "data/raw/meta/fr/fr-2025-05904.json.meta.json", "doc_label": "Federal Register final rule 2025-05904, Children's Online Privacy Protection Rule", "location": "DATES section", "span": {"start": "Effective date: The amended Rule is effective June 23, 2025", "end": "regulated entities have until April 22, 2026 to comply."}, "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule", "publication_date": "2025-04-22", "supports": ["policy process status", "time horizon"]},
-    {"evidence_id": "meta-coppa-e2", "tier": "A", "role": "supporting", "doc_path": "data/raw/meta/fr/fr-2025-05904.txt", "meta_path": "data/raw/meta/fr/fr-2025-05904.json.meta.json", "doc_label": "Federal Register final rule 2025-05904, Children's Online Privacy Protection Rule", "location": "SUMMARY", "span": {"start": "The Federal Trade Commission amends the Children's Online Privacy Protection Rule", "end": "updates to key provisions to respond to changes in technology and online practices."}, "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule", "publication_date": "2025-04-22", "supports": ["policy mechanism"]},
-    {"evidence_id": "meta-coppa-e3", "tier": "B", "role": "supporting", "doc_path": "data/raw/meta/10k-000162828026003942.risk-factors.txt", "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json", "doc_label": "Meta FY2025 Form 10-K, Item 1A Risk Factors", "location": "Item 1A", "span": {"start": "We are also subject to new legislation or regulatory decisions that restrict our ability to collect and use information about minors", "end": "or our ability to offer products and services to minors in certain jurisdictions."}, "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm", "publication_date": "2026-01-29", "supports": ["business activity linkage"]},
-    {"evidence_id": "meta-coppa-e4", "tier": "B", "role": "supporting", "doc_path": "data/raw/meta/10k-000162828026003942.risk-factors.txt", "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json", "doc_label": "Meta FY2025 Form 10-K, Item 1A Risk Factors", "location": "Item 1A", "span": {"start": "alleges deficient compliance and violations of the Children's Online Privacy Protection Act (COPPA), the COPPA Rule", "end": "and seeks changes to our business."}, "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm", "publication_date": "2026-01-29", "supports": ["enforcement context", "intervention type"]}
+  "history": [
+   {
+    "at": "2026-09-11",
+    "reviewer": "demo-analyst",
+    "action": "created",
+    "reason": "Initial assessment built from retrieved official sources; spans machine-validated at build."
+   }
   ]
+ }
 }
