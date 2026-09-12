@@ -1,0 +1,13 @@
+{
+  "doc_id": "uber/10k-000154315126000015",
+  "source": "SEC EDGAR",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
+  "retrieved_at": "2026-09-12T15:57:22Z",
+  "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
+  "bytes": 3177126,
+  "form": "10-K",
+  "accession": "0001543151-26-000015",
+  "filing_date": "2026-02-13",
+  "primary_document": "uber-20251231.htm",
+  "note": "Primary document bytes not stored in repo (size); sha256 recorded at retrieval. Parsed section .txt files are stored alongside."
+}

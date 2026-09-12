@@ -1,0 +1,224 @@
+{
+  "case_id": "pfe-medicare-negotiation",
+  "company_id": "pfe",
+  "title": "Medicare Drug Price Negotiation Program (IRA) - Ibrance maximum fair price",
+  "issue_family": "healthcare policy",
+  "sub_issue": "prescription drug price negotiation (US federal)",
+  "list": "current",
+  "business_activity": {
+    "activity_id": "pfe-medicare-portfolio",
+    "name": "Medicare Part D-covered prescription drugs, incl. Ibrance (palbociclib)",
+    "segment": "Biopharma",
+    "geography": "US"
+  },
+  "jurisdiction": {
+    "level": "US federal",
+    "name": "United States (federal)"
+  },
+  "authority": "Centers for Medicare & Medicaid Services (CMS), HHS",
+  "policy_mechanism": "Price setting: statutory negotiation program setting a maximum fair price (MFP) for selected Medicare Part D drugs; CMS publishes Ibrance (Pfizer Inc.) with an agreed negotiated price of $7,871 per 30-day supply effective January 1, 2027",
+  "mechanism_chain": [
+    {
+      "text": "The IRA Medicare Drug Price Negotiation Program is operating: CMS issued final guidance for the second cycle and signed agreements with the manufacturers of all 15 selected drugs, including Pfizer Inc. for Ibrance.",
+      "type": "direct"
+    },
+    {
+      "text": "CMS publishes an agreed negotiated price for Ibrance of $7,871 per 30-day supply for CY2027, a 50% discount from its 2024 list price of $15,741, effective January 1, 2027; Part D gross covered costs for Ibrance were $2.04B in CY2024 across 16,000 enrollees.",
+      "type": "direct"
+    },
+    {
+      "text": "The negotiated price directly reduces Pfizer's realized US revenue per Ibrance unit dispensed under Medicare Part D from 2027; total company impact depends on Ibrance's Part D volume versus other channels and on portfolio breadth, which retrieved sources do not quantify.",
+      "type": "inferred"
+    },
+    {
+      "text": "CMS is already drafting guidance for manufacturer effectuation of maximum fair prices in 2028, so further Pfizer products could be selected in later cycles; no later-cycle Pfizer selection is in retrieved sources.",
+      "type": "inferred"
+    }
+  ],
+  "events": [
+    {
+      "date": "2024-10-10",
+      "description": "CMS announces final guidance for the second cycle of the Medicare Drug Price Negotiation Program and manufacturer effectuation of the maximum fair price in 2026 and 2027",
+      "source_doc_id": "pfe/fr-2024-23418"
+    },
+    {
+      "date": "2025-01-17",
+      "description": "HHS announces 15 additional drugs selected for the second cycle of Medicare drug price negotiation; Ibrance is on the list",
+      "source_doc_id": "pfe/cms-second-cycle-selected-drugs"
+    },
+    {
+      "date": "2025-03-14",
+      "description": "CMS announces agreements signed with manufacturers of all 15 second-cycle drugs; table lists 'Ibrance | Pfizer Inc.'",
+      "source_doc_id": "pfe/cms-second-cycle-manufacturer-participation"
+    },
+    {
+      "date": "2027-01-01",
+      "description": "Negotiated maximum fair prices for second-cycle drugs take effect; CMS lists Ibrance at $7,871 per 30-day supply (50% below 2024 list)",
+      "source_doc_id": "pfe/cms-negotiated-prices-ipay-2027"
+    },
+    {
+      "date": "2026-07-20",
+      "description": "CMS publishes draft guidance for manufacturer effectuation of the maximum fair price in 2028; comments due September 18, 2026",
+      "source_doc_id": "pfe/fr-2026-14583"
+    }
+  ],
+  "financial_linkage": {
+    "level": "partial",
+    "detail": "CMS publishes Ibrance-specific figures: negotiated price $7,871 per 30-day supply (CY2027) vs $15,741 2024 list price (50% discount); $2,036,178,000 Part D gross covered prescription drug costs in CY2024; 16,000 Part D enrollees used the drug in CY2024. Consolidated FY2025 revenue $62.6B (SEC EDGAR XBRL us-gaap:Revenues, FY2025 10-K).",
+    "gap": "Part D gross covered cost is not Pfizer net revenue (rebates, channel mix, and non-Medicare sales are not in retrieved sources); Ibrance-level net impact cannot be computed from retrieved sources."
+  },
+  "dimensions": {
+    "business_exposure": "Meaningful",
+    "policy_process_status": "Implementation",
+    "intervention_type": [
+      "Price setting"
+    ],
+    "time_horizon": "Current",
+    "evidence_confidence": "High",
+    "coverage": "Material gaps"
+  },
+  "rationale": "This is a directly evidenced, product-level exposure: CMS names Pfizer Inc. as the participating manufacturer for Ibrance in the second negotiation cycle and publishes the agreed price, the 2024 list price, the discount, the Part D spend, and the enrollee count. Exposure is Meaningful rather than Core because the retrieved sources quantify one product's Medicare channel only; Pfizer's consolidated and segment revenue could not be retrieved (SEC EDGAR blocked from the build environment), so portfolio-level materiality is honestly unquantified.",
+  "gaps": [
+    "SEC EDGAR 10-K full text for Pfizer not yet snapshotted in this build - company risk-factor disclosure on the negotiation program is pending, not absent. (EDGAR reachable via browser fetch; submissions and revenue concept retrieved.)",
+    "Senate LDA lobbying filings are likewise blocked (HTTP 403) - Pfizer advocacy on the IRA is not covered in this build.",
+    "H.R.6166 (119th Congress, expanding drug price negotiation) identified but not yet retrieved - Congress.gov API rate-limited the build environment during this run.",
+    "EU Pharma Package (COM(2023) 131) retrieved as a candidate source for pfe-eu-pharma but not yet curated into a case."
+  ],
+  "evidence": [
+    {
+      "evidence_id": "pfe-medicare-negotiation-e1",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/pfe/cms/cms-second-cycle-manufacturer-participation.txt",
+      "meta_path": "data/raw/pfe/cms/cms-second-cycle-manufacturer-participation.txt.meta.json",
+      "doc_label": "CMS fact sheet, Manufacturer Participation in Second Cycle of Medicare Drug Price Negotiation",
+      "location": "lead paragraph",
+      "span": {
+        "start": "agreements have been signed with manufacturers of the 15 drugs covered under Medicare Part D selected for the second cycle",
+        "end": "initiates the negotiation period between the manufacturer and CMS."
+      },
+      "source_url": "https://www.cms.gov/newsroom/fact-sheets/cms-announces-manufacturer-participation-second-cycle-medicare-drug-price-negotiation",
+      "publication_date": "2025-03-14",
+      "supports": [
+        "policy process status",
+        "time horizon"
+      ]
+    },
+    {
+      "evidence_id": "pfe-medicare-negotiation-e2",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/pfe/cms/cms-second-cycle-manufacturer-participation.txt",
+      "meta_path": "data/raw/pfe/cms/cms-second-cycle-manufacturer-participation.txt.meta.json",
+      "doc_label": "CMS fact sheet, Manufacturer Participation in Second Cycle (drug-manufacturer table)",
+      "location": "Drug Name / Participating Manufacturer table",
+      "span": {
+        "start": "| Ibrance | Pfizer Inc. |",
+        "end": "| Ibrance | Pfizer Inc. |"
+      },
+      "source_url": "https://www.cms.gov/newsroom/fact-sheets/cms-announces-manufacturer-participation-second-cycle-medicare-drug-price-negotiation",
+      "publication_date": "2025-03-14",
+      "supports": [
+        "business exposure",
+        "policy mechanism"
+      ]
+    },
+    {
+      "evidence_id": "pfe-medicare-negotiation-e3",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/pfe/cms/cms-negotiated-prices-ipay-2027.txt",
+      "meta_path": "data/raw/pfe/cms/cms-negotiated-prices-ipay-2027.txt.meta.json",
+      "doc_label": "CMS fact sheet, Medicare Drug Price Negotiation Program: Negotiated Prices for Initial Price Applicability Year 2027",
+      "location": "negotiated prices table, Ibrance row",
+      "span": {
+        "start": "Ibrance Pfizer Inc. Breast cancer $7,871",
+        "end": "$2,036,178,000 16,000"
+      },
+      "source_url": "https://www.cms.gov/files/document/fact-sheet-negotiated-prices-ipay-2027.pdf",
+      "publication_date": null,
+      "supports": [
+        "policy mechanism",
+        "financial linkage"
+      ]
+    },
+    {
+      "evidence_id": "pfe-medicare-negotiation-e4",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/pfe/cms/cms-negotiated-prices-ipay-2027.txt",
+      "meta_path": "data/raw/pfe/cms/cms-negotiated-prices-ipay-2027.txt.meta.json",
+      "doc_label": "CMS fact sheet, Negotiated Prices for Initial Price Applicability Year 2027",
+      "location": "introduction",
+      "span": {
+        "start": "will go into effect beginning January 1, 2027",
+        "end": "based on negotiations and agreements reached between CMS and participating drug companies."
+      },
+      "source_url": "https://www.cms.gov/files/document/fact-sheet-negotiated-prices-ipay-2027.pdf",
+      "publication_date": null,
+      "supports": [
+        "time horizon",
+        "policy process status"
+      ]
+    },
+    {
+      "evidence_id": "pfe-medicare-negotiation-e5",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/pfe/fr/fr-2024-23418.txt",
+      "meta_path": "data/raw/pfe/fr/fr-2024-23418.json.meta.json",
+      "doc_label": "Federal Register notice 2024-23418, IRA Medicare Drug Price Negotiation Program Final Guidance",
+      "location": "SUMMARY",
+      "span": {
+        "start": "announcing the availability of CMS' final guidance for the second cycle of the Medicare Drug Price Negotiation Program",
+        "end": "maximum fair price in 2026 and 2027 for the implementation of the Inflation Reduction Act."
+      },
+      "source_url": "https://www.federalregister.gov/documents/2024/10/10/2024-23418/inflation-reduction-act-ira-medicare-drug-price-negotiation-program-final-guidance",
+      "publication_date": "2024-10-10",
+      "supports": [
+        "policy process status"
+      ]
+    },
+    {
+      "evidence_id": "pfe-medicare-negotiation-e6",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/pfe/fr/fr-2026-14583.txt",
+      "meta_path": "data/raw/pfe/fr/fr-2026-14583.json.meta.json",
+      "doc_label": "Federal Register notice 2026-14583, Medicare Drug Price Negotiation Program Draft Guidance; Comment Request",
+      "location": "SUMMARY / DATES",
+      "span": {
+        "start": "draft guidance for the Medicare Drug Price Negotiation Program regarding manufacturer effectuation of the maximum fair price in 2028",
+        "end": "for the implementation of the Inflation Reduction Act of 2022 (IRA) (Pub. L. 117-169)."
+      },
+      "source_url": "https://www.federalregister.gov/documents/2026/07/20/2026-14583/medicare-program-inflation-reduction-act-of-2022-ira-medicare-drug-price-negotiation-program-draft",
+      "publication_date": "2026-07-20",
+      "supports": [
+        "time horizon",
+        "policy process status"
+      ]
+    }
+  ],
+  "assessment_version": "1.0.0",
+  "review": {
+    "status": "pending_second_review",
+    "consequential": true,
+    "second_reviewer_required": true,
+    "reviewers": [
+      {
+        "id": "demo-analyst",
+        "role": "primary",
+        "reviewed_at": "2026-09-12",
+        "notes": "Reviewed against retrieved source snapshots; every evidence span re-verified verbatim by the build gate at publish time. Consequential (Implementation status) - held for a second human reviewer per REVIEW.md."
+      }
+    ],
+    "history": [
+      {
+        "at": "2026-09-12",
+        "reviewer": "demo-analyst",
+        "action": "created",
+        "reason": "Initial assessment built from retrieved official sources (CMS, Federal Register); spans machine-validated at build."
+      }
+    ]
+  }
+}

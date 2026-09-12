@@ -1,0 +1,8 @@
+{
+  "doc_id": "pfe/edgar-revenue",
+  "source": "SEC EDGAR XBRL companyconcept API",
+  "source_url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0000078003/us-gaap/Revenues.json",
+  "retrieved_at": "2026-09-12T15:58:34Z",
+  "sha256": "4e34a302d04a47dcb527d27d3ef5a90ac91b67fabbe71886c7d54598842581ee",
+  "bytes": 317
+}

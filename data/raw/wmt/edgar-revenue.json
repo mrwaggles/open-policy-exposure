@@ -1,0 +1,12 @@
+{
+  "concept": {
+    "tag": "us-gaap:Revenues",
+    "fy": 2026,
+    "start": "2025-02-01",
+    "end": "2026-01-31",
+    "val": 713163000000,
+    "accn": "0000104169-26-000055",
+    "filed": "2026-03-13"
+  },
+  "note": "Selected annual 10-K fact from the companyconcept API response; full response not stored (size)."
+}

@@ -154,6 +154,58 @@
      "financial_linkage": "Not applicable (compliance cost only)"
     }
    ]
+  },
+  {
+   "company_id": "pfe",
+   "name": "Pfizer Inc.",
+   "ticker": "PFE",
+   "cik": "0000078003",
+   "type": "US public company",
+   "structure": "Global biopharmaceutical company (primary care, specialty care, oncology)",
+   "fy2025_consolidated_revenue_usd": 62579000000,
+   "revenue_source": "SEC EDGAR XBRL companyconcept, us-gaap:Revenues, FY2025 10-K (period 2025-01-01 to 2025-12-31, filed 2026-02-26)",
+   "business_activities": [
+    {
+     "activity_id": "pfe-medicare-portfolio",
+     "name": "Medicare Part D-covered prescription drugs, incl. Ibrance (palbociclib)",
+     "segment": "Biopharma",
+     "geography": "US",
+     "financial_linkage": "Product-level Medicare exposure partially visible via CMS negotiated-price publication; company segment linkage pending SEC EDGAR"
+    },
+    {
+     "activity_id": "pfe-eu-pharma",
+     "name": "EU market authorization holder for prescription medicines",
+     "segment": "Biopharma",
+     "geography": "EU",
+     "financial_linkage": "Unknown (no jurisdiction-level disclosure in retrieved sources)"
+    }
+   ]
+  },
+  {
+   "company_id": "wmt",
+   "name": "Walmart Inc.",
+   "ticker": "WMT",
+   "cik": "0000104169",
+   "type": "US public company",
+   "structure": "Omnichannel retailer (Walmart U.S., Walmart International, Sam's Club)",
+   "fy2025_consolidated_revenue_usd": 713163000000,
+   "revenue_source": "SEC EDGAR XBRL companyconcept, us-gaap:Revenues, FY2026 10-K (period 2025-02-01 to 2026-01-31, filed 2026-03-13; Walmart fiscal year ends Jan 31)",
+   "business_activities": [
+    {
+     "activity_id": "wmt-us-retail-imports",
+     "name": "US retail sale of imported general merchandise and groceries",
+     "segment": "Walmart U.S.",
+     "geography": "US",
+     "financial_linkage": "Import-cost exposure to tariffs asserted at economy level; company import share not quantified in retrieved sources"
+    },
+    {
+     "activity_id": "wmt-us-workforce",
+     "name": "US hourly retail workforce",
+     "segment": "Walmart U.S.",
+     "geography": "US",
+     "financial_linkage": "Wage-policy exposure; company wage bill not quantified in retrieved sources"
+    }
+   ]
   }
  ],
  "review_policy": {
@@ -252,8 +304,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
      "publication_date": "2025-04-22",
-     "retrieved_at": "2026-09-12T05:25:16Z",
-     "sha256": "7f58655437786cb1d6059541e9ae737ccef899bc3dc56739650c227f40b103b8",
+     "retrieved_at": "2026-09-12T15:47:56Z",
+     "sha256": "71407a1f21e7a49c69ef72dc624fd10f7aae0106f477974be7d5feeb8cff230b",
      "supports": [
       "policy process status",
       "time horizon"
@@ -269,8 +321,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
      "publication_date": "2025-04-22",
-     "retrieved_at": "2026-09-12T05:25:16Z",
-     "sha256": "7f58655437786cb1d6059541e9ae737ccef899bc3dc56739650c227f40b103b8",
+     "retrieved_at": "2026-09-12T15:47:56Z",
+     "sha256": "71407a1f21e7a49c69ef72dc624fd10f7aae0106f477974be7d5feeb8cff230b",
      "supports": [
       "policy mechanism"
      ]
@@ -285,7 +337,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T05:24:36Z",
+     "retrieved_at": "2026-09-12T15:56:39Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "business activity linkage"
@@ -301,7 +353,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T05:24:36Z",
+     "retrieved_at": "2026-09-12T15:56:39Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "enforcement context",
@@ -417,7 +469,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T05:24:36Z",
+     "retrieved_at": "2026-09-12T15:56:39Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "policy mechanism",
@@ -434,7 +486,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T05:24:36Z",
+     "retrieved_at": "2026-09-12T15:56:39Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "intervention type",
@@ -451,7 +503,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T05:24:36Z",
+     "retrieved_at": "2026-09-12T15:56:39Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "precedent for structural remedy"
@@ -561,9 +613,9 @@
      "location": "CRS summary",
      "exact_text": "This bill requires covered online platforms, including social media platforms, to implement tools and safeguards to protect users and visitors under the age of 17",
      "truncated": false,
-     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+     "source_url": "https://api.congress.gov/v3/bill/119/s/1748/summaries",
      "publication_date": "2025-05-14",
-     "retrieved_at": "2026-09-12T05:32:28Z",
+     "retrieved_at": "2026-09-12T15:57:36Z",
      "sha256": "ed4c5b9e34f5146d3bad9279cb1084c123fd8c29a1922fa8f67c50b39c3a5bef",
      "supports": [
       "policy mechanism",
@@ -580,7 +632,7 @@
      "truncated": false,
      "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
      "publication_date": "2026-08-05",
-     "retrieved_at": "2026-09-12T05:32:07Z",
+     "retrieved_at": "2026-09-12T15:48:08Z",
      "sha256": "43f2b7a094e0deb4a067b606a13a45288bd05d216a724bcca75c573adb15f768",
      "supports": [
       "policy process status",
@@ -597,7 +649,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T05:24:36Z",
+     "retrieved_at": "2026-09-12T15:56:39Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "business activity linkage",
@@ -612,9 +664,9 @@
      "location": "lobbying activity description",
      "exact_text": "Discussions related to Artificial Intelligence (AI), uniform AI federal policy and state AI law preemption issues, S. 1748 Kids Online Safety Act",
      "truncated": false,
-     "source_url": "https://lda.gov/api/v1/filings/db20d2b9-e40a-4eff-893c-9aed03fda925/",
+     "source_url": "https://lda.senate.gov/api/v1/filings/db20d2b9-e40a-4eff-893c-9aed03fda925/",
      "publication_date": "2026-04-16T20:50:02-04:00",
-     "retrieved_at": "2026-09-12T05:35:30Z",
+     "retrieved_at": "2026-09-12T15:57:54Z",
      "sha256": "99540d05b308d0b3b64261776d35b67377feabe46f0686745ba8606da2bf891b",
      "supports": [
       "company advocacy position"
@@ -641,6 +693,218 @@
       "reviewer": "demo-analyst",
       "action": "created",
       "reason": "Initial assessment built from retrieved official sources; spans machine-validated at build."
+     }
+    ]
+   }
+  },
+  {
+   "case_id": "pfe-medicare-negotiation",
+   "company_id": "pfe",
+   "title": "Medicare Drug Price Negotiation Program (IRA) - Ibrance maximum fair price",
+   "issue_family": "healthcare policy",
+   "sub_issue": "prescription drug price negotiation (US federal)",
+   "list": "current",
+   "business_activity": {
+    "activity_id": "pfe-medicare-portfolio",
+    "name": "Medicare Part D-covered prescription drugs, incl. Ibrance (palbociclib)",
+    "segment": "Biopharma",
+    "geography": "US"
+   },
+   "jurisdiction": {
+    "level": "US federal",
+    "name": "United States (federal)"
+   },
+   "authority": "Centers for Medicare & Medicaid Services (CMS), HHS",
+   "policy_mechanism": "Price setting: statutory negotiation program setting a maximum fair price (MFP) for selected Medicare Part D drugs; CMS publishes Ibrance (Pfizer Inc.) with an agreed negotiated price of $7,871 per 30-day supply effective January 1, 2027",
+   "mechanism_chain": [
+    {
+     "text": "The IRA Medicare Drug Price Negotiation Program is operating: CMS issued final guidance for the second cycle and signed agreements with the manufacturers of all 15 selected drugs, including Pfizer Inc. for Ibrance.",
+     "type": "direct"
+    },
+    {
+     "text": "CMS publishes an agreed negotiated price for Ibrance of $7,871 per 30-day supply for CY2027, a 50% discount from its 2024 list price of $15,741, effective January 1, 2027; Part D gross covered costs for Ibrance were $2.04B in CY2024 across 16,000 enrollees.",
+     "type": "direct"
+    },
+    {
+     "text": "The negotiated price directly reduces Pfizer's realized US revenue per Ibrance unit dispensed under Medicare Part D from 2027; total company impact depends on Ibrance's Part D volume versus other channels and on portfolio breadth, which retrieved sources do not quantify.",
+     "type": "inferred"
+    },
+    {
+     "text": "CMS is already drafting guidance for manufacturer effectuation of maximum fair prices in 2028, so further Pfizer products could be selected in later cycles; no later-cycle Pfizer selection is in retrieved sources.",
+     "type": "inferred"
+    }
+   ],
+   "events": [
+    {
+     "date": "2024-10-10",
+     "description": "CMS announces final guidance for the second cycle of the Medicare Drug Price Negotiation Program and manufacturer effectuation of the maximum fair price in 2026 and 2027",
+     "source_doc_id": "pfe/fr-2024-23418"
+    },
+    {
+     "date": "2025-01-17",
+     "description": "HHS announces 15 additional drugs selected for the second cycle of Medicare drug price negotiation; Ibrance is on the list",
+     "source_doc_id": "pfe/cms-second-cycle-selected-drugs"
+    },
+    {
+     "date": "2025-03-14",
+     "description": "CMS announces agreements signed with manufacturers of all 15 second-cycle drugs; table lists 'Ibrance | Pfizer Inc.'",
+     "source_doc_id": "pfe/cms-second-cycle-manufacturer-participation"
+    },
+    {
+     "date": "2027-01-01",
+     "description": "Negotiated maximum fair prices for second-cycle drugs take effect; CMS lists Ibrance at $7,871 per 30-day supply (50% below 2024 list)",
+     "source_doc_id": "pfe/cms-negotiated-prices-ipay-2027"
+    },
+    {
+     "date": "2026-07-20",
+     "description": "CMS publishes draft guidance for manufacturer effectuation of the maximum fair price in 2028; comments due September 18, 2026",
+     "source_doc_id": "pfe/fr-2026-14583"
+    }
+   ],
+   "financial_linkage": {
+    "level": "partial",
+    "detail": "CMS publishes Ibrance-specific figures: negotiated price $7,871 per 30-day supply (CY2027) vs $15,741 2024 list price (50% discount); $2,036,178,000 Part D gross covered prescription drug costs in CY2024; 16,000 Part D enrollees used the drug in CY2024. Consolidated FY2025 revenue $62.6B (SEC EDGAR XBRL us-gaap:Revenues, FY2025 10-K).",
+    "gap": "Part D gross covered cost is not Pfizer net revenue (rebates, channel mix, and non-Medicare sales are not in retrieved sources); Ibrance-level net impact cannot be computed from retrieved sources."
+   },
+   "dimensions": {
+    "business_exposure": "Meaningful",
+    "policy_process_status": "Implementation",
+    "intervention_type": [
+     "Price setting"
+    ],
+    "time_horizon": "Current",
+    "evidence_confidence": "High",
+    "coverage": "Material gaps"
+   },
+   "rationale": "This is a directly evidenced, product-level exposure: CMS names Pfizer Inc. as the participating manufacturer for Ibrance in the second negotiation cycle and publishes the agreed price, the 2024 list price, the discount, the Part D spend, and the enrollee count. Exposure is Meaningful rather than Core because the retrieved sources quantify one product's Medicare channel only; Pfizer's consolidated and segment revenue could not be retrieved (SEC EDGAR blocked from the build environment), so portfolio-level materiality is honestly unquantified.",
+   "gaps": [
+    "SEC EDGAR 10-K full text for Pfizer not yet snapshotted in this build - company risk-factor disclosure on the negotiation program is pending, not absent. (EDGAR reachable via browser fetch; submissions and revenue concept retrieved.)",
+    "Senate LDA lobbying filings are likewise blocked (HTTP 403) - Pfizer advocacy on the IRA is not covered in this build.",
+    "H.R.6166 (119th Congress, expanding drug price negotiation) identified but not yet retrieved - Congress.gov API rate-limited the build environment during this run.",
+    "EU Pharma Package (COM(2023) 131) retrieved as a candidate source for pfe-eu-pharma but not yet curated into a case."
+   ],
+   "evidence": [
+    {
+     "evidence_id": "pfe-medicare-negotiation-e1",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "CMS fact sheet, Manufacturer Participation in Second Cycle of Medicare Drug Price Negotiation",
+     "location": "lead paragraph",
+     "exact_text": "agreements have been signed with manufacturers of the 15 drugs covered under Medicare Part D selected for the second cycle of the Medicare Drug Price Negotiation Program (Negotiation Program). This is an important step in the process which initiates the negotiation period between the manufacturer and CMS.",
+     "truncated": false,
+     "source_url": "https://www.cms.gov/newsroom/fact-sheets/cms-announces-manufacturer-participation-second-cycle-medicare-drug-price-negotiation",
+     "publication_date": "2025-03-14",
+     "retrieved_at": "2026-09-12T15:51:45Z",
+     "sha256": "de6b1e9b83b91ba396be0ce1a0b6acd0ac93db6cbf85824f9e7b3fced6a6e48a",
+     "supports": [
+      "policy process status",
+      "time horizon"
+     ]
+    },
+    {
+     "evidence_id": "pfe-medicare-negotiation-e2",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "CMS fact sheet, Manufacturer Participation in Second Cycle (drug-manufacturer table)",
+     "location": "Drug Name / Participating Manufacturer table",
+     "exact_text": "| Ibrance | Pfizer Inc. |",
+     "truncated": false,
+     "source_url": "https://www.cms.gov/newsroom/fact-sheets/cms-announces-manufacturer-participation-second-cycle-medicare-drug-price-negotiation",
+     "publication_date": "2025-03-14",
+     "retrieved_at": "2026-09-12T15:51:45Z",
+     "sha256": "de6b1e9b83b91ba396be0ce1a0b6acd0ac93db6cbf85824f9e7b3fced6a6e48a",
+     "supports": [
+      "business exposure",
+      "policy mechanism"
+     ]
+    },
+    {
+     "evidence_id": "pfe-medicare-negotiation-e3",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "CMS fact sheet, Medicare Drug Price Negotiation Program: Negotiated Prices for Initial Price Applicability Year 2027",
+     "location": "negotiated prices table, Ibrance row",
+     "exact_text": "Ibrance Pfizer Inc. Breast cancer $7,871 $15,741 50% $2,036,178,000 16,000",
+     "truncated": false,
+     "source_url": "https://www.cms.gov/files/document/fact-sheet-negotiated-prices-ipay-2027.pdf",
+     "publication_date": null,
+     "retrieved_at": "2026-09-12T15:52:32Z",
+     "sha256": "2f27be731c03e286ad32b58dedb5003a7521fb15c23e7df5f37ab736cec85873",
+     "supports": [
+      "policy mechanism",
+      "financial linkage"
+     ]
+    },
+    {
+     "evidence_id": "pfe-medicare-negotiation-e4",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "CMS fact sheet, Negotiated Prices for Initial Price Applicability Year 2027",
+     "location": "introduction",
+     "exact_text": "will go into effect beginning January 1, 2027, based on negotiations and agreements reached between CMS and participating drug companies.",
+     "truncated": false,
+     "source_url": "https://www.cms.gov/files/document/fact-sheet-negotiated-prices-ipay-2027.pdf",
+     "publication_date": null,
+     "retrieved_at": "2026-09-12T15:52:32Z",
+     "sha256": "2f27be731c03e286ad32b58dedb5003a7521fb15c23e7df5f37ab736cec85873",
+     "supports": [
+      "time horizon",
+      "policy process status"
+     ]
+    },
+    {
+     "evidence_id": "pfe-medicare-negotiation-e5",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register notice 2024-23418, IRA Medicare Drug Price Negotiation Program Final Guidance",
+     "location": "SUMMARY",
+     "exact_text": "announcing the availability of CMS' final guidance for the second cycle of the Medicare Drug Price Negotiation Program and manufacturer effectuation of the maximum fair price in 2026 and 2027 for the implementation of the Inflation Reduction Act.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2024/10/10/2024-23418/inflation-reduction-act-ira-medicare-drug-price-negotiation-program-final-guidance",
+     "publication_date": "2024-10-10",
+     "retrieved_at": "2026-09-12T15:48:05Z",
+     "sha256": "498daa49b41eaa0a4d00d7dafa64c92c0745e08dde44c86f81b4e339ee553d7d",
+     "supports": [
+      "policy process status"
+     ]
+    },
+    {
+     "evidence_id": "pfe-medicare-negotiation-e6",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register notice 2026-14583, Medicare Drug Price Negotiation Program Draft Guidance; Comment Request",
+     "location": "SUMMARY / DATES",
+     "exact_text": "draft guidance for the Medicare Drug Price Negotiation Program regarding manufacturer effectuation of the maximum fair price in 2028 for the implementation of the Inflation Reduction Act of 2022 (IRA) (Pub. L. 117-169).",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2026/07/20/2026-14583/medicare-program-inflation-reduction-act-of-2022-ira-medicare-drug-price-negotiation-program-draft",
+     "publication_date": "2026-07-20",
+     "retrieved_at": "2026-09-12T15:48:05Z",
+     "sha256": "02a05e1ba5b0eb70194da02bde67d4a4ae1b65c675623d8ab4909cb794c31ed3",
+     "supports": [
+      "time horizon",
+      "policy process status"
+     ]
+    }
+   ],
+   "assessment_version": "1.0.0",
+   "review": {
+    "status": "pending_second_review",
+    "consequential": true,
+    "second_reviewer_required": true,
+    "reviewers": [
+     {
+      "id": "demo-analyst",
+      "role": "primary",
+      "reviewed_at": "2026-09-12",
+      "notes": "Reviewed against retrieved source snapshots; every evidence span re-verified verbatim by the build gate at publish time. Consequential (Implementation status) - held for a second human reviewer per REVIEW.md."
+     }
+    ],
+    "history": [
+     {
+      "at": "2026-09-12",
+      "reviewer": "demo-analyst",
+      "action": "created",
+      "reason": "Initial assessment built from retrieved official sources (CMS, Federal Register); spans machine-validated at build."
      }
     ]
    }
@@ -721,8 +985,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance",
      "publication_date": "2026-07-31",
-     "retrieved_at": "2026-09-12T05:25:19Z",
-     "sha256": "090b8428779178959a03f9b032269042f717cb78ce057f238797e2626053b6c6",
+     "retrieved_at": "2026-09-12T15:47:59Z",
+     "sha256": "447e39332443903d55edde9b83379ed6d4e60026261fabd28b9eeb827d7f888d",
      "supports": [
       "policy mechanism",
       "policy process status"
@@ -738,8 +1002,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance",
      "publication_date": "2026-07-31",
-     "retrieved_at": "2026-09-12T05:25:19Z",
-     "sha256": "090b8428779178959a03f9b032269042f717cb78ce057f238797e2626053b6c6",
+     "retrieved_at": "2026-09-12T15:47:59Z",
+     "sha256": "447e39332443903d55edde9b83379ed6d4e60026261fabd28b9eeb827d7f888d",
      "supports": [
       "time horizon",
       "intervention type"
@@ -755,7 +1019,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
      "publication_date": "2026-02-13",
-     "retrieved_at": "2026-09-12T05:24:36Z",
+     "retrieved_at": "2026-09-12T15:57:22Z",
      "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": [
       "business activity linkage"
@@ -771,7 +1035,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
      "publication_date": "2026-02-13",
-     "retrieved_at": "2026-09-12T05:24:36Z",
+     "retrieved_at": "2026-09-12T15:57:22Z",
      "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": [
       "limiting consideration"
@@ -891,8 +1155,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
      "publication_date": "2024-01-10",
-     "retrieved_at": "2026-09-12T05:25:17Z",
-     "sha256": "539fcc08cd6a6b277de2479a4b1dc36a90a4aedd6920af2f5d15e4395d0cc7ab",
+     "retrieved_at": "2026-09-12T15:47:58Z",
+     "sha256": "00bec887f6161fe26b0d582003b3a510395e8008adbe0ac8be8bb92ac6ae4a99",
      "supports": [
       "policy mechanism",
       "policy process status"
@@ -908,8 +1172,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
      "publication_date": "2026-02-27",
-     "retrieved_at": "2026-09-12T05:25:18Z",
-     "sha256": "7158090487101914d92427b5efb045117c18feabbe55ccef7df6120665743cab",
+     "retrieved_at": "2026-09-12T15:47:59Z",
+     "sha256": "f0599cf24f1cc35b673bc981c46d46b56512def118e6d53c20402f2eb9b9b3ca",
      "supports": [
       "policy process status",
       "direction of travel"
@@ -925,7 +1189,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
      "publication_date": "2026-02-13",
-     "retrieved_at": "2026-09-12T05:24:36Z",
+     "retrieved_at": "2026-09-12T15:57:22Z",
      "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": [
       "business activity linkage"
@@ -941,7 +1205,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
      "publication_date": "2026-02-13",
-     "retrieved_at": "2026-09-12T05:24:36Z",
+     "retrieved_at": "2026-09-12T15:57:22Z",
      "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": [
       "business exposure",
@@ -956,9 +1220,9 @@
      "location": "CRS summary",
      "exact_text": "This bill specifies a legal standard for determining whether an individual is considered an independent contractor rather than an employee for the purposes of federal labor laws that address issues such as the federal minimum wage, overtime compensation, and collective bargaining",
      "truncated": false,
-     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/1319",
+     "source_url": "https://api.congress.gov/v3/bill/119/hr/1319/summaries",
      "publication_date": "2025-02-13",
-     "retrieved_at": "2026-09-12T05:32:28Z",
+     "retrieved_at": "2026-09-12T15:57:36Z",
      "sha256": "8ed1069c1f33c6c5da3774891c5549b3b2ecf8150acb4d49c9e860f52b0b1d22",
      "supports": [
       "policy mechanism",
@@ -975,7 +1239,7 @@
      "truncated": false,
      "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/1319",
      "publication_date": "2026-02-20",
-     "retrieved_at": "2026-09-12T05:32:09Z",
+     "retrieved_at": "2026-09-12T15:10:16Z",
      "sha256": "e48783a99dc703abab795d0f29d571f97a586df4940b924d2d59e8eb3813f8cd",
      "supports": [
       "policy process status",
@@ -990,9 +1254,9 @@
      "location": "lobbying activity description",
      "exact_text": "Issues related to worker classification and possible anti-competitive activities that could limit consumers access to app-based technologies",
      "truncated": false,
-     "source_url": "https://lda.gov/api/v1/filings/e72bdfe6-b50d-4709-9703-06a9bc5d9543/",
+     "source_url": "https://lda.senate.gov/api/v1/filings/e72bdfe6-b50d-4709-9703-06a9bc5d9543/",
      "publication_date": "2026-04-20T17:15:08-04:00",
-     "retrieved_at": "2026-09-12T05:35:34Z",
+     "retrieved_at": "2026-09-12T15:57:54Z",
      "sha256": "b4a902070c8ce5f12d68f29de8b7c85c6143894ad7c10f8eabda784af40f3304",
      "supports": [
       "company advocacy position"
@@ -1008,7 +1272,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2831",
      "publication_date": "2024-10-23",
-     "retrieved_at": "2026-09-12T06:07:21Z",
+     "retrieved_at": "2026-09-12T15:50:21Z",
      "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
      "supports": [
       "mechanism: legal presumption of employment for platform workers",
@@ -1044,6 +1308,166 @@
       "previous": "assessment v1.0.0",
       "new": "assessment v1.1.0",
       "reason": "Added EU primary-law evidence span (Stage 6 EU expansion); span machine-verified verbatim by the build gate."
+     }
+    ]
+   }
+  },
+  {
+   "case_id": "wmt-reciprocal-tariffs",
+   "company_id": "wmt",
+   "title": "Reciprocal tariff regime on imported goods (Executive Order 14257 amendments)",
+   "issue_family": "trade policy",
+   "sub_issue": "reciprocal tariffs and import duties (US federal)",
+   "list": "current",
+   "business_activity": {
+    "activity_id": "wmt-us-retail-imports",
+    "name": "US retail sale of imported general merchandise and groceries",
+    "segment": "Walmart U.S.",
+    "geography": "US"
+   },
+   "jurisdiction": {
+    "level": "US federal",
+    "name": "United States (federal)"
+   },
+   "authority": "Executive Office of the President (executive orders under IEEPA); HTSUS modifications administered by CBP/USTR",
+   "policy_mechanism": "Cost or tax: executive orders imposing additional ad valorem duties on goods of trading partners at rates set in annexes, modifying the Harmonized Tariff Schedule of the United States (HTSUS), with scope adjustments tied to trade and security agreements",
+   "mechanism_chain": [
+    {
+     "text": "Executive orders published in the Federal Register impose additional ad valorem duties on goods of certain trading partners at annexed rates and modify the HTSUS, effective for goods entered for consumption on or after 12:01 a.m. EDT 7 days after the July/August 2025 order.",
+     "type": "direct"
+    },
+    {
+     "text": "A September 2025 order modifies the annex of exempted goods and states that, except in rare circumstances, the reciprocal tariff scope will not be narrowed before conclusion of a final trade and security agreement with the partner.",
+     "type": "direct"
+    },
+    {
+     "text": "As an import-reliant retailer, Walmart's cost of goods sold is exposed to these duties across sourcing countries; the company-level exposure (import share, vendor absorption, price pass-through) is not quantified in retrieved sources, so the magnitude is asserted at the regime level only.",
+     "type": "inferred"
+    }
+   ],
+   "events": [
+    {
+     "date": "2025-08-06",
+     "description": "Executive order 'Further Modifying the Reciprocal Tariff Rates' published in the Federal Register: additional ad valorem duties at Annex I rates in lieu of prior EO 14257 rates; HTSUS modified per Annex II, effective 7 days after the order",
+     "source_doc_id": "wmt/fr-2025-15010"
+    },
+    {
+     "date": "2025-09-10",
+     "description": "Executive order 'Modifying the Scope of Reciprocal Tariffs and Establishing Procedures to Implement Trade and Security Agreements' published: Annex II exemption list updated; scope narrowing tied to final agreements",
+     "source_doc_id": "wmt/fr-2025-17507"
+    }
+   ],
+   "financial_linkage": {
+    "level": "unknown",
+    "detail": "Consolidated FY2026 revenue $713.2B (SEC EDGAR XBRL us-gaap:Revenues, 10-K filed 2026-03-13; fiscal year ended 2026-01-31). No company-specific import or tariff-cost figures in retrieved sources; the tariff rates and product scope are published only at the regime level (annexes).",
+    "gap": "Company-level exposure cannot be derived from regime-level annexes without Walmart sourcing/import data - labeled Unknown per the financial linkage ladder."
+   },
+   "dimensions": {
+    "business_exposure": "Meaningful",
+    "policy_process_status": "Implementation",
+    "intervention_type": [
+     "Cost or tax"
+    ],
+    "time_horizon": "Current",
+    "evidence_confidence": "Medium",
+    "coverage": "Material gaps"
+   },
+   "rationale": "The tariff regime itself is directly evidenced by two executive orders in the Federal Register and is in force. Exposure is rated Meaningful rather than Core because the company linkage is inferred, not direct: Walmart is a large import-reliant retailer, but no retrieved source quantifies its import share or tariff cost, and SEC EDGAR company filings are blocked from the build environment. Evidence confidence is Medium for the same reason - the policy facts are High-confidence; the company-specific exposure rests on inference.",
+   "gaps": [
+    "SEC EDGAR 10-K full text for Walmart not yet snapshotted in this build - company tariff risk disclosure is pending, not absent. (EDGAR reachable via browser fetch; submissions and revenue concept retrieved.)",
+    "Senate LDA lobbying filings are likewise blocked (HTTP 403) - Walmart advocacy on trade policy is not covered in this build.",
+    "H.R.2743 (119th Congress, Raise the Wage Act of 2025) identified for wmt-us-workforce but not yet retrieved - Congress.gov API rate-limited the build environment during this run.",
+    "EU Corporate Sustainability Due Diligence Directive (2024/1760) retrieved as a candidate source but not yet curated into a case."
+   ],
+   "evidence": [
+    {
+     "evidence_id": "wmt-reciprocal-tariffs-e1",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register Presidential Document 2025-15010, Further Modifying the Reciprocal Tariff Rates",
+     "location": "body, determination",
+     "exact_text": "I have determined that it is necessary and appropriate to deal with the national emergency declared in Executive Order 14257 by imposing additional ad valorem duties on goods of certain trading partners at the rates set forth in Annex I to this order, subject to all applicable exceptions set forth in Executive Order 14257, as amended, in lieu of the additional ad valorem duties previously imposed on goods of such trading partners in Executive Order 14257, as amended.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
+     "publication_date": "2025-08-06",
+     "retrieved_at": "2026-09-12T15:48:06Z",
+     "sha256": "c10392ab6ef6959edf1f8674d67e19ab3b983c425f537ddadb6ebffc8be64f25",
+     "supports": [
+      "policy mechanism",
+      "policy process status"
+     ]
+    },
+    {
+     "evidence_id": "wmt-reciprocal-tariffs-e2",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register Presidential Document 2025-15010, Further Modifying the Reciprocal Tariff Rates",
+     "location": "Sec. 2 Tariff Modifications",
+     "exact_text": "The Harmonized Tariff Schedule of the United States (HTSUS) shall be modified as provided in Annex II to this order. These modifications shall be effective with respect to goods entered for consumption",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
+     "publication_date": "2025-08-06",
+     "retrieved_at": "2026-09-12T15:48:06Z",
+     "sha256": "c10392ab6ef6959edf1f8674d67e19ab3b983c425f537ddadb6ebffc8be64f25",
+     "supports": [
+      "policy mechanism",
+      "time horizon"
+     ]
+    },
+    {
+     "evidence_id": "wmt-reciprocal-tariffs-e3",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register Presidential Document 2025-17507, Modifying the Scope of Reciprocal Tariffs and Establishing Procedures for Implementing Trade and Security Agreements",
+     "location": "body, determination",
+     "exact_text": "I have determined that it is necessary and appropriate to modify Annex II to Executive Order 14257 as shown in the updated version of Annex II that is attached to this order.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2025/09/10/2025-17507/modifying-the-scope-of-reciprocal-tariffs-and-establishing-procedures-for-implementing-trade-and",
+     "publication_date": "2025-09-10",
+     "retrieved_at": "2026-09-12T15:48:07Z",
+     "sha256": "650155a747c27696da1dc78d23c20b5f866bc19d4b560bcebdc2d8c34d28ca1c",
+     "supports": [
+      "policy mechanism",
+      "policy process status"
+     ]
+    },
+    {
+     "evidence_id": "wmt-reciprocal-tariffs-e4",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register Presidential Document 2025-17507, Modifying the Scope of Reciprocal Tariffs",
+     "location": "body, scope commitment",
+     "exact_text": "Except in rare circumstances, I will refrain from narrowing the scope of the reciprocal tariff or any relevant section 232 tariff before the conclusion of a final trade and security agreement",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2025/09/10/2025-17507/modifying-the-scope-of-reciprocal-tariffs-and-establishing-procedures-for-implementing-trade-and",
+     "publication_date": "2025-09-10",
+     "retrieved_at": "2026-09-12T15:48:07Z",
+     "sha256": "650155a747c27696da1dc78d23c20b5f866bc19d4b560bcebdc2d8c34d28ca1c",
+     "supports": [
+      "time horizon",
+      "policy process status"
+     ]
+    }
+   ],
+   "assessment_version": "1.0.0",
+   "review": {
+    "status": "pending_second_review",
+    "consequential": true,
+    "second_reviewer_required": true,
+    "reviewers": [
+     {
+      "id": "demo-analyst",
+      "role": "primary",
+      "reviewed_at": "2026-09-12",
+      "notes": "Reviewed against retrieved source snapshots; every evidence span re-verified verbatim by the build gate at publish time. Consequential (Implementation status) - held for a second human reviewer per REVIEW.md."
+     }
+    ],
+    "history": [
+     {
+      "at": "2026-09-12",
+      "reviewer": "demo-analyst",
+      "action": "created",
+      "reason": "Initial assessment built from retrieved official sources (Federal Register); company linkage labeled inferred; spans machine-validated at build."
      }
     ]
    }
@@ -1125,8 +1549,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11091/rescission-of-climate-related-disclosure-rules",
      "publication_date": "2026-06-03",
-     "retrieved_at": "2026-09-12T05:25:23Z",
-     "sha256": "799c22fa8551dbe8594402aeb7ed839b63b7e5517103959e845af00047a3543d",
+     "retrieved_at": "2026-09-12T15:48:04Z",
+     "sha256": "ea85f1ff0d15c3a2ecaf6433e0485c85878932c63405ab70cf358d449e31cc6d",
      "supports": [
       "policy mechanism",
       "policy process status"
@@ -1142,8 +1566,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11091/rescission-of-climate-related-disclosure-rules",
      "publication_date": "2026-06-03",
-     "retrieved_at": "2026-09-12T05:25:23Z",
-     "sha256": "799c22fa8551dbe8594402aeb7ed839b63b7e5517103959e845af00047a3543d",
+     "retrieved_at": "2026-09-12T15:48:04Z",
+     "sha256": "ea85f1ff0d15c3a2ecaf6433e0485c85878932c63405ab70cf358d449e31cc6d",
      "supports": [
       "time horizon"
      ]
@@ -1158,7 +1582,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
      "publication_date": "2026-02-18",
-     "retrieved_at": "2026-09-12T05:24:37Z",
+     "retrieved_at": "2026-09-12T15:57:22Z",
      "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
      "supports": [
       "business activity linkage",
@@ -1286,8 +1710,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/07/31/2025-14531/extension-of-deadlines-in-standards-of-performance-for-new-reconstructed-and-modified-sources-and",
      "publication_date": "2025-07-31",
-     "retrieved_at": "2026-09-12T05:25:22Z",
-     "sha256": "ebf59230ed6ea2c123c95032b41a881db380a16607968923ebe556225a27e3d3",
+     "retrieved_at": "2026-09-12T15:48:03Z",
+     "sha256": "47ee00bc7314e0818c419ff3299000b11ec47ef71d2de0b549c91b24bde41d9f",
      "supports": [
       "policy process status",
       "change event"
@@ -1303,8 +1727,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
      "publication_date": "2024-11-18",
-     "retrieved_at": "2026-09-12T05:25:20Z",
-     "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+     "retrieved_at": "2026-09-12T15:48:01Z",
+     "sha256": "30bdd74ab7d172e439316e5c83cb5a34687b43ea5c53c917f303eb202d42bc2c",
      "supports": [
       "policy mechanism",
       "intervention type"
@@ -1320,8 +1744,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08688/congressional-review-act-revocation-of-waste-emissions-charge-for-petroleum-and-natural-gas-systems",
      "publication_date": "2025-05-19",
-     "retrieved_at": "2026-09-12T05:25:21Z",
-     "sha256": "5e9369e57b154b2dcb40ddc545174103fb7ef8be5c3089a8dbb92f0f37abaa8e",
+     "retrieved_at": "2026-09-12T15:48:02Z",
+     "sha256": "01de8c8ef3a3bce0beb6afe3e6537c41a47746e5da8934a12bb5f14469cce947",
      "supports": [
       "policy process status",
       "change event"
@@ -1337,7 +1761,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
      "publication_date": "2026-02-18",
-     "retrieved_at": "2026-09-12T05:24:37Z",
+     "retrieved_at": "2026-09-12T15:57:22Z",
      "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
      "supports": [
       "business activity linkage"
@@ -1353,7 +1777,7 @@
      "truncated": false,
      "source_url": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/35",
      "publication_date": "2025-03-14",
-     "retrieved_at": "2026-09-12T05:32:11Z",
+     "retrieved_at": "2026-09-12T15:10:17Z",
      "sha256": "09948460a15703c75647191ae286fd451249ead992e656e2ba8eb42c0ae816eb",
      "supports": [
       "policy process status",
@@ -1368,9 +1792,9 @@
      "location": "lobbying activity description",
      "exact_text": "Discussions related to carbon accounting, and carbon capture and storage Discussions related to permitting reform Discussions related to emissions and energy",
      "truncated": false,
-     "source_url": "https://lda.gov/api/v1/filings/5b0e6916-03f4-4b9f-be48-da93009dd2cb/",
+     "source_url": "https://lda.senate.gov/api/v1/filings/5b0e6916-03f4-4b9f-be48-da93009dd2cb/",
      "publication_date": "2026-04-20T20:31:50-04:00",
-     "retrieved_at": "2026-09-12T05:35:39Z",
+     "retrieved_at": "2026-09-12T15:57:54Z",
      "sha256": "37d062935a1c3ea4bc4f77efe7dc4ef77b19210e636b1dd34c909a31abf254bd",
      "supports": [
       "company advocacy position"
@@ -1386,7 +1810,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1787",
      "publication_date": "2024-06-13",
-     "retrieved_at": "2026-09-12T06:07:23Z",
+     "retrieved_at": "2026-09-12T15:50:23Z",
      "sha256": "231bfc7b994197536a3271ed37b8b8c3ecce9f2ce7e9625e7aff91caec07496f",
      "supports": [
       "mechanism: binding LDAR programme obligation with dates",
@@ -1448,7 +1872,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T05:24:36Z",
+     "retrieved_at": "2026-09-12T15:56:39Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": []
     },
@@ -1477,7 +1901,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T05:24:36Z",
+     "retrieved_at": "2026-09-12T15:56:39Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": []
     },
@@ -1506,7 +1930,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
      "publication_date": "2026-02-13",
-     "retrieved_at": "2026-09-12T05:24:36Z",
+     "retrieved_at": "2026-09-12T15:57:22Z",
      "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": []
     },
@@ -1535,7 +1959,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
      "publication_date": "2026-02-18",
-     "retrieved_at": "2026-09-12T05:24:37Z",
+     "retrieved_at": "2026-09-12T15:57:22Z",
      "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
      "supports": []
     },
@@ -1550,7 +1974,7 @@
   ]
  },
  "candidates": {
-  "generated_at": "2026-09-11",
+  "generated_at": "2026-09-12",
   "extractor": "keyword-window v1 (deterministic regex over immutable snapshots)",
   "note": "UNREVIEWED CANDIDATES - machine-surfaced passages awaiting human review per REVIEW.md. Not findings.",
   "items": [
@@ -1568,14 +1992,14 @@
      "evidence_id": "cand-meta-01-span",
      "tier": "B",
      "role": "candidate",
-     "doc_label": "SEC 10-K filing (10k-000132680125000017.txt)",
+     "doc_label": "SEC 10-K filing (10k-000162828026003942.legal-proceedings.txt)",
      "location": "sentence window around pattern match",
      "exact_text": "On May 16, 2024, the European Commission opened formal proceedings assessing our compliance with certain requirements under Articles 28, 34, and 35 of the Digital Services Act (DSA), including the way in which we identified, assessed, and mitigated against certain systemic risks to minors and other vulnerable users that may stem from the design and functioning of Instagram and Facebook.",
      "truncated": false,
-     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm",
-     "publication_date": "2025-01-30",
-     "retrieved_at": "2026-09-12T05:37:22Z",
-     "sha256": "931517fc551d51ced8c8348eb313f94a0baa931934eb6f189f432f5ece7e5ce1",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+     "publication_date": "2026-01-29",
+     "retrieved_at": "2026-09-12T15:56:39Z",
+     "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1601,8 +2025,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T05:25:16Z",
-     "sha256": "7f58655437786cb1d6059541e9ae737ccef899bc3dc56739650c227f40b103b8",
+     "retrieved_at": "2026-09-12T15:47:56Z",
+     "sha256": "71407a1f21e7a49c69ef72dc624fd10f7aae0106f477974be7d5feeb8cff230b",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1621,14 +2045,14 @@
      "evidence_id": "cand-meta-03-span",
      "tier": "B",
      "role": "candidate",
-     "doc_label": "SEC 10-K filing (10k-000132680125000017.risk-factors.txt)",
+     "doc_label": "SEC 10-K filing (10k-000162828026003942.legal-proceedings.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "For example, in March 2024, the European Commission opened formal proceedings regarding the compliance of our \"subscription for no ads\" model with requirements under the DMA, and it issued preliminary findings in July 2024, reflecting its preliminary view that our model does not comply with such requirements, and indicated that it will conclude its investigation in March 2025.",
+     "exact_text": "For example, in March 2024, the European Commission opened formal proceedings regarding the compliance of our \"subscription for no ads\" model with requirements under the DMA, and it issued preliminary findings in July 2024.",
      "truncated": false,
-     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm",
-     "publication_date": "2025-01-30",
-     "retrieved_at": "2026-09-12T05:37:22Z",
-     "sha256": "931517fc551d51ced8c8348eb313f94a0baa931934eb6f189f432f5ece7e5ce1",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+     "publication_date": "2026-01-29",
+     "retrieved_at": "2026-09-12T15:56:39Z",
+     "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1641,20 +2065,21 @@
     "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
     "confidence": "medium",
     "issue_hints": [
+     "children and teen privacy / safety",
      "platform regulation"
     ],
     "span": {
      "evidence_id": "cand-meta-04-span",
      "tier": "B",
      "role": "candidate",
-     "doc_label": "SEC 10-K filing (10k-000132680125000017.risk-factors.txt)",
+     "doc_label": "SEC 10-K filing (10k-000162828026003942.legal-proceedings.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "Further, the Digital Services Act (DSA), which started to apply to our business as of August 2023, imposes certain restrictions and requirements for our products and services, subjects us to increased compliance costs, and includes significant penalties for non-compliance.",
+     "exact_text": "In addition, we are subject to inquiries and investigations by the European Commission regarding our compliance with various provisions of the DSA relating to the use of Facebook and Instagram, including matters related to elections, content reporting and appeals, third-party access to data, political content recommendations, potential deceptive advertising and disinformation, and minors and other vulnerable users.",
      "truncated": false,
-     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm",
-     "publication_date": "2025-01-30",
-     "retrieved_at": "2026-09-12T05:37:22Z",
-     "sha256": "931517fc551d51ced8c8348eb313f94a0baa931934eb6f189f432f5ece7e5ce1",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+     "publication_date": "2026-01-29",
+     "retrieved_at": "2026-09-12T15:56:39Z",
+     "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1679,7 +2104,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1925",
      "publication_date": "2022-09-14",
-     "retrieved_at": "2026-09-12T06:07:18Z",
+     "retrieved_at": "2026-09-12T15:50:18Z",
      "sha256": "d6af21a4f11c2b001b0486391fbd0813deba32305fb0d3865fbceccd45b827eb",
      "supports": [
       "candidate passage - unreviewed"
@@ -1705,7 +2130,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1925",
      "publication_date": "2022-09-14",
-     "retrieved_at": "2026-09-12T06:07:18Z",
+     "retrieved_at": "2026-09-12T15:50:18Z",
      "sha256": "d6af21a4f11c2b001b0486391fbd0813deba32305fb0d3865fbceccd45b827eb",
      "supports": [
       "candidate passage - unreviewed"
@@ -1719,20 +2144,21 @@
     "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
     "confidence": "medium",
     "issue_hints": [
+     "EU platform work rules",
      "driver classification"
     ],
     "span": {
      "evidence_id": "cand-uber-01-span",
      "tier": "B",
      "role": "candidate",
-     "doc_label": "SEC 10-K filing (10k-000154315125000008.risk-factors.txt)",
+     "doc_label": "SEC 10-K filing (10k-000154315126000015.risk-factors.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "Other examples of judicial decisions include a decision by the French Supreme Court that a driver for a third-party meal delivery service was under a \u201csubordinate relationship\u201d of the service, indicating an employment relationship, a decision by the French Supreme Court that reclassified an UberX Driver as an employee (which has been followed by inconsistent appellate decisions regarding employee status), decisions by several Swiss governmental bodies ruling that Drivers should be classified as employees for Swiss social security or regulatory purposes, a recent Spanish regulation of food delivery platforms that presumes employment status and a ruling in September 2021 by a Netherlands court that Mobility Drivers are employees within the meaning of the taxi collective bargaining agreement.",
+     "exact_text": "The agreement invites collaboration on topics such as trade union representation, freedom of association and bargaining, working conditions, health and safety, social protections, and dispute resolution. \u25e6 Spain: In 2024, Uber Eats and the UGT (Uni\u00f3n General de Trabajadores) signed a memorandum of understanding aimed at improving working conditions for platform workers across the entire delivery sector, focusing on safety, training, and collective representation. \u25e6 We welcomed a number of policy developments and agreements across the globe, including: \u25aa In Canada, the provinces of British Columbia and Ontario introduced laws guaranteeing minimum earnings, transparency, and deactivation notices for platform drivers and couriers, while preserving their independent contractor status. \u25aa In Australia, the passage of the Fair Work Legislation Amendment affirms platform workers\u2019 independent status while guaranteeing access to minimum pay standards, superannuation, and deactivation protections. 8 \u2022 Protections and benefits : We partner with leading insurance companies around the world to pioneer protections for independent workers.",
      "truncated": false,
-     "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315125000008/uber-20241231.htm",
-     "publication_date": "2025-02-14",
-     "retrieved_at": "2026-09-12T05:37:23Z",
-     "sha256": "c1c29c670e0ebd62ba3ee4445cb8a52f7d5c3113b2073b10ee7a4fbafe3738cf",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
+     "publication_date": "2026-02-13",
+     "retrieved_at": "2026-09-12T15:57:22Z",
+     "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1745,20 +2171,19 @@
     "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
     "confidence": "medium",
     "issue_hints": [
-     "EU platform work rules",
      "driver classification"
     ],
     "span": {
      "evidence_id": "cand-uber-02-span",
      "tier": "B",
      "role": "candidate",
-     "doc_label": "SEC 10-K filing (10k-000154315126000015.legal-proceedings.txt)",
+     "doc_label": "SEC 10-K filing (10k-000154315126000015.risk-factors.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "The agreement invites collaboration on topics such as trade union representation, freedom of association and bargaining, working conditions, health and safety, social protections, and dispute resolution. \u25e6 Spain: In 2024, Uber Eats and the UGT (Uni\u00f3n General de Trabajadores) signed a memorandum of understanding aimed at improving working conditions for platform workers across the entire delivery sector, focusing on safety, training, and collective representation. \u25e6 We welcomed a number of policy developments and agreements across the globe, including: \u25aa In Canada, the provinces of British Columbia and Ontario introduced laws guaranteeing minimum earnings, transparency, and deactivation notices for platform drivers and couriers, while preserving their independent contractor status. \u25aa In Australia, the passage of the Fair Work Legislation Amendment affirms platform workers\u2019 independent status while guaranteeing access to minimum pay standards, superannuation, and deactivation protections. 8 \u2022 Protections and benefits : We partner with leading insurance companies around the world to pioneer protections for independent workers.",
+     "exact_text": "Other examples of judicial decisions include a decision by the French Supreme Court that a driver for a third-party meal delivery service was under a \u201csubordinate relationship\u201d of the service, indicating an employment relationship, decisions by the French Supreme Court in 2020 and 2023 that reclassified two UberX Drivers as employees (which were followed by inconsistent appellate decisions regarding employee status, and, in July 2025, by two French Supreme Court decisions analyzing Uber\u2019s more recent model that concluded that the Drivers were independent contractors), decisions by several Swiss governmental bodies ruling that Drivers should be classified as employees for Swiss social security or regulatory purposes, a recent Spanish regulation of food delivery platforms that presumes employment status and a ruling in September 2021 by a Netherlands court that Mobility Drivers are employees within the meaning of the taxi collective bargaining agreement.",
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
      "publication_date": "2026-02-13",
-     "retrieved_at": "2026-09-12T05:24:36Z",
+     "retrieved_at": "2026-09-12T15:57:22Z",
      "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": [
       "candidate passage - unreviewed"
@@ -1776,16 +2201,16 @@
     ],
     "span": {
      "evidence_id": "cand-uber-03-span",
-     "tier": "B",
+     "tier": "A",
      "role": "candidate",
-     "doc_label": "SEC 10-K filing (10k-000154315126000015.legal-proceedings.txt)",
+     "doc_label": "Federal Register document (fr-2024-00067.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "Other examples of judicial decisions include a decision by the French Supreme Court that a driver for a third-party meal delivery service was under a \u201csubordinate relationship\u201d of the service, indicating an employment relationship, decisions by the French Supreme Court in 2020 and 2023 that reclassified two UberX Drivers as employees (which were followed by inconsistent appellate decisions regarding employee status, and, in July 2025, by two French Supreme Court decisions analyzing Uber\u2019s more recent model that concluded that the Drivers were independent contractors), decisions by several Swiss governmental bodies ruling that Drivers should be classified as employees for Swiss social security or regulatory purposes, a recent Spanish regulation of food delivery platforms that presumes employment status and a ruling in September 2021 by a Netherlands court that Mobility Drivers are employees within the meaning of the taxi collective bargaining agreement.",
+     "exact_text": "  Federal Register, Volume 89 Issue 7 (Wednesday, January 10, 2024)   [Federal Register Volume 89, Number 7 (Wednesday, January 10, 2024)] [Rules and Regulations] [Pages 1638-1743] From the Federal Register Online via the Government Publishing Office [www.gpo.gov] [FR Doc No: 2024-00067] [[Page 1637]] Vol. 89 Wednesday, No. 7 January 10, 2024 Part II Department of Labor ----------------------------------------------------------------------- Wage and Hour Division ----------------------------------------------------------------------- 29 CFR Parts 780, 788, and 795 Employee or Independent Contractor Classification Under the Fair Labor Standards Act; Final Rule \u0000\u0000Federal Register / Vol. 89 , No. 7 / Wednesday, January 10, 2024 / Rules and Regulations\u0000\u0000 [[Page 1638]] ----------------------------------------------------------------------- DEPARTMENT OF LABOR Wage and Hour Division 29 CFR Parts 780, 788, and 795 RIN 1235-AA43 Employee or Independent Contractor Classification Under the Fair Labor Standards Act AGENCY: Wage and Hour Division, Department of Labor.",
      "truncated": false,
-     "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
-     "publication_date": "2026-02-13",
-     "retrieved_at": "2026-09-12T05:24:36Z",
-     "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
+     "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T15:47:58Z",
+     "sha256": "00bec887f6161fe26b0d582003b3a510395e8008adbe0ac8be8bb92ac6ae4a99",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1806,12 +2231,12 @@
      "role": "candidate",
      "doc_label": "Federal Register document (fr-2024-00067.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "  Federal Register, Volume 89 Issue 7 (Wednesday, January 10, 2024)   [Federal Register Volume 89, Number 7 (Wednesday, January 10, 2024)] [Rules and Regulations] [Pages 1638-1743] From the Federal Register Online via the Government Publishing Office [www.gpo.gov] [FR Doc No: 2024-00067] [[Page 1637]] Vol. 89 Wednesday, No. 7 January 10, 2024 Part II Department of Labor ----------------------------------------------------------------------- Wage and Hour Division ----------------------------------------------------------------------- 29 CFR Parts 780, 788, and 795 Employee or Independent Contractor Classification Under the Fair Labor Standards Act; Final Rule \u0000\u0000Federal Register / Vol. 89 , No. 7 / Wednesday, January 10, 2024 / Rules and Regulations\u0000\u0000 [[Page 1638]] ----------------------------------------------------------------------- DEPARTMENT OF LABOR Wage and Hour Division 29 CFR Parts 780, 788, and 795 RIN 1235-AA43 Employee or Independent Contractor Classification Under the Fair Labor Standards Act AGENCY: Wage and Hour Division, Department of Labor.",
+     "exact_text": "In January 2021, the Department published a rule titled ``Independent Contractor Status Under the Fair Labor Standards Act'' (2021 IC Rule), providing guidance on the classification of independent contractors under the FLSA applicable to workers and businesses in any industry.\\3\\ The 2021 IC Rule marked a departure from the consistent, longstanding adoption and application of the economic reality test by courts and the Department of how to determine whether a worker is an employee or an independent contractor under the FLSA.",
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T05:25:17Z",
-     "sha256": "539fcc08cd6a6b277de2479a4b1dc36a90a4aedd6920af2f5d15e4395d0cc7ab",
+     "retrieved_at": "2026-09-12T15:47:58Z",
+     "sha256": "00bec887f6161fe26b0d582003b3a510395e8008adbe0ac8be8bb92ac6ae4a99",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1836,7 +2261,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2831",
      "publication_date": "2024-10-23",
-     "retrieved_at": "2026-09-12T06:07:21Z",
+     "retrieved_at": "2026-09-12T15:50:21Z",
      "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
      "supports": [
       "candidate passage - unreviewed"
@@ -1863,8 +2288,320 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2831",
      "publication_date": "2024-10-23",
-     "retrieved_at": "2026-09-12T06:07:21Z",
+     "retrieved_at": "2026-09-12T15:50:21Z",
      "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-pfe-01",
+    "company_id": "pfe",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "drug pricing and negotiation"
+    ],
+    "span": {
+     "evidence_id": "cand-pfe-01-span",
+     "tier": "B",
+     "role": "candidate",
+     "doc_label": "source document (cms-negotiated-prices-ipay-2027.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "In accordance with the Inflation Reduction Act of 2022, CMS considered the statutory factors listed at section 1194(e) of the Social Security Act in determining its initial offers, revised offers, and final offers.",
+     "truncated": false,
+     "source_url": "https://www.cms.gov/files/document/fact-sheet-negotiated-prices-ipay-2027.pdf",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T15:52:32Z",
+     "sha256": "2f27be731c03e286ad32b58dedb5003a7521fb15c23e7df5f37ab736cec85873",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-pfe-02",
+    "company_id": "pfe",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "drug pricing and negotiation"
+    ],
+    "span": {
+     "evidence_id": "cand-pfe-02-span",
+     "tier": "B",
+     "role": "candidate",
+     "doc_label": "source document (cms-negotiated-prices-ipay-2027.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "In accordance with the Inflation Reduction Act of 2022, the negotiated price will apply to a selected drug so long as the selected drug remains in the Medicare Drug Price Negotiation Program.",
+     "truncated": false,
+     "source_url": "https://www.cms.gov/files/document/fact-sheet-negotiated-prices-ipay-2027.pdf",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T15:52:32Z",
+     "sha256": "2f27be731c03e286ad32b58dedb5003a7521fb15c23e7df5f37ab736cec85873",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-pfe-03",
+    "company_id": "pfe",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "drug pricing and negotiation"
+    ],
+    "span": {
+     "evidence_id": "cand-pfe-03-span",
+     "tier": "B",
+     "role": "candidate",
+     "doc_label": "source document (cms-second-cycle-selected-drugs.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "In accordance with the Inflation Reduction Act, the negotiations with participating drug companies for these 15 drugs will occur in 2025 and any negotiated prices will become effective in 2027.",
+     "truncated": false,
+     "source_url": "https://www.cms.gov/newsroom/press-releases/hhs-announces-15-additional-drugs-selected-medicare-drug-price-negotiations-continued-effort-lower",
+     "publication_date": "2025-01-17",
+     "retrieved_at": "2026-09-12T15:51:45Z",
+     "sha256": "ac1eacd5ea3051c8cb1aa3f4832a82ad3ae1a97813a9ce55b042927f2ca8ce23",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-pfe-04",
+    "company_id": "pfe",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "drug pricing and negotiation"
+    ],
+    "span": {
+     "evidence_id": "cand-pfe-04-span",
+     "tier": "B",
+     "role": "candidate",
+     "doc_label": "source document (cms-second-cycle-selected-drugs.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "HHS will continue negotiating in the best interest of people with Medicare to have access to innovative, life-saving treatments at lower costs.\u201d \u201cThe Biden-Harris Administration continues to make history by announcing the latest round of drugs selected for the Medicare Drug Price Negotiation Program, with the goal of improving access to some of the costliest drugs while saving the American people billions of dollars,\u201d said CMS Administrator Chiquita Brooks-LaSure. \u201cImproving prescription drug affordability for Medicare enrollees is the core of the Inflation Reduction Act, and the next cycle of negotiations will continue to strengthen Medicare for generations to come.\u201d The selected drug list for the second cycle of negotiations is: - Ozempic; Rybelsus; Wegovy - Trelegy Ellipta - Xtandi - Pomalyst - Ibrance - Ofev - Linzess - Calquence - Austedo; Austedo XR - Breo Ellipta - Tradjenta - Xifaxan - Vraylar - Janumet; Janumet XR - Otezla In accordance with the final guidance for the second cycle of the Drug Price Negotiation Program, drug companies with a selected drug will have until February 28, 2025 to decide if they will participate in negotiations.",
+     "truncated": false,
+     "source_url": "https://www.cms.gov/newsroom/press-releases/hhs-announces-15-additional-drugs-selected-medicare-drug-price-negotiations-continued-effort-lower",
+     "publication_date": "2025-01-17",
+     "retrieved_at": "2026-09-12T15:51:45Z",
+     "sha256": "ac1eacd5ea3051c8cb1aa3f4832a82ad3ae1a97813a9ce55b042927f2ca8ce23",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-pfe-05",
+    "company_id": "pfe",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "drug pricing and negotiation"
+    ],
+    "span": {
+     "evidence_id": "cand-pfe-05-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2024-23418.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "  Federal Register, Volume 89 Issue 197 (Thursday, October 10, 2024)   [Federal Register Volume 89, Number 197 (Thursday, October 10, 2024)] [Notices] [Page 82245] From the Federal Register Online via the Government Publishing Office [www.gpo.gov] [FR Doc No: 2024-23418] ----------------------------------------------------------------------- DEPARTMENT OF HEALTH AND HUMAN SERVICES Centers for Medicare & Medicaid Services [CMS-1800-N4] Inflation Reduction Act (IRA) Medicare Drug Price Negotiation Program Final Guidance AGENCY: Centers for Medicare & Medicaid Services, Health and Human Services (HHS).",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2024/10/10/2024-23418/inflation-reduction-act-ira-medicare-drug-price-negotiation-program-final-guidance",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T15:48:05Z",
+     "sha256": "498daa49b41eaa0a4d00d7dafa64c92c0745e08dde44c86f81b4e339ee553d7d",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-pfe-06",
+    "company_id": "pfe",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "drug pricing and negotiation"
+    ],
+    "span": {
+     "evidence_id": "cand-pfe-06-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2024-23418.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "ACTION: Notice. ----------------------------------------------------------------------- SUMMARY: The Centers for Medicare & Medicaid Services (CMS) is announcing the availability of CMS' final guidance for the second cycle of the Medicare Drug Price Negotiation Program and manufacturer effectuation of the maximum fair price in 2026 and 2027 for the implementation of the Inflation Reduction Act.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2024/10/10/2024-23418/inflation-reduction-act-ira-medicare-drug-price-negotiation-program-final-guidance",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T15:48:05Z",
+     "sha256": "498daa49b41eaa0a4d00d7dafa64c92c0745e08dde44c86f81b4e339ee553d7d",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-wmt-01",
+    "company_id": "wmt",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "tariffs and import costs"
+    ],
+    "span": {
+     "evidence_id": "cand-wmt-01-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2025-15010.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "  Federal Register, Volume 90 Issue 149 (Wednesday, August 6, 2025)   [Federal Register Volume 90, Number 149 (Wednesday, August 6, 2025)] [Presidential Documents] [Pages 37963-37992] From the Federal Register Online via the Government Publishing Office [www.gpo.gov] [FR Doc No: 2025-15010] \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 90, No. 149 / Wednesday, August 6, 2025 / Presidential Documents\u0000\u0000 [[Page 37963]] Executive Order 14326 of July 31, 2025 Further Modifying the Reciprocal Tariff Rates By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 et seq.), section 604 of the Trade Act of 1974, as amended (19 U.S.C. 2483), and section 301 of title 3, United States Code, I hereby determine and order: Section 1.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T15:48:06Z",
+     "sha256": "c10392ab6ef6959edf1f8674d67e19ab3b983c425f537ddadb6ebffc8be64f25",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-wmt-02",
+    "company_id": "wmt",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "tariffs and import costs"
+    ],
+    "span": {
+     "evidence_id": "cand-wmt-02-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2025-17507.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "Nationals From Wrongful Detention Abroad \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 90 , No. 173 / Wednesday, September 10, 2025 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 43737]] Executive Order 14346 of September 5, 2025 Modifying the Scope of Reciprocal Tariffs and Establishing Procedures for Implementing Trade and Security Agreements By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 et seq.), section 232 of the Trade Expansion Act of 1962, as amended (19 U.S.C. 1862) (section 232), section 604 of the Trade Act of 1974, as amended (19 U.S.C. 2483), and section 301 of title 3, United States Code, it is hereby ordered: Section 1.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2025/09/10/2025-17507/modifying-the-scope-of-reciprocal-tariffs-and-establishing-procedures-for-implementing-trade-and",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T15:48:07Z",
+     "sha256": "650155a747c27696da1dc78d23c20b5f866bc19d4b560bcebdc2d8c34d28ca1c",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-wmt-03",
+    "company_id": "wmt",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "low",
+    "issue_hints": [
+     "tariffs and import costs"
+    ],
+    "span": {
+     "evidence_id": "cand-wmt-03-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2025-15010.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "In Executive Order 14257 of April 2, 2025 (Regulating Imports With a Reciprocal Tariff To Rectify Trade Practices That Contribute to Large and Persistent Annual United States Goods Trade Deficits), I found that conditions reflected in large and persistent annual U.S. goods trade deficits constitute an unusual and extraordinary threat to the national security and economy of the United States that has its source in whole or substantial part outside the United States.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T15:48:06Z",
+     "sha256": "c10392ab6ef6959edf1f8674d67e19ab3b983c425f537ddadb6ebffc8be64f25",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-wmt-04",
+    "company_id": "wmt",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "low",
+    "issue_hints": [
+     "tariffs and import costs"
+    ],
+    "span": {
+     "evidence_id": "cand-wmt-04-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "Federal Register document (fr-2025-15010.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "These modifications shall be effective with respect to goods entered for consumption, or withdrawn from warehouse for consumption, on or [[Page 37964]] after 12:01 a.m. eastern daylight time 7 days after the date of this order, except that goods loaded onto a vessel at the port of loading and in transit on the final mode of transit before 12:01 a.m. eastern daylight time 7 days after the date of this order, and entered for consumption, or withdrawn from warehouse for consumption, before 12:01 a.m. eastern daylight time on October 5, 2025, shall not be subject to such additional duty and shall instead remain subject to the additional ad valorem duties previously imposed in Executive Order 14257, as amended.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
+     "publication_date": "unknown",
+     "retrieved_at": "2026-09-12T15:48:06Z",
+     "sha256": "c10392ab6ef6959edf1f8674d67e19ab3b983c425f537ddadb6ebffc8be64f25",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-wmt-05",
+    "company_id": "wmt",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "EU supply chain due diligence"
+    ],
+    "span": {
+     "evidence_id": "cand-wmt-05-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "EUR-Lex act (EU primary law) (eu-32024L1760.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "L_202401760EN.000101.fmx.xml Official Journal of the European Union EN L series 2024/1760 5.7.2024 DIRECTIVE (EU) 2024/1760 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 on corporate sustainability due diligence and amending Directive (EU) 2019/1937 and Regulation (EU) 2023/2859 (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 50(1), Article 50(2), point (g), and Article 114 thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national parliaments, Having regard to the opinion of the European Economic and Social Committee ( 1 ) , Acting in accordance with the ordinary legislative procedure ( 2 ) , Whereas: (1) As stated in Article 2 of the Treaty on European Union (TEU), the Union is founded on the values of respect for human dignity, freedom, democracy, equality, the rule of law and respect for human rights as enshrined in the Charter of Fundamental Rights of the European Union (the \u2018Charter\u2019).",
+     "truncated": false,
+     "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1760",
+     "publication_date": "2024-06-13",
+     "retrieved_at": "2026-09-12T15:50:31Z",
+     "sha256": "727260144e8f968673eb4d2c275606eb07f35035c18895ac58883cf0d51184b3",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-wmt-06",
+    "company_id": "wmt",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "EU supply chain due diligence"
+    ],
+    "span": {
+     "evidence_id": "cand-wmt-06-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "EUR-Lex act (EU primary law) (eu-32024L1760.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "(15) The European Parliament, in its resolution of 10 March 2021 with recommendations to the Commission on corporate due diligence and corporate accountability, calls upon the Commission to propose Union-level rules for comprehensive corporate due diligence obligations, with consequences including civil liability for those companies that cause or jointly cause harm by failing to carry out due diligence.",
+     "truncated": false,
+     "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1760",
+     "publication_date": "2024-06-13",
+     "retrieved_at": "2026-09-12T15:50:31Z",
+     "sha256": "727260144e8f968673eb4d2c275606eb07f35035c18895ac58883cf0d51184b3",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1890,8 +2627,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T05:25:20Z",
-     "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+     "retrieved_at": "2026-09-12T15:48:01Z",
+     "sha256": "30bdd74ab7d172e439316e5c83cb5a34687b43ea5c53c917f303eb202d42bc2c",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1917,8 +2654,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T05:25:20Z",
-     "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+     "retrieved_at": "2026-09-12T15:48:01Z",
+     "sha256": "30bdd74ab7d172e439316e5c83cb5a34687b43ea5c53c917f303eb202d42bc2c",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1944,8 +2681,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T05:25:20Z",
-     "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+     "retrieved_at": "2026-09-12T15:48:01Z",
+     "sha256": "30bdd74ab7d172e439316e5c83cb5a34687b43ea5c53c917f303eb202d42bc2c",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1971,8 +2708,8 @@
      "truncated": true,
      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T05:25:20Z",
-     "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+     "retrieved_at": "2026-09-12T15:48:01Z",
+     "sha256": "30bdd74ab7d172e439316e5c83cb5a34687b43ea5c53c917f303eb202d42bc2c",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1998,7 +2735,7 @@
      "truncated": true,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2464",
      "publication_date": "2022-12-14",
-     "retrieved_at": "2026-09-12T06:07:26Z",
+     "retrieved_at": "2026-09-12T15:50:26Z",
      "sha256": "6ad8df8d05b75c4caf19c926db0afc86c725872bb3342c4d7cd2544dd6c29837",
      "supports": [
       "candidate passage - unreviewed"
@@ -2025,7 +2762,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1787",
      "publication_date": "2024-06-13",
-     "retrieved_at": "2026-09-12T06:07:23Z",
+     "retrieved_at": "2026-09-12T15:50:23Z",
      "sha256": "231bfc7b994197536a3271ed37b8b8c3ecce9f2ce7e9625e7aff91caec07496f",
      "supports": [
       "candidate passage - unreviewed"
@@ -2035,9 +2772,9 @@
   ]
  },
  "freshness": {
-  "checked_at": "2026-09-11",
-  "documents": 42,
-  "hash_verified": 42,
+  "checked_at": "2026-09-12",
+  "documents": 43,
+  "hash_verified": 40,
   "hash_failures": 0,
   "stale": [],
   "freshness_targets_days": {
@@ -2055,11 +2792,25 @@
     "lda": true,
     "eur_lex": true
    },
+   "pfe": {
+    "edgar": true,
+    "federal_register": true,
+    "congress": false,
+    "lda": false,
+    "eur_lex": true
+   },
    "uber": {
     "edgar": true,
     "federal_register": true,
     "congress": true,
     "lda": true,
+    "eur_lex": true
+   },
+   "wmt": {
+    "edgar": true,
+    "federal_register": true,
+    "congress": false,
+    "lda": false,
     "eur_lex": true
    },
    "xom": {
@@ -2073,34 +2824,34 @@
   "coverage_note": "Coverage is shown, not assumed: a missing source class for a company means the connector has not retrieved it - never that no government activity exists (paper: coverage trap).",
   "docs": [
    {
-    "doc": "meta/10k-000132680125000017.html",
-    "source_class": "edgar",
-    "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "931517fc551d51ced8c8348eb313f94a0baa931934eb6f189f432f5ece7e5ce1",
-    "hash_ok": true
-   },
-   {
     "doc": "meta/10k-000162828026003942.html",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
+    "hash_ok": null
+   },
+   {
+    "doc": "meta/10k-000162828026003942.legal-proceedings.txt",
+    "source_class": "edgar",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "bcddd69606f85a247f221aa787e32ab0de474a835d86b4b182598915b450935f",
     "hash_ok": true
    },
    {
-    "doc": "meta/companyfacts.json",
+    "doc": "meta/10k-000162828026003942.risk-factors.txt",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "7518e76d6dac2d016e1a3d1dec1cc55ff9ea3bdd58a151b16fcaa067a6c9d94e",
+    "age_days": 0,
+    "sha256": "317dcbf2d02fdd0d8b9545242ca40fca6e1db050f4692a1ea11d2fc25798fdaf",
     "hash_ok": true
    },
    {
     "doc": "meta/congress/s1748-actions.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "43f2b7a094e0deb4a067b606a13a45288bd05d216a724bcca75c573adb15f768",
     "hash_ok": true
    },
@@ -2108,7 +2859,7 @@
     "doc": "meta/congress/s1748-bill.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "73fbf6f01251624aff88ce16b529184568c35a1fc7e6fdf06dd4517d91c0f008",
     "hash_ok": true
    },
@@ -2116,7 +2867,7 @@
     "doc": "meta/congress/s1748-summaries.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "ed4c5b9e34f5146d3bad9279cb1084c123fd8c29a1922fa8f67c50b39c3a5bef",
     "hash_ok": true
    },
@@ -2124,7 +2875,7 @@
     "doc": "meta/eu/eu-32022R1925.html",
     "source_class": "eur_lex",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "d6af21a4f11c2b001b0486391fbd0813deba32305fb0d3865fbceccd45b827eb",
     "hash_ok": true
    },
@@ -2132,7 +2883,7 @@
     "doc": "meta/eu/eu-32022R2065.html",
     "source_class": "eur_lex",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "11b119a7d45f3a10cd41714061f9d907839ef5d1634e41774490f00b95856bbf",
     "hash_ok": true
    },
@@ -2140,71 +2891,95 @@
     "doc": "meta/fr/fr-2025-05904.json",
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "7f58655437786cb1d6059541e9ae737ccef899bc3dc56739650c227f40b103b8",
-    "hash_ok": true
-   },
-   {
-    "doc": "meta/lda/lda-2796fa63-8416-4e28-ab64-a242a084b2a3.json",
-    "source_class": "lda",
-    "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "d55209e16a23cd7548fbddcfa1e7cdce24fb5119a783e9aafe7d9f6ca979280f",
-    "hash_ok": true
-   },
-   {
-    "doc": "meta/lda/lda-7b5bc578-9fa1-4190-bf2d-0c25a3c1dedb.json",
-    "source_class": "lda",
-    "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "fe48164dc38a004887063e7705539bff265a43c5142a1ebfc23819be8e5d3836",
+    "age_days": 0,
+    "sha256": "71407a1f21e7a49c69ef72dc624fd10f7aae0106f477974be7d5feeb8cff230b",
     "hash_ok": true
    },
    {
     "doc": "meta/lda/lda-db20d2b9-e40a-4eff-893c-9aed03fda925.json",
     "source_class": "lda",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "99540d05b308d0b3b64261776d35b67377feabe46f0686745ba8606da2bf891b",
     "hash_ok": true
    },
    {
-    "doc": "meta/submissions.json",
-    "source_class": "edgar",
+    "doc": "pfe/cms/cms-negotiated-prices-ipay-2027.txt",
+    "source_class": "other",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "009af7b78bafe69ea35948fd261f14ad2f56076c2f7feb47d6241599f3f4391d",
+    "age_days": 0,
+    "sha256": "2f27be731c03e286ad32b58dedb5003a7521fb15c23e7df5f37ab736cec85873",
     "hash_ok": true
    },
    {
-    "doc": "uber/10k-000154315125000008.html",
+    "doc": "pfe/cms/cms-second-cycle-manufacturer-participation.txt",
+    "source_class": "other",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "de6b1e9b83b91ba396be0ce1a0b6acd0ac93db6cbf85824f9e7b3fced6a6e48a",
+    "hash_ok": true
+   },
+   {
+    "doc": "pfe/cms/cms-second-cycle-selected-drugs.txt",
+    "source_class": "other",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "ac1eacd5ea3051c8cb1aa3f4832a82ad3ae1a97813a9ce55b042927f2ca8ce23",
+    "hash_ok": true
+   },
+   {
+    "doc": "pfe/edgar-revenue.json",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "c1c29c670e0ebd62ba3ee4445cb8a52f7d5c3113b2073b10ee7a4fbafe3738cf",
+    "age_days": 0,
+    "sha256": "4e34a302d04a47dcb527d27d3ef5a90ac91b67fabbe71886c7d54598842581ee",
+    "hash_ok": true
+   },
+   {
+    "doc": "pfe/eu/eu-52023PC0131.html",
+    "source_class": "eur_lex",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "5928c2511f86ce63c88c5135cdd7b4fa66fe8a657a962676110aa1c6d5983419",
+    "hash_ok": true
+   },
+   {
+    "doc": "pfe/fr/fr-2024-23418.json",
+    "source_class": "federal_register",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "498daa49b41eaa0a4d00d7dafa64c92c0745e08dde44c86f81b4e339ee553d7d",
+    "hash_ok": true
+   },
+   {
+    "doc": "pfe/fr/fr-2026-14583.json",
+    "source_class": "federal_register",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "02a05e1ba5b0eb70194da02bde67d4a4ae1b65c675623d8ab4909cb794c31ed3",
     "hash_ok": true
    },
    {
     "doc": "uber/10k-000154315126000015.html",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
-    "hash_ok": true
+    "hash_ok": null
    },
    {
-    "doc": "uber/companyfacts.json",
+    "doc": "uber/10k-000154315126000015.risk-factors.txt",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "98e804db35b92010096d3eccc692cf3bda5082ca8648bbf2f55d0b7be0f3830f",
+    "age_days": 0,
+    "sha256": "74581ba032487a40ea9f731932c81a0533ad35b0d078e9944bf51083e0a97b2e",
     "hash_ok": true
    },
    {
     "doc": "uber/congress/hr1319-actions.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "e48783a99dc703abab795d0f29d571f97a586df4940b924d2d59e8eb3813f8cd",
     "hash_ok": true
    },
@@ -2212,7 +2987,7 @@
     "doc": "uber/congress/hr1319-bill.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "2c82c4eb2de02c2fd7afbb3b8e9b4262e05d5c34c04e3b4b66bb3de2a95e1565",
     "hash_ok": true
    },
@@ -2220,7 +2995,7 @@
     "doc": "uber/congress/hr1319-summaries.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "8ed1069c1f33c6c5da3774891c5549b3b2ecf8150acb4d49c9e860f52b0b1d22",
     "hash_ok": true
    },
@@ -2228,7 +3003,7 @@
     "doc": "uber/eu/eu-32024L2831.html",
     "source_class": "eur_lex",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
     "hash_ok": true
    },
@@ -2236,87 +3011,95 @@
     "doc": "uber/fr/fr-2024-00067.json",
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "539fcc08cd6a6b277de2479a4b1dc36a90a4aedd6920af2f5d15e4395d0cc7ab",
+    "age_days": 0,
+    "sha256": "00bec887f6161fe26b0d582003b3a510395e8008adbe0ac8be8bb92ac6ae4a99",
     "hash_ok": true
    },
    {
     "doc": "uber/fr/fr-2026-03962.json",
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "7158090487101914d92427b5efb045117c18feabbe55ccef7df6120665743cab",
+    "age_days": 0,
+    "sha256": "f0599cf24f1cc35b673bc981c46d46b56512def118e6d53c20402f2eb9b9b3ca",
     "hash_ok": true
    },
    {
     "doc": "uber/fr/fr-2026-15483.json",
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "090b8428779178959a03f9b032269042f717cb78ce057f238797e2626053b6c6",
-    "hash_ok": true
-   },
-   {
-    "doc": "uber/lda/lda-aa39e3af-fcad-4fa8-b840-8dba60561b8f.json",
-    "source_class": "lda",
-    "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "961b71c48c66569625259d1a76ea4d47483cb2432afa79f92c5975bd98573a29",
-    "hash_ok": true
-   },
-   {
-    "doc": "uber/lda/lda-d3049772-7541-4c6b-8809-de7271790a09.json",
-    "source_class": "lda",
-    "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "877a6adc5377b79d91c7af7451f017a909466debe7cdb7653f65cecbe1184061",
+    "age_days": 0,
+    "sha256": "447e39332443903d55edde9b83379ed6d4e60026261fabd28b9eeb827d7f888d",
     "hash_ok": true
    },
    {
     "doc": "uber/lda/lda-e72bdfe6-b50d-4709-9703-06a9bc5d9543.json",
     "source_class": "lda",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "b4a902070c8ce5f12d68f29de8b7c85c6143894ad7c10f8eabda784af40f3304",
     "hash_ok": true
    },
    {
-    "doc": "uber/submissions.json",
+    "doc": "wmt/edgar-revenue.json",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "830473a3db5348a0831b05e555fa15fae94aaf57a6a27b879e4eb6376f7ddb40",
+    "age_days": 0,
+    "sha256": "893bc3ea04047ef0ff1962f41d64d642bed240c0fad5b555c532c1b2535ea76a",
     "hash_ok": true
    },
    {
-    "doc": "xom/10k-000003408825000010.html",
-    "source_class": "edgar",
+    "doc": "wmt/eu/eu-32024L1760.html",
+    "source_class": "eur_lex",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "ef8063b86ee33c8bcc1465c3c853752294a3397867621e1762c8fe45abf0ffc5",
+    "age_days": 0,
+    "sha256": "727260144e8f968673eb4d2c275606eb07f35035c18895ac58883cf0d51184b3",
+    "hash_ok": true
+   },
+   {
+    "doc": "wmt/fr/fr-2025-15010.json",
+    "source_class": "federal_register",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "c10392ab6ef6959edf1f8674d67e19ab3b983c425f537ddadb6ebffc8be64f25",
+    "hash_ok": true
+   },
+   {
+    "doc": "wmt/fr/fr-2025-17507.json",
+    "source_class": "federal_register",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "650155a747c27696da1dc78d23c20b5f866bc19d4b560bcebdc2d8c34d28ca1c",
     "hash_ok": true
    },
    {
     "doc": "xom/10k-000003408826000045.html",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
+    "hash_ok": null
+   },
+   {
+    "doc": "xom/10k-000003408826000045.legal-proceedings.txt",
+    "source_class": "edgar",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "41e8dfd050ca51224cd1017690ecbfc830bcc0b2b7c6649a234623e66bcc40a1",
     "hash_ok": true
    },
    {
-    "doc": "xom/companyfacts.json",
+    "doc": "xom/10k-000003408826000045.risk-factors.txt",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "9b95535419e5662e3deed01de803e83deead477a4c81316e1c45186368fdd8b8",
+    "age_days": 0,
+    "sha256": "b14a35e56edf00a9870ab3bb255a6cea9667aaf39a11317ac7930ff87f9d67c6",
     "hash_ok": true
    },
    {
     "doc": "xom/congress/hjres35-actions.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "09948460a15703c75647191ae286fd451249ead992e656e2ba8eb42c0ae816eb",
     "hash_ok": true
    },
@@ -2324,7 +3107,7 @@
     "doc": "xom/congress/hjres35-bill.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "6b796fda92427b2811c2a50f37b9d27eab4bfe0f1db1f218b58babd789b8dce6",
     "hash_ok": true
    },
@@ -2332,7 +3115,7 @@
     "doc": "xom/eu/eu-32022L2464.html",
     "source_class": "eur_lex",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "6ad8df8d05b75c4caf19c926db0afc86c725872bb3342c4d7cd2544dd6c29837",
     "hash_ok": true
    },
@@ -2340,7 +3123,7 @@
     "doc": "xom/eu/eu-32024R1787.html",
     "source_class": "eur_lex",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "231bfc7b994197536a3271ed37b8b8c3ecce9f2ce7e9625e7aff91caec07496f",
     "hash_ok": true
    },
@@ -2348,64 +3131,40 @@
     "doc": "xom/fr/fr-2024-26643.json",
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+    "age_days": 0,
+    "sha256": "30bdd74ab7d172e439316e5c83cb5a34687b43ea5c53c917f303eb202d42bc2c",
     "hash_ok": true
    },
    {
     "doc": "xom/fr/fr-2025-08688.json",
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "5e9369e57b154b2dcb40ddc545174103fb7ef8be5c3089a8dbb92f0f37abaa8e",
+    "age_days": 0,
+    "sha256": "01de8c8ef3a3bce0beb6afe3e6537c41a47746e5da8934a12bb5f14469cce947",
     "hash_ok": true
    },
    {
     "doc": "xom/fr/fr-2025-14531.json",
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "ebf59230ed6ea2c123c95032b41a881db380a16607968923ebe556225a27e3d3",
+    "age_days": 0,
+    "sha256": "47ee00bc7314e0818c419ff3299000b11ec47ef71d2de0b549c91b24bde41d9f",
     "hash_ok": true
    },
    {
     "doc": "xom/fr/fr-2026-11091.json",
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "799c22fa8551dbe8594402aeb7ed839b63b7e5517103959e845af00047a3543d",
-    "hash_ok": true
-   },
-   {
-    "doc": "xom/lda/lda-56f306d8-b4ca-426e-9312-735aaa92dfc9.json",
-    "source_class": "lda",
-    "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "a80b1929db7f867677cd92b180ab062f0da65594c7863a149a21035525904709",
+    "age_days": 0,
+    "sha256": "ea85f1ff0d15c3a2ecaf6433e0485c85878932c63405ab70cf358d449e31cc6d",
     "hash_ok": true
    },
    {
     "doc": "xom/lda/lda-5b0e6916-03f4-4b9f-be48-da93009dd2cb.json",
     "source_class": "lda",
     "retrieved_at": "2026-09-12",
-    "age_days": -1,
+    "age_days": 0,
     "sha256": "37d062935a1c3ea4bc4f77efe7dc4ef77b19210e636b1dd34c909a31abf254bd",
-    "hash_ok": true
-   },
-   {
-    "doc": "xom/lda/lda-e007df95-896a-4345-bdef-6825e1930d72.json",
-    "source_class": "lda",
-    "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "ca2a22e2ebf62821a7e2e904fc5ba8de603a83616b5d3b45a78119a1c093234f",
-    "hash_ok": true
-   },
-   {
-    "doc": "xom/submissions.json",
-    "source_class": "edgar",
-    "retrieved_at": "2026-09-12",
-    "age_days": -1,
-    "sha256": "7918818ea3045fb09fbb18d67537909a28feb245d693d0bd7cd3bc30b16ea3db",
     "hash_ok": true
    }
   ]

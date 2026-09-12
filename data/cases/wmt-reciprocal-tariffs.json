@@ -1,0 +1,168 @@
+{
+  "case_id": "wmt-reciprocal-tariffs",
+  "company_id": "wmt",
+  "title": "Reciprocal tariff regime on imported goods (Executive Order 14257 amendments)",
+  "issue_family": "trade policy",
+  "sub_issue": "reciprocal tariffs and import duties (US federal)",
+  "list": "current",
+  "business_activity": {
+    "activity_id": "wmt-us-retail-imports",
+    "name": "US retail sale of imported general merchandise and groceries",
+    "segment": "Walmart U.S.",
+    "geography": "US"
+  },
+  "jurisdiction": {
+    "level": "US federal",
+    "name": "United States (federal)"
+  },
+  "authority": "Executive Office of the President (executive orders under IEEPA); HTSUS modifications administered by CBP/USTR",
+  "policy_mechanism": "Cost or tax: executive orders imposing additional ad valorem duties on goods of trading partners at rates set in annexes, modifying the Harmonized Tariff Schedule of the United States (HTSUS), with scope adjustments tied to trade and security agreements",
+  "mechanism_chain": [
+    {
+      "text": "Executive orders published in the Federal Register impose additional ad valorem duties on goods of certain trading partners at annexed rates and modify the HTSUS, effective for goods entered for consumption on or after 12:01 a.m. EDT 7 days after the July/August 2025 order.",
+      "type": "direct"
+    },
+    {
+      "text": "A September 2025 order modifies the annex of exempted goods and states that, except in rare circumstances, the reciprocal tariff scope will not be narrowed before conclusion of a final trade and security agreement with the partner.",
+      "type": "direct"
+    },
+    {
+      "text": "As an import-reliant retailer, Walmart's cost of goods sold is exposed to these duties across sourcing countries; the company-level exposure (import share, vendor absorption, price pass-through) is not quantified in retrieved sources, so the magnitude is asserted at the regime level only.",
+      "type": "inferred"
+    }
+  ],
+  "events": [
+    {
+      "date": "2025-08-06",
+      "description": "Executive order 'Further Modifying the Reciprocal Tariff Rates' published in the Federal Register: additional ad valorem duties at Annex I rates in lieu of prior EO 14257 rates; HTSUS modified per Annex II, effective 7 days after the order",
+      "source_doc_id": "wmt/fr-2025-15010"
+    },
+    {
+      "date": "2025-09-10",
+      "description": "Executive order 'Modifying the Scope of Reciprocal Tariffs and Establishing Procedures to Implement Trade and Security Agreements' published: Annex II exemption list updated; scope narrowing tied to final agreements",
+      "source_doc_id": "wmt/fr-2025-17507"
+    }
+  ],
+  "financial_linkage": {
+    "level": "unknown",
+    "detail": "Consolidated FY2026 revenue $713.2B (SEC EDGAR XBRL us-gaap:Revenues, 10-K filed 2026-03-13; fiscal year ended 2026-01-31). No company-specific import or tariff-cost figures in retrieved sources; the tariff rates and product scope are published only at the regime level (annexes).",
+    "gap": "Company-level exposure cannot be derived from regime-level annexes without Walmart sourcing/import data - labeled Unknown per the financial linkage ladder."
+  },
+  "dimensions": {
+    "business_exposure": "Meaningful",
+    "policy_process_status": "Implementation",
+    "intervention_type": [
+      "Cost or tax"
+    ],
+    "time_horizon": "Current",
+    "evidence_confidence": "Medium",
+    "coverage": "Material gaps"
+  },
+  "rationale": "The tariff regime itself is directly evidenced by two executive orders in the Federal Register and is in force. Exposure is rated Meaningful rather than Core because the company linkage is inferred, not direct: Walmart is a large import-reliant retailer, but no retrieved source quantifies its import share or tariff cost, and SEC EDGAR company filings are blocked from the build environment. Evidence confidence is Medium for the same reason - the policy facts are High-confidence; the company-specific exposure rests on inference.",
+  "gaps": [
+    "SEC EDGAR 10-K full text for Walmart not yet snapshotted in this build - company tariff risk disclosure is pending, not absent. (EDGAR reachable via browser fetch; submissions and revenue concept retrieved.)",
+    "Senate LDA lobbying filings are likewise blocked (HTTP 403) - Walmart advocacy on trade policy is not covered in this build.",
+    "H.R.2743 (119th Congress, Raise the Wage Act of 2025) identified for wmt-us-workforce but not yet retrieved - Congress.gov API rate-limited the build environment during this run.",
+    "EU Corporate Sustainability Due Diligence Directive (2024/1760) retrieved as a candidate source but not yet curated into a case."
+  ],
+  "evidence": [
+    {
+      "evidence_id": "wmt-reciprocal-tariffs-e1",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/wmt/fr/fr-2025-15010.txt",
+      "meta_path": "data/raw/wmt/fr/fr-2025-15010.json.meta.json",
+      "doc_label": "Federal Register Presidential Document 2025-15010, Further Modifying the Reciprocal Tariff Rates",
+      "location": "body, determination",
+      "span": {
+        "start": "I have determined that it is necessary and appropriate to deal with the national emergency declared in Executive Order 14257 by imposing additional ad valorem duties",
+        "end": "in lieu of the additional ad valorem duties previously imposed on goods of such trading partners in Executive Order 14257, as amended."
+      },
+      "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
+      "publication_date": "2025-08-06",
+      "supports": [
+        "policy mechanism",
+        "policy process status"
+      ]
+    },
+    {
+      "evidence_id": "wmt-reciprocal-tariffs-e2",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/wmt/fr/fr-2025-15010.txt",
+      "meta_path": "data/raw/wmt/fr/fr-2025-15010.json.meta.json",
+      "doc_label": "Federal Register Presidential Document 2025-15010, Further Modifying the Reciprocal Tariff Rates",
+      "location": "Sec. 2 Tariff Modifications",
+      "span": {
+        "start": "The Harmonized Tariff Schedule of the United States (HTSUS) shall be modified as provided in Annex II to this order.",
+        "end": "These modifications shall be effective with respect to goods entered for consumption"
+      },
+      "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
+      "publication_date": "2025-08-06",
+      "supports": [
+        "policy mechanism",
+        "time horizon"
+      ]
+    },
+    {
+      "evidence_id": "wmt-reciprocal-tariffs-e3",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/wmt/fr/fr-2025-17507.txt",
+      "meta_path": "data/raw/wmt/fr/fr-2025-17507.json.meta.json",
+      "doc_label": "Federal Register Presidential Document 2025-17507, Modifying the Scope of Reciprocal Tariffs and Establishing Procedures for Implementing Trade and Security Agreements",
+      "location": "body, determination",
+      "span": {
+        "start": "I have determined that it is necessary and appropriate to modify Annex II to Executive Order 14257",
+        "end": "as shown in the updated version of Annex II that is attached to this order."
+      },
+      "source_url": "https://www.federalregister.gov/documents/2025/09/10/2025-17507/modifying-the-scope-of-reciprocal-tariffs-and-establishing-procedures-for-implementing-trade-and",
+      "publication_date": "2025-09-10",
+      "supports": [
+        "policy mechanism",
+        "policy process status"
+      ]
+    },
+    {
+      "evidence_id": "wmt-reciprocal-tariffs-e4",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/wmt/fr/fr-2025-17507.txt",
+      "meta_path": "data/raw/wmt/fr/fr-2025-17507.json.meta.json",
+      "doc_label": "Federal Register Presidential Document 2025-17507, Modifying the Scope of Reciprocal Tariffs",
+      "location": "body, scope commitment",
+      "span": {
+        "start": "Except in rare circumstances, I will refrain from narrowing the scope of the reciprocal tariff",
+        "end": "before the conclusion of a final trade and security agreement"
+      },
+      "source_url": "https://www.federalregister.gov/documents/2025/09/10/2025-17507/modifying-the-scope-of-reciprocal-tariffs-and-establishing-procedures-for-implementing-trade-and",
+      "publication_date": "2025-09-10",
+      "supports": [
+        "time horizon",
+        "policy process status"
+      ]
+    }
+  ],
+  "assessment_version": "1.0.0",
+  "review": {
+    "status": "pending_second_review",
+    "consequential": true,
+    "second_reviewer_required": true,
+    "reviewers": [
+      {
+        "id": "demo-analyst",
+        "role": "primary",
+        "reviewed_at": "2026-09-12",
+        "notes": "Reviewed against retrieved source snapshots; every evidence span re-verified verbatim by the build gate at publish time. Consequential (Implementation status) - held for a second human reviewer per REVIEW.md."
+      }
+    ],
+    "history": [
+      {
+        "at": "2026-09-12",
+        "reviewer": "demo-analyst",
+        "action": "created",
+        "reason": "Initial assessment built from retrieved official sources (Federal Register); company linkage labeled inferred; spans machine-validated at build."
+      }
+    ]
+  }
+}

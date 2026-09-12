@@ -1,0 +1,9 @@
+{
+  "doc_id": "meta/congress-s1748-summaries",
+  "slug": null,
+  "source": "Congress.gov API v3",
+  "source_url": "https://api.congress.gov/v3/bill/119/s/1748/summaries",
+  "retrieved_at": "2026-09-12T15:57:36Z",
+  "sha256": "ed4c5b9e34f5146d3bad9279cb1084c123fd8c29a1922fa8f67c50b39c3a5bef",
+  "bytes": 2257
+}

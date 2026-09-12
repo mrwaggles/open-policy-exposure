@@ -10,8 +10,20 @@
       "fy2025_consolidated_revenue_usd": 201000000000,
       "revenue_source": "SEC EDGAR XBRL companyfacts, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, FY2025 10-K",
       "business_activities": [
-        {"activity_id": "meta-foa", "name": "Family of Apps advertising and social products", "segment": "Family of Apps", "geography": "Global / US", "financial_linkage": "Segment level reported; product-level (minors) not reported"},
-        {"activity_id": "meta-rl", "name": "Reality Labs", "segment": "Reality Labs", "geography": "Global", "financial_linkage": "Segment level reported"}
+        {
+          "activity_id": "meta-foa",
+          "name": "Family of Apps advertising and social products",
+          "segment": "Family of Apps",
+          "geography": "Global / US",
+          "financial_linkage": "Segment level reported; product-level (minors) not reported"
+        },
+        {
+          "activity_id": "meta-rl",
+          "name": "Reality Labs",
+          "segment": "Reality Labs",
+          "geography": "Global",
+          "financial_linkage": "Segment level reported"
+        }
       ]
     },
     {
@@ -24,8 +36,20 @@
       "fy2025_consolidated_revenue_usd": 52000000000,
       "revenue_source": "SEC EDGAR XBRL companyfacts, us-gaap:Revenues, FY2025 10-K",
       "business_activities": [
-        {"activity_id": "uber-mobility", "name": "Mobility (rideshare) using independent-contractor drivers", "segment": "Mobility", "geography": "Global / US", "financial_linkage": "Segment level reported; jurisdiction-level driver economics not reported"},
-        {"activity_id": "uber-av", "name": "Autonomous vehicle partnerships on platform", "segment": "Mobility (emerging)", "geography": "US first", "financial_linkage": "Unknown (no separate disclosure)"}
+        {
+          "activity_id": "uber-mobility",
+          "name": "Mobility (rideshare) using independent-contractor drivers",
+          "segment": "Mobility",
+          "geography": "Global / US",
+          "financial_linkage": "Segment level reported; jurisdiction-level driver economics not reported"
+        },
+        {
+          "activity_id": "uber-av",
+          "name": "Autonomous vehicle partnerships on platform",
+          "segment": "Mobility (emerging)",
+          "geography": "US first",
+          "financial_linkage": "Unknown (no separate disclosure)"
+        }
       ]
     },
     {
@@ -38,8 +62,72 @@
       "fy2025_consolidated_revenue_usd": 332200000000,
       "revenue_source": "SEC EDGAR XBRL companyfacts, us-gaap:Revenues, FY2025 10-K",
       "business_activities": [
-        {"activity_id": "xom-upstream-us", "name": "US upstream oil and natural gas production", "segment": "Upstream", "geography": "US", "financial_linkage": "Geographic results partially reported; facility-level methane exposure not reported"},
-        {"activity_id": "xom-reporting", "name": "SEC registrant disclosure obligations", "segment": "Corporate", "geography": "US", "financial_linkage": "Not applicable (compliance cost only)"}
+        {
+          "activity_id": "xom-upstream-us",
+          "name": "US upstream oil and natural gas production",
+          "segment": "Upstream",
+          "geography": "US",
+          "financial_linkage": "Geographic results partially reported; facility-level methane exposure not reported"
+        },
+        {
+          "activity_id": "xom-reporting",
+          "name": "SEC registrant disclosure obligations",
+          "segment": "Corporate",
+          "geography": "US",
+          "financial_linkage": "Not applicable (compliance cost only)"
+        }
+      ]
+    },
+    {
+      "company_id": "pfe",
+      "name": "Pfizer Inc.",
+      "ticker": "PFE",
+      "cik": "0000078003",
+      "type": "US public company",
+      "structure": "Global biopharmaceutical company (primary care, specialty care, oncology)",
+      "fy2025_consolidated_revenue_usd": 62579000000,
+      "revenue_source": "SEC EDGAR XBRL companyconcept, us-gaap:Revenues, FY2025 10-K (period 2025-01-01 to 2025-12-31, filed 2026-02-26)",
+      "business_activities": [
+        {
+          "activity_id": "pfe-medicare-portfolio",
+          "name": "Medicare Part D-covered prescription drugs, incl. Ibrance (palbociclib)",
+          "segment": "Biopharma",
+          "geography": "US",
+          "financial_linkage": "Product-level Medicare exposure partially visible via CMS negotiated-price publication; company segment linkage pending SEC EDGAR"
+        },
+        {
+          "activity_id": "pfe-eu-pharma",
+          "name": "EU market authorization holder for prescription medicines",
+          "segment": "Biopharma",
+          "geography": "EU",
+          "financial_linkage": "Unknown (no jurisdiction-level disclosure in retrieved sources)"
+        }
+      ]
+    },
+    {
+      "company_id": "wmt",
+      "name": "Walmart Inc.",
+      "ticker": "WMT",
+      "cik": "0000104169",
+      "type": "US public company",
+      "structure": "Omnichannel retailer (Walmart U.S., Walmart International, Sam's Club)",
+      "fy2025_consolidated_revenue_usd": 713163000000,
+      "revenue_source": "SEC EDGAR XBRL companyconcept, us-gaap:Revenues, FY2026 10-K (period 2025-02-01 to 2026-01-31, filed 2026-03-13; Walmart fiscal year ends Jan 31)",
+      "business_activities": [
+        {
+          "activity_id": "wmt-us-retail-imports",
+          "name": "US retail sale of imported general merchandise and groceries",
+          "segment": "Walmart U.S.",
+          "geography": "US",
+          "financial_linkage": "Import-cost exposure to tariffs asserted at economy level; company import share not quantified in retrieved sources"
+        },
+        {
+          "activity_id": "wmt-us-workforce",
+          "name": "US hourly retail workforce",
+          "segment": "Walmart U.S.",
+          "geography": "US",
+          "financial_linkage": "Wage-policy exposure; company wage bill not quantified in retrieved sources"
+        }
       ]
     }
   ]

@@ -1,0 +1,105 @@
+{
+  "abstract": "The Centers for Medicare & Medicaid Services (CMS) is announcing the availability of CMS' final guidance for the second cycle of the Medicare Drug Price Negotiation Program and manufacturer effectuation of the maximum fair price in 2026 and 2027 for the implementation of the Inflation Reduction Act. This and other Inflation Reduction Act-related guidance can be viewed on the dedicated Inflation Reduction Act section of the CMS website at https://www.cms.gov/ inflation-reduction-act-and-medicare/.",
+  "action": "Notice.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+      "name": "Health and Human Services Department",
+      "id": 221,
+      "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+      "parent_id": null,
+      "slug": "health-and-human-services-department"
+    },
+    {
+      "raw_name": "Centers for Medicare & Medicaid Services",
+      "name": "Centers for Medicare & Medicaid Services",
+      "id": 45,
+      "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+      "parent_id": 221,
+      "slug": "centers-for-medicare-medicaid-services"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2024/10/10/2024-23418.html",
+  "cfr_references": [],
+  "citation": "89 FR 82245",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": null,
+  "disposition_notes": null,
+  "docket_ids": [
+    "CMS-1800-N4"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "CMS",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2024-10-10",
+          "updated_at": "2024-10-10T08:03:17.333-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/CMS_FRDOC_0001-3988",
+          "allow_late_comments": false,
+          "id": "CMS_FRDOC_0001-3988",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "CMS_FRDOC_0001",
+      "title": "Recently Posted CMS Rules and Notices."
+    }
+  ],
+  "document_number": "2024-23418",
+  "effective_on": null,
+  "end_page": 82245,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2024/10/10/2024-23418.xml",
+  "html_url": "https://www.federalregister.gov/documents/2024/10/10/2024-23418/inflation-reduction-act-ira-medicare-drug-price-negotiation-program-final-guidance",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2024-23418?publication_date=2024-10-10",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2024-10-10/2024-23418/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 1,
+  "page_views": {
+    "count": 1155,
+    "last_updated": "2026-09-12 10:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2024-10-10/pdf/2024-23418.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2024-23418.pdf?1728477920",
+  "publication_date": "2024-10-10",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2024/10/10/2024-23418.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "comments_count": 0,
+    "agency_id": "CMS",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=CMS_FRDOC_0001",
+    "supporting_documents_count": 0,
+    "docket_id": "CMS_FRDOC_0001",
+    "document_id": "CMS_FRDOC_0001-3988",
+    "regulation_id_number": null,
+    "title": "Recently Posted CMS Rules and Notices.",
+    "checked_regulationsdotgov_at": "2024-10-11T11:00:14Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 82245,
+  "subtype": null,
+  "title": "Inflation Reduction Act (IRA) Medicare Drug Price Negotiation Program Final Guidance",
+  "toc_doc": "Inflation Reduction Act Medicare Drug Price Negotiation Program",
+  "toc_subject": "Guidance",
+  "topics": [],
+  "type": "Notice",
+  "volume": 89
+}

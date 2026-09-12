@@ -1,0 +1,8 @@
+{
+  "doc_id": "wmt/edgar-revenue",
+  "source": "SEC EDGAR XBRL companyconcept API",
+  "source_url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0000104169/us-gaap/Revenues.json",
+  "retrieved_at": "2026-09-12T15:58:34Z",
+  "sha256": "893bc3ea04047ef0ff1962f41d64d642bed240c0fad5b555c532c1b2535ea76a",
+  "bytes": 318
+}

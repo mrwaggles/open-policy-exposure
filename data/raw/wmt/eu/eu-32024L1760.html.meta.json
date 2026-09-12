@@ -1,0 +1,11 @@
+{
+ "source": "EUR-Lex Cellar SPARQL + REST",
+ "doc_id": "32024L1760",
+ "label": "Corporate Sustainability Due Diligence Directive (Directive (EU) 2024/1760)",
+ "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1760",
+ "cellar_manifestation": "http://publications.europa.eu/resource/cellar/a416fd73-3a66-11ef-a1cb-01aa75ed71a1.0006.03",
+ "publication_date": "2024-06-13",
+ "retrieved_at": "2026-09-12T15:50:31Z",
+ "sha256": "727260144e8f968673eb4d2c275606eb07f35035c18895ac58883cf0d51184b3",
+ "bytes": 543650
+}

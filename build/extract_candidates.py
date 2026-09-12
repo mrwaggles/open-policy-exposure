@@ -22,6 +22,15 @@ ISSUES = {
   ("autonomous vehicles", [r"autonomous vehicle", r"\bAVs?\b", r"self-driving"]),
   ("EU platform work rules", [r"platform work", r"presumption of employment", r"platform worker"]),
  ],
+ "pfe": [
+  ("drug pricing and negotiation", [r"maximum fair price", r"Medicare Drug Price Negotiation", r"\bIRA\b", r"Inflation Reduction Act", r"price setting"]),
+  ("EU pharmaceutical legislation", [r"regulatory data protection", r"marketing authori[sz]ation", r"pharmaceutical legislation", r"\bEMA\b", r"European Medicines Agency"]),
+ ],
+ "wmt": [
+  ("tariffs and import costs", [r"\btariffs?\b", r"ad valorem duties", r"reciprocal tariff", r"import(?:s|ed|ing)? .*dut(?:y|ies)"]),
+  ("minimum wage and labor", [r"minimum wage", r"Raise the Wage", r"\bhourly wage", r"\bwages?\b"]),
+  ("EU supply chain due diligence", [r"due diligence", r"Corporate Sustainability Due Diligence", r"\bCSDDD\b", r"supply chain .*human rights"]),
+ ],
  "xom": [
   ("methane regulation", [r"\bmethane\b", r"\bOGMP\b", r"New Source Performance Standards", r"\bOOOO\b"]),
   ("climate disclosure", [r"climate-related", r"greenhouse gas", r"\bGHG\b", r"Scope [123]", r"emissions? (?:reporting|disclosure|reduction)"]),

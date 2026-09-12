@@ -16,7 +16,7 @@
     coverage: "Coverage"
   };
   const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-  const money = v => "$" + (v/1e9).toFixed(1) + "B";
+  const money = v => v == null ? "pending (SEC EDGAR blocked)" : "$" + (v/1e9).toFixed(1) + "B";
 
   function badges(c) {
     const warn = c.dimensions.coverage !== "Sufficient";
@@ -38,7 +38,7 @@
     const cases = d.cases.filter(c => c.company_id === cid);
     overview.innerHTML = `<div class="ov">
       <h2>${esc(co.name)}</h2><span class="tick">${esc(co.ticker)} &middot; CIK ${esc(co.cik)}</span>
-      <span class="rev">FY2025 consolidated revenue ${money(co.fy2025_consolidated_revenue_usd)}<br>
+      <span class="rev">Latest annual revenue (10-K) ${money(co.fy2025_consolidated_revenue_usd)}<br>
       <small>${esc(co.revenue_source)}</small></span>
       <span class="struct">${esc(co.structure)}</span>
     </div>`;

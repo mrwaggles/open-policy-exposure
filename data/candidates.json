@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11",
+ "generated_at": "2026-09-12",
  "extractor": "keyword-window v1 (deterministic regex over immutable snapshots)",
  "note": "UNREVIEWED CANDIDATES - machine-surfaced passages awaiting human review per REVIEW.md. Not findings.",
  "items": [
@@ -14,14 +14,14 @@
     "platform regulation"
    ],
    "span": {
-    "doc_path": "data/raw/meta/10k-000132680125000017.txt",
-    "meta_path": "data/raw/meta/10k-000132680125000017.html.meta.json",
-    "doc_label": "SEC 10-K filing (10k-000132680125000017.txt)",
+    "doc_path": "data/raw/meta/10k-000162828026003942.legal-proceedings.txt",
+    "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000162828026003942.legal-proceedings.txt)",
     "location": "sentence window around pattern match",
     "tier": "B",
     "start": "On May 16, 2024, the European Commission opened ",
     "end": "esign and functioning of Instagram and Facebook.",
-    "publication_date": "2025-01-30"
+    "publication_date": "2026-01-29"
    }
   },
   {
@@ -55,14 +55,14 @@
     "platform regulation"
    ],
    "span": {
-    "doc_path": "data/raw/meta/10k-000132680125000017.risk-factors.txt",
-    "meta_path": "data/raw/meta/10k-000132680125000017.html.meta.json",
-    "doc_label": "SEC 10-K filing (10k-000132680125000017.risk-factors.txt)",
+    "doc_path": "data/raw/meta/10k-000162828026003942.legal-proceedings.txt",
+    "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000162828026003942.legal-proceedings.txt)",
     "location": "sentence window around pattern match",
     "tier": "B",
     "start": "For example, in March 2024, the European Commiss",
-    "end": "t will conclude its investigation in March 2025.",
-    "publication_date": "2025-01-30"
+    "end": "and it issued preliminary findings in July 2024.",
+    "publication_date": "2026-01-29"
    }
   },
   {
@@ -72,17 +72,18 @@
    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
    "confidence": "medium",
    "issue_hints": [
+    "children and teen privacy / safety",
     "platform regulation"
    ],
    "span": {
-    "doc_path": "data/raw/meta/10k-000132680125000017.risk-factors.txt",
-    "meta_path": "data/raw/meta/10k-000132680125000017.html.meta.json",
-    "doc_label": "SEC 10-K filing (10k-000132680125000017.risk-factors.txt)",
+    "doc_path": "data/raw/meta/10k-000162828026003942.legal-proceedings.txt",
+    "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000162828026003942.legal-proceedings.txt)",
     "location": "sentence window around pattern match",
     "tier": "B",
-    "start": "Further, the Digital Services Act (DSA), which s",
-    "end": "cludes significant penalties for non-compliance.",
-    "publication_date": "2025-01-30"
+    "start": "In addition, we are subject to inquiries and inv",
+    "end": "ormation, and minors and other vulnerable users.",
+    "publication_date": "2026-01-29"
    }
   },
   {
@@ -132,17 +133,18 @@
    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
    "confidence": "medium",
    "issue_hints": [
+    "EU platform work rules",
     "driver classification"
    ],
    "span": {
-    "doc_path": "data/raw/uber/10k-000154315125000008.risk-factors.txt",
-    "meta_path": "data/raw/uber/10k-000154315125000008.html.meta.json",
-    "doc_label": "SEC 10-K filing (10k-000154315125000008.risk-factors.txt)",
+    "doc_path": "data/raw/uber/10k-000154315126000015.risk-factors.txt",
+    "meta_path": "data/raw/uber/10k-000154315126000015.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000154315126000015.risk-factors.txt)",
     "location": "sentence window around pattern match",
     "tier": "B",
-    "start": "Other examples of judicial decisions include a d",
-    "end": "ing of the taxi collective bargaining agreement.",
-    "publication_date": "2025-02-14"
+    "start": "The agreement invites collaboration on topics su",
+    "end": " to pioneer protections for independent workers.",
+    "publication_date": "2026-02-13"
    }
   },
   {
@@ -152,17 +154,16 @@
    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
    "confidence": "medium",
    "issue_hints": [
-    "EU platform work rules",
     "driver classification"
    ],
    "span": {
-    "doc_path": "data/raw/uber/10k-000154315126000015.legal-proceedings.txt",
+    "doc_path": "data/raw/uber/10k-000154315126000015.risk-factors.txt",
     "meta_path": "data/raw/uber/10k-000154315126000015.html.meta.json",
-    "doc_label": "SEC 10-K filing (10k-000154315126000015.legal-proceedings.txt)",
+    "doc_label": "SEC 10-K filing (10k-000154315126000015.risk-factors.txt)",
     "location": "sentence window around pattern match",
     "tier": "B",
-    "start": "The agreement invites collaboration on topics su",
-    "end": " to pioneer protections for independent workers.",
+    "start": "Other examples of judicial decisions include a d",
+    "end": "ing of the taxi collective bargaining agreement.",
     "publication_date": "2026-02-13"
    }
   },
@@ -176,14 +177,14 @@
     "driver classification"
    ],
    "span": {
-    "doc_path": "data/raw/uber/10k-000154315126000015.legal-proceedings.txt",
-    "meta_path": "data/raw/uber/10k-000154315126000015.html.meta.json",
-    "doc_label": "SEC 10-K filing (10k-000154315126000015.legal-proceedings.txt)",
+    "doc_path": "data/raw/uber/fr/fr-2024-00067.txt",
+    "meta_path": "data/raw/uber/fr/fr-2024-00067.json.meta.json",
+    "doc_label": "Federal Register document (fr-2024-00067.txt)",
     "location": "sentence window around pattern match",
-    "tier": "B",
-    "start": "Other examples of judicial decisions include a d",
-    "end": "ing of the taxi collective bargaining agreement.",
-    "publication_date": "2026-02-13"
+    "tier": "A",
+    "start": "<html> <head> <title>Federal Register, Volume 89",
+    "end": "CY: Wage and Hour Division, Department of Labor.",
+    "publication_date": "unknown"
    }
   },
   {
@@ -201,8 +202,8 @@
     "doc_label": "Federal Register document (fr-2024-00067.txt)",
     "location": "sentence window around pattern match",
     "tier": "A",
-    "start": "<html> <head> <title>Federal Register, Volume 89",
-    "end": "CY: Wage and Hour Division, Department of Labor.",
+    "start": "In January 2021, the Department published a rule",
+    "end": "yee or an independent contractor under the FLSA.",
     "publication_date": "unknown"
    }
   },
@@ -245,6 +246,246 @@
     "start": "(7) Court cases in several Member States have sh",
     "end": "exert a certain degree of direction and control.",
     "publication_date": "2024-10-23"
+   }
+  },
+  {
+   "candidate_id": "cand-pfe-01",
+   "company_id": "pfe",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "drug pricing and negotiation"
+   ],
+   "span": {
+    "doc_path": "data/raw/pfe/cms/cms-negotiated-prices-ipay-2027.txt",
+    "meta_path": "data/raw/pfe/cms/cms-negotiated-prices-ipay-2027.txt.meta.json",
+    "doc_label": "source document (cms-negotiated-prices-ipay-2027.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "B",
+    "start": "In accordance with the Inflation Reduction Act o",
+    "end": "nitial offers, revised offers, and final offers.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-pfe-02",
+   "company_id": "pfe",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "drug pricing and negotiation"
+   ],
+   "span": {
+    "doc_path": "data/raw/pfe/cms/cms-negotiated-prices-ipay-2027.txt",
+    "meta_path": "data/raw/pfe/cms/cms-negotiated-prices-ipay-2027.txt.meta.json",
+    "doc_label": "source document (cms-negotiated-prices-ipay-2027.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "B",
+    "start": "In accordance with the Inflation Reduction Act of 2022, the negotiated price will apply to a sel",
+    "end": "lected drug so long as the selected drug remains in the Medicare Drug Price Negotiation Program.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-pfe-03",
+   "company_id": "pfe",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "drug pricing and negotiation"
+   ],
+   "span": {
+    "doc_path": "data/raw/pfe/cms/cms-second-cycle-selected-drugs.txt",
+    "meta_path": "data/raw/pfe/cms/cms-second-cycle-selected-drugs.txt.meta.json",
+    "doc_label": "source document (cms-second-cycle-selected-drugs.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "B",
+    "start": "In accordance with the Inflation Reduction Act, ",
+    "end": "negotiated prices will become effective in 2027.",
+    "publication_date": "2025-01-17"
+   }
+  },
+  {
+   "candidate_id": "cand-pfe-04",
+   "company_id": "pfe",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "drug pricing and negotiation"
+   ],
+   "span": {
+    "doc_path": "data/raw/pfe/cms/cms-second-cycle-selected-drugs.txt",
+    "meta_path": "data/raw/pfe/cms/cms-second-cycle-selected-drugs.txt.meta.json",
+    "doc_label": "source document (cms-second-cycle-selected-drugs.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "B",
+    "start": "HHS will continue negotiating in the best intere",
+    "end": "decide if they will participate in negotiations.",
+    "publication_date": "2025-01-17"
+   }
+  },
+  {
+   "candidate_id": "cand-pfe-05",
+   "company_id": "pfe",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "drug pricing and negotiation"
+   ],
+   "span": {
+    "doc_path": "data/raw/pfe/fr/fr-2024-23418.txt",
+    "meta_path": "data/raw/pfe/fr/fr-2024-23418.json.meta.json",
+    "doc_label": "Federal Register document (fr-2024-23418.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "<html> <head> <title>Federal Register, Volume 89",
+    "end": "icaid Services, Health and Human Services (HHS).",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-pfe-06",
+   "company_id": "pfe",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "drug pricing and negotiation"
+   ],
+   "span": {
+    "doc_path": "data/raw/pfe/fr/fr-2024-23418.txt",
+    "meta_path": "data/raw/pfe/fr/fr-2024-23418.json.meta.json",
+    "doc_label": "Federal Register document (fr-2024-23418.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "ACTION: Notice. --------------------------------",
+    "end": "e implementation of the Inflation Reduction Act.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-wmt-01",
+   "company_id": "wmt",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "tariffs and import costs"
+   ],
+   "span": {
+    "doc_path": "data/raw/wmt/fr/fr-2025-15010.txt",
+    "meta_path": "data/raw/wmt/fr/fr-2025-15010.json.meta.json",
+    "doc_label": "Federal Register document (fr-2025-15010.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "<html> <head> <title>Federal Register, Volume 90",
+    "end": "s Code, I hereby determine and order: Section 1.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-wmt-02",
+   "company_id": "wmt",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "tariffs and import costs"
+   ],
+   "span": {
+    "doc_path": "data/raw/wmt/fr/fr-2025-17507.txt",
+    "meta_path": "data/raw/wmt/fr/fr-2025-17507.json.meta.json",
+    "doc_label": "Federal Register document (fr-2025-17507.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "Nationals From Wrongful Detention Abroad \u0000 \u0000 \u0000 P",
+    "end": "ed States Code, it is hereby ordered: Section 1.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-wmt-03",
+   "company_id": "wmt",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "low",
+   "issue_hints": [
+    "tariffs and import costs"
+   ],
+   "span": {
+    "doc_path": "data/raw/wmt/fr/fr-2025-15010.txt",
+    "meta_path": "data/raw/wmt/fr/fr-2025-15010.json.meta.json",
+    "doc_label": "Federal Register document (fr-2025-15010.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "In Executive Order 14257 of April 2, 2025 (Regul",
+    "end": "e or substantial part outside the United States.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-wmt-04",
+   "company_id": "wmt",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "low",
+   "issue_hints": [
+    "tariffs and import costs"
+   ],
+   "span": {
+    "doc_path": "data/raw/wmt/fr/fr-2025-15010.txt",
+    "meta_path": "data/raw/wmt/fr/fr-2025-15010.json.meta.json",
+    "doc_label": "Federal Register document (fr-2025-15010.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "These modifications shall be effective with resp",
+    "end": "ly imposed in Executive Order 14257, as amended.",
+    "publication_date": "unknown"
+   }
+  },
+  {
+   "candidate_id": "cand-wmt-05",
+   "company_id": "wmt",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "EU supply chain due diligence"
+   ],
+   "span": {
+    "doc_path": "data/raw/wmt/eu/eu-32024L1760.txt",
+    "meta_path": "data/raw/wmt/eu/eu-32024L1760.html.meta.json",
+    "doc_label": "EUR-Lex act (EU primary law) (eu-32024L1760.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "L_202401760EN.000101.fmx.xml Official Journal of",
+    "end": "al Rights of the European Union (the \u2018Charter\u2019).",
+    "publication_date": "2024-06-13"
+   }
+  },
+  {
+   "candidate_id": "cand-wmt-06",
+   "company_id": "wmt",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "EU supply chain due diligence"
+   ],
+   "span": {
+    "doc_path": "data/raw/wmt/eu/eu-32024L1760.txt",
+    "meta_path": "data/raw/wmt/eu/eu-32024L1760.html.meta.json",
+    "doc_label": "EUR-Lex act (EU primary law) (eu-32024L1760.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "(15) The European Parliament, in its resolution ",
+    "end": "ause harm by failing to carry out due diligence.",
+    "publication_date": "2024-06-13"
    }
   },
   {

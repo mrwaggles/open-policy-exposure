@@ -1,0 +1,167 @@
+June 2023 — cms.gov
+
+Medicare Drug Price Negotiation Program: 
+Negotiated Prices for Initial Price Applicability 
+Year 2027 CENTERS FOR MEDICARE & MEDICAID SERVICES NEGOTIATION PROGRAM 
+
+## MEDICARE
+
+Under the Medicare Drug Price Negotiation Program, the Centers for Medicare & Medicaid Services (CMS) directly negotiates the prices of certain high expenditure, single source drugs without generic or biosimilar competition. CMS selected 15 drugs covered under Medicare Part D for the second cycle of negotiations, i.e., for initial price applicability year 2027, and engaged in voluntary negotiations with participating drug companies for the selected drugs. Below is the list of negotiated prices, which the statute refers to as maximum fair prices (MFPs), for the 15 selected drugs covered under Medicare Part D that will go into effect beginning January 1, 2027, based on negotiations and agreements reached between CMS and participating drug companies. CMS negotiated in good faith consistent with the requirements of the law on behalf of people with Medicare and the Medicare program. Throughout the negotiation process, the CMS team took into account the factors outlined in the law in negotiating these prices, which support the need for innovation and drug development as well as better prices for people with Medicare and the Medicare program. CMS engaged in genuine, thoughtful negotiations with each participating drug company. CMS developed an initial offer for each drug, consistent with the process described in the statute and the agency’s guidance, and each participating drug company responded with a counteroffer. CMS held three meetings with each participating drug company to discuss the offers and counteroffers, discuss evidence, and attempt to arrive at a mutually acceptable price for the drug. During the course of the negotiation process, CMS revised its offers for each of the drugs upward in response to these discussions. Likewise, each participating drug company revised their counteroffers for their drugs downward, based on the discussions with CMS. For eight of the selected drugs, this process of exchanging revised offers and counteroffers resulted in CMS and the participating drug company reaching an agreement on a negotiated price for the drug in a negotiation meeting or via additional price exchanges outside of a negotiation meeting. In seven of these cases, CMS accepted a revised counteroffer proposed by the participating drug company. For the remaining seven selected drugs, CMS sent a written final offer to those participating drug companies, consistent with the process described in its guidance, and in each instance, the participating drug company accepted CMS’ written final offer on or before the statutory deadline.
+
+### Impact of the Negotiated Prices
+
+Overall Medicare Spending and Out-of-Pocket Spending in 2024: For the time period between January 1, 2024, and December 31, 2024, about 5.3 million of the 53 million people with Medicare Part D coverage were dispensed these drugs to treat a variety of conditions, such as cancer, diabetes, and asthma. These selected drugs accounted for $42.5 billion in total Part D gross covered prescription drug costs, or about 15% of total Part D gross covered prescription drug costs during 2024. During that same time period, people with Medicare Part D prescription drug coverage spent $1.7 billion out of pocket for these drugs selected for negotiation. Estimated Medicare Net Savings in 2024: Compared to the 2024 Medicare spending net of all rebates and certain fees and payments, if the prices agreed to between CMS and participating drug companies under the Negotiation Program had been in effect during 2024, the negotiated prices would have saved an estimated $12 billion in net covered prescription drug costs, which would have amounted to approximately 44% lower net spending in aggregate. This estimate does not account for Coverage Gap Discount Program (CGDP) spending. If CGDP spending were included the estimated savings would be about $8.5 billion and about 36% in lower net aggregate spending. Projected Savings for People with Medicare Part D Coverage: When the negotiated prices go into effect in 2027, people enrolled in Medicare prescription drug coverage would save under the defined standard benefit design an estimated $685 million in out-of-pocket costs.
+
+List Price for 30-day Supply, CY 2024
+
+Agreed to Negotiated Price for 30day Supply for CY 2027
+
+Discount of Negotiated Price from 2024 List Price
+
+Total Part D Gross Covered Prescription Drug Costs, CY 2024
+
+Number of Medicare Part D Enrollees Who Used the Drug, CY 2024
+
+Drug Name Participating Drug Company
+
+Commonly Treated Conditions
+
+$274 $959 71% $15,161,908,000 2,282,000
+
+Ozempic; Rybelsus; Wegovy
+
+Novo Nordisk Inc. Type 2 diabetes; Type 2 diabetes and cardiovascular disease; Cardiovascular disease and obesity/ overweight
+
+$175 $654 73% $5,296,660,000 1,269,000
+
+Asthma; Chronic obstructive pulmonary disease
+
+Trelegy Ellipta GlaxoSmithKline Intellectual Prop erty Development Ltd. England
+
+Prostate cancer $7,004 $13,480 48% $3,401,099,000 35,000
+
+Xtandi Astellas Pharma US, Inc.
+
+$8,650 $21,744 60% $2,150,644,000 14,000
+
+Kaposi sarcoma; Multiple myeloma
+
+Pomalyst Bristol-Myers Squibb Company
+
+| Ofev | | Boehringer | | | Idiopathic pulmonary | | | $6,350 | | | | $12,622 | | | 50% | $2,087,330,000 | 24,000 | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | Ingelheim | | | fibrosis | | | | | | | | | | | | | | |
+| | | Pharmaceuticals, | | | | | | | | | | | | | | | | | |
+
+Inc.
+
+$136 $539 75% $1,982,587,000 632,000
+
+Ibrance Pfizer Inc. Breast cancer $7,871 $15,741 50% $2,036,178,000 16,000 
+Linzess AbbVie Inc. Chronic idiopathic 
+constipation; Irritable 
+bowel syndrome with 
+constipation 
+
+$8,600 $14,228 40% $1,703,116,000 15,000
+
+Calquence AstraZeneca UK Limited
+
+Chronic lymphocytic leukemia/small lymphocytic lymphoma; Mantle cell lymphoma
+
+$4,093 $6,623 38% $1,675,176,000 27,000
+
+Austedo; Austedo XR
+
+Teva Branded Pharmaceutical Products R&D LLC
+
+Chorea in Huntington’s disease; Tardive dyskinesia
+
+$67 $397 83% $1,428,106,000 626,000
+
+Asthma; Chronic obstructive pulmonary disease
+
+Breo Ellipta GlaxoSmithKline Intellectual Prop erty Development Ltd. England
+
+$1,000 $2,696 63% $1,158,988,000 105,000
+
+Xifaxan Salix Pharmaceuticals Inc.
+
+Hepatic encephalopathy; Irritable bowel syndrome with diarrhea
+
+$770 $1,376 44% $1,136,814,000 118,000
+
+Vraylar AbbVie Inc. Bipolar I disorder; Major depressive disorder; Schizophrenia
+
+Type 2 diabetes $78 $488 84% $1,128,335,000 274,000
+
+Tradjenta Boehringer Ingelheim Pharmaceuticals, Inc.
+
+Type 2 diabetes $80 $526 85% $1,067,594,000 239,000
+
+Janumet; Janumet XR
+
+Merck Sharp & Dohme LLC
+
+$1,650 $4,722 65% $1,045,443,000 31,000
+
+Otezla; Otezla XR Amgen Inc. Oral ulcers in Behçet’s Disease; Plaque psoriasis; Psoriatic arthritis
+
+### Q: How did CMS structure the negotiation process with the drug companies of selected drugs?
+
+CMS is implementing the Negotiation Program with the goal of promoting transparency and engagement. As discussed in detail in the final guidance for initial price applicability year 2027, CMS set out a process for the second cycle of negotiations that engaged participating drug companies and the public throughout. The process included several steps, such as:
+
+• Participating drug companies and the public had an opportunity to submit data and information on the selected drugs to CMS by March 1, 2025. 
+• During the Spring of 2025, CMS invited each participating drug company to engage in a meeting on its data submission. Additionally, CMS held patient-focused roundtable events for each selected drug with patients, patient advocacy organizations, and caregivers and one town hall meeting for all selected drugs, focused on the clinical considerations related to the selected drugs. 
+• CMS sent an initial offer to the participating drug company reflecting CMS’ proposal for a negotiated price and a concise justification of the initial offer by June 1, 2025. In developing an initial offer, CMS considered the factors set out by the statute, including evidence related to therapeutic 
+
+alternatives as well as other factors, such as unit costs of production and distribution of the selected drug.
+
+• Participating drug companies had 30 days to respond to the initial offer by accepting the offer or providing a counteroffer, if desired. 
+• After receiving counteroffers from participating drug companies, CMS and each participating drug company conducted three negotiation meetings during Summer/Fall 2025. 
+• The negotiation period ended on November 1, 2025. 
+
+Q: What information did CMS consider during the negotiations with participating drug companies? In accordance with the Inflation Reduction Act of 2022, CMS considered the statutory factors listed at section 1194(e) of the Social Security Act in determining its initial offers, revised offers, and final offers. Specifically, for the factors listed at section 1194(e)(1), CMS considered information reported by participating drug companies. This included manufacturer-submitted data on research and development costs and the extent to which such costs were recouped, prior federal financial support, unit costs of production and distribution, market/revenue/sales data, and information on patents, FDA exclusivities, and FDA applications and approvals. For the factors listed at
+
+Note: Numbers other than prices are rounded to the nearest thousands. List prices are rounded to the nearest dollar and represent 
+the Wholesale Acquisition Costs (WACs) for the selected drugs based on 30-day supply using CY 2024 prescription fills. Drug 
+companies’ participation in the Negotiation Program is voluntary; the figures above represent estimates based on continued drug 
+company participation in the Medicare program. 
+A file demonstrating how the MFP applies across dosage forms and strengths of each selected drug is available on the 
+CMS website. For example, for the selected drug with the highest total gross covered prescription drug costs under 
+Part D in 2024, Ozempic; Rybelsus; Wegovy, the MFP applied across three commonly used dosage forms and strengths 
+will be: 
+NDC-11 Description of package MFP per package 
+00169-4130-13 4 mg/3 mL Pen, 1 Pen (Ozempic) $276.78 
+
+00169-4307-30 7 mg, 30 Tablets (Rybelsus) $276.78
+
+00169-4524-14 2.4 mg /0.75 mL Pen, 4 Pens (Wegovy) $385.63 section 1194(e)(2) related to evidence about alternative treatments (including therapeutic advances, prescribing information, comparative effectiveness, and unmet medical need), CMS considered information from a wide variety of sources, including: information submitted by participating drug companies, people with Medicare, academic experts, clinicians, caregivers, and other interested parties in response to Information Collection Requests issued for the Negotiation Program; information provided at the patient-focused roundtable events and the town hall meeting hosted by CMS in the Spring of 2025; information shared by participating drug companies during meetings with CMS; and information CMS identified from its own literature searches, including from clinical guidelines and published studies.
+
+### Q: How did CMS reach an agreement with participating drug companies on negotiated prices?
+
+CMS engaged in good-faith negotiations with participating drug companies throughout the negotiation period, including through written offers, counteroffer exchanges, and three negotiation meetings for each drug. For certain selected drugs, negotiation meetings or the additional price exchange functionality resulted in CMS’ agreement to the participating drug company’s proposal for a negotiated price or the participating drug company’s agreement to CMS’ proposal for a negotiated price, whereas for other selected drugs, agreement was reached with the written final offer.
+
+### Q: How does the Medicare program benefit from these negotiations?
+
+Medicare’s ability to negotiate prices for selected drugs will improve drug affordability for people with Medicare, improving access to innovative, life-saving treatments for people who need them. If the negotiated prices had been in effect during 2024, compared to the 2024 Medicare prices net of all rebates and certain fees and payments, the negotiated prices would have saved an estimated $12 billion in 2024 across the 15 drugs, which would have amounted to approximately 44% in savings.
+
+### Q: How will people with Medicare get access to these prices? When will these prices be effective?
+
+These negotiated prices will become effective on January 1, 2027. A participating drug company with a selected drug is required to ensure the negotiated price is made available to eligible individuals and to the pharmacies, mail-order services, and other entities that dispense the selected drug with respect to such individuals. As required by law, Medicare prescription drug plans, including standalone Part D plans and Medicare Advantage-prescription drug plans, must include in their formularies the selected drugs for which CMS and the participating drug company have agreed to a negotiated price. CMS will use its comprehensive formulary review process for Medicare prescription drug plans to assess any practices that may undermine access to selected drugs for people with Medicare. CMS will make public an explanation of the agreed-upon negotiated prices for the initial price applicability year 2027 by March 2026.
+
+### Q: How long do these negotiated prices apply? Are they adjusted over time?
+
+In accordance with the Inflation Reduction Act of 2022, the negotiated price will apply to a selected drug so long as the selected drug remains in the Medicare Drug Price Negotiation Program. Section 70 of the final guidance explains the distinct timeframes under which a drug would be deselected and an MFP would no longer apply due to a bona fide marketing determination. For each year after the first initial price applicability year, CMS will publish an updated negotiated price for each selected drug. The updated price will be equal to the negotiated price that was published for such drug for the previous year, increased by the annual percentage increase in the Consumer Price Index for all urban consumers (United States city average) (CPI-U). The negotiated price of a selected drug would also be updated should CMS and the Primary Manufacturer renegotiate the negotiated price of the selected drug.
+
+November 2025
+
+### Q: How will these negotiated prices impact drugs selected for the third cycle of negotiations?
+
+On September 30, 2025, CMS published final guidance for initial price applicability year 2028 (the “final guidance”). This final guidance details requirements and parameters for the third cycle of negotiations for the Negotiation Program, which will occur during 2026 and may result in negotiated prices that would be effective beginning in 2028. If a drug selected for the first or second cycle of negotiations has a negotiated price and is subsequently identified as a therapeutic alternative to a drug selected for the third cycle of negotiations, the agreed-upon negotiated price from this first or second cycle of negotiations could serve as an input into the initial offer development process for the drug selected for the third cycle of negotiations.
+
+### Key Milestones for the Second Cycle of the Negotiation Program
+
+By June 1, 2025—CMS sent an initial offer for each selected drug, with a concise justification for the initial offer, to each respective participating drug company. By July 1, 2025—Each participating drug company responded to the initial offer for a negotiated price with a counteroffer. Summer 2025—CMS and participating drug companies conducted in-person and hybrid negotiation meetings and had the ability to exchange prices through the additional price exchange functionality; agreement for a negotiated price was reached for eight selected drugs during this period. By October 15, 2025—CMS sent final offers to any participating drug company where an agreement was not reached in connection with the negotiation meetings.
+
+October 31, 2025—Participating drug companies where an agreement was not reached in connection with the negotiation meetings or additional price exchange functionality had the opportunity to review CMS’ final offers and respond to CMS. November 1, 2025—The negotiation period ended with agreement reached for negotiated prices between CMS and participating drug companies for 15 selected drugs.

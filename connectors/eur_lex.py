@@ -15,6 +15,8 @@ ACTS = [
     ("uber", "32024L2831", "Platform Work Directive (Directive (EU) 2024/2831)"),
     ("xom",  "32024R1787", "EU Methane Regulation (Regulation (EU) 2024/1787)"),
     ("xom",  "32022L2464", "Corporate Sustainability Reporting Directive (Directive (EU) 2022/2464)"),
+    ("pfe",  "52023PC0131", "EU Pharma Package: proposed general pharmaceutical legislation Directive (COM(2023) 131)"),
+    ("wmt",  "32024L1760", "Corporate Sustainability Due Diligence Directive (Directive (EU) 2024/1760)"),
 ]
 
 def get(url, accept=None):
@@ -44,7 +46,18 @@ def main():
             print(f"MISS {celex}: no xhtml manifestation"); continue
         manif = b[0]["manif"]["value"]
         doc_date = b[0].get("date", {}).get("value", "unknown")
-        raw = get(manif, accept="application/xhtml+xml,text/html")
+        try:
+            raw = get(manif, accept="application/xhtml+xml,text/html")
+        except urllib.error.HTTPError as e:
+            if e.code != 300:
+                raise
+            # Cellar multi-item manifestation: fetch each DOC item and concatenate
+            page = e.read().decode("utf-8", errors="ignore")
+            docs = re.findall(r'href="([^"]+/DOC_\d+)"', page)
+            if not docs:
+                print(f"MISS {celex}: 300 with no DOC items"); continue
+            parts = [get(u, accept="*/*") for u in docs]
+            raw = b"\n".join(parts)
         base = os.path.join(outdir, f"eu-{celex}")
         with open(base + ".html", "wb") as f:
             f.write(raw)

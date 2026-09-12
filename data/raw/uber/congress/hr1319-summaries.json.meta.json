@@ -1,0 +1,9 @@
+{
+  "doc_id": "uber/congress-hr1319-summaries",
+  "slug": null,
+  "source": "Congress.gov API v3",
+  "source_url": "https://api.congress.gov/v3/bill/119/hr/1319/summaries",
+  "retrieved_at": "2026-09-12T15:57:36Z",
+  "sha256": "8ed1069c1f33c6c5da3774891c5549b3b2ecf8150acb4d49c9e860f52b0b1d22",
+  "bytes": 1764
+}

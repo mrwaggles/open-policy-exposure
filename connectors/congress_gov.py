@@ -9,12 +9,18 @@ BILLS = [
     ("meta", "s", 1748, "kids-online-safety-act"),
     ("uber", "hr", 1319, "modern-worker-empowerment-act"),
     ("xom",  "hjres", 35, "wec-cra-disapproval"),
+    ("pfe",  "hr", 6166, "expand-drug-price-negotiation"),
+    ("wmt",  "hr", 2743, "raise-the-wage-act-2025"),
 ]
 def get(url):
     req = urllib.request.Request(url, headers={"User-Agent": "OpenPolicyExposure research build"})
     with urllib.request.urlopen(req, timeout=60) as r: return r.read()
 
+CACHE = os.environ.get("CONGRESS_CACHE") == "1"
 for company, btype, num, slug in BILLS:
+    dc = os.path.join(RAW, company, "congress")
+    if CACHE and os.path.exists(os.path.join(dc, f"{btype}{num}-bill.json")):
+        print(f"{company}: {btype.upper()}{num} cached, skipping"); continue
     base = f"https://api.congress.gov/v3/bill/119/{btype}/{num}"
     bill = get(f"{base}?api_key={KEY}&format=json")
     actions = get(f"{base}/actions?api_key={KEY}&format=json&limit=50")

@@ -1,0 +1,13 @@
+{
+  "doc_id": "xom/10k-000003408826000045",
+  "source": "SEC EDGAR",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
+  "retrieved_at": "2026-09-12T15:57:22Z",
+  "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
+  "bytes": 5591068,
+  "form": "10-K",
+  "accession": "0000034088-26-000045",
+  "filing_date": "2026-02-18",
+  "primary_document": "xom-20251231.htm",
+  "note": "Primary document bytes not stored in repo (size); sha256 recorded at retrieval. Parsed section .txt files are stored alongside."
+}

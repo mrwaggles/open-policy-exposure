@@ -12,6 +12,10 @@ DOCS = [
     ("xom",  "2025-08688", "wec-cra-revocation"),
     ("xom",  "2025-14531", "methane-deadline-extension"),
     ("xom",  "2026-11091", "sec-climate-rescission-proposal"),
+    ("pfe",  "2026-14583", "ira-negotiation-notice-2026"),
+    ("pfe",  "2024-23418", "ira-negotiation-final-guidance"),
+    ("wmt",  "2025-15010", "reciprocal-tariff-rates-eo"),
+    ("wmt",  "2025-17507", "reciprocal-tariff-scope-modification"),
 ]
 def get(url):
     req = urllib.request.Request(url, headers={"User-Agent": "OpenPolicyExposure research build"})
