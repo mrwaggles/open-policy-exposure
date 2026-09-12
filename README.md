@@ -7,14 +7,17 @@ materially affect a company - built directly from the design paper
 This repository implements the paper's **Stage 2 slice** (evidence foundation) with a
 working piece of Stage 4 (categorical assessment + reviewable brief), end to end:
 
-- **3 diverse US public companies** - Meta Platforms (digital platform),
-  Uber Technologies (labor marketplace), Exxon Mobil (energy producer)
-- **4 official connectors** - SEC EDGAR (submissions, filing documents, XBRL
-  companyfacts), the Federal Register API v1, the Congress.gov API v3, and the
-  Senate LDA API v1 (Tier C advocacy records)
-- **7 exposure cases** joining business activity, jurisdiction, policy mechanism,
+- **5 diverse US public companies** - Meta Platforms (digital platform),
+  Uber Technologies (labor marketplace), Exxon Mobil (energy producer),
+  Pfizer (biopharma), Walmart (retail)
+- **5 official connectors** - SEC EDGAR (submissions, filing documents, XBRL
+  companyfacts/companyconcept), the Federal Register API v1, the Congress.gov API
+  v3, the Senate LDA API v1 (Tier C advocacy records), and EUR-Lex Cellar (EU
+  primary law). CMS.gov program pages are snapshotted ad hoc when CMS blocks
+  direct retrieval from the build environment
+- **9 exposure cases** joining business activity, jurisdiction, policy mechanism,
   business effect, and exact evidence
-- **35 evidence spans**, every one machine-validated as verbatim text inside the
+- **77 evidence spans**, every one machine-validated as verbatim text inside the
   hashed raw snapshot it cites, at build time
 - **Categorical assessment dimensions** (business exposure, policy process status,
   intervention type, time horizon, evidence confidence, coverage) - no composite scores
