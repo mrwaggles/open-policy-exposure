@@ -144,6 +144,50 @@
     b.onclick = () => renderCompany(co.company_id);
     tabs.appendChild(b);
   });
+  const pb = document.createElement("button");
+  pb.textContent = "Portfolio";
+  pb.dataset.cid = "__portfolio";
+  pb.onclick = renderPortfolio;
+  tabs.appendChild(pb);
+
+  function renderPortfolio() {
+    [...tabs.children].forEach(b => b.classList.toggle("active", b.dataset.cid === "__portfolio"));
+    const EXP = ["Core","Meaningful","Limited","Unknown"];
+    const byCo = d.companies.map(co => {
+      const cs = d.cases.filter(c => c.company_id === co.company_id);
+      return {co, cs};
+    });
+    overview.innerHTML = `<div class="ov"><h2>Portfolio view</h2>
+      <span class="struct">All exposure cases across companies. Cross-sector comparison is contextual, not a ranking - coverage and disclosure incentives differ by company (paper: coverage bias).</span></div>`;
+    const maxN = Math.max(...byCo.map(x => x.cs.length));
+    const bars = byCo.map(({co, cs}) => {
+      const seg = EXP.map(e => {
+        const n = cs.filter(c => c.dimensions.business_exposure === e).length;
+        return n ? `<span class="seg seg-${e.toLowerCase()}" style="flex:${n}" title="${e}: ${n}">${n} ${e.toLowerCase()}</span>` : "";
+      }).join("");
+      return `<div class="bar-row"><span class="bar-label">${esc(co.name.replace(/,.*/,""))}</span>
+        <div class="bar" style="flex:${cs.length};max-width:${cs.length/maxN*70+20}%">${seg}</div>
+        <span class="bar-n">${cs.length} cases</span></div>`;
+    }).join("");
+    const row = c => {
+      const co = d.companies.find(x => x.company_id === c.company_id);
+      return `<tr data-case="${c.case_id}">
+        <td>${esc(co.name.replace(/,.*/,""))}</td>
+        <td class="ttl">${esc(c.title)}</td>
+        <td><b>${esc(c.dimensions.business_exposure)}</b></td>
+        <td>${esc(c.dimensions.policy_process_status)}</td>
+        <td>${esc(Array.isArray(c.dimensions.intervention_type)?c.dimensions.intervention_type.join(" + "):c.dimensions.intervention_type)}</td>
+        <td>${esc(c.dimensions.evidence_confidence)}</td>
+        <td>${c.review.status==="approved"?"reviewed v"+esc(c.assessment_version):"needs 2nd review"}</td>
+        <td>${c.evidence.length}</td></tr>`;
+    };
+    lists.innerHTML = `<h3 class="listhead">Exposure distribution by company</h3><div class="bars">${bars}</div>
+      <h3 class="listhead">All cases</h3>
+      <table class="port"><tr><th>company</th><th>case</th><th>exposure</th><th>process</th><th>intervention</th><th>confidence</th><th>review</th><th>spans</th></tr>
+      ${d.cases.map(row).join("")}</table>
+      <p style="font-size:12px;color:var(--mut)">Click any row for the full evidence trail. Cases with coverage gaps say so on their own page.</p>`;
+    lists.querySelectorAll("tr[data-case]").forEach(el => el.onclick = () => openCase(el.dataset.case));
+  }
 
   document.getElementById("methodology").innerHTML = `
     <h3>Method (from the design paper)</h3>

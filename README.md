@@ -116,3 +116,12 @@ Not investment, legal, or policy advice.
   (page numbers, TOCs) and advisory classification suggestions; the published
   `data/changes.json` classifications are human review decisions with review
   records.
+
+## Read API (Stage 7 slice)
+
+`docs/data.json` is the stable read API: the complete payload (companies, cases
+with resolved evidence spans, changes, candidates, freshness, boilerplate) as
+one versioned JSON document. `assessment_version` versions the payload schema;
+each case carries its own `assessment_version` and review history. Live at
+`https://mrwaggles.github.io/open-policy-exposure/data.json` (and the surge
+mirror). The static site is a thin client over this document.
