@@ -304,8 +304,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
      "publication_date": "2025-04-22",
-     "retrieved_at": "2026-09-12T15:47:56Z",
-     "sha256": "71407a1f21e7a49c69ef72dc624fd10f7aae0106f477974be7d5feeb8cff230b",
+     "retrieved_at": "2026-09-12T21:36:58Z",
+     "sha256": "ce76cce045de057cc8f135e9205d6da72c36bd6e120a9c25d188c8f202d64b0e",
      "supports": [
       "policy process status",
       "time horizon"
@@ -321,8 +321,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
      "publication_date": "2025-04-22",
-     "retrieved_at": "2026-09-12T15:47:56Z",
-     "sha256": "71407a1f21e7a49c69ef72dc624fd10f7aae0106f477974be7d5feeb8cff230b",
+     "retrieved_at": "2026-09-12T21:36:58Z",
+     "sha256": "ce76cce045de057cc8f135e9205d6da72c36bd6e120a9c25d188c8f202d64b0e",
      "supports": [
       "policy mechanism"
      ]
@@ -862,8 +862,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/10/10/2024-23418/inflation-reduction-act-ira-medicare-drug-price-negotiation-program-final-guidance",
      "publication_date": "2024-10-10",
-     "retrieved_at": "2026-09-12T15:48:05Z",
-     "sha256": "498daa49b41eaa0a4d00d7dafa64c92c0745e08dde44c86f81b4e339ee553d7d",
+     "retrieved_at": "2026-09-12T21:37:07Z",
+     "sha256": "f273bef56e63f20cddf0f1bc5508a6e866632845ca41b1933b575942308e8b8e",
      "supports": [
       "policy process status"
      ]
@@ -878,8 +878,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/07/20/2026-14583/medicare-program-inflation-reduction-act-of-2022-ira-medicare-drug-price-negotiation-program-draft",
      "publication_date": "2026-07-20",
-     "retrieved_at": "2026-09-12T15:48:05Z",
-     "sha256": "02a05e1ba5b0eb70194da02bde67d4a4ae1b65c675623d8ab4909cb794c31ed3",
+     "retrieved_at": "2026-09-12T21:37:06Z",
+     "sha256": "2cb3cbfafeadca1076d3dbc5124cd7fe08402ac9b4cdc16d3ff7289c0a4612d5",
      "supports": [
       "time horizon",
       "policy process status"
@@ -985,8 +985,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance",
      "publication_date": "2026-07-31",
-     "retrieved_at": "2026-09-12T15:47:59Z",
-     "sha256": "447e39332443903d55edde9b83379ed6d4e60026261fabd28b9eeb827d7f888d",
+     "retrieved_at": "2026-09-12T21:37:01Z",
+     "sha256": "1557969e013a0b26e866d162eb3660c9bae85e63965a019b2604aa470afe1950",
      "supports": [
       "policy mechanism",
       "policy process status"
@@ -1002,8 +1002,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance",
      "publication_date": "2026-07-31",
-     "retrieved_at": "2026-09-12T15:47:59Z",
-     "sha256": "447e39332443903d55edde9b83379ed6d4e60026261fabd28b9eeb827d7f888d",
+     "retrieved_at": "2026-09-12T21:37:01Z",
+     "sha256": "1557969e013a0b26e866d162eb3660c9bae85e63965a019b2604aa470afe1950",
      "supports": [
       "time horizon",
       "intervention type"
@@ -1155,8 +1155,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
      "publication_date": "2024-01-10",
-     "retrieved_at": "2026-09-12T15:47:58Z",
-     "sha256": "00bec887f6161fe26b0d582003b3a510395e8008adbe0ac8be8bb92ac6ae4a99",
+     "retrieved_at": "2026-09-12T21:36:59Z",
+     "sha256": "db8d72e810cec773fe5bcbe71633ea72978c9a67b59ae8c95e19f5356c2f63cb",
      "supports": [
       "policy mechanism",
       "policy process status"
@@ -1172,8 +1172,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
      "publication_date": "2026-02-27",
-     "retrieved_at": "2026-09-12T15:47:59Z",
-     "sha256": "f0599cf24f1cc35b673bc981c46d46b56512def118e6d53c20402f2eb9b9b3ca",
+     "retrieved_at": "2026-09-12T21:37:00Z",
+     "sha256": "c1dd26e40734420f5ff4d3eb55440edf87bb29fd2f7d6f571bb503831b5e7332",
      "supports": [
       "policy process status",
       "direction of travel"
@@ -1272,7 +1272,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2831",
      "publication_date": "2024-10-23",
-     "retrieved_at": "2026-09-12T15:50:21Z",
+     "retrieved_at": "2026-09-12T21:37:16Z",
      "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
      "supports": [
       "mechanism: legal presumption of employment for platform workers",
@@ -1390,8 +1390,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
      "publication_date": "2025-08-06",
-     "retrieved_at": "2026-09-12T15:48:06Z",
-     "sha256": "c10392ab6ef6959edf1f8674d67e19ab3b983c425f537ddadb6ebffc8be64f25",
+     "retrieved_at": "2026-09-12T21:37:08Z",
+     "sha256": "a283c43b2d2da268694640c46284b2b079749b90efdee665292cdcbfae8ce911",
      "supports": [
       "policy mechanism",
       "policy process status"
@@ -1407,8 +1407,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
      "publication_date": "2025-08-06",
-     "retrieved_at": "2026-09-12T15:48:06Z",
-     "sha256": "c10392ab6ef6959edf1f8674d67e19ab3b983c425f537ddadb6ebffc8be64f25",
+     "retrieved_at": "2026-09-12T21:37:08Z",
+     "sha256": "a283c43b2d2da268694640c46284b2b079749b90efdee665292cdcbfae8ce911",
      "supports": [
       "policy mechanism",
       "time horizon"
@@ -1424,8 +1424,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/09/10/2025-17507/modifying-the-scope-of-reciprocal-tariffs-and-establishing-procedures-for-implementing-trade-and",
      "publication_date": "2025-09-10",
-     "retrieved_at": "2026-09-12T15:48:07Z",
-     "sha256": "650155a747c27696da1dc78d23c20b5f866bc19d4b560bcebdc2d8c34d28ca1c",
+     "retrieved_at": "2026-09-12T21:37:09Z",
+     "sha256": "aaaeeb3ba13f3b7b0027432231efea34e589cf0db65acef8e3721f1af273fed8",
      "supports": [
       "policy mechanism",
       "policy process status"
@@ -1441,8 +1441,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/09/10/2025-17507/modifying-the-scope-of-reciprocal-tariffs-and-establishing-procedures-for-implementing-trade-and",
      "publication_date": "2025-09-10",
-     "retrieved_at": "2026-09-12T15:48:07Z",
-     "sha256": "650155a747c27696da1dc78d23c20b5f866bc19d4b560bcebdc2d8c34d28ca1c",
+     "retrieved_at": "2026-09-12T21:37:09Z",
+     "sha256": "aaaeeb3ba13f3b7b0027432231efea34e589cf0db65acef8e3721f1af273fed8",
      "supports": [
       "time horizon",
       "policy process status"
@@ -1549,8 +1549,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11091/rescission-of-climate-related-disclosure-rules",
      "publication_date": "2026-06-03",
-     "retrieved_at": "2026-09-12T15:48:04Z",
-     "sha256": "ea85f1ff0d15c3a2ecaf6433e0485c85878932c63405ab70cf358d449e31cc6d",
+     "retrieved_at": "2026-09-12T21:37:05Z",
+     "sha256": "4f4b917d3d434d8a0f0439756d10f7c0b3cb8b79d2fe461acb304d7dd0b10d86",
      "supports": [
       "policy mechanism",
       "policy process status"
@@ -1566,8 +1566,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11091/rescission-of-climate-related-disclosure-rules",
      "publication_date": "2026-06-03",
-     "retrieved_at": "2026-09-12T15:48:04Z",
-     "sha256": "ea85f1ff0d15c3a2ecaf6433e0485c85878932c63405ab70cf358d449e31cc6d",
+     "retrieved_at": "2026-09-12T21:37:05Z",
+     "sha256": "4f4b917d3d434d8a0f0439756d10f7c0b3cb8b79d2fe461acb304d7dd0b10d86",
      "supports": [
       "time horizon"
      ]
@@ -1710,8 +1710,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/07/31/2025-14531/extension-of-deadlines-in-standards-of-performance-for-new-reconstructed-and-modified-sources-and",
      "publication_date": "2025-07-31",
-     "retrieved_at": "2026-09-12T15:48:03Z",
-     "sha256": "47ee00bc7314e0818c419ff3299000b11ec47ef71d2de0b549c91b24bde41d9f",
+     "retrieved_at": "2026-09-12T21:37:04Z",
+     "sha256": "c069e6f61cbefe4c3a890fc25923268e7f761512347eb984237e7915b36de7ca",
      "supports": [
       "policy process status",
       "change event"
@@ -1727,8 +1727,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
      "publication_date": "2024-11-18",
-     "retrieved_at": "2026-09-12T15:48:01Z",
-     "sha256": "30bdd74ab7d172e439316e5c83cb5a34687b43ea5c53c917f303eb202d42bc2c",
+     "retrieved_at": "2026-09-12T21:37:02Z",
+     "sha256": "a1c644fa408def4efb505a3b797bf8957d6b0a318017903d383ecfb4c05d3a13",
      "supports": [
       "policy mechanism",
       "intervention type"
@@ -1744,8 +1744,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08688/congressional-review-act-revocation-of-waste-emissions-charge-for-petroleum-and-natural-gas-systems",
      "publication_date": "2025-05-19",
-     "retrieved_at": "2026-09-12T15:48:02Z",
-     "sha256": "01de8c8ef3a3bce0beb6afe3e6537c41a47746e5da8934a12bb5f14469cce947",
+     "retrieved_at": "2026-09-12T21:37:03Z",
+     "sha256": "53586f8640ebe6b7db79afd226cda0f552c9dad398e975dee40df5c7a6381da6",
      "supports": [
       "policy process status",
       "change event"
@@ -1810,7 +1810,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1787",
      "publication_date": "2024-06-13",
-     "retrieved_at": "2026-09-12T15:50:23Z",
+     "retrieved_at": "2026-09-12T21:37:18Z",
      "sha256": "231bfc7b994197536a3271ed37b8b8c3ecce9f2ce7e9625e7aff91caec07496f",
      "supports": [
       "mechanism: binding LDAR programme obligation with dates",
@@ -2025,8 +2025,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:47:56Z",
-     "sha256": "71407a1f21e7a49c69ef72dc624fd10f7aae0106f477974be7d5feeb8cff230b",
+     "retrieved_at": "2026-09-12T21:36:58Z",
+     "sha256": "ce76cce045de057cc8f135e9205d6da72c36bd6e120a9c25d188c8f202d64b0e",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2104,7 +2104,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1925",
      "publication_date": "2022-09-14",
-     "retrieved_at": "2026-09-12T15:50:18Z",
+     "retrieved_at": "2026-09-12T21:37:14Z",
      "sha256": "d6af21a4f11c2b001b0486391fbd0813deba32305fb0d3865fbceccd45b827eb",
      "supports": [
       "candidate passage - unreviewed"
@@ -2130,7 +2130,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1925",
      "publication_date": "2022-09-14",
-     "retrieved_at": "2026-09-12T15:50:18Z",
+     "retrieved_at": "2026-09-12T21:37:14Z",
      "sha256": "d6af21a4f11c2b001b0486391fbd0813deba32305fb0d3865fbceccd45b827eb",
      "supports": [
       "candidate passage - unreviewed"
@@ -2209,8 +2209,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:47:58Z",
-     "sha256": "00bec887f6161fe26b0d582003b3a510395e8008adbe0ac8be8bb92ac6ae4a99",
+     "retrieved_at": "2026-09-12T21:36:59Z",
+     "sha256": "db8d72e810cec773fe5bcbe71633ea72978c9a67b59ae8c95e19f5356c2f63cb",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2235,8 +2235,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:47:58Z",
-     "sha256": "00bec887f6161fe26b0d582003b3a510395e8008adbe0ac8be8bb92ac6ae4a99",
+     "retrieved_at": "2026-09-12T21:36:59Z",
+     "sha256": "db8d72e810cec773fe5bcbe71633ea72978c9a67b59ae8c95e19f5356c2f63cb",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2261,7 +2261,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2831",
      "publication_date": "2024-10-23",
-     "retrieved_at": "2026-09-12T15:50:21Z",
+     "retrieved_at": "2026-09-12T21:37:16Z",
      "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
      "supports": [
       "candidate passage - unreviewed"
@@ -2288,7 +2288,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2831",
      "publication_date": "2024-10-23",
-     "retrieved_at": "2026-09-12T15:50:21Z",
+     "retrieved_at": "2026-09-12T21:37:16Z",
      "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
      "supports": [
       "candidate passage - unreviewed"
@@ -2418,8 +2418,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/10/10/2024-23418/inflation-reduction-act-ira-medicare-drug-price-negotiation-program-final-guidance",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:48:05Z",
-     "sha256": "498daa49b41eaa0a4d00d7dafa64c92c0745e08dde44c86f81b4e339ee553d7d",
+     "retrieved_at": "2026-09-12T21:37:07Z",
+     "sha256": "f273bef56e63f20cddf0f1bc5508a6e866632845ca41b1933b575942308e8b8e",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2444,8 +2444,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/10/10/2024-23418/inflation-reduction-act-ira-medicare-drug-price-negotiation-program-final-guidance",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:48:05Z",
-     "sha256": "498daa49b41eaa0a4d00d7dafa64c92c0745e08dde44c86f81b4e339ee553d7d",
+     "retrieved_at": "2026-09-12T21:37:07Z",
+     "sha256": "f273bef56e63f20cddf0f1bc5508a6e866632845ca41b1933b575942308e8b8e",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2470,8 +2470,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:48:06Z",
-     "sha256": "c10392ab6ef6959edf1f8674d67e19ab3b983c425f537ddadb6ebffc8be64f25",
+     "retrieved_at": "2026-09-12T21:37:08Z",
+     "sha256": "a283c43b2d2da268694640c46284b2b079749b90efdee665292cdcbfae8ce911",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2496,8 +2496,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/09/10/2025-17507/modifying-the-scope-of-reciprocal-tariffs-and-establishing-procedures-for-implementing-trade-and",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:48:07Z",
-     "sha256": "650155a747c27696da1dc78d23c20b5f866bc19d4b560bcebdc2d8c34d28ca1c",
+     "retrieved_at": "2026-09-12T21:37:09Z",
+     "sha256": "aaaeeb3ba13f3b7b0027432231efea34e589cf0db65acef8e3721f1af273fed8",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2522,8 +2522,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:48:06Z",
-     "sha256": "c10392ab6ef6959edf1f8674d67e19ab3b983c425f537ddadb6ebffc8be64f25",
+     "retrieved_at": "2026-09-12T21:37:08Z",
+     "sha256": "a283c43b2d2da268694640c46284b2b079749b90efdee665292cdcbfae8ce911",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2548,8 +2548,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:48:06Z",
-     "sha256": "c10392ab6ef6959edf1f8674d67e19ab3b983c425f537ddadb6ebffc8be64f25",
+     "retrieved_at": "2026-09-12T21:37:08Z",
+     "sha256": "a283c43b2d2da268694640c46284b2b079749b90efdee665292cdcbfae8ce911",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2574,7 +2574,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1760",
      "publication_date": "2024-06-13",
-     "retrieved_at": "2026-09-12T15:50:31Z",
+     "retrieved_at": "2026-09-12T21:37:26Z",
      "sha256": "727260144e8f968673eb4d2c275606eb07f35035c18895ac58883cf0d51184b3",
      "supports": [
       "candidate passage - unreviewed"
@@ -2600,7 +2600,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1760",
      "publication_date": "2024-06-13",
-     "retrieved_at": "2026-09-12T15:50:31Z",
+     "retrieved_at": "2026-09-12T21:37:26Z",
      "sha256": "727260144e8f968673eb4d2c275606eb07f35035c18895ac58883cf0d51184b3",
      "supports": [
       "candidate passage - unreviewed"
@@ -2627,8 +2627,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:48:01Z",
-     "sha256": "30bdd74ab7d172e439316e5c83cb5a34687b43ea5c53c917f303eb202d42bc2c",
+     "retrieved_at": "2026-09-12T21:37:02Z",
+     "sha256": "a1c644fa408def4efb505a3b797bf8957d6b0a318017903d383ecfb4c05d3a13",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2654,8 +2654,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:48:01Z",
-     "sha256": "30bdd74ab7d172e439316e5c83cb5a34687b43ea5c53c917f303eb202d42bc2c",
+     "retrieved_at": "2026-09-12T21:37:02Z",
+     "sha256": "a1c644fa408def4efb505a3b797bf8957d6b0a318017903d383ecfb4c05d3a13",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2681,8 +2681,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:48:01Z",
-     "sha256": "30bdd74ab7d172e439316e5c83cb5a34687b43ea5c53c917f303eb202d42bc2c",
+     "retrieved_at": "2026-09-12T21:37:02Z",
+     "sha256": "a1c644fa408def4efb505a3b797bf8957d6b0a318017903d383ecfb4c05d3a13",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2708,8 +2708,8 @@
      "truncated": true,
      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:48:01Z",
-     "sha256": "30bdd74ab7d172e439316e5c83cb5a34687b43ea5c53c917f303eb202d42bc2c",
+     "retrieved_at": "2026-09-12T21:37:02Z",
+     "sha256": "a1c644fa408def4efb505a3b797bf8957d6b0a318017903d383ecfb4c05d3a13",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2735,7 +2735,7 @@
      "truncated": true,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2464",
      "publication_date": "2022-12-14",
-     "retrieved_at": "2026-09-12T15:50:26Z",
+     "retrieved_at": "2026-09-12T21:37:21Z",
      "sha256": "6ad8df8d05b75c4caf19c926db0afc86c725872bb3342c4d7cd2544dd6c29837",
      "supports": [
       "candidate passage - unreviewed"
@@ -2762,7 +2762,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1787",
      "publication_date": "2024-06-13",
-     "retrieved_at": "2026-09-12T15:50:23Z",
+     "retrieved_at": "2026-09-12T21:37:18Z",
      "sha256": "231bfc7b994197536a3271ed37b8b8c3ecce9f2ce7e9625e7aff91caec07496f",
      "supports": [
       "candidate passage - unreviewed"
@@ -2773,8 +2773,8 @@
  },
  "freshness": {
   "checked_at": "2026-09-12",
-  "documents": 43,
-  "hash_verified": 40,
+  "documents": 55,
+  "hash_verified": 52,
   "hash_failures": 0,
   "stale": [],
   "freshness_targets_days": {
@@ -2795,7 +2795,7 @@
    "pfe": {
     "edgar": true,
     "federal_register": true,
-    "congress": false,
+    "congress": true,
     "lda": false,
     "eur_lex": true
    },
@@ -2809,7 +2809,7 @@
    "wmt": {
     "edgar": true,
     "federal_register": true,
-    "congress": false,
+    "congress": true,
     "lda": false,
     "eur_lex": true
    },
@@ -2892,7 +2892,15 @@
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
     "age_days": 0,
-    "sha256": "71407a1f21e7a49c69ef72dc624fd10f7aae0106f477974be7d5feeb8cff230b",
+    "sha256": "ce76cce045de057cc8f135e9205d6da72c36bd6e120a9c25d188c8f202d64b0e",
+    "hash_ok": true
+   },
+   {
+    "doc": "meta/lda/lda-ca90d94a-2bb1-46ae-9d89-13a2278cc80e.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "58232ef348a6673869ef80252b435e28223ec5a70905a5ace8ca0f70376b2256",
     "hash_ok": true
    },
    {
@@ -2901,6 +2909,14 @@
     "retrieved_at": "2026-09-12",
     "age_days": 0,
     "sha256": "99540d05b308d0b3b64261776d35b67377feabe46f0686745ba8606da2bf891b",
+    "hash_ok": true
+   },
+   {
+    "doc": "meta/submissions.json",
+    "source_class": "edgar",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "009af7b78bafe69ea35948fd261f14ad2f56076c2f7feb47d6241599f3f4391d",
     "hash_ok": true
    },
    {
@@ -2928,6 +2944,22 @@
     "hash_ok": true
    },
    {
+    "doc": "pfe/congress/hr6166-actions.json",
+    "source_class": "congress",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "f6162d1a9494d4bb95c58bf9ed0f835da867c8f5590133284c7a63cdc93e95a3",
+    "hash_ok": true
+   },
+   {
+    "doc": "pfe/congress/hr6166-bill.json",
+    "source_class": "congress",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "f8af32f941b2321ff5f119d524522c2ba136bd20ccefb6e639029a6da93593db",
+    "hash_ok": true
+   },
+   {
     "doc": "pfe/edgar-revenue.json",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
@@ -2948,7 +2980,7 @@
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
     "age_days": 0,
-    "sha256": "498daa49b41eaa0a4d00d7dafa64c92c0745e08dde44c86f81b4e339ee553d7d",
+    "sha256": "f273bef56e63f20cddf0f1bc5508a6e866632845ca41b1933b575942308e8b8e",
     "hash_ok": true
    },
    {
@@ -2956,7 +2988,15 @@
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
     "age_days": 0,
-    "sha256": "02a05e1ba5b0eb70194da02bde67d4a4ae1b65c675623d8ab4909cb794c31ed3",
+    "sha256": "2cb3cbfafeadca1076d3dbc5124cd7fe08402ac9b4cdc16d3ff7289c0a4612d5",
+    "hash_ok": true
+   },
+   {
+    "doc": "pfe/submissions.json",
+    "source_class": "edgar",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "15aea7b65397e67dee18c9c2525002fcfbeb9c2f17872df53c301748d383299a",
     "hash_ok": true
    },
    {
@@ -3012,7 +3052,7 @@
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
     "age_days": 0,
-    "sha256": "00bec887f6161fe26b0d582003b3a510395e8008adbe0ac8be8bb92ac6ae4a99",
+    "sha256": "db8d72e810cec773fe5bcbe71633ea72978c9a67b59ae8c95e19f5356c2f63cb",
     "hash_ok": true
    },
    {
@@ -3020,7 +3060,7 @@
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
     "age_days": 0,
-    "sha256": "f0599cf24f1cc35b673bc981c46d46b56512def118e6d53c20402f2eb9b9b3ca",
+    "sha256": "c1dd26e40734420f5ff4d3eb55440edf87bb29fd2f7d6f571bb503831b5e7332",
     "hash_ok": true
    },
    {
@@ -3028,7 +3068,15 @@
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
     "age_days": 0,
-    "sha256": "447e39332443903d55edde9b83379ed6d4e60026261fabd28b9eeb827d7f888d",
+    "sha256": "1557969e013a0b26e866d162eb3660c9bae85e63965a019b2604aa470afe1950",
+    "hash_ok": true
+   },
+   {
+    "doc": "uber/lda/lda-055800ac-6b44-4d6a-b72a-1679df04a32c.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "06cfa03b2786123333063a041c9252c239395df16b57e63d67ac923d5059b518",
     "hash_ok": true
    },
    {
@@ -3037,6 +3085,30 @@
     "retrieved_at": "2026-09-12",
     "age_days": 0,
     "sha256": "b4a902070c8ce5f12d68f29de8b7c85c6143894ad7c10f8eabda784af40f3304",
+    "hash_ok": true
+   },
+   {
+    "doc": "uber/submissions.json",
+    "source_class": "edgar",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "830473a3db5348a0831b05e555fa15fae94aaf57a6a27b879e4eb6376f7ddb40",
+    "hash_ok": true
+   },
+   {
+    "doc": "wmt/congress/hr2743-actions.json",
+    "source_class": "congress",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "5cc2b96a2404322e1cbf4054329a9151a14f7f785f1a8eb03dc2c9fb6ec6f956",
+    "hash_ok": true
+   },
+   {
+    "doc": "wmt/congress/hr2743-bill.json",
+    "source_class": "congress",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "61d5ccdc0cbbcc7a437aac5d907760158c477a9208ca5055c1b4dbfa48d4bb58",
     "hash_ok": true
    },
    {
@@ -3060,7 +3132,7 @@
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
     "age_days": 0,
-    "sha256": "c10392ab6ef6959edf1f8674d67e19ab3b983c425f537ddadb6ebffc8be64f25",
+    "sha256": "a283c43b2d2da268694640c46284b2b079749b90efdee665292cdcbfae8ce911",
     "hash_ok": true
    },
    {
@@ -3068,7 +3140,15 @@
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
     "age_days": 0,
-    "sha256": "650155a747c27696da1dc78d23c20b5f866bc19d4b560bcebdc2d8c34d28ca1c",
+    "sha256": "aaaeeb3ba13f3b7b0027432231efea34e589cf0db65acef8e3721f1af273fed8",
+    "hash_ok": true
+   },
+   {
+    "doc": "wmt/submissions.json",
+    "source_class": "edgar",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "e5e7fd1ba7396f3f41b4407fde0f2929db3d8342b07f32de30f7eda3bfcd8244",
     "hash_ok": true
    },
    {
@@ -3132,7 +3212,7 @@
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
     "age_days": 0,
-    "sha256": "30bdd74ab7d172e439316e5c83cb5a34687b43ea5c53c917f303eb202d42bc2c",
+    "sha256": "a1c644fa408def4efb505a3b797bf8957d6b0a318017903d383ecfb4c05d3a13",
     "hash_ok": true
    },
    {
@@ -3140,7 +3220,7 @@
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
     "age_days": 0,
-    "sha256": "01de8c8ef3a3bce0beb6afe3e6537c41a47746e5da8934a12bb5f14469cce947",
+    "sha256": "53586f8640ebe6b7db79afd226cda0f552c9dad398e975dee40df5c7a6381da6",
     "hash_ok": true
    },
    {
@@ -3148,7 +3228,7 @@
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
     "age_days": 0,
-    "sha256": "47ee00bc7314e0818c419ff3299000b11ec47ef71d2de0b549c91b24bde41d9f",
+    "sha256": "c069e6f61cbefe4c3a890fc25923268e7f761512347eb984237e7915b36de7ca",
     "hash_ok": true
    },
    {
@@ -3156,7 +3236,7 @@
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
     "age_days": 0,
-    "sha256": "ea85f1ff0d15c3a2ecaf6433e0485c85878932c63405ab70cf358d449e31cc6d",
+    "sha256": "4f4b917d3d434d8a0f0439756d10f7c0b3cb8b79d2fe461acb304d7dd0b10d86",
     "hash_ok": true
    },
    {
@@ -3165,6 +3245,22 @@
     "retrieved_at": "2026-09-12",
     "age_days": 0,
     "sha256": "37d062935a1c3ea4bc4f77efe7dc4ef77b19210e636b1dd34c909a31abf254bd",
+    "hash_ok": true
+   },
+   {
+    "doc": "xom/lda/lda-89597339-80ca-4948-a7bf-d1845d872506.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "08cfd861e9bd8dd60fae9d877dff47a7ea6a1a385eead4445e134cf340da341f",
+    "hash_ok": true
+   },
+   {
+    "doc": "xom/submissions.json",
+    "source_class": "edgar",
+    "retrieved_at": "2026-09-12",
+    "age_days": 0,
+    "sha256": "7918818ea3045fb09fbb18d67537909a28feb245d693d0bd7cd3bc30b16ea3db",
     "hash_ok": true
    }
   ]

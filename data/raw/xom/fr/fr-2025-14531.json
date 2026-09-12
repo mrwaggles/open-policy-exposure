@@ -1,0 +1,202 @@
+{
+  "abstract": "The U.S. Environmental Protection Agency (EPA) is taking interim final action to extend certain deadlines within the final rule titled \"Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review,\" 89 FR 16820 (March 8, 2024) (hereafter \"2024 final rule\"). Specifically, the EPA is extending deadlines for certain provisions related to control devices, equipment leaks, storage vessels, process controllers, and covers/closed vent systems in \"Subpart OOOOb--Standards of Performance for Crude Oil and Natural Gas Facilities for Which Construction, Modification or Reconstruction Commenced After December 6, 2022\" (NSPS OOOOb). The EPA also is extending the date for future implementation of the SuperEmitter Program. Finally, the EPA is extending the state plan submittal deadline in \"Subpart OOOOc--Emissions Guidelines (EG) for Greenhouse Gas Emissions From Existing Crude Oil and Natural Gas Facilities\" (EG OOOOc). The EPA is requesting comments on all aspects of this interim final rule and will consider all comments received in determining whether amendments to this rule are appropriate after the conclusion of the comment period.",
+  "action": "Interim final rule; request for comments.",
+  "agencies": [
+    {
+      "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+      "name": "Environmental Protection Agency",
+      "id": 145,
+      "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+      "parent_id": null,
+      "slug": "environmental-protection-agency"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/07/31/2025-14531.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": "60",
+      "title": 40
+    }
+  ],
+  "citation": "90 FR 35966",
+  "comment_url": null,
+  "comments_close_on": "2025-09-02",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This interim final rule is effective on July 31, 2025. Comments on this interim final rule must be received on or before September 2, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EPA-HQ-OAR-2025-0162",
+    "FRL-12675-01-OAR"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "25 November 2025 Memorandum OAR and OGC Immediate Office Review Edits of Pre-Signature File",
+          "document_id": "EPA-HQ-OAR-2025-0162-0674"
+        },
+        {
+          "title": "Oil and Natural Gas Sector Climate Review Extension of Deadlines in NSPS and EG  Response to Public Comments on the July 31 2025 IFR. docx",
+          "document_id": "EPA-HQ-OAR-2025-0162-0673"
+        },
+        {
+          "title": "10.31.2025 Affirmation of Economic Impact Analysis for the Interim Final Rule",
+          "document_id": "EPA-HQ-OAR-2025-0162-0672"
+        },
+        {
+          "title": "EO 12866 11.24.2025  Correspondence and Passback Between OMB and EPA Oil Gas Final Final to IFR",
+          "document_id": "EPA-HQ-OAR-2025-0162-0671"
+        },
+        {
+          "title": "EO 12866 11.17.2025  Correspondence Between OMB and EPA Oil Gas Final Final to IFR",
+          "document_id": "EPA-HQ-OAR-2025-0162-0670"
+        },
+        {
+          "title": "EO 12866 Correspondence EPA to OMB Passback 4 ONG IFR Final Rule 11.21.2025",
+          "document_id": "EPA-HQ-OAR-2025-0162-0669"
+        },
+        {
+          "title": "EO 12866 Correspondence OMB Passback 2 ONG IFR Final Rule 11.04.2025",
+          "document_id": "EPA-HQ-OAR-2025-0162-0665"
+        },
+        {
+          "title": "EO 12866 Correspondence Between OMB and EPA Oil Gas Final Final to IFR",
+          "document_id": "EPA-HQ-OAR-2025-0162-0664"
+        },
+        {
+          "title": "EO 12866 Initiated Upload Version Final ONG IFR RTC 10.28.2025 to OMB",
+          "document_id": "EPA-HQ-OAR-2025-0162-0662"
+        },
+        {
+          "title": "EO 12866 Initiated Upload Version 12675 EPA-OAR Final Extension of Deadlines NSPS EG Oil and Natural Gas Sector Climate Review eBF Clean re",
+          "document_id": "EPA-HQ-OAR-2025-0162-0661"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": 14792,
+          "comment_start_date": "2025-07-31",
+          "updated_at": "2026-02-07T03:56:59.418-05:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA-HQ-OAR-2025-0162-0001",
+          "allow_late_comments": false,
+          "id": "EPA-HQ-OAR-2025-0162-0001",
+          "comment_end_date": "2025-10-04",
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 46,
+      "id": "EPA-HQ-OAR-2025-0162",
+      "title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review Final Rule"
+    }
+  ],
+  "document_number": "2025-14531",
+  "effective_on": "2025-07-31",
+  "end_page": 35985,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/07/31/2025-14531.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/07/31/2025-14531/extension-of-deadlines-in-standards-of-performance-for-new-reconstructed-and-modified-sources-and",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-14531?publication_date=2025-07-31",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-07-31/2025-14531/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 20,
+  "page_views": {
+    "count": 4533,
+    "last_updated": "2026-09-12 16:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-07-31/pdf/2025-14531.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-14531.pdf?1753879516",
+  "publication_date": "2025-07-31",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/07/31/2025-14531.txt",
+  "regulation_id_number_info": {
+    "2060-AW61": {
+      "issue": "202504",
+      "html_url": "https://www.federalregister.gov/regulations/2060-AW61/extension-of-deadlines-in-standards-of-performance-for-new-reconstructed-and-modified-sources-and-em",
+      "title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202504&RIN=2060-AW61&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Economically Significant"
+    }
+  },
+  "regulation_id_numbers": [
+    "2060-AW61"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "25 November 2025 Memorandum OAR and OGC Immediate Office Review Edits of Pre-Signature File",
+        "document_id": "EPA-HQ-OAR-2025-0162-0674"
+      },
+      {
+        "title": "Oil and Natural Gas Sector Climate Review Extension of Deadlines in NSPS and EG  Response to Public Comments on the July 31 2025 IFR. docx",
+        "document_id": "EPA-HQ-OAR-2025-0162-0673"
+      },
+      {
+        "title": "10.31.2025 Affirmation of Economic Impact Analysis for the Interim Final Rule",
+        "document_id": "EPA-HQ-OAR-2025-0162-0672"
+      },
+      {
+        "title": "EO 12866 11.24.2025  Correspondence and Passback Between OMB and EPA Oil Gas Final Final to IFR",
+        "document_id": "EPA-HQ-OAR-2025-0162-0671"
+      },
+      {
+        "title": "EO 12866 11.17.2025  Correspondence Between OMB and EPA Oil Gas Final Final to IFR",
+        "document_id": "EPA-HQ-OAR-2025-0162-0670"
+      },
+      {
+        "title": "EO 12866 Correspondence EPA to OMB Passback 4 ONG IFR Final Rule 11.21.2025",
+        "document_id": "EPA-HQ-OAR-2025-0162-0669"
+      },
+      {
+        "title": "EO 12866 Correspondence OMB Passback 2 ONG IFR Final Rule 11.04.2025",
+        "document_id": "EPA-HQ-OAR-2025-0162-0665"
+      },
+      {
+        "title": "EO 12866 Correspondence Between OMB and EPA Oil Gas Final Final to IFR",
+        "document_id": "EPA-HQ-OAR-2025-0162-0664"
+      },
+      {
+        "title": "EO 12866 Initiated Upload Version Final ONG IFR RTC 10.28.2025 to OMB",
+        "document_id": "EPA-HQ-OAR-2025-0162-0662"
+      },
+      {
+        "title": "EO 12866 Initiated Upload Version 12675 EPA-OAR Final Extension of Deadlines NSPS EG Oil and Natural Gas Sector Climate Review eBF Clean re",
+        "document_id": "EPA-HQ-OAR-2025-0162-0661"
+      }
+    ],
+    "comments_count": 14792,
+    "agency_id": "EPA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EPA-HQ-OAR-2025-0162",
+    "supporting_documents_count": 46,
+    "docket_id": "EPA-HQ-OAR-2025-0162",
+    "document_id": "EPA-HQ-OAR-2025-0162-0001",
+    "regulation_id_number": null,
+    "title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review Final Rule",
+    "checked_regulationsdotgov_at": "2026-02-08T12:55:05Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": true,
+  "signing_date": null,
+  "start_page": 35966,
+  "subtype": null,
+  "title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review Final Rule",
+  "toc_doc": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources",
+  "toc_subject": "Oil and Natural Gas Sector Climate Review",
+  "topics": [
+    "Administrative practice and procedure",
+    "Air pollution control",
+    "Environmental protection",
+    "Intergovernmental relations",
+    "Reporting and recordkeeping requirements"
+  ],
+  "type": "Rule",
+  "volume": 90
+}

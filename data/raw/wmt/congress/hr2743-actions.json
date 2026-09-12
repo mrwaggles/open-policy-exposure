@@ -1,0 +1,52 @@
+{
+    "actions": [
+        {
+            "actionCode": "H11100",
+            "actionDate": "2025-04-08",
+            "committees": [
+                {
+                    "name": "Education and Workforce Committee",
+                    "systemCode": "hsed00",
+                    "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+                }
+            ],
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "Referred to the House Committee on Education and Workforce.",
+            "type": "IntroReferral"
+        },
+        {
+            "actionCode": "Intro-H",
+            "actionDate": "2025-04-08",
+            "sourceSystem": {
+                "code": 9,
+                "name": "Library of Congress"
+            },
+            "text": "Introduced in House",
+            "type": "IntroReferral"
+        },
+        {
+            "actionCode": "1000",
+            "actionDate": "2025-04-08",
+            "sourceSystem": {
+                "code": 9,
+                "name": "Library of Congress"
+            },
+            "text": "Introduced in House",
+            "type": "IntroReferral"
+        }
+    ],
+    "pagination": {
+        "count": 3
+    },
+    "request": {
+        "billNumber": "2743",
+        "billType": "hr",
+        "billUrl": "https://api.congress.gov/v3/bill/119/hr/2743?format=json",
+        "congress": "119",
+        "contentType": "application/json",
+        "format": "json"
+    }
+}

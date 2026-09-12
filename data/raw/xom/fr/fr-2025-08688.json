@@ -1,0 +1,251 @@
+{
+  "abstract": "Congress has passed and the President has signed a joint resolution of disapproval under the Congressional Review Act (CRA) of the Environmental Protection Agency's (EPA) final rule titled, \"Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions\" (2024 WEC Final Rule). The 2024 WEC Final Rule implemented and facilitated compliance with the requirements of the Waste Emissions Charge in the Clean Air Act's (CAA) Methane Emissions Reduction Program. Under the joint resolution and by operation of the CRA, the 2024 WEC Final Rule now has no legal force or effect. Because the rule has been nullified, the EPA is removing it from the Code of Federal Regulations (CFR). This action is exempt from notice-and-comment rulemaking because it is ministerial in nature.",
+  "action": "Final rule; CRA revocation.",
+  "agencies": [
+    {
+      "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+      "name": "Environmental Protection Agency",
+      "id": 145,
+      "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+      "parent_id": null,
+      "slug": "environmental-protection-agency"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/19/2025-08688.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": "2",
+      "title": 40
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": "98",
+      "title": 40
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": "99",
+      "title": 40
+    }
+  ],
+  "citation": "90 FR 21225",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This final rule is effective May 19, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EPA-HQ-OAR-2023-0434",
+    "FRL-12723-01-OAR"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "Summary of OMB 12866 Communication and documents",
+          "document_id": "EPA-HQ-OAR-2023-0434-0137"
+        },
+        {
+          "title": "WEC RIA Tables",
+          "document_id": "EPA-HQ-OAR-2023-0434-0136"
+        },
+        {
+          "title": "SR15 IPCC Special Report 2018",
+          "document_id": "EPA-HQ-OAR-2023-0434-0126"
+        },
+        {
+          "title": "IPCC 2021a Ocean Cryosphere and Sea Level Change",
+          "document_id": "EPA-HQ-OAR-2023-0434-0125"
+        },
+        {
+          "title": "RIA for the Clean Power Plan Final Rule",
+          "document_id": "EPA-HQ-OAR-2023-0434-0119"
+        },
+        {
+          "title": "The Rising Cost of Climate Change - Evidence From the Bond Market",
+          "document_id": "EPA-HQ-OAR-2023-0434-0118"
+        },
+        {
+          "title": "The Social Cost of Carbon - Advances in Long-term probabilistic projections of population GDP emissions and discount rates",
+          "document_id": "EPA-HQ-OAR-2023-0434-0115"
+        },
+        {
+          "title": "US-Long-Term-Strategy",
+          "document_id": "EPA-HQ-OAR-2023-0434-0114"
+        },
+        {
+          "title": "Formaldehyde 2-Butoxyethanol and 1-Tert Butoxypropan 2 ol",
+          "document_id": "EPA-HQ-OAR-2023-0434-0104"
+        },
+        {
+          "title": "Report on Carcinogens 11th Edition",
+          "document_id": "EPA-HQ-OAR-2023-0434-0101"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-19",
+          "updated_at": "2025-05-19T09:56:34.520-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA-HQ-OAR-2023-0434-1111",
+          "allow_late_comments": false,
+          "id": "EPA-HQ-OAR-2023-0434-1111",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 307,
+      "id": "EPA-HQ-OAR-2023-0434",
+      "title": "Methane Emissions and Waste Reduction Incentive Program for Petroleum and Natural Gas Systems"
+    },
+    {
+      "supporting_documents": [
+        {
+          "title": "Adequacy Status of the Cleveland/Akron, Ohio and the Columbus, Ohio Submitted 8-Hour Ozone Redesignation and Maintenance Plans for Transportation Conformity Purposes",
+          "document_id": "EPA_FRDOC_0001-6733"
+        },
+        {
+          "title": "DELETE",
+          "document_id": "EPA_FRDOC_0001-6642"
+        },
+        {
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+          "document_id": "EPA_FRDOC_0001-6334"
+        },
+        {
+          "title": "Literature Search for 2,3,7,8-Tetrachlorodibenzo-p-Dioxin(TCDD) Dose-Response Studies for Use in an Upcoming Expert Panel Workshop",
+          "document_id": "EPA_FRDOC_0001-6019"
+        },
+        {
+          "title": "Regulatory Agenda Semiannual Regulatory Agenda",
+          "document_id": "EPA_FRDOC_0001-6015"
+        },
+        {
+          "title": "Correction to MVEBs for the Indiana and Ohio Portions of the Cincinnati-Hamilton, Ohio/Kentucky/Indiana, Submitted 8-Hour Ozone Attainment Demonstration",
+          "document_id": "EPA_FRDOC_0001-5132"
+        },
+        {
+          "title": "Pesticides; tolerances in food, animal feeds, and raw agricultural commodities: Pyriproxyfen",
+          "document_id": "EPA_FRDOC_0001-3649"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": null,
+          "updated_at": "2025-05-19T09:55:48.728-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA_FRDOC_0001-31872",
+          "allow_late_comments": false,
+          "id": "EPA_FRDOC_0001-31872",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 7,
+      "id": "EPA_FRDOC_0001",
+      "title": "Recently Posted EPA Rules and Notices from FR Feed."
+    }
+  ],
+  "document_number": "2025-08688",
+  "effective_on": "2025-05-19",
+  "end_page": 21228,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/19/2025-08688.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08688/congressional-review-act-revocation-of-waste-emissions-charge-for-petroleum-and-natural-gas-systems",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08688?publication_date=2025-05-19",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-19/2025-08688/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 4,
+  "page_views": {
+    "count": 1360,
+    "last_updated": "2026-09-12 16:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-19/pdf/2025-08688.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08688.pdf?1747399509",
+  "publication_date": "2025-05-19",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/19/2025-08688.txt",
+  "regulation_id_number_info": {
+    "2060-AW54": null
+  },
+  "regulation_id_numbers": [
+    "2060-AW54"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "Adequacy Status of the Cleveland/Akron, Ohio and the Columbus, Ohio Submitted 8-Hour Ozone Redesignation and Maintenance Plans for Transportation Conformity Purposes",
+        "document_id": "EPA_FRDOC_0001-6733"
+      },
+      {
+        "title": "DELETE",
+        "document_id": "EPA_FRDOC_0001-6642"
+      },
+      {
+        "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+        "document_id": "EPA_FRDOC_0001-6334"
+      },
+      {
+        "title": "Literature Search for 2,3,7,8-Tetrachlorodibenzo-p-Dioxin(TCDD) Dose-Response Studies for Use in an Upcoming Expert Panel Workshop",
+        "document_id": "EPA_FRDOC_0001-6019"
+      },
+      {
+        "title": "Regulatory Agenda Semiannual Regulatory Agenda",
+        "document_id": "EPA_FRDOC_0001-6015"
+      },
+      {
+        "title": "Correction to MVEBs for the Indiana and Ohio Portions of the Cincinnati-Hamilton, Ohio/Kentucky/Indiana, Submitted 8-Hour Ozone Attainment Demonstration",
+        "document_id": "EPA_FRDOC_0001-5132"
+      },
+      {
+        "title": "Pesticides; tolerances in food, animal feeds, and raw agricultural commodities: Pyriproxyfen",
+        "document_id": "EPA_FRDOC_0001-3649"
+      }
+    ],
+    "comments_count": 0,
+    "agency_id": "EPA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EPA_FRDOC_0001",
+    "supporting_documents_count": 7,
+    "docket_id": "EPA_FRDOC_0001",
+    "document_id": "EPA_FRDOC_0001-31872",
+    "regulation_id_number": null,
+    "title": "Recently Posted EPA Rules and Notices from FR Feed.",
+    "checked_regulationsdotgov_at": "2025-05-22T20:55:12Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21225,
+  "subtype": null,
+  "title": "Congressional Review Act Revocation of Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions",
+  "toc_doc": "Procedures for Facilitating Compliance, Including Netting and Exemptions; Congressional Review Act Revocation",
+  "toc_subject": "Waste Emissions Charge for Petroleum and Natural Gas Systems",
+  "topics": [
+    "Administrative practice and procedure",
+    "Confidential business information",
+    "Courts",
+    "Environmental protection",
+    "Freedom of information",
+    "Government employees",
+    "Greenhouse gases",
+    "Incorporation by reference",
+    "Natural gas",
+    "Penalties",
+    "Petroleum",
+    "Reporting and recordkeeping requirements"
+  ],
+  "type": "Rule",
+  "volume": 90
+}

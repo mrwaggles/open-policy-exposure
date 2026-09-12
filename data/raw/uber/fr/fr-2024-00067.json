@@ -1,0 +1,192 @@
+{
+  "abstract": "The U.S. Department of Labor (the Department) is modifying Wage and Hour Division regulations to replace its analysis for determining employee or independent contractor classification under the Fair Labor Standards Act (FLSA or Act) with an analysis that is more consistent with judicial precedent and the Act's text and purpose.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF LABOR",
+      "name": "Labor Department",
+      "id": 271,
+      "url": "https://www.federalregister.gov/agencies/labor-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+      "parent_id": null,
+      "slug": "labor-department"
+    },
+    {
+      "raw_name": "Wage and Hour Division",
+      "name": "Wage and Hour Division",
+      "id": 524,
+      "url": "https://www.federalregister.gov/agencies/wage-and-hour-division",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/524",
+      "parent_id": 271,
+      "slug": "wage-and-hour-division"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2024/01/10/2024-00067.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": "780",
+      "title": 29
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": "788",
+      "title": 29
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": "795",
+      "title": 29
+    }
+  ],
+  "citation": "89 FR 1638",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This final rule is effective on March 11, 2024.",
+  "disposition_notes": null,
+  "docket_ids": [],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "Attendee list October 25 House briefing",
+          "document_id": "WHD-2022-0003-8676"
+        },
+        {
+          "title": "Ex parte notice - Intelycare FLSD",
+          "document_id": "WHD-2022-0003-48439"
+        },
+        {
+          "title": "Ex parte notice IC NPRM Senate Briefing (2022-11-16)",
+          "document_id": "WHD-2022-0003-29939"
+        },
+        {
+          "title": "Ex parte notice IC NPRM SBA Roundtable (2022-11-09)",
+          "document_id": "WHD-2022-0003-29938"
+        },
+        {
+          "title": "Ex parte notice IC NPRM Hill Briefing (2022-10-12)",
+          "document_id": "WHD-2022-0003-19483"
+        },
+        {
+          "title": "Historical WHD guidance",
+          "document_id": "WHD-2022-0003-0002"
+        }
+      ],
+      "agency_name": "WHD",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2024-01-10",
+          "updated_at": "2024-01-23T14:56:32.880-05:00",
+          "comment_url": "https://www.regulations.gov/commenton/WHD-2022-0003-54409",
+          "allow_late_comments": null,
+          "id": "WHD-2022-0003-54409",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 6,
+      "id": "WHD-2022-0003",
+      "title": "Employee or Independent Contractor Classification Under the Fair Labor Standards Act"
+    }
+  ],
+  "document_number": "2024-00067",
+  "effective_on": "2024-03-11",
+  "end_page": 1743,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2024/01/10/2024-00067.xml",
+  "html_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2024-00067?publication_date=2024-01-10",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2024-01-10/2024-00067/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 106,
+  "page_views": {
+    "count": 150736,
+    "last_updated": "2026-09-12 16:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2024-01-10/pdf/2024-00067.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2024-00067.pdf?1704807918",
+  "publication_date": "2024-01-10",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2024/01/10/2024-00067.txt",
+  "regulation_id_number_info": {
+    "1235-AA43": {
+      "issue": "202310",
+      "html_url": "https://www.federalregister.gov/regulations/1235-AA43/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
+      "title": "Employee or Independent Contractor Classification Under the Fair Labor Standards Act",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202310&RIN=1235-AA43&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Section 3(f)(1) Significant"
+    }
+  },
+  "regulation_id_numbers": [
+    "1235-AA43"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "Attendee list October 25 House briefing",
+        "document_id": "WHD-2022-0003-8676"
+      },
+      {
+        "title": "Ex parte notice - Intelycare FLSD",
+        "document_id": "WHD-2022-0003-48439"
+      },
+      {
+        "title": "Ex parte notice IC NPRM Senate Briefing (2022-11-16)",
+        "document_id": "WHD-2022-0003-29939"
+      },
+      {
+        "title": "Ex parte notice IC NPRM SBA Roundtable (2022-11-09)",
+        "document_id": "WHD-2022-0003-29938"
+      },
+      {
+        "title": "Ex parte notice IC NPRM Hill Briefing (2022-10-12)",
+        "document_id": "WHD-2022-0003-19483"
+      },
+      {
+        "title": "Historical WHD guidance",
+        "document_id": "WHD-2022-0003-0002"
+      }
+    ],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/1235-AA43/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
+      "title": "Employee or Independent Contractor Classification Under the Fair Labor Standards Act"
+    },
+    "comments_count": 0,
+    "agency_id": "WHD",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=WHD-2022-0003",
+    "supporting_documents_count": 6,
+    "docket_id": "WHD-2022-0003",
+    "document_id": "WHD-2022-0003-54409",
+    "regulation_id_number": "1235-AA43",
+    "title": "Employee or Independent Contractor Classification Under the Fair Labor Standards Act",
+    "checked_regulationsdotgov_at": "2024-01-24T19:00:20Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": false,
+  "signing_date": null,
+  "start_page": 1638,
+  "subtype": null,
+  "title": "Employee or Independent Contractor Classification Under the Fair Labor Standards Act",
+  "toc_doc": "Employee or Independent Contractor Classification under the Fair Labor Standards Act",
+  "toc_subject": null,
+  "topics": [
+    "Agriculture",
+    "Child labor",
+    "Employment",
+    "Forests and forest products",
+    "Wages"
+  ],
+  "type": "Rule",
+  "volume": 89
+}

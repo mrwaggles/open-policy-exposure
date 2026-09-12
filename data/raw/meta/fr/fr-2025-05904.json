@@ -1,0 +1,127 @@
+{
+  "abstract": "The Federal Trade Commission amends the Children's Online Privacy Protection Rule (the \"Rule\"), consistent with the requirements of the Children's Online Privacy Protection Act. The amendments to the Rule, which are based on the FTC's review of public comments and its enforcement experience, include one new definition and modifications to several others, as well as updates to key provisions to respond to changes in technology and online practices. The amendments are intended to strengthen protection of personal information collected from children, and, where appropriate, to clarify and streamline the Rule since it was last amended in January 2013.",
+  "action": "Final rule amendments.",
+  "agencies": [
+    {
+      "raw_name": "FEDERAL TRADE COMMISSION",
+      "name": "Federal Trade Commission",
+      "id": 192,
+      "url": "https://www.federalregister.gov/agencies/federal-trade-commission",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/192",
+      "parent_id": null,
+      "slug": "federal-trade-commission"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/04/22/2025-05904.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": "312",
+      "title": 16
+    }
+  ],
+  "citation": "90 FR 16918",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Effective date: The amended Rule is effective June 23, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "FTC",
+      "documents": [
+        {
+          "comment_count": null,
+          "comment_start_date": null,
+          "updated_at": "2025-04-22T09:00:22.929-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/FTC-2024-0003-0281",
+          "allow_late_comments": false,
+          "id": "FTC-2024-0003-0281",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "FTC-2024-0003",
+      "title": "FTC Seek Comments on the Children's Online Privacy Protection Rule; COPPA Rule Review, Project No. P195404"
+    }
+  ],
+  "document_number": "2025-05904",
+  "effective_on": "2025-06-23",
+  "end_page": 16983,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/04/22/2025-05904.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-05904?publication_date=2025-04-22",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-04-22/2025-05904/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 66,
+  "page_views": {
+    "count": 29805,
+    "last_updated": "2026-09-12 16:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-22/pdf/2025-05904.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-05904.pdf?1745239507",
+  "publication_date": "2025-04-22",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/04/22/2025-05904.txt",
+  "regulation_id_number_info": {
+    "3084-AB20": {
+      "issue": "201110",
+      "html_url": "https://www.federalregister.gov/regulations/3084-AB20/children-s-online-privacy-protection-rule-",
+      "title": "Children's Online Privacy Protection Rule  ",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=201110&RIN=3084-AB20&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Substantive, Nonsignificant"
+    }
+  },
+  "regulation_id_numbers": [
+    "3084-AB20"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/3084-AB20/children-s-online-privacy-protection-rule-",
+      "title": "Children's Online Privacy Protection Rule  "
+    },
+    "comments_count": 0,
+    "agency_id": "FTC",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FTC-2024-0003",
+    "supporting_documents_count": 0,
+    "docket_id": "FTC-2024-0003",
+    "document_id": "FTC-2024-0003-0281",
+    "regulation_id_number": "3084-AB20",
+    "title": "FTC Seek Comments on the Children's Online Privacy Protection Rule; COPPA Rule Review, Project No. P195404",
+    "checked_regulationsdotgov_at": "2025-04-23T11:55:05Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": false,
+  "signing_date": null,
+  "start_page": 16918,
+  "subtype": null,
+  "title": "Children's Online Privacy Protection Rule",
+  "toc_doc": "Children's Online Privacy Protection Rule",
+  "toc_subject": null,
+  "topics": [
+    "Communications",
+    "Computer technology",
+    "Consumer protection",
+    "Infants and children",
+    "Internet",
+    "Privacy",
+    "Reporting and recordkeeping requirements",
+    "Safety",
+    "Science and technology",
+    "Trade practices",
+    "Youth"
+  ],
+  "type": "Rule",
+  "volume": 90
+}

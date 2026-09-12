@@ -1,0 +1,105 @@
+{
+  "abstract": "In April 2025, DOT and NHTSA announced a new automated vehicle framework designed to prioritize safety, promote innovation, foster American ingenuity, and remove regulatory barriers to the advancement of automated driving system technologies. This notice furthers NHTSA's implementation of this framework by requesting public comment on interim guidance for commercial deployment exemptions for automated vehicles. This notice also summarizes NHTSA's other recent activity relating to the AV Framework.",
+  "action": "Notice of updates; request for comments.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF TRANSPORTATION",
+      "name": "Transportation Department",
+      "id": 492,
+      "url": "https://www.federalregister.gov/agencies/transportation-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+      "parent_id": null,
+      "slug": "transportation-department"
+    },
+    {
+      "raw_name": "National Highway Traffic Safety Administration",
+      "name": "National Highway Traffic Safety Administration",
+      "id": 345,
+      "url": "https://www.federalregister.gov/agencies/national-highway-traffic-safety-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/345",
+      "parent_id": 492,
+      "slug": "national-highway-traffic-safety-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2026/07/31/2026-15483.html",
+  "cfr_references": [],
+  "citation": "91 FR 48485",
+  "comment_url": "http://www.regulations.gov/commenton/NHTSA-2026-1552-0001",
+  "comments_close_on": "2026-08-31",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Comments are requested on or before August 31, 2026.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. NHTSA-2026-1552"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "NHTSA",
+      "documents": [
+        {
+          "comment_count": 24,
+          "comment_start_date": "2026-07-31",
+          "updated_at": "2026-09-03T15:56:16.274-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/NHTSA-2026-1552-0001",
+          "allow_late_comments": true,
+          "id": "NHTSA-2026-1552-0001",
+          "comment_end_date": "2026-09-01",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "NHTSA-2026-1552",
+      "title": "AV Framework Updates and Request for Comments on Interim Guidance"
+    }
+  ],
+  "document_number": "2026-15483",
+  "effective_on": null,
+  "end_page": 48491,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2026/07/31/2026-15483.xml",
+  "html_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2026-15483?publication_date=2026-07-31",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2026-07-31/2026-15483/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 7,
+  "page_views": {
+    "count": 1300,
+    "last_updated": "2026-09-12 16:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-07-31/pdf/2026-15483.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2026-15483.pdf?1785415513",
+  "publication_date": "2026-07-31",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2026/07/31/2026-15483.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "comments_count": 24,
+    "agency_id": "NHTSA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=NHTSA-2026-1552",
+    "supporting_documents_count": 0,
+    "docket_id": "NHTSA-2026-1552",
+    "document_id": "NHTSA-2026-1552-0001",
+    "regulation_id_number": null,
+    "title": "AV Framework Updates and Request for Comments on Interim Guidance",
+    "checked_regulationsdotgov_at": "2026-09-12T04:04:45Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/NHTSA-2026-1552-0001",
+  "significant": null,
+  "signing_date": null,
+  "start_page": 48485,
+  "subtype": null,
+  "title": "AV Framework Updates and Request for Comments on Interim Guidance",
+  "toc_doc": "AV Framework",
+  "toc_subject": "Guidance",
+  "topics": [],
+  "type": "Notice",
+  "volume": 91
+}

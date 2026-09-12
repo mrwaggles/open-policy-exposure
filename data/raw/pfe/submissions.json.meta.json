@@ -1,0 +1,8 @@
+{
+  "doc_id": "pfe/submissions",
+  "source": "SEC EDGAR",
+  "source_url": "https://data.sec.gov/submissions/CIK0000078003.json",
+  "retrieved_at": "2026-09-12T21:40:11Z",
+  "sha256": "15aea7b65397e67dee18c9c2525002fcfbeb9c2f17872df53c301748d383299a",
+  "bytes": 145938
+}
