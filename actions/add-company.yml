@@ -1,0 +1,46 @@
+name: Add Company
+on:
+  workflow_dispatch:
+    inputs:
+      company_id:
+        description: 'Short lowercase id (e.g. aapl)'
+        required: true
+      name:
+        description: 'Company name (e.g. Apple Inc.)'
+        required: true
+      cik:
+        description: 'SEC CIK, 10 digits (e.g. 0000320193)'
+        required: true
+      ticker:
+        description: 'Ticker (optional)'
+        required: false
+      structure:
+        description: 'Business structure (optional)'
+        required: false
+permissions:
+  contents: write
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run add-company pipeline
+        run: |
+          ARGS="--id ${{ inputs.company_id }} --name \"${{ inputs.name }}\" --cik ${{ inputs.cik }} --fr-terms \"${{ inputs.name }}\""
+          if [ -n "${{ inputs.ticker }}" ]; then ARGS="$ARGS --ticker ${{ inputs.ticker }}"; fi
+          if [ -n "${{ inputs.structure }}" ]; then ARGS="$ARGS --structure \"${{ inputs.structure }}\""; fi
+          eval python3 build/add_company.py $ARGS
+      - name: Commit result
+        run: |
+          git config user.name "open-policy-exposure-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes (company may already exist with identical data)."
+          else
+            git commit -m "Add company: ${{ inputs.name }} (${{ inputs.company_id }}) via Add Company workflow"
+            git push
+          fi
