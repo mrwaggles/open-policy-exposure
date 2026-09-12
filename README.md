@@ -1,0 +1,98 @@
+# Open Policy Exposure
+
+An evidence-first system for identifying the public policy developments that can
+materially affect a company - built directly from the design paper
+**"Corporate Public Policy Exposure Architecture"** (review edition, 11 September 2026).
+
+This repository implements the paper's **Stage 2 slice** (evidence foundation) with a
+working piece of Stage 4 (categorical assessment + reviewable brief), end to end:
+
+- **3 diverse US public companies** - Meta Platforms (digital platform),
+  Uber Technologies (labor marketplace), Exxon Mobil (energy producer)
+- **4 official connectors** - SEC EDGAR (submissions, filing documents, XBRL
+  companyfacts), the Federal Register API v1, the Congress.gov API v3, and the
+  Senate LDA API v1 (Tier C advocacy records)
+- **7 exposure cases** joining business activity, jurisdiction, policy mechanism,
+  business effect, and exact evidence
+- **35 evidence spans**, every one machine-validated as verbatim text inside the
+  hashed raw snapshot it cites, at build time
+- **Categorical assessment dimensions** (business exposure, policy process status,
+  intervention type, time horizon, evidence confidence, coverage) - no composite scores
+- **A static web brief** where a reader can click from any conclusion to the exact
+  source passage, the official source URL, the retrieval timestamp, and the SHA-256
+  of the snapshot the span was verified against
+
+## Design rules inherited from the paper
+
+1. **Evidence before synthesis.** A conclusion cannot exist without linked evidence
+   spans and source metadata. The build fails loudly if any span marker does not
+   resolve uniquely to verbatim snapshot text (the citation-exactness gate).
+2. **No composite scores.** Assessments are categorical dimensions with a written
+   rationale. Any future sort key stays private.
+3. **Direct vs. inferred.** Mechanism-chain steps state whether a source says the
+   thing directly or the system infers it.
+4. **Uncertainty stays visible.** Financial linkage follows the evidence ladder;
+   product-level exposure that filings don't support is labeled **Unknown**,
+   and coverage gaps are printed on the brief, not smoothed over.
+5. **Change as a first-class object.** Cases carry dated policy events
+   (adopted -> implemented -> revoked -> extended), so direction of travel is
+   explicit - see the ExxonMobil methane case: rule adopted, fee implemented,
+   fee revoked under the Congressional Review Act, deadlines extended.
+
+## Repository layout
+
+```
+connectors/           source connectors (raw snapshot retrieval, hashed + timestamped)
+  sec_edgar.py          SEC EDGAR: submissions, latest 10-K, risk factors, legal proceedings, XBRL facts
+  federal_register.py   Federal Register API v1: selected rule/notice documents with full text
+  congress_gov.py       Congress.gov API v3: bill metadata, actions, CRS summaries
+  senate_lda.py         Senate LDA API v1: lobbying disclosure filings (Tier C advocacy)
+data/
+  companies.json        organizations + business activities (company map, paper step one)
+  cases/                exposure cases (schema follows the paper's minimum exposure case schema)
+  raw/                  immutable raw snapshots + .meta.json (source URL, retrieval time, sha256)
+build/
+  build_site.py         span resolution + verbatim validation + site data emission
+docs/                   static web brief (vanilla JS, no dependencies; GitHub Pages /docs source)
+```
+
+## Run it
+
+Raw snapshots under `data/raw/` are git-ignored build artifacts: connectors
+regenerate them from the official APIs, and `build_site.py` re-validates every
+span against the fresh snapshots, so a clean clone reproduces the full evidence
+store with matching hashes.
+
+```bash
+python3 connectors/sec_edgar.py          # fetch EDGAR snapshots (respects sec.gov fair access)
+python3 connectors/federal_register.py   # fetch Federal Register snapshots
+python3 connectors/congress_gov.py       # fetch Congress.gov snapshots (DEMO_KEY or own key)
+python3 build/build_site.py              # validate spans, emit site/data.json
+cd docs && python3 -m http.server 8000   # open http://localhost:8000
+```
+
+`build_site.py` exits non-zero naming the offending evidence item if any span
+cannot be verified verbatim - that is the paper's evidence-precision and
+citation-exactness discipline enforced as a build gate.
+
+## What this slice deliberately does NOT do (paper stage gates)
+
+- No LLM candidate generation yet (Stage 3) - cases here are analyst-authored
+  against retrieved sources; spans are machine-verified.
+- **Change detection**: structural sentence-level diff between consecutive 10-K
+  risk-factor sections; surfaced candidates are analyst-classified with evidence
+  on both sides and shown as "Changes since previous review" on each company brief.
+- No review workflow, versioning UI, or change alerts (Stages 4-5).
+- No Senate LDA / EU connectors yet (connector matrix roadmap).
+- No peer comparison or boilerplate analysis (Stage 6).
+
+## Source tiers in use
+
+| Tier | Source | Used for |
+|------|--------|----------|
+| A | Federal Register + Congress.gov (official APIs) | Formal status, dates, mechanism text |
+| B | SEC EDGAR filings + XBRL | Company statements, financial facts, disclosed proceedings |
+| C | Senate LDA filings | Reported advocacy only - never evidence of materiality |
+
+Retrieved: 11 September 2026 (US Pacific). All documents are public records.
+Not investment, legal, or policy advice.

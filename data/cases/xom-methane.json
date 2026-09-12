@@ -1,0 +1,202 @@
+{
+  "case_id": "xom-methane",
+  "company_id": "xom",
+  "title": "Federal methane regulation of oil and gas operations (standards rollback plus methane-fee repeal)",
+  "issue_family": "environmental and climate",
+  "sub_issue": "methane emissions standards and charges (US federal)",
+  "list": "current",
+  "business_activity": {
+    "activity_id": "xom-upstream-us",
+    "name": "US upstream oil and natural gas production operations",
+    "segment": "Upstream",
+    "geography": "US"
+  },
+  "jurisdiction": {
+    "level": "US federal",
+    "name": "United States (federal)"
+  },
+  "authority": "US Environmental Protection Agency / US Congress (Congressional Review Act)",
+  "policy_mechanism": "Emission standards compliance (CAA section 111, OOOOb/c) and a statutory per-ton methane charge (IRA section 136) - the charge rule was revoked under the CRA and standard deadlines are being extended and reconsidered",
+  "mechanism_chain": [
+    {
+      "text": "EPA's March 2024 oil and gas sector climate rule set performance standards and emissions guidelines; in July 2025 EPA took interim final action extending certain compliance deadlines.",
+      "type": "direct"
+    },
+    {
+      "text": "The IRA Waste Emissions Charge ($900/ton methane in 2024 rising to $1,500/ton in 2026) was implemented by EPA in November 2024, then disapproved by Congress and removed from the CFR in May 2025 under the Congressional Review Act.",
+      "type": "direct"
+    },
+    {
+      "text": "The direction of travel is deregulatory: near-term compliance cost and charge exposure for US upstream operations is falling, while the underlying CAA 111 framework and any future reconsideration remain live.",
+      "type": "inferred"
+    }
+  ],
+  "events": [
+    {
+      "date": "2024-03-08",
+      "description": "2024 final rule: Standards of Performance for oil and natural gas sector (89 FR 16820)",
+      "source_doc_id": "xom/fr-2025-14531"
+    },
+    {
+      "date": "2024-11-18",
+      "description": "EPA finalizes Waste Emissions Charge implementation rule",
+      "source_doc_id": "xom/fr-2024-26643"
+    },
+    {
+      "date": "2025-05-19",
+      "description": "CRA revocation of the WEC rule takes effect; 40 CFR part 99 removed",
+      "source_doc_id": "xom/fr-2025-08688"
+    },
+    {
+      "date": "2025-03-14",
+      "description": "H.J.Res. 35 (CRA disapproval of the WEC rule) becomes Public Law 119-2",
+      "source_doc_id": "xom/congress-hjres35-actions"
+    },
+    {
+      "date": "2025-07-31",
+      "description": "EPA interim final action extends deadlines in the 2024 methane standards",
+      "source_doc_id": "xom/fr-2025-14531"
+    },
+    {
+      "date": "2026-02-18",
+      "description": "XOM FY2025 10-K discloses that GHG regulatory frameworks and compliance costs affect its operations",
+      "source_doc_id": "xom/10k-000003408826000045"
+    }
+  ],
+  "financial_linkage": {
+    "level": "geographic-partial",
+    "detail": "Consolidated FY2025 revenue $332.2B (XBRL). US upstream results are partially reported geographically; facility-level methane exposure and any WEC liability are not disclosed (and the charge was repealed before collection).",
+    "gap": "Facility-level methane intensity and charge exposure are not in the public record reviewed; compliance-cost allocation to US upstream is an analyst-proxy question, left Unknown."
+  },
+  "dimensions": {
+    "business_exposure": "Meaningful",
+    "policy_process_status": "Implementation",
+    "intervention_type": [
+      "Compliance",
+      "Cost or tax"
+    ],
+    "time_horizon": "Current",
+    "evidence_confidence": "High",
+    "coverage": "Sufficient"
+  },
+  "rationale": "A live implementation-phase exposure with an unusually well-documented change story: standard adopted, fee implemented, fee revoked by statute, deadlines extended. Business exposure is Meaningful rather than Core because methane compliance is one cost line within upstream operations, not an existential mechanism. All key events rest on Tier A sources.",
+  "gaps": [
+    "State methane programs (e.g. New Mexico, Colorado) are outside current connector coverage.",
+    "The April 2026 reconsideration rule (EPA-2026-06808) was located in search but not yet ingested; the rollback trajectory may extend further than shown."
+  ],
+  "evidence": [
+    {
+      "evidence_id": "xom-meth-e1",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/xom/fr/fr-2025-14531.txt",
+      "meta_path": "data/raw/xom/fr/fr-2025-14531.json.meta.json",
+      "doc_label": "Federal Register rule 2025-14531, Extension of Deadlines in Standards of Performance for Oil and Natural Gas Sector",
+      "location": "SUMMARY",
+      "span": {
+        "start": "The U.S. Environmental Protection Agency (EPA) is taking interim final action to extend certain deadlines",
+        "end": "89 FR 16820 (March 8, 2024) (hereafter ``2024 final rule'')."
+      },
+      "source_url": "https://www.federalregister.gov/documents/2025/07/31/2025-14531/extension-of-deadlines-in-standards-of-performance-for-new-reconstructed-and-modified-sources-and",
+      "publication_date": "2025-07-31",
+      "supports": [
+        "policy process status",
+        "change event"
+      ]
+    },
+    {
+      "evidence_id": "xom-meth-e2",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/xom/fr/fr-2024-26643.txt",
+      "meta_path": "data/raw/xom/fr/fr-2024-26643.json.meta.json",
+      "doc_label": "Federal Register final rule 2024-26643, Waste Emissions Charge for Petroleum and Natural Gas Systems",
+      "location": "preamble",
+      "span": {
+        "start": "is specified in CAA section 136(e) to begin for emissions occurring in 2024 at $900 per metric ton of methane",
+        "end": "$1,500 per metric ton of methane in 2026 and subsequent years."
+      },
+      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
+      "publication_date": "2024-11-18",
+      "supports": [
+        "policy mechanism",
+        "intervention type"
+      ]
+    },
+    {
+      "evidence_id": "xom-meth-e3",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/xom/fr/fr-2025-08688.txt",
+      "meta_path": "data/raw/xom/fr/fr-2025-08688.json.meta.json",
+      "doc_label": "Federal Register rule 2025-08688, CRA Revocation of Waste Emissions Charge",
+      "location": "preamble",
+      "span": {
+        "start": "President Donald J. Trump signed the joint resolution of disapproval into law as Public Law (Pub. L.) 119-2",
+        "end": "reverts to the text in effect immediately prior to the effective date of the 2024 WEC Final Rule"
+      },
+      "source_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08688/congressional-review-act-revocation-of-waste-emissions-charge-for-petroleum-and-natural-gas-systems",
+      "publication_date": "2025-05-19",
+      "supports": [
+        "policy process status",
+        "change event"
+      ]
+    },
+    {
+      "evidence_id": "xom-meth-e4",
+      "tier": "B",
+      "role": "supporting",
+      "doc_path": "data/raw/xom/10k-000003408826000045.risk-factors.txt",
+      "meta_path": "data/raw/xom/10k-000003408826000045.html.meta.json",
+      "doc_label": "ExxonMobil FY2025 Form 10-K, Item 1A Risk Factors",
+      "location": "Item 1A",
+      "span": {
+        "start": "a number of countries have adopted, or are considering the adoption of, broad-reaching regulatory frameworks seeking to report on or reduce greenhouse gas emissions",
+        "end": "emissions from the production and use of oil and gas and their products"
+      },
+      "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/0000034088-26-000045-index.htm",
+      "publication_date": "2026-02-18",
+      "supports": [
+        "business activity linkage"
+      ]
+    },
+    {
+      "evidence_id": "xom-meth-e5",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/xom/congress/hjres35-actions.json",
+      "meta_path": "data/raw/xom/congress/hjres35-actions.json.meta.json",
+      "doc_label": "Congress.gov action record, H.J.Res. 35 (119th Congress)",
+      "location": "action of 2025-03-14",
+      "span": {
+        "start": "Became Public Law No: 119-2.",
+        "end": "Became Public Law No: 119-2."
+      },
+      "source_url": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/35/actions",
+      "publication_date": "2025-03-14",
+      "supports": [
+        "policy process status",
+        "change event"
+      ]
+    },
+    {
+      "evidence_id": "xom-meth-e6",
+      "tier": "C",
+      "role": "supporting",
+      "doc_path": "data/raw/xom/lda/lda-5b0e6916-03f4-4b9f-be48-da93009dd2cb.json",
+      "meta_path": "data/raw/xom/lda/lda-5b0e6916-03f4-4b9f-be48-da93009dd2cb.json.meta.json",
+      "doc_label": "Senate LDA filing, Exxon Mobil in-house Q1 2026 report ($3,400,000)",
+      "location": "lobbying activity description",
+      "span": {
+        "start": "Discussions related to carbon accounting, and carbon capture and storage",
+        "end": "Discussions related to emissions and energy"
+      },
+      "source_url": "https://lda.gov/api/v1/filings/5b0e6916-03f4-4b9f-be48-da93009dd2cb/",
+      "publication_date": "2026-04-20T20:31:50-04:00",
+      "supports": [
+        "company advocacy position"
+      ]
+    }
+  ],
+  "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution)."
+}

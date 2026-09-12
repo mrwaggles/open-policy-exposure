@@ -1,0 +1,214 @@
+{
+  "case_id": "uber-driver-classification",
+  "company_id": "uber",
+  "title": "Federal worker classification rule under the FLSA (2024 rule vs. 2026 rescission proposal)",
+  "issue_family": "labor",
+  "sub_issue": "independent contractor classification (US federal)",
+  "list": "current",
+  "business_activity": {
+    "activity_id": "uber-mobility",
+    "name": "Mobility and Delivery supply model using independent-contractor drivers and couriers",
+    "segment": "Mobility / Delivery",
+    "geography": "US"
+  },
+  "jurisdiction": {
+    "level": "US federal",
+    "name": "United States (federal)"
+  },
+  "authority": "US Department of Labor, Wage and Hour Division",
+  "policy_mechanism": "Labor rule / interpretive standard: regulatory guidance determining employee vs. independent contractor status under the FLSA (29 CFR part 795)",
+  "mechanism_chain": [
+    {
+      "text": "A January 2024 DOL final rule set the current analysis for determining employee vs. independent contractor status under the FLSA.",
+      "type": "direct"
+    },
+    {
+      "text": "In February 2026 DOL proposed to rescind the 2024 rule and readopt the January 2021 analysis with modifications.",
+      "type": "direct"
+    },
+    {
+      "text": "Uber discloses that reclassification of drivers as employees would require it to fundamentally change its business model with adverse effect on results of operations, financial position and cash flows.",
+      "type": "direct"
+    },
+    {
+      "text": "The direction of travel at the federal level is toward a more employer-favorable standard, but state and foreign classification regimes (which the 10-K emphasizes) are unaffected by the federal rescission.",
+      "type": "inferred"
+    }
+  ],
+  "events": [
+    {
+      "date": "2024-01-10",
+      "description": "DOL final rule: Employee or Independent Contractor Classification Under the FLSA (89 FR 1638)",
+      "source_doc_id": "uber/fr-2024-00067"
+    },
+    {
+      "date": "2026-02-27",
+      "description": "DOL proposed rule to rescind the 2024 analysis and readopt the 2021 analysis with modifications",
+      "source_doc_id": "uber/fr-2026-03962"
+    },
+    {
+      "date": "2026-02-13",
+      "description": "Uber FY2025 10-K: reclassification 'would require us to fundamentally change our business model'",
+      "source_doc_id": "uber/10k-000154315126000015"
+    },
+    {
+      "date": "2026-02-20",
+      "description": "H.R.1319 Modern Worker Empowerment Act reported amended (H. Rept. 119-505) and placed on the Union Calendar - statutory IC standard advancing in parallel",
+      "source_doc_id": "uber/congress-hr1319-actions"
+    }
+  ],
+  "financial_linkage": {
+    "level": "segment",
+    "detail": "Consolidated FY2025 revenue $52.0B (XBRL). Mobility/Delivery driver economics are segment-reported; the incremental cost of employment classification is not disclosed by jurisdiction.",
+    "gap": "Per-driver cost delta under reclassification is not publicly disclosed; modeled estimates would require analyst-approved proxies (not used here)."
+  },
+  "dimensions": {
+    "business_exposure": "Core",
+    "policy_process_status": "Proposal",
+    "intervention_type": [
+      "Compliance",
+      "Cost or tax"
+    ],
+    "time_horizon": "Medium term",
+    "evidence_confidence": "High",
+    "coverage": "Sufficient"
+  },
+  "rationale": "Uber's own disclosure makes the business linkage direct and Core: the supply model is the business. Federal process status is Proposal (a live NPRM to roll back the 2024 rule), not Adopted-and-static; treating a proposed rescission as settled law is the proposal trap this assessment avoids. Confidence is High because the rule documents and the company linkage are both primary sources. A parallel statutory track (H.R.1319, reported and on the Union Calendar) would codify a classification standard; both tracks point the same direction but neither is final.",
+  "gaps": [
+    "State classification regimes (e.g. California Proposition 22 litigation, state minimum-earnings laws) are disclosed by Uber but state-level connectors are not built; the federal picture alone understates total classification exposure."
+  ],
+  "evidence": [
+    {
+      "evidence_id": "uber-ic-e1",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/uber/fr/fr-2024-00067.txt",
+      "meta_path": "data/raw/uber/fr/fr-2024-00067.json.meta.json",
+      "doc_label": "Federal Register final rule 2024-00067, Employee or Independent Contractor Classification Under the FLSA",
+      "location": "preamble",
+      "span": {
+        "start": "This final rule addresses how to determine whether a worker is properly classified as an employee or independent contractor",
+        "end": "under the Fair Labor Standards Act (FLSA or Act)."
+      },
+      "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
+      "publication_date": "2024-01-10",
+      "supports": [
+        "policy mechanism",
+        "policy process status"
+      ]
+    },
+    {
+      "evidence_id": "uber-ic-e2",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/uber/fr/fr-2026-03962.txt",
+      "meta_path": "data/raw/uber/fr/fr-2026-03962.json.meta.json",
+      "doc_label": "Federal Register proposed rule 2026-03962, Employee or Independent Contractor Status Under the FLSA",
+      "location": "SUMMARY",
+      "span": {
+        "start": "The Department is proposing to rescind the analysis for determining employee or independent contractor status",
+        "end": "adopted in a prior final rule dated January 7, 2021, with a few modifications."
+      },
+      "source_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act",
+      "publication_date": "2026-02-27",
+      "supports": [
+        "policy process status",
+        "direction of travel"
+      ]
+    },
+    {
+      "evidence_id": "uber-ic-e3",
+      "tier": "B",
+      "role": "supporting",
+      "doc_path": "data/raw/uber/10k-000154315126000015.risk-factors.txt",
+      "meta_path": "data/raw/uber/10k-000154315126000015.html.meta.json",
+      "doc_label": "Uber FY2025 Form 10-K, Item 1A Risk Factors",
+      "location": "Item 1A",
+      "span": {
+        "start": "Changes to foreign, state, and local laws governing the definition or classification of independent contractors",
+        "end": "and/or representation of Drivers by labor unions."
+      },
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/0001543151-26-000015-index.htm",
+      "publication_date": "2026-02-13",
+      "supports": [
+        "business activity linkage"
+      ]
+    },
+    {
+      "evidence_id": "uber-ic-e4",
+      "tier": "B",
+      "role": "supporting",
+      "doc_path": "data/raw/uber/10k-000154315126000015.risk-factors.txt",
+      "meta_path": "data/raw/uber/10k-000154315126000015.html.meta.json",
+      "doc_label": "Uber FY2025 Form 10-K, Item 1A Risk Factors",
+      "location": "Item 1A",
+      "span": {
+        "start": "any such reclassification would require us to fundamentally change our business model",
+        "end": "an adverse effect on our business, results of operations, financial position and cash flows."
+      },
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/0001543151-26-000015-index.htm",
+      "publication_date": "2026-02-13",
+      "supports": [
+        "business exposure",
+        "intervention type"
+      ]
+    },
+    {
+      "evidence_id": "uber-ic-e5",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/uber/congress/hr1319-summaries.json",
+      "meta_path": "data/raw/uber/congress/hr1319-summaries.json.meta.json",
+      "doc_label": "Congress.gov CRS summary, H.R.1319 Modern Worker Empowerment Act (119th Congress)",
+      "location": "CRS summary",
+      "span": {
+        "start": "This bill specifies a legal standard for determining whether an individual is considered an",
+        "end": "federal minimum wage, overtime compensation, and collective bargaining"
+      },
+      "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/1319",
+      "publication_date": "2025-02-13",
+      "supports": [
+        "policy mechanism",
+        "legislative track"
+      ]
+    },
+    {
+      "evidence_id": "uber-ic-e6",
+      "tier": "A",
+      "role": "supporting",
+      "doc_path": "data/raw/uber/congress/hr1319-actions.json",
+      "meta_path": "data/raw/uber/congress/hr1319-actions.json.meta.json",
+      "doc_label": "Congress.gov action record, H.R.1319 (119th Congress)",
+      "location": "action of 2026-02-20",
+      "span": {
+        "start": "Placed on the Union Calendar, Calendar No. 431.",
+        "end": "Placed on the Union Calendar, Calendar No. 431."
+      },
+      "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/1319/actions",
+      "publication_date": "2026-02-20",
+      "supports": [
+        "policy process status",
+        "direction of travel"
+      ]
+    },
+    {
+      "evidence_id": "uber-ic-e7",
+      "tier": "C",
+      "role": "supporting",
+      "doc_path": "data/raw/uber/lda/lda-e72bdfe6-b50d-4709-9703-06a9bc5d9543.json",
+      "meta_path": "data/raw/uber/lda/lda-e72bdfe6-b50d-4709-9703-06a9bc5d9543.json.meta.json",
+      "doc_label": "Senate LDA filing, Uber Technologies in-house Q1 2026 report ($940,000)",
+      "location": "lobbying activity description",
+      "span": {
+        "start": "Issues related to worker classification and possible anti-competitive activities",
+        "end": "limit consumers access to app-based technologies"
+      },
+      "source_url": "https://lda.gov/api/v1/filings/e72bdfe6-b50d-4709-9703-06a9bc5d9543/",
+      "publication_date": "2026-04-20T17:15:08-04:00",
+      "supports": [
+        "company advocacy position"
+      ]
+    }
+  ],
+  "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution)."
+}

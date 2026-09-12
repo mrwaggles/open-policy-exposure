@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Open Policy Exposure - Evidence-First Demo</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="brand">
+      <h1>Open Policy Exposure</h1>
+      <span class="tag">evidence-first demo &middot; Stage 2 slice</span>
+    </div>
+    <p class="sub">Every conclusion links to exact source evidence. Categorical dimensions only - no composite scores.
+    <span id="version"></span></p>
+  </div>
+</header>
+<nav class="wrap" id="company-tabs"></nav>
+<main class="wrap">
+  <section id="company-overview"></section>
+  <section id="case-lists"></section>
+  <section id="methodology"></section>
+</main>
+<div id="case-detail" class="drawer hidden">
+  <div class="drawer-inner" id="case-detail-inner"></div>
+</div>
+<footer><div class="wrap">
+  <p>Built from the design in "Corporate Public Policy Exposure Architecture" (review edition, 11 Sep 2026).
+  Source snapshots are immutable, hashed, and retrieved from official public APIs (SEC EDGAR, Federal Register).
+  Demo scope: 3 US companies, 2 connectors, 6 exposure cases. Not investment, legal, or policy advice.</p>
+</div></footer>
+<script src="app.js"></script>
+</body>
+</html>

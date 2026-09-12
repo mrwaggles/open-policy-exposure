@@ -1,0 +1,1306 @@
+{
+ "system": "Open Policy Exposure - evidence-first demo (Stage 2 slice)",
+ "assessment_version": "v0.1.0",
+ "extractor": "analyst-authored cases; spans machine-validated against immutable snapshots",
+ "source_registry": [
+  {
+   "source": "SEC EDGAR submissions + filing documents + XBRL companyfacts",
+   "tier": "B",
+   "access": "unauthenticated JSON APIs",
+   "cadence": "event-driven + daily reconciliation"
+  },
+  {
+   "source": "Federal Register API v1",
+   "tier": "A",
+   "access": "unauthenticated REST API",
+   "cadence": "daily"
+  },
+  {
+   "source": "Congress.gov API v3",
+   "tier": "A",
+   "access": "api.data.gov key (DEMO_KEY at low rate limits)",
+   "cadence": "daily + event driven"
+  },
+  {
+   "source": "Senate LDA API v1",
+   "tier": "C",
+   "access": "unauthenticated REST API",
+   "cadence": "quarterly + updates"
+  }
+ ],
+ "dimension_legend": {
+  "business_exposure": [
+   "Limited",
+   "Meaningful",
+   "Core",
+   "Unknown"
+  ],
+  "policy_process_status": [
+   "Signal",
+   "Agenda",
+   "Proposal",
+   "Formal process",
+   "Adopted or adjudicated",
+   "Implementation"
+  ],
+  "intervention_type": [
+   "Disclosure",
+   "Compliance",
+   "Product design",
+   "Cost or tax",
+   "Market access",
+   "Liability",
+   "Structural"
+  ],
+  "time_horizon": [
+   "Current",
+   "Near term",
+   "Medium term",
+   "Long term",
+   "Unclear"
+  ],
+  "evidence_confidence": [
+   "Low",
+   "Medium",
+   "High"
+  ],
+  "coverage": [
+   "Sufficient",
+   "Material gaps",
+   "Insufficient"
+  ]
+ },
+ "companies": [
+  {
+   "company_id": "meta",
+   "name": "Meta Platforms, Inc.",
+   "ticker": "META",
+   "cik": "0001326801",
+   "type": "US public company",
+   "structure": "Digital platform (Family of Apps + Reality Labs)",
+   "fy2025_consolidated_revenue_usd": 201000000000,
+   "revenue_source": "SEC EDGAR XBRL companyfacts, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, FY2025 10-K",
+   "business_activities": [
+    {
+     "activity_id": "meta-foa",
+     "name": "Family of Apps advertising and social products",
+     "segment": "Family of Apps",
+     "geography": "Global / US",
+     "financial_linkage": "Segment level reported; product-level (minors) not reported"
+    },
+    {
+     "activity_id": "meta-rl",
+     "name": "Reality Labs",
+     "segment": "Reality Labs",
+     "geography": "Global",
+     "financial_linkage": "Segment level reported"
+    }
+   ]
+  },
+  {
+   "company_id": "uber",
+   "name": "Uber Technologies, Inc.",
+   "ticker": "UBER",
+   "cik": "0001543151",
+   "type": "US public company",
+   "structure": "Labor marketplace / platform logistics (Mobility, Delivery, Freight)",
+   "fy2025_consolidated_revenue_usd": 52000000000,
+   "revenue_source": "SEC EDGAR XBRL companyfacts, us-gaap:Revenues, FY2025 10-K",
+   "business_activities": [
+    {
+     "activity_id": "uber-mobility",
+     "name": "Mobility (rideshare) using independent-contractor drivers",
+     "segment": "Mobility",
+     "geography": "Global / US",
+     "financial_linkage": "Segment level reported; jurisdiction-level driver economics not reported"
+    },
+    {
+     "activity_id": "uber-av",
+     "name": "Autonomous vehicle partnerships on platform",
+     "segment": "Mobility (emerging)",
+     "geography": "US first",
+     "financial_linkage": "Unknown (no separate disclosure)"
+    }
+   ]
+  },
+  {
+   "company_id": "xom",
+   "name": "Exxon Mobil Corporation",
+   "ticker": "XOM",
+   "cik": "0000034088",
+   "type": "US public company",
+   "structure": "Integrated energy producer (Upstream, Product Solutions, Low Carbon)",
+   "fy2025_consolidated_revenue_usd": 332200000000,
+   "revenue_source": "SEC EDGAR XBRL companyfacts, us-gaap:Revenues, FY2025 10-K",
+   "business_activities": [
+    {
+     "activity_id": "xom-upstream-us",
+     "name": "US upstream oil and natural gas production",
+     "segment": "Upstream",
+     "geography": "US",
+     "financial_linkage": "Geographic results partially reported; facility-level methane exposure not reported"
+    },
+    {
+     "activity_id": "xom-reporting",
+     "name": "SEC registrant disclosure obligations",
+     "segment": "Corporate",
+     "geography": "US",
+     "financial_linkage": "Not applicable (compliance cost only)"
+    }
+   ]
+  }
+ ],
+ "cases": [
+  {
+   "case_id": "meta-coppa",
+   "company_id": "meta",
+   "title": "Children's online privacy regulation (COPPA amended rule)",
+   "issue_family": "privacy and data",
+   "sub_issue": "children's online privacy (US federal)",
+   "list": "current",
+   "business_activity": {
+    "activity_id": "meta-foa",
+    "name": "Family of Apps services used by minors",
+    "segment": "Family of Apps",
+    "geography": "US"
+   },
+   "jurisdiction": {
+    "level": "US federal",
+    "name": "United States (federal)"
+   },
+   "authority": "Federal Trade Commission",
+   "policy_mechanism": "Product requirement and compliance rule: amended COPPA Rule (16 CFR 312) tightening consent, data retention, and safe-harbor obligations for online services directed at children",
+   "mechanism_chain": [
+    {
+     "text": "The FTC amended the COPPA Rule with an effective date of June 23, 2025 and a compliance date of April 22, 2026 for most provisions.",
+     "type": "direct"
+    },
+    {
+     "text": "The amended rule could require changes to how Meta's services handle users under 13 and how parental consent and data retention operate, which could alter product design and data practices in Family of Apps.",
+     "type": "inferred"
+    },
+    {
+     "text": "The scale depends on how many Meta users are children covered by COPPA and on enforcement posture; Meta does not disclose minor-user revenue, so product-level financial exposure is unknown.",
+     "type": "inferred"
+    }
+   ],
+   "events": [
+    {
+     "date": "2025-04-22",
+     "description": "FTC publishes amended COPPA Rule in the Federal Register (90 FR, final rule)",
+     "source_doc_id": "meta/fr-2025-05904"
+    },
+    {
+     "date": "2025-06-23",
+     "description": "Amended rule effective",
+     "source_doc_id": "meta/fr-2025-05904"
+    },
+    {
+     "date": "2026-04-22",
+     "description": "General compliance date for regulated entities",
+     "source_doc_id": "meta/fr-2025-05904"
+    },
+    {
+     "date": "2026-01-29",
+     "description": "Meta FY2025 10-K discloses an FTC proceeding alleging COPPA violations that 'seeks changes to our business'",
+     "source_doc_id": "meta/10k-000162828026003942"
+    }
+   ],
+   "financial_linkage": {
+    "level": "unknown",
+    "detail": "Consolidated FY2025 revenue $201.0B (XBRL, company-wide). No product-level or age-cohort revenue is disclosed.",
+    "gap": "Product-level exposure for minors cannot be derived from consolidated or segment revenue - labeled Unknown per the financial linkage ladder."
+   },
+   "dimensions": {
+    "business_exposure": "Meaningful",
+    "policy_process_status": "Implementation",
+    "intervention_type": [
+     "Compliance",
+     "Product design"
+    ],
+    "time_horizon": "Current",
+    "evidence_confidence": "High",
+    "coverage": "Sufficient"
+   },
+   "rationale": "A final federal rule is past adoption and inside its compliance window, and Meta itself discloses a parallel FTC COPPA proceeding seeking business changes. Exposure is Meaningful rather than Core because the affected cohort (under-13 users) is a bounded subset of Family of Apps and Meta's own framing treats it as one of several regulatory pressures.",
+   "gaps": [
+    "State-level age-verification and parental-consent laws (disclosed by Meta for Arkansas, California, Colorado, Florida, New York, Texas, Utah) are not yet connected as sources - patchwork risk is asserted by the company but not independently verified here.",
+    "No FTC enforcement docket connector; the parallel proceeding is evidenced only by company disclosure."
+   ],
+   "evidence": [
+    {
+     "evidence_id": "meta-coppa-e1",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register final rule 2025-05904, Children's Online Privacy Protection Rule",
+     "location": "DATES section",
+     "exact_text": "Effective date: The amended Rule is effective June 23, 2025. Compliance date: Except with respect to Sec. 312.11(d)(1), (d)(4), and (g), regulated entities have until April 22, 2026 to comply.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
+     "publication_date": "2025-04-22",
+     "retrieved_at": "2026-09-12T05:25:16Z",
+     "sha256": "7f58655437786cb1d6059541e9ae737ccef899bc3dc56739650c227f40b103b8",
+     "supports": [
+      "policy process status",
+      "time horizon"
+     ]
+    },
+    {
+     "evidence_id": "meta-coppa-e2",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register final rule 2025-05904, Children's Online Privacy Protection Rule",
+     "location": "SUMMARY",
+     "exact_text": "The Federal Trade Commission amends the Children's Online Privacy Protection Rule (the ``Rule''), consistent with the requirements of the Children's Online Privacy Protection Act. The amendments to the Rule, which are based on the FTC's review of public comments and its enforcement experience, include one new definition and modifications to several others, as well as updates to key provisions to respond to changes in technology and online practices.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
+     "publication_date": "2025-04-22",
+     "retrieved_at": "2026-09-12T05:25:16Z",
+     "sha256": "7f58655437786cb1d6059541e9ae737ccef899bc3dc56739650c227f40b103b8",
+     "supports": [
+      "policy mechanism"
+     ]
+    },
+    {
+     "evidence_id": "meta-coppa-e3",
+     "tier": "B",
+     "role": "supporting",
+     "doc_label": "Meta FY2025 Form 10-K, Item 1A Risk Factors",
+     "location": "Item 1A",
+     "exact_text": "We are also subject to new legislation or regulatory decisions that restrict our ability to collect and use information about minors or also limit our advertising services or our ability to offer products and services to minors in certain jurisdictions.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+     "publication_date": "2026-01-29",
+     "retrieved_at": "2026-09-12T05:24:36Z",
+     "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
+     "supports": [
+      "business activity linkage"
+     ]
+    },
+    {
+     "evidence_id": "meta-coppa-e4",
+     "tier": "B",
+     "role": "supporting",
+     "doc_label": "Meta FY2025 Form 10-K, Item 1A Risk Factors",
+     "location": "Item 1A",
+     "exact_text": "alleges deficient compliance and violations of the Children's Online Privacy Protection Act (COPPA), the COPPA Rule, and Section 5 of the Federal Trade Commission Act and seeks changes to our business.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+     "publication_date": "2026-01-29",
+     "retrieved_at": "2026-09-12T05:24:36Z",
+     "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
+     "supports": [
+      "enforcement context",
+      "intervention type"
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "meta-ftc-antitrust",
+   "company_id": "meta",
+   "title": "FTC v. Meta structural antitrust litigation (Instagram / WhatsApp divestiture remedy sought)",
+   "issue_family": "competition",
+   "sub_issue": "monopolization enforcement, structural remedy",
+   "list": "current",
+   "business_activity": {
+    "activity_id": "meta-foa",
+    "name": "Instagram and WhatsApp within Family of Apps",
+    "segment": "Family of Apps",
+    "geography": "US"
+   },
+   "jurisdiction": {
+    "level": "US federal",
+    "name": "United States (federal court, D.D.C.)"
+   },
+   "authority": "Federal Trade Commission / US District Court for the District of Columbia",
+   "policy_mechanism": "Enforcement action with court remedy: permanent injunction and equitable relief including divestiture or reconstruction of Instagram and WhatsApp",
+   "mechanism_chain": [
+    {
+     "text": "The FTC filed a complaint in December 2020 alleging anticompetitive conduct including the Instagram (2012) and WhatsApp (2014) acquisitions.",
+     "type": "direct"
+    },
+    {
+     "text": "The complaint seeks equitable relief including divestiture or reconstruction of Instagram and WhatsApp.",
+     "type": "direct"
+    },
+    {
+     "text": "A structural remedy would separate core revenue-generating products from Meta; the CMA-ordered Giphy divestiture in 2023 shows such remedies are executed in practice.",
+     "type": "inferred"
+    },
+    {
+     "text": "Instagram-specific revenue is not disclosed, so the financial scale of a divestiture cannot be computed from public filings.",
+     "type": "inferred"
+    }
+   ],
+   "events": [
+    {
+     "date": "2020-12-09",
+     "description": "FTC files complaint in D.D.C. alleging Section 5 FTC Act / Section 2 Sherman Act violations",
+     "source_doc_id": "meta/10k-000162828026003942"
+    },
+    {
+     "date": "2023-01-01",
+     "description": "Precedent: Meta completes Giphy divestiture under UK CMA order",
+     "source_doc_id": "meta/10k-000162828026003942"
+    },
+    {
+     "date": "2026-01-29",
+     "description": "Meta FY2025 10-K continues to disclose the suit and the divestiture remedy sought",
+     "source_doc_id": "meta/10k-000162828026003942"
+    }
+   ],
+   "financial_linkage": {
+    "level": "unknown",
+    "detail": "Instagram and WhatsApp results are reported only within the Family of Apps segment; no product-level revenue is disclosed.",
+    "gap": "Cannot assign product-level exposure from consolidated or segment revenue - Unknown on the financial linkage ladder."
+   },
+   "dimensions": {
+    "business_exposure": "Core",
+    "policy_process_status": "Formal process",
+    "intervention_type": [
+     "Structural"
+    ],
+    "time_horizon": "Unclear",
+    "evidence_confidence": "High",
+    "coverage": "Material gaps"
+   },
+   "rationale": "The remedy sought strikes at core business assets, which makes business exposure Core by construction. But the case rests entirely on company disclosure of the litigation; no court-docket connector exists in this build, so current procedural posture (post-trial status, remedy phase) is a material coverage gap. No outcome probability is claimed.",
+   "gaps": [
+    "No court docket connector (PACER/D.D.C.) - the current litigation posture cannot be independently verified in this build.",
+    "Remedy scope and timing unknown; time horizon is Unclear by design."
+   ],
+   "evidence": [
+    {
+     "evidence_id": "meta-ftc-e1",
+     "tier": "B",
+     "role": "supporting",
+     "doc_label": "Meta FY2025 Form 10-K, Item 3 Legal Proceedings",
+     "location": "Item 3",
+     "exact_text": "On December 9, 2020, the FTC filed a complaint ( FTC v. Meta Platforms, Inc. ) against us in the U.S. District Court for the District of Columbia alleging that we engaged in anticompetitive conduct and unfair methods of competition in violation of Section 5 of the Federal Trade Commission Act and Section 2 of the Sherman Act, including by acquiring Instagram in 2012 and WhatsApp in 2014 and by maintaining conditions on access to our platform.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+     "publication_date": "2026-01-29",
+     "retrieved_at": "2026-09-12T05:24:36Z",
+     "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
+     "supports": [
+      "policy mechanism",
+      "authority"
+     ]
+    },
+    {
+     "evidence_id": "meta-ftc-e2",
+     "tier": "B",
+     "role": "supporting",
+     "doc_label": "Meta FY2025 Form 10-K, Item 3 Legal Proceedings",
+     "location": "Item 3",
+     "exact_text": "The complaint seeks a permanent injunction against our company's alleged violations of the antitrust laws, and other equitable relief, including divestiture or reconstruction of Instagram and WhatsApp.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+     "publication_date": "2026-01-29",
+     "retrieved_at": "2026-09-12T05:24:36Z",
+     "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
+     "supports": [
+      "intervention type",
+      "business exposure"
+     ]
+    },
+    {
+     "evidence_id": "meta-ftc-e3",
+     "tier": "B",
+     "role": "limiting",
+     "doc_label": "Meta FY2025 Form 10-K, Item 3 Legal Proceedings",
+     "location": "Item 3",
+     "exact_text": "we completed our divestiture of Giphy in 2023 following the United Kingdom Competition and Markets Authority's order directing us to divest Giphy post-acquisition.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+     "publication_date": "2026-01-29",
+     "retrieved_at": "2026-09-12T05:24:36Z",
+     "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
+     "supports": [
+      "precedent for structural remedy"
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "meta-kosa",
+   "company_id": "meta",
+   "title": "Kids Online Safety Act (S.1748, 119th Congress) - statutory platform safeguards for minors",
+   "issue_family": "safety",
+   "sub_issue": "children's online safety legislation (US federal)",
+   "list": "emerging",
+   "business_activity": {
+    "activity_id": "meta-foa",
+    "name": "Family of Apps social platforms used by under-17s",
+    "segment": "Family of Apps",
+    "geography": "US"
+   },
+   "jurisdiction": {
+    "level": "US federal",
+    "name": "United States (federal, legislative)"
+   },
+   "authority": "US Senate (Commerce, Science, and Transportation Committee)",
+   "policy_mechanism": "Statute: mandatory tools and safeguards on covered online platforms for users under 17, enforced as a product-design obligation",
+   "mechanism_chain": [
+    {
+     "text": "S.1748 would require covered online platforms, including social media platforms, to implement tools and safeguards to protect users under 17.",
+     "type": "direct"
+    },
+    {
+     "text": "The Senate Commerce Committee ordered the bill reported favorably with an amendment on August 5, 2026 - committee-stage activity, not enacted law.",
+     "type": "direct"
+    },
+    {
+     "text": "If enacted, safeguards and duty-of-care style obligations would land on Instagram and Facebook product design for minors; Meta already discloses state laws restricting services to minors, showing the mechanism family is active at multiple levels of government.",
+     "type": "inferred"
+    }
+   ],
+   "events": [
+    {
+     "date": "2025-05-14",
+     "description": "S.1748 introduced and referred to Senate Commerce",
+     "source_doc_id": "meta/congress-s1748-actions"
+    },
+    {
+     "date": "2026-08-05",
+     "description": "Ordered to be reported with an amendment in the nature of a substitute favorably",
+     "source_doc_id": "meta/congress-s1748-actions"
+    },
+    {
+     "date": "2026-01-29",
+     "description": "Meta FY2025 10-K discloses state laws restricting services to minors and legislation limiting advertising to minors",
+     "source_doc_id": "meta/10k-000162828026003942"
+    }
+   ],
+   "financial_linkage": {
+    "level": "unknown",
+    "detail": "No under-17 revenue or engagement breakdown is disclosed; consolidated FY2025 revenue $201.0B (XBRL) is not allocatable to this cohort.",
+    "gap": "Product-level exposure for minors is Unknown per the financial linkage ladder."
+   },
+   "dimensions": {
+    "business_exposure": "Meaningful",
+    "policy_process_status": "Proposal",
+    "intervention_type": [
+     "Product design",
+     "Compliance"
+    ],
+    "time_horizon": "Medium term",
+    "evidence_confidence": "High",
+    "coverage": "Material gaps"
+   },
+   "rationale": "Emerging list, Proposal status: a favorably reported committee bill is legislative activity, not adoption - the proposal trap applies. Business exposure is Meaningful because the affected cohort is bounded but the obligations would touch core product surfaces. Confidence High on the process facts (Tier A legislative record); the business-effect chain remains inferred.",
+   "gaps": [
+    "House companion activity and floor scheduling are not tracked by this build's connector (single-bill ingestion).",
+    "State kids-safety laws are disclosed by Meta but not independently ingested; final bill text after the committee substitute is not yet analyzed."
+   ],
+   "evidence": [
+    {
+     "evidence_id": "meta-kosa-e1",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Congress.gov CRS summary, S.1748 Kids Online Safety Act (119th Congress)",
+     "location": "CRS summary",
+     "exact_text": "This bill requires covered online platforms, including social media platforms, to implement tools and safeguards to protect users and visitors under the age of 17",
+     "truncated": false,
+     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+     "publication_date": "2025-05-14",
+     "retrieved_at": "2026-09-12T05:32:28Z",
+     "sha256": "ed4c5b9e34f5146d3bad9279cb1084c123fd8c29a1922fa8f67c50b39c3a5bef",
+     "supports": [
+      "policy mechanism",
+      "intervention type"
+     ]
+    },
+    {
+     "evidence_id": "meta-kosa-e2",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Congress.gov action record, S.1748 (119th Congress)",
+     "location": "latest action, 2026-08-05",
+     "exact_text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably",
+     "truncated": false,
+     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+     "publication_date": "2026-08-05",
+     "retrieved_at": "2026-09-12T05:32:07Z",
+     "sha256": "43f2b7a094e0deb4a067b606a13a45288bd05d216a724bcca75c573adb15f768",
+     "supports": [
+      "policy process status",
+      "time horizon"
+     ]
+    },
+    {
+     "evidence_id": "meta-kosa-e3",
+     "tier": "B",
+     "role": "supporting",
+     "doc_label": "Meta FY2025 Form 10-K, Item 1A Risk Factors",
+     "location": "Item 1A",
+     "exact_text": "including Arkansas, California, Colorado, Florida, New York, Texas, and Utah, among others, have passed laws restricting our ability to offer services to minors without parental consent or otherwise limiting the services that we can provide to minors.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+     "publication_date": "2026-01-29",
+     "retrieved_at": "2026-09-12T05:24:36Z",
+     "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
+     "supports": [
+      "business activity linkage",
+      "mechanism family active at state level"
+     ]
+    },
+    {
+     "evidence_id": "meta-kosa-e4",
+     "tier": "C",
+     "role": "supporting",
+     "doc_label": "Senate LDA filing, McGinley LLC for Meta Platforms Q1 2026 report ($90,000)",
+     "location": "lobbying activity description",
+     "exact_text": "Discussions related to Artificial Intelligence (AI), uniform AI federal policy and state AI law preemption issues, S. 1748 Kids Online Safety Act",
+     "truncated": false,
+     "source_url": "https://lda.gov/api/v1/filings/db20d2b9-e40a-4eff-893c-9aed03fda925/",
+     "publication_date": "2026-04-16T20:50:02-04:00",
+     "retrieved_at": "2026-09-12T05:35:30Z",
+     "sha256": "99540d05b308d0b3b64261776d35b67377feabe46f0686745ba8606da2bf891b",
+     "supports": [
+      "company advocacy position"
+     ]
+    }
+   ],
+   "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution)."
+  },
+  {
+   "case_id": "uber-av-framework",
+   "company_id": "uber",
+   "title": "Federal automated vehicle framework and deployment exemptions (policy-created opportunity)",
+   "issue_family": "safety",
+   "sub_issue": "automated driving systems deployment pathway (US federal)",
+   "list": "emerging",
+   "business_activity": {
+    "activity_id": "uber-av",
+    "name": "Autonomous vehicle partnerships offered on the Uber platform",
+    "segment": "Mobility (emerging)",
+    "geography": "US"
+   },
+   "jurisdiction": {
+    "level": "US federal",
+    "name": "United States (federal)"
+   },
+   "authority": "National Highway Traffic Safety Administration (NHTSA)",
+   "policy_mechanism": "Safety regulation and exemption pathway: AV framework updates and interim guidance on commercial deployment exemptions",
+   "mechanism_chain": [
+    {
+     "text": "NHTSA announced an AV framework designed to 'remove regulatory barriers' to ADS technologies and, in July 2026, requested comment on interim guidance for commercial deployment exemptions.",
+     "type": "direct"
+    },
+    {
+     "text": "Uber discloses substantial investments in AV partners whose vehicles operate on its platform.",
+     "type": "direct"
+    },
+    {
+     "text": "A clearer federal deployment-exemption path could expand where partner AVs can operate on Uber's network (market access); Uber also discloses the strategy may reduce the need for drivers, a workforce-relations exposure.",
+     "type": "inferred"
+    }
+   ],
+   "events": [
+    {
+     "date": "2026-07-31",
+     "description": "NHTSA notice: AV Framework Updates and request for comments on interim guidance (comments due Aug 31, 2026)",
+     "source_doc_id": "uber/fr-2026-15483"
+    },
+    {
+     "date": "2026-02-13",
+     "description": "Uber FY2025 10-K discloses substantial AV partner investments and driver-dissatisfaction risk from its AV strategy",
+     "source_doc_id": "uber/10k-000154315126000015"
+    }
+   ],
+   "financial_linkage": {
+    "level": "unknown",
+    "detail": "No separate AV revenue or investment quantum is disclosed in the 10-K risk factors reviewed.",
+    "gap": "AV economics are undisclosed; any scale estimate would be a proxy and is therefore not made."
+   },
+   "dimensions": {
+    "business_exposure": "Meaningful",
+    "policy_process_status": "Agenda",
+    "intervention_type": [
+     "Market access"
+    ],
+    "time_horizon": "Near term",
+    "evidence_confidence": "Medium",
+    "coverage": "Material gaps"
+   },
+   "rationale": "Kept on the emerging list: the federal signal is a framework plus a request for comment, not a binding rule, so process status is Agenda. Included deliberately as a policy-created opportunity, per the paper's symmetric dependency/opportunity detector. Confidence is Medium because the business-effect chain is inferred rather than stated by either source.",
+   "gaps": [
+    "Exemption application outcomes and state AV rules are not covered by the connectors in this build.",
+    "Whether Uber's AV partners would seek exemptions is not established by any retrieved source."
+   ],
+   "evidence": [
+    {
+     "evidence_id": "uber-av-e1",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register notice 2026-15483, AV Framework Updates and Request for Comments on Interim Guidance",
+     "location": "SUMMARY",
+     "exact_text": "NHTSA announced a new automated vehicle framework designed to prioritize safety, promote innovation, foster American ingenuity, and remove regulatory barriers to the advancement of automated driving system technologies.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance",
+     "publication_date": "2026-07-31",
+     "retrieved_at": "2026-09-12T05:25:19Z",
+     "sha256": "090b8428779178959a03f9b032269042f717cb78ce057f238797e2626053b6c6",
+     "supports": [
+      "policy mechanism",
+      "policy process status"
+     ]
+    },
+    {
+     "evidence_id": "uber-av-e2",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register notice 2026-15483, AV Framework Updates and Request for Comments on Interim Guidance",
+     "location": "SUMMARY",
+     "exact_text": "This notice summarizes NHTSA's work on the AV Framework over the last year and requests comment on interim guidance for commercial deployment exemptions.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance",
+     "publication_date": "2026-07-31",
+     "retrieved_at": "2026-09-12T05:25:19Z",
+     "sha256": "090b8428779178959a03f9b032269042f717cb78ce057f238797e2626053b6c6",
+     "supports": [
+      "time horizon",
+      "intervention type"
+     ]
+    },
+    {
+     "evidence_id": "uber-av-e3",
+     "tier": "B",
+     "role": "supporting",
+     "doc_label": "Uber FY2025 Form 10-K, Item 1A Risk Factors",
+     "location": "Item 1A",
+     "exact_text": "We have invested, and we may continue to invest, substantial amounts in companies with whom we partner to offer autonomous vehicle technologies on our platform.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
+     "publication_date": "2026-02-13",
+     "retrieved_at": "2026-09-12T05:24:36Z",
+     "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
+     "supports": [
+      "business activity linkage"
+     ]
+    },
+    {
+     "evidence_id": "uber-av-e4",
+     "tier": "B",
+     "role": "limiting",
+     "doc_label": "Uber FY2025 Form 10-K, Item 1A Risk Factors",
+     "location": "Item 1A",
+     "exact_text": "we are investing in our autonomous vehicle strategy, which may add to Driver dissatisfaction over time, as it may reduce the need for Drivers.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
+     "publication_date": "2026-02-13",
+     "retrieved_at": "2026-09-12T05:24:36Z",
+     "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
+     "supports": [
+      "limiting consideration"
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "uber-driver-classification",
+   "company_id": "uber",
+   "title": "Federal worker classification rule under the FLSA (2024 rule vs. 2026 rescission proposal)",
+   "issue_family": "labor",
+   "sub_issue": "independent contractor classification (US federal)",
+   "list": "current",
+   "business_activity": {
+    "activity_id": "uber-mobility",
+    "name": "Mobility and Delivery supply model using independent-contractor drivers and couriers",
+    "segment": "Mobility / Delivery",
+    "geography": "US"
+   },
+   "jurisdiction": {
+    "level": "US federal",
+    "name": "United States (federal)"
+   },
+   "authority": "US Department of Labor, Wage and Hour Division",
+   "policy_mechanism": "Labor rule / interpretive standard: regulatory guidance determining employee vs. independent contractor status under the FLSA (29 CFR part 795)",
+   "mechanism_chain": [
+    {
+     "text": "A January 2024 DOL final rule set the current analysis for determining employee vs. independent contractor status under the FLSA.",
+     "type": "direct"
+    },
+    {
+     "text": "In February 2026 DOL proposed to rescind the 2024 rule and readopt the January 2021 analysis with modifications.",
+     "type": "direct"
+    },
+    {
+     "text": "Uber discloses that reclassification of drivers as employees would require it to fundamentally change its business model with adverse effect on results of operations, financial position and cash flows.",
+     "type": "direct"
+    },
+    {
+     "text": "The direction of travel at the federal level is toward a more employer-favorable standard, but state and foreign classification regimes (which the 10-K emphasizes) are unaffected by the federal rescission.",
+     "type": "inferred"
+    }
+   ],
+   "events": [
+    {
+     "date": "2024-01-10",
+     "description": "DOL final rule: Employee or Independent Contractor Classification Under the FLSA (89 FR 1638)",
+     "source_doc_id": "uber/fr-2024-00067"
+    },
+    {
+     "date": "2026-02-27",
+     "description": "DOL proposed rule to rescind the 2024 analysis and readopt the 2021 analysis with modifications",
+     "source_doc_id": "uber/fr-2026-03962"
+    },
+    {
+     "date": "2026-02-13",
+     "description": "Uber FY2025 10-K: reclassification 'would require us to fundamentally change our business model'",
+     "source_doc_id": "uber/10k-000154315126000015"
+    },
+    {
+     "date": "2026-02-20",
+     "description": "H.R.1319 Modern Worker Empowerment Act reported amended (H. Rept. 119-505) and placed on the Union Calendar - statutory IC standard advancing in parallel",
+     "source_doc_id": "uber/congress-hr1319-actions"
+    }
+   ],
+   "financial_linkage": {
+    "level": "segment",
+    "detail": "Consolidated FY2025 revenue $52.0B (XBRL). Mobility/Delivery driver economics are segment-reported; the incremental cost of employment classification is not disclosed by jurisdiction.",
+    "gap": "Per-driver cost delta under reclassification is not publicly disclosed; modeled estimates would require analyst-approved proxies (not used here)."
+   },
+   "dimensions": {
+    "business_exposure": "Core",
+    "policy_process_status": "Proposal",
+    "intervention_type": [
+     "Compliance",
+     "Cost or tax"
+    ],
+    "time_horizon": "Medium term",
+    "evidence_confidence": "High",
+    "coverage": "Sufficient"
+   },
+   "rationale": "Uber's own disclosure makes the business linkage direct and Core: the supply model is the business. Federal process status is Proposal (a live NPRM to roll back the 2024 rule), not Adopted-and-static; treating a proposed rescission as settled law is the proposal trap this assessment avoids. Confidence is High because the rule documents and the company linkage are both primary sources. A parallel statutory track (H.R.1319, reported and on the Union Calendar) would codify a classification standard; both tracks point the same direction but neither is final.",
+   "gaps": [
+    "State classification regimes (e.g. California Proposition 22 litigation, state minimum-earnings laws) are disclosed by Uber but state-level connectors are not built; the federal picture alone understates total classification exposure."
+   ],
+   "evidence": [
+    {
+     "evidence_id": "uber-ic-e1",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register final rule 2024-00067, Employee or Independent Contractor Classification Under the FLSA",
+     "location": "preamble",
+     "exact_text": "This final rule addresses how to determine whether a worker is properly classified as an employee or independent contractor under the Fair Labor Standards Act (FLSA or Act).",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
+     "publication_date": "2024-01-10",
+     "retrieved_at": "2026-09-12T05:25:17Z",
+     "sha256": "539fcc08cd6a6b277de2479a4b1dc36a90a4aedd6920af2f5d15e4395d0cc7ab",
+     "supports": [
+      "policy mechanism",
+      "policy process status"
+     ]
+    },
+    {
+     "evidence_id": "uber-ic-e2",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register proposed rule 2026-03962, Employee or Independent Contractor Status Under the FLSA",
+     "location": "SUMMARY",
+     "exact_text": "The Department is proposing to rescind the analysis for determining employee or independent contractor status under the Fair Labor Standards Act (FLSA) currently set forth in 29 CFR part 795 and replace it with the analysis that it published and adopted in a prior final rule dated January 7, 2021, with a few modifications.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
+     "publication_date": "2026-02-27",
+     "retrieved_at": "2026-09-12T05:25:18Z",
+     "sha256": "7158090487101914d92427b5efb045117c18feabbe55ccef7df6120665743cab",
+     "supports": [
+      "policy process status",
+      "direction of travel"
+     ]
+    },
+    {
+     "evidence_id": "uber-ic-e3",
+     "tier": "B",
+     "role": "supporting",
+     "doc_label": "Uber FY2025 Form 10-K, Item 1A Risk Factors",
+     "location": "Item 1A",
+     "exact_text": "Changes to foreign, state, and local laws governing the definition or classification of independent contractors, or judicial decisions regarding independent contractor classification, could require classification of Drivers as employees (or workers or quasi-employees where those statuses exist) and/or representation of Drivers by labor unions.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
+     "publication_date": "2026-02-13",
+     "retrieved_at": "2026-09-12T05:24:36Z",
+     "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
+     "supports": [
+      "business activity linkage"
+     ]
+    },
+    {
+     "evidence_id": "uber-ic-e4",
+     "tier": "B",
+     "role": "supporting",
+     "doc_label": "Uber FY2025 Form 10-K, Item 1A Risk Factors",
+     "location": "Item 1A",
+     "exact_text": "any such reclassification would require us to fundamentally change our business model, and consequently have an adverse effect on our business, results of operations, financial position and cash flows.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
+     "publication_date": "2026-02-13",
+     "retrieved_at": "2026-09-12T05:24:36Z",
+     "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
+     "supports": [
+      "business exposure",
+      "intervention type"
+     ]
+    },
+    {
+     "evidence_id": "uber-ic-e5",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Congress.gov CRS summary, H.R.1319 Modern Worker Empowerment Act (119th Congress)",
+     "location": "CRS summary",
+     "exact_text": "This bill specifies a legal standard for determining whether an individual is considered an independent contractor rather than an employee for the purposes of federal labor laws that address issues such as the federal minimum wage, overtime compensation, and collective bargaining",
+     "truncated": false,
+     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/1319",
+     "publication_date": "2025-02-13",
+     "retrieved_at": "2026-09-12T05:32:28Z",
+     "sha256": "8ed1069c1f33c6c5da3774891c5549b3b2ecf8150acb4d49c9e860f52b0b1d22",
+     "supports": [
+      "policy mechanism",
+      "legislative track"
+     ]
+    },
+    {
+     "evidence_id": "uber-ic-e6",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Congress.gov action record, H.R.1319 (119th Congress)",
+     "location": "action of 2026-02-20",
+     "exact_text": "Placed on the Union Calendar, Calendar No. 431.",
+     "truncated": false,
+     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/1319",
+     "publication_date": "2026-02-20",
+     "retrieved_at": "2026-09-12T05:32:09Z",
+     "sha256": "e48783a99dc703abab795d0f29d571f97a586df4940b924d2d59e8eb3813f8cd",
+     "supports": [
+      "policy process status",
+      "direction of travel"
+     ]
+    },
+    {
+     "evidence_id": "uber-ic-e7",
+     "tier": "C",
+     "role": "supporting",
+     "doc_label": "Senate LDA filing, Uber Technologies in-house Q1 2026 report ($940,000)",
+     "location": "lobbying activity description",
+     "exact_text": "Issues related to worker classification and possible anti-competitive activities that could limit consumers access to app-based technologies",
+     "truncated": false,
+     "source_url": "https://lda.gov/api/v1/filings/e72bdfe6-b50d-4709-9703-06a9bc5d9543/",
+     "publication_date": "2026-04-20T17:15:08-04:00",
+     "retrieved_at": "2026-09-12T05:35:34Z",
+     "sha256": "b4a902070c8ce5f12d68f29de8b7c85c6143894ad7c10f8eabda784af40f3304",
+     "supports": [
+      "company advocacy position"
+     ]
+    }
+   ],
+   "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution)."
+  },
+  {
+   "case_id": "xom-climate-disclosure",
+   "company_id": "xom",
+   "title": "SEC climate-related disclosure rules (adopted 2024, rescission proposed 2026)",
+   "issue_family": "environmental and climate",
+   "sub_issue": "mandatory climate disclosure (US federal securities regulation)",
+   "list": "emerging",
+   "business_activity": {
+    "activity_id": "xom-reporting",
+    "name": "SEC registrant disclosure obligations",
+    "segment": "Corporate",
+    "geography": "US"
+   },
+   "jurisdiction": {
+    "level": "US federal",
+    "name": "United States (federal)"
+   },
+   "authority": "US Securities and Exchange Commission",
+   "policy_mechanism": "Disclosure mandate: climate-related information requirements in registration statements and annual reports",
+   "mechanism_chain": [
+    {
+     "text": "The SEC's climate disclosure amendments require registrants to provide climate-related information in registration statements and annual reports.",
+     "type": "direct"
+    },
+    {
+     "text": "In June 2026 the SEC proposed to rescind those amendments, with comments due August 3, 2026.",
+     "type": "direct"
+    },
+    {
+     "text": "For ExxonMobil the mechanism is a compliance-cost and litigation-risk question, not a market-access question; XOM's 10-K already flags mandatory disclosure and due-diligence requirements as a compliance-cost driver.",
+     "type": "inferred"
+    }
+   ],
+   "events": [
+    {
+     "date": "2026-06-03",
+     "description": "SEC proposes rescission of climate-related disclosure rules; comments due 2026-08-03",
+     "source_doc_id": "xom/fr-2026-11091"
+    },
+    {
+     "date": "2026-02-18",
+     "description": "XOM FY2025 10-K flags mandatory disclosure and due-diligence requirements as compliance-cost drivers",
+     "source_doc_id": "xom/10k-000003408826000045"
+    }
+   ],
+   "financial_linkage": {
+    "level": "not-applicable",
+    "detail": "Compliance-cost exposure only; no revenue linkage. Disclosure rules do not map to a revenue line.",
+    "gap": "None material for this mechanism; litigation status of the original 2024 rule (8th Circuit consolidation) is not covered by a court connector."
+   },
+   "dimensions": {
+    "business_exposure": "Limited",
+    "policy_process_status": "Proposal",
+    "intervention_type": [
+     "Disclosure",
+     "Compliance"
+    ],
+    "time_horizon": "Near term",
+    "evidence_confidence": "High",
+    "coverage": "Material gaps"
+   },
+   "rationale": "On the emerging list because the operative fact is a proposed rescission, not a settled rulebook: the proposal trap applies in both directions (neither the 2024 rule's survival nor its rescission is certain). Business exposure is Limited - this changes reporting obligations, not operations. The original rule's court challenge is disclosed territory but outside current connector coverage, hence Material gaps.",
+   "gaps": [
+    "No court connector for the consolidated litigation over the 2024 climate disclosure rule.",
+    "State and foreign disclosure regimes (California SB 253/261, EU CSRD) are not yet connected and may bind XOM regardless of the SEC outcome."
+   ],
+   "evidence": [
+    {
+     "evidence_id": "xom-disc-e1",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register proposed rule 2026-11091, Rescission of Climate-Related Disclosure Rules",
+     "location": "SUMMARY",
+     "exact_text": "The Securities and Exchange Commission (``Commission'') proposes to rescind amendments to its rules under the Securities Act of 1933 (``Securities Act'') and Securities Exchange Act of 1934 (``Exchange Act'') that require registrants to provide certain climate- related information in their registration statements and annual reports.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11091/rescission-of-climate-related-disclosure-rules",
+     "publication_date": "2026-06-03",
+     "retrieved_at": "2026-09-12T05:25:23Z",
+     "sha256": "799c22fa8551dbe8594402aeb7ed839b63b7e5517103959e845af00047a3543d",
+     "supports": [
+      "policy mechanism",
+      "policy process status"
+     ]
+    },
+    {
+     "evidence_id": "xom-disc-e2",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register proposed rule 2026-11091, Rescission of Climate-Related Disclosure Rules",
+     "location": "DATES",
+     "exact_text": "Comments should be received on or before August 3, 2026",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11091/rescission-of-climate-related-disclosure-rules",
+     "publication_date": "2026-06-03",
+     "retrieved_at": "2026-09-12T05:25:23Z",
+     "sha256": "799c22fa8551dbe8594402aeb7ed839b63b7e5517103959e845af00047a3543d",
+     "supports": [
+      "time horizon"
+     ]
+    },
+    {
+     "evidence_id": "xom-disc-e3",
+     "tier": "B",
+     "role": "supporting",
+     "doc_label": "ExxonMobil FY2025 Form 10-K, Item 1A Risk Factors",
+     "location": "Item 1A",
+     "exact_text": "Current, pending, and potential greenhouse gas regulations or policies may also increase our compliance costs, such as for monitoring or sequestering emissions and complying with increased or mandatory disclosure or due diligence requirements and government-mandated energy transition plans.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
+     "publication_date": "2026-02-18",
+     "retrieved_at": "2026-09-12T05:24:37Z",
+     "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
+     "supports": [
+      "business activity linkage",
+      "intervention type"
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "xom-methane",
+   "company_id": "xom",
+   "title": "Federal methane regulation of oil and gas operations (standards rollback plus methane-fee repeal)",
+   "issue_family": "environmental and climate",
+   "sub_issue": "methane emissions standards and charges (US federal)",
+   "list": "current",
+   "business_activity": {
+    "activity_id": "xom-upstream-us",
+    "name": "US upstream oil and natural gas production operations",
+    "segment": "Upstream",
+    "geography": "US"
+   },
+   "jurisdiction": {
+    "level": "US federal",
+    "name": "United States (federal)"
+   },
+   "authority": "US Environmental Protection Agency / US Congress (Congressional Review Act)",
+   "policy_mechanism": "Emission standards compliance (CAA section 111, OOOOb/c) and a statutory per-ton methane charge (IRA section 136) - the charge rule was revoked under the CRA and standard deadlines are being extended and reconsidered",
+   "mechanism_chain": [
+    {
+     "text": "EPA's March 2024 oil and gas sector climate rule set performance standards and emissions guidelines; in July 2025 EPA took interim final action extending certain compliance deadlines.",
+     "type": "direct"
+    },
+    {
+     "text": "The IRA Waste Emissions Charge ($900/ton methane in 2024 rising to $1,500/ton in 2026) was implemented by EPA in November 2024, then disapproved by Congress and removed from the CFR in May 2025 under the Congressional Review Act.",
+     "type": "direct"
+    },
+    {
+     "text": "The direction of travel is deregulatory: near-term compliance cost and charge exposure for US upstream operations is falling, while the underlying CAA 111 framework and any future reconsideration remain live.",
+     "type": "inferred"
+    }
+   ],
+   "events": [
+    {
+     "date": "2024-03-08",
+     "description": "2024 final rule: Standards of Performance for oil and natural gas sector (89 FR 16820)",
+     "source_doc_id": "xom/fr-2025-14531"
+    },
+    {
+     "date": "2024-11-18",
+     "description": "EPA finalizes Waste Emissions Charge implementation rule",
+     "source_doc_id": "xom/fr-2024-26643"
+    },
+    {
+     "date": "2025-05-19",
+     "description": "CRA revocation of the WEC rule takes effect; 40 CFR part 99 removed",
+     "source_doc_id": "xom/fr-2025-08688"
+    },
+    {
+     "date": "2025-03-14",
+     "description": "H.J.Res. 35 (CRA disapproval of the WEC rule) becomes Public Law 119-2",
+     "source_doc_id": "xom/congress-hjres35-actions"
+    },
+    {
+     "date": "2025-07-31",
+     "description": "EPA interim final action extends deadlines in the 2024 methane standards",
+     "source_doc_id": "xom/fr-2025-14531"
+    },
+    {
+     "date": "2026-02-18",
+     "description": "XOM FY2025 10-K discloses that GHG regulatory frameworks and compliance costs affect its operations",
+     "source_doc_id": "xom/10k-000003408826000045"
+    }
+   ],
+   "financial_linkage": {
+    "level": "geographic-partial",
+    "detail": "Consolidated FY2025 revenue $332.2B (XBRL). US upstream results are partially reported geographically; facility-level methane exposure and any WEC liability are not disclosed (and the charge was repealed before collection).",
+    "gap": "Facility-level methane intensity and charge exposure are not in the public record reviewed; compliance-cost allocation to US upstream is an analyst-proxy question, left Unknown."
+   },
+   "dimensions": {
+    "business_exposure": "Meaningful",
+    "policy_process_status": "Implementation",
+    "intervention_type": [
+     "Compliance",
+     "Cost or tax"
+    ],
+    "time_horizon": "Current",
+    "evidence_confidence": "High",
+    "coverage": "Sufficient"
+   },
+   "rationale": "A live implementation-phase exposure with an unusually well-documented change story: standard adopted, fee implemented, fee revoked by statute, deadlines extended. Business exposure is Meaningful rather than Core because methane compliance is one cost line within upstream operations, not an existential mechanism. All key events rest on Tier A sources.",
+   "gaps": [
+    "State methane programs (e.g. New Mexico, Colorado) are outside current connector coverage.",
+    "The April 2026 reconsideration rule (EPA-2026-06808) was located in search but not yet ingested; the rollback trajectory may extend further than shown."
+   ],
+   "evidence": [
+    {
+     "evidence_id": "xom-meth-e1",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register rule 2025-14531, Extension of Deadlines in Standards of Performance for Oil and Natural Gas Sector",
+     "location": "SUMMARY",
+     "exact_text": "The U.S. Environmental Protection Agency (EPA) is taking interim final action to extend certain deadlines within the final rule titled ``Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review,'' 89 FR 16820 (March 8, 2024) (hereafter ``2024 final rule'').",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2025/07/31/2025-14531/extension-of-deadlines-in-standards-of-performance-for-new-reconstructed-and-modified-sources-and",
+     "publication_date": "2025-07-31",
+     "retrieved_at": "2026-09-12T05:25:22Z",
+     "sha256": "ebf59230ed6ea2c123c95032b41a881db380a16607968923ebe556225a27e3d3",
+     "supports": [
+      "policy process status",
+      "change event"
+     ]
+    },
+    {
+     "evidence_id": "xom-meth-e2",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register final rule 2024-26643, Waste Emissions Charge for Petroleum and Natural Gas Systems",
+     "location": "preamble",
+     "exact_text": "is specified in CAA section 136(e) to begin for emissions occurring in 2024 at $900 per metric ton of methane exceeding the threshold, increasing to $1,200 per metric ton of methane in 2025, and to $1,500 per metric ton of methane in 2026 and subsequent years.",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
+     "publication_date": "2024-11-18",
+     "retrieved_at": "2026-09-12T05:25:20Z",
+     "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+     "supports": [
+      "policy mechanism",
+      "intervention type"
+     ]
+    },
+    {
+     "evidence_id": "xom-meth-e3",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Federal Register rule 2025-08688, CRA Revocation of Waste Emissions Charge",
+     "location": "preamble",
+     "exact_text": "President Donald J. Trump signed the joint resolution of disapproval into law as Public Law (Pub. L.) 119-2 on March 14, 2025. Under the joint resolution and by operation of the CRA, the 2024 WEC Final Rule has no legal force or effect. III. Final Action This final action revises the CFR to remove the now null amendments that were codified under the 2024 WEC Final Rule. This action removes 40 CFR part 99 (Waste Emissions Charge) and reverts to the text in effect immediately prior to the effective date of the 2024 WEC Final Rule",
+     "truncated": false,
+     "source_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08688/congressional-review-act-revocation-of-waste-emissions-charge-for-petroleum-and-natural-gas-systems",
+     "publication_date": "2025-05-19",
+     "retrieved_at": "2026-09-12T05:25:21Z",
+     "sha256": "5e9369e57b154b2dcb40ddc545174103fb7ef8be5c3089a8dbb92f0f37abaa8e",
+     "supports": [
+      "policy process status",
+      "change event"
+     ]
+    },
+    {
+     "evidence_id": "xom-meth-e4",
+     "tier": "B",
+     "role": "supporting",
+     "doc_label": "ExxonMobil FY2025 Form 10-K, Item 1A Risk Factors",
+     "location": "Item 1A",
+     "exact_text": "a number of countries have adopted, or are considering the adoption of, broad-reaching regulatory frameworks seeking to report on or reduce greenhouse gas emissions, including emissions from the production and use of oil and gas and their products",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
+     "publication_date": "2026-02-18",
+     "retrieved_at": "2026-09-12T05:24:37Z",
+     "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
+     "supports": [
+      "business activity linkage"
+     ]
+    },
+    {
+     "evidence_id": "xom-meth-e5",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Congress.gov action record, H.J.Res. 35 (119th Congress)",
+     "location": "action of 2025-03-14",
+     "exact_text": "Became Public Law No: 119-2.",
+     "truncated": false,
+     "source_url": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/35",
+     "publication_date": "2025-03-14",
+     "retrieved_at": "2026-09-12T05:32:11Z",
+     "sha256": "09948460a15703c75647191ae286fd451249ead992e656e2ba8eb42c0ae816eb",
+     "supports": [
+      "policy process status",
+      "change event"
+     ]
+    },
+    {
+     "evidence_id": "xom-meth-e6",
+     "tier": "C",
+     "role": "supporting",
+     "doc_label": "Senate LDA filing, Exxon Mobil in-house Q1 2026 report ($3,400,000)",
+     "location": "lobbying activity description",
+     "exact_text": "Discussions related to carbon accounting, and carbon capture and storage Discussions related to permitting reform Discussions related to emissions and energy",
+     "truncated": false,
+     "source_url": "https://lda.gov/api/v1/filings/5b0e6916-03f4-4b9f-be48-da93009dd2cb/",
+     "publication_date": "2026-04-20T20:31:50-04:00",
+     "retrieved_at": "2026-09-12T05:35:39Z",
+     "sha256": "37d062935a1c3ea4bc4f77efe7dc4ef77b19210e636b1dd34c909a31abf254bd",
+     "supports": [
+      "company advocacy position"
+     ]
+    }
+   ],
+   "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution)."
+  }
+ ],
+ "changes": {
+  "change_window": "FY2024 10-K risk factors -> FY2025 10-K risk factors (consecutive filings)",
+  "method": "Structural sentence-level diff first (difflib); surfaced candidates classified by an analyst with evidence on both sides. Page-number and footnote artifacts were discarded as drafting-only changes. 'Previous: absent' means no corresponding sentence existed in the prior section - an absence finding from the structural diff, not a quoted span.",
+  "items": [
+   {
+    "change_id": "meta-chg-1",
+    "company_id": "meta",
+    "case_id": "meta-kosa",
+    "classification": "greater specificity - new state authorities named",
+    "note": "The FY2025 10-K newly enumerates specific states whose laws restrict services to minors. The regulatory landscape moved from general language to named jurisdictions.",
+    "previous_state": "absent",
+    "current_span": {
+     "evidence_id": "meta-chg-1-current",
+     "tier": "B",
+     "role": "supporting",
+     "doc_label": "Meta FY2025 Form 10-K, Item 1A",
+     "location": "Item 1A",
+     "exact_text": "including Arkansas, California, Colorado, Florida, New York, Texas, and Utah, among others, have passed laws restricting our ability to offer services to minors without parental consent or otherwise limiting the services that we can provide to minors.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+     "publication_date": "2026-01-29",
+     "retrieved_at": "2026-09-12T05:24:36Z",
+     "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
+     "supports": []
+    }
+   },
+   {
+    "change_id": "meta-chg-2",
+    "company_id": "meta",
+    "case_id": null,
+    "classification": "new signal - no exposure case yet",
+    "note": "AI chatbot scrutiny by the FTC, members of Congress, and state attorneys general appears for the first time. Surfaced as an emerging signal; no case constructed yet because the mechanism and affected activity are not yet specific in the source record.",
+    "previous_state": "absent",
+    "current_span": {
+     "evidence_id": "meta-chg-2-current",
+     "tier": "B",
+     "role": "supporting",
+     "doc_label": "Meta FY2025 Form 10-K, Item 1A",
+     "location": "Item 1A",
+     "exact_text": "we have been the subject of media and government scrutiny relating to AI and AI chatbots, including inquiries and investigations by the FTC, members of Congress and state attorneys general.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+     "publication_date": "2026-01-29",
+     "retrieved_at": "2026-09-12T05:24:36Z",
+     "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
+     "supports": []
+    }
+   },
+   {
+    "change_id": "uber-chg-1",
+    "company_id": "uber",
+    "case_id": "uber-driver-classification",
+    "classification": "new authority - Canadian provincial statutes preserving contractor status",
+    "note": "Newly disclosed: British Columbia and Ontario laws guaranteeing minimum earnings and deactivation notices while preserving independent-contractor status - a policy template that trades benefits for classification certainty.",
+    "previous_state": "absent",
+    "current_span": {
+     "evidence_id": "uber-chg-1-current",
+     "tier": "B",
+     "role": "supporting",
+     "doc_label": "Uber FY2025 Form 10-K, Item 1A",
+     "location": "Item 1A",
+     "exact_text": "In Canada, the provinces of British Columbia and Ontario introduced laws guaranteeing minimum earnings, transparency, and deactivation notices for platform drivers and couriers, while preserving their independent contractor status.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
+     "publication_date": "2026-02-13",
+     "retrieved_at": "2026-09-12T05:24:36Z",
+     "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
+     "supports": []
+    }
+   },
+   {
+    "change_id": "xom-chg-1",
+    "company_id": "xom",
+    "case_id": "xom-methane",
+    "classification": "greater specificity - policy dependency made explicit",
+    "note": "The FY2025 10-K newly states that net zero 'will remain out of reach' without supportive policies - making the company's transition ambition explicitly conditional on government policy.",
+    "previous_state": "absent",
+    "current_span": {
+     "evidence_id": "xom-chg-1-current",
+     "tier": "B",
+     "role": "supporting",
+     "doc_label": "ExxonMobil FY2025 Form 10-K, Item 1A",
+     "location": "Item 1A",
+     "exact_text": "Without supportive policies and the innovations they drive, net zero will remain out of reach \u2013 for society and for ExxonMobil.",
+     "truncated": false,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
+     "publication_date": "2026-02-18",
+     "retrieved_at": "2026-09-12T05:24:37Z",
+     "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
+     "supports": []
+    }
+   }
+  ]
+ }
+}

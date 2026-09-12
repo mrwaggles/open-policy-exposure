@@ -1,0 +1,31 @@
+{
+  "case_id": "uber-av-framework",
+  "company_id": "uber",
+  "title": "Federal automated vehicle framework and deployment exemptions (policy-created opportunity)",
+  "issue_family": "safety",
+  "sub_issue": "automated driving systems deployment pathway (US federal)",
+  "list": "emerging",
+  "business_activity": {"activity_id": "uber-av", "name": "Autonomous vehicle partnerships offered on the Uber platform", "segment": "Mobility (emerging)", "geography": "US"},
+  "jurisdiction": {"level": "US federal", "name": "United States (federal)"},
+  "authority": "National Highway Traffic Safety Administration (NHTSA)",
+  "policy_mechanism": "Safety regulation and exemption pathway: AV framework updates and interim guidance on commercial deployment exemptions",
+  "mechanism_chain": [
+    {"text": "NHTSA announced an AV framework designed to 'remove regulatory barriers' to ADS technologies and, in July 2026, requested comment on interim guidance for commercial deployment exemptions.", "type": "direct"},
+    {"text": "Uber discloses substantial investments in AV partners whose vehicles operate on its platform.", "type": "direct"},
+    {"text": "A clearer federal deployment-exemption path could expand where partner AVs can operate on Uber's network (market access); Uber also discloses the strategy may reduce the need for drivers, a workforce-relations exposure.", "type": "inferred"}
+  ],
+  "events": [
+    {"date": "2026-07-31", "description": "NHTSA notice: AV Framework Updates and request for comments on interim guidance (comments due Aug 31, 2026)", "source_doc_id": "uber/fr-2026-15483"},
+    {"date": "2026-02-13", "description": "Uber FY2025 10-K discloses substantial AV partner investments and driver-dissatisfaction risk from its AV strategy", "source_doc_id": "uber/10k-000154315126000015"}
+  ],
+  "financial_linkage": {"level": "unknown", "detail": "No separate AV revenue or investment quantum is disclosed in the 10-K risk factors reviewed.", "gap": "AV economics are undisclosed; any scale estimate would be a proxy and is therefore not made."},
+  "dimensions": {"business_exposure": "Meaningful", "policy_process_status": "Agenda", "intervention_type": ["Market access"], "time_horizon": "Near term", "evidence_confidence": "Medium", "coverage": "Material gaps"},
+  "rationale": "Kept on the emerging list: the federal signal is a framework plus a request for comment, not a binding rule, so process status is Agenda. Included deliberately as a policy-created opportunity, per the paper's symmetric dependency/opportunity detector. Confidence is Medium because the business-effect chain is inferred rather than stated by either source.",
+  "gaps": ["Exemption application outcomes and state AV rules are not covered by the connectors in this build.", "Whether Uber's AV partners would seek exemptions is not established by any retrieved source."],
+  "evidence": [
+    {"evidence_id": "uber-av-e1", "tier": "A", "role": "supporting", "doc_path": "data/raw/uber/fr/fr-2026-15483.txt", "meta_path": "data/raw/uber/fr/fr-2026-15483.json.meta.json", "doc_label": "Federal Register notice 2026-15483, AV Framework Updates and Request for Comments on Interim Guidance", "location": "SUMMARY", "span": {"start": "NHTSA announced a new automated vehicle framework designed to prioritize safety, promote innovation", "end": "advancement of automated driving system technologies."}, "source_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance", "publication_date": "2026-07-31", "supports": ["policy mechanism", "policy process status"]},
+    {"evidence_id": "uber-av-e2", "tier": "A", "role": "supporting", "doc_path": "data/raw/uber/fr/fr-2026-15483.txt", "meta_path": "data/raw/uber/fr/fr-2026-15483.json.meta.json", "doc_label": "Federal Register notice 2026-15483, AV Framework Updates and Request for Comments on Interim Guidance", "location": "SUMMARY", "span": {"start": "This notice summarizes NHTSA's work on the AV Framework over the last year", "end": "interim guidance for commercial deployment exemptions."}, "source_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance", "publication_date": "2026-07-31", "supports": ["time horizon", "intervention type"]},
+    {"evidence_id": "uber-av-e3", "tier": "B", "role": "supporting", "doc_path": "data/raw/uber/10k-000154315126000015.risk-factors.txt", "meta_path": "data/raw/uber/10k-000154315126000015.html.meta.json", "doc_label": "Uber FY2025 Form 10-K, Item 1A Risk Factors", "location": "Item 1A", "span": {"start": "We have invested, and we may continue to invest, substantial amounts", "end": "offer autonomous vehicle technologies on our platform."}, "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/0001543151-26-000015-index.htm", "publication_date": "2026-02-13", "supports": ["business activity linkage"]},
+    {"evidence_id": "uber-av-e4", "tier": "B", "role": "limiting", "doc_path": "data/raw/uber/10k-000154315126000015.risk-factors.txt", "meta_path": "data/raw/uber/10k-000154315126000015.html.meta.json", "doc_label": "Uber FY2025 Form 10-K, Item 1A Risk Factors", "location": "Item 1A", "span": {"start": "we are investing in our autonomous vehicle strategy, which may add to Driver dissatisfaction", "end": "it may reduce the need for Drivers."}, "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/0001543151-26-000015-index.htm", "publication_date": "2026-02-13", "supports": ["limiting consideration"]}
+  ]
+}

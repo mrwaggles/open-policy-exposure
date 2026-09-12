@@ -1,0 +1,42 @@
+{
+  "change_window": "FY2024 10-K risk factors -> FY2025 10-K risk factors (consecutive filings)",
+  "method": "Structural sentence-level diff first (difflib); surfaced candidates classified by an analyst with evidence on both sides. Page-number and footnote artifacts were discarded as drafting-only changes. 'Previous: absent' means no corresponding sentence existed in the prior section - an absence finding from the structural diff, not a quoted span.",
+  "items": [
+    {
+      "change_id": "meta-chg-1",
+      "company_id": "meta",
+      "case_id": "meta-kosa",
+      "classification": "greater specificity - new state authorities named",
+      "note": "The FY2025 10-K newly enumerates specific states whose laws restrict services to minors. The regulatory landscape moved from general language to named jurisdictions.",
+      "previous_state": "absent",
+      "current_span": {"doc_path": "data/raw/meta/10k-000162828026003942.risk-factors.txt", "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json", "doc_label": "Meta FY2025 Form 10-K, Item 1A", "location": "Item 1A", "span": {"start": "including Arkansas, California, Colorado, Florida, New York, Texas, and Utah, among others, have passed laws restricting our ability to offer services to minors", "end": "or otherwise limiting the services that we can provide to minors."}, "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm", "publication_date": "2026-01-29"}
+    },
+    {
+      "change_id": "meta-chg-2",
+      "company_id": "meta",
+      "case_id": null,
+      "classification": "new signal - no exposure case yet",
+      "note": "AI chatbot scrutiny by the FTC, members of Congress, and state attorneys general appears for the first time. Surfaced as an emerging signal; no case constructed yet because the mechanism and affected activity are not yet specific in the source record.",
+      "previous_state": "absent",
+      "current_span": {"doc_path": "data/raw/meta/10k-000162828026003942.risk-factors.txt", "meta_path": "data/raw/meta/10k-000162828026003942.html.meta.json", "doc_label": "Meta FY2025 Form 10-K, Item 1A", "location": "Item 1A", "span": {"start": "we have been the subject of media and government scrutiny relating to AI and AI chatbots", "end": "members of Congress and state attorneys general."}, "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm", "publication_date": "2026-01-29"}
+    },
+    {
+      "change_id": "uber-chg-1",
+      "company_id": "uber",
+      "case_id": "uber-driver-classification",
+      "classification": "new authority - Canadian provincial statutes preserving contractor status",
+      "note": "Newly disclosed: British Columbia and Ontario laws guaranteeing minimum earnings and deactivation notices while preserving independent-contractor status - a policy template that trades benefits for classification certainty.",
+      "previous_state": "absent",
+      "current_span": {"doc_path": "data/raw/uber/10k-000154315126000015.risk-factors.txt", "meta_path": "data/raw/uber/10k-000154315126000015.html.meta.json", "doc_label": "Uber FY2025 Form 10-K, Item 1A", "location": "Item 1A", "span": {"start": "In Canada, the provinces of British Columbia and Ontario introduced laws guaranteeing minimum earnings, transparency, and deactivation notices for platform drivers and couriers", "end": "while preserving their independent contractor status."}, "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/0001543151-26-000015-index.htm", "publication_date": "2026-02-13"}
+    },
+    {
+      "change_id": "xom-chg-1",
+      "company_id": "xom",
+      "case_id": "xom-methane",
+      "classification": "greater specificity - policy dependency made explicit",
+      "note": "The FY2025 10-K newly states that net zero 'will remain out of reach' without supportive policies - making the company's transition ambition explicitly conditional on government policy.",
+      "previous_state": "absent",
+      "current_span": {"doc_path": "data/raw/xom/10k-000003408826000045.risk-factors.txt", "meta_path": "data/raw/xom/10k-000003408826000045.html.meta.json", "doc_label": "ExxonMobil FY2025 Form 10-K, Item 1A", "location": "Item 1A", "span": {"start": "Without supportive policies and the innovations they drive, net zero will remain out of reach", "end": "for society and for ExxonMobil."}, "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/0000034088-26-000045-index.htm", "publication_date": "2026-02-18"}
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "organizations": [
+    {
+      "company_id": "meta",
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "cik": "0001326801",
+      "type": "US public company",
+      "structure": "Digital platform (Family of Apps + Reality Labs)",
+      "fy2025_consolidated_revenue_usd": 201000000000,
+      "revenue_source": "SEC EDGAR XBRL companyfacts, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, FY2025 10-K",
+      "business_activities": [
+        {"activity_id": "meta-foa", "name": "Family of Apps advertising and social products", "segment": "Family of Apps", "geography": "Global / US", "financial_linkage": "Segment level reported; product-level (minors) not reported"},
+        {"activity_id": "meta-rl", "name": "Reality Labs", "segment": "Reality Labs", "geography": "Global", "financial_linkage": "Segment level reported"}
+      ]
+    },
+    {
+      "company_id": "uber",
+      "name": "Uber Technologies, Inc.",
+      "ticker": "UBER",
+      "cik": "0001543151",
+      "type": "US public company",
+      "structure": "Labor marketplace / platform logistics (Mobility, Delivery, Freight)",
+      "fy2025_consolidated_revenue_usd": 52000000000,
+      "revenue_source": "SEC EDGAR XBRL companyfacts, us-gaap:Revenues, FY2025 10-K",
+      "business_activities": [
+        {"activity_id": "uber-mobility", "name": "Mobility (rideshare) using independent-contractor drivers", "segment": "Mobility", "geography": "Global / US", "financial_linkage": "Segment level reported; jurisdiction-level driver economics not reported"},
+        {"activity_id": "uber-av", "name": "Autonomous vehicle partnerships on platform", "segment": "Mobility (emerging)", "geography": "US first", "financial_linkage": "Unknown (no separate disclosure)"}
+      ]
+    },
+    {
+      "company_id": "xom",
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "cik": "0000034088",
+      "type": "US public company",
+      "structure": "Integrated energy producer (Upstream, Product Solutions, Low Carbon)",
+      "fy2025_consolidated_revenue_usd": 332200000000,
+      "revenue_source": "SEC EDGAR XBRL companyfacts, us-gaap:Revenues, FY2025 10-K",
+      "business_activities": [
+        {"activity_id": "xom-upstream-us", "name": "US upstream oil and natural gas production", "segment": "Upstream", "geography": "US", "financial_linkage": "Geographic results partially reported; facility-level methane exposure not reported"},
+        {"activity_id": "xom-reporting", "name": "SEC registrant disclosure obligations", "segment": "Corporate", "geography": "US", "financial_linkage": "Not applicable (compliance cost only)"}
+      ]
+    }
+  ]
+}
