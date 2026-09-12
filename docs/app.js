@@ -156,6 +156,14 @@
       <div><b>Source registry (this build)</b><ul>
         ${d.source_registry.map(s=>`<li><b>${esc(s.source)}</b> - Tier ${s.tier}, ${esc(s.access)}, ${esc(s.cadence)}</li>`).join("")}
       </ul>
+      ${d.freshness?`<details><summary>Source health &amp; coverage (Stage 5 monitoring)</summary>
+        <div style="font-size:12.5px;margin-top:6px">
+        Checked ${esc(d.freshness.checked_at)}: ${d.freshness.documents} snapshots, ${d.freshness.hash_verified} hash-verified, ${d.freshness.hash_failures} failures, ${d.freshness.stale.length} stale.
+        <table class="covtable"><tr><th>company</th>${Object.keys(d.freshness.coverage[Object.keys(d.freshness.coverage)[0]]).map(c=>`<th>${esc(c.replace("_"," "))}</th>`).join("")}</tr>
+        ${Object.entries(d.freshness.coverage).map(([co,row])=>`<tr><td>${esc(co)}</td>${Object.values(row).map(v=>`<td class="${v?"cov-y":"cov-n"}">${v?"retrieved":"not retrieved"}</td>`).join("")}</tr>`).join("")}
+        </table>
+        <div style="color:var(--mut);margin-top:6px">${esc(d.freshness.coverage_note)}</div>
+        </div></details>`:""}
       <details><summary>Dimension vocabularies</summary><ul>
         ${Object.entries(d.dimension_legend).map(([k,v])=>`<li><b>${esc(DIM_LABELS[k]||k)}:</b> ${v.map(esc).join(" | ")}</li>`).join("")}
       </ul></details></div>

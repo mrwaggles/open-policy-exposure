@@ -95,3 +95,8 @@ h5.sec { font-size:11.5px; text-transform:uppercase; letter-spacing:.8px; color:
 .reviewbox.pend { background:#fdf3f4; border:1px solid #f0c9d0; }
 .reviewbox ul { margin:8px 0 4px 18px; color:#33415c; }
 .reviewbox .hist { margin-top:8px; font-size:12px; color:var(--mut); border-top:1px solid rgba(0,0,0,.06); padding-top:6px; }
+
+.covtable { border-collapse:collapse; margin-top:8px; font-size:12px; }
+.covtable th, .covtable td { border:1px solid var(--line); padding:4px 10px; text-align:left; }
+.covtable th { background:#f4f7fa; font-weight:600; }
+.cov-y { color:#177245; } .cov-n { color:#a12136; }

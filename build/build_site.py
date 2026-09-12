@@ -93,6 +93,14 @@ def main():
             item["span"] = resolve_span(ev)
         n_spans += len(candidates["items"])
 
+    freshness = None
+    fr_path = os.path.join(ROOT, "data/freshness.json")
+    if os.path.exists(fr_path):
+        with open(fr_path) as f:
+            freshness = json.load(f)
+        if freshness["hash_failures"]:
+            raise SystemExit("MONITOR GATE FAIL: hash failures present - refusing to publish")
+
     payload = {
         "system": "Open Policy Exposure - evidence-first demo (Stage 2-4 slice)",
         "assessment_version": "v0.2.0",
@@ -120,6 +128,7 @@ def main():
         "cases": cases,
         "changes": changes,
         "candidates": candidates,
+        "freshness": freshness,
     }
     os.makedirs(os.path.join(ROOT, "docs"), exist_ok=True)
     with open(os.path.join(ROOT, "docs", "data.json"), "w") as f:

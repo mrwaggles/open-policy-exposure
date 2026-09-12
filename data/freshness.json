@@ -1,0 +1,332 @@
+{
+ "checked_at": "2026-09-11",
+ "documents": 37,
+ "hash_verified": 37,
+ "hash_failures": 0,
+ "stale": [],
+ "freshness_targets_days": {
+  "edgar": 45,
+  "federal_register": 30,
+  "congress": 30,
+  "lda": 100
+ },
+ "coverage": {
+  "meta": {
+   "edgar": true,
+   "federal_register": true,
+   "congress": true,
+   "lda": true
+  },
+  "uber": {
+   "edgar": true,
+   "federal_register": true,
+   "congress": true,
+   "lda": true
+  },
+  "xom": {
+   "edgar": true,
+   "federal_register": true,
+   "congress": true,
+   "lda": true
+  }
+ },
+ "coverage_note": "Coverage is shown, not assumed: a missing source class for a company means the connector has not retrieved it - never that no government activity exists (paper: coverage trap).",
+ "docs": [
+  {
+   "doc": "meta/10k-000132680125000017.html",
+   "source_class": "edgar",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "931517fc551d51ced8c8348eb313f94a0baa931934eb6f189f432f5ece7e5ce1",
+   "hash_ok": true
+  },
+  {
+   "doc": "meta/10k-000162828026003942.html",
+   "source_class": "edgar",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
+   "hash_ok": true
+  },
+  {
+   "doc": "meta/companyfacts.json",
+   "source_class": "edgar",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "7518e76d6dac2d016e1a3d1dec1cc55ff9ea3bdd58a151b16fcaa067a6c9d94e",
+   "hash_ok": true
+  },
+  {
+   "doc": "meta/congress/s1748-actions.json",
+   "source_class": "congress",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "43f2b7a094e0deb4a067b606a13a45288bd05d216a724bcca75c573adb15f768",
+   "hash_ok": true
+  },
+  {
+   "doc": "meta/congress/s1748-bill.json",
+   "source_class": "congress",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "73fbf6f01251624aff88ce16b529184568c35a1fc7e6fdf06dd4517d91c0f008",
+   "hash_ok": true
+  },
+  {
+   "doc": "meta/congress/s1748-summaries.json",
+   "source_class": "congress",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "ed4c5b9e34f5146d3bad9279cb1084c123fd8c29a1922fa8f67c50b39c3a5bef",
+   "hash_ok": true
+  },
+  {
+   "doc": "meta/fr/fr-2025-05904.json",
+   "source_class": "federal_register",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "7f58655437786cb1d6059541e9ae737ccef899bc3dc56739650c227f40b103b8",
+   "hash_ok": true
+  },
+  {
+   "doc": "meta/lda/lda-2796fa63-8416-4e28-ab64-a242a084b2a3.json",
+   "source_class": "lda",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "d55209e16a23cd7548fbddcfa1e7cdce24fb5119a783e9aafe7d9f6ca979280f",
+   "hash_ok": true
+  },
+  {
+   "doc": "meta/lda/lda-7b5bc578-9fa1-4190-bf2d-0c25a3c1dedb.json",
+   "source_class": "lda",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "fe48164dc38a004887063e7705539bff265a43c5142a1ebfc23819be8e5d3836",
+   "hash_ok": true
+  },
+  {
+   "doc": "meta/lda/lda-db20d2b9-e40a-4eff-893c-9aed03fda925.json",
+   "source_class": "lda",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "99540d05b308d0b3b64261776d35b67377feabe46f0686745ba8606da2bf891b",
+   "hash_ok": true
+  },
+  {
+   "doc": "meta/submissions.json",
+   "source_class": "edgar",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "009af7b78bafe69ea35948fd261f14ad2f56076c2f7feb47d6241599f3f4391d",
+   "hash_ok": true
+  },
+  {
+   "doc": "uber/10k-000154315125000008.html",
+   "source_class": "edgar",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "c1c29c670e0ebd62ba3ee4445cb8a52f7d5c3113b2073b10ee7a4fbafe3738cf",
+   "hash_ok": true
+  },
+  {
+   "doc": "uber/10k-000154315126000015.html",
+   "source_class": "edgar",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
+   "hash_ok": true
+  },
+  {
+   "doc": "uber/companyfacts.json",
+   "source_class": "edgar",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "98e804db35b92010096d3eccc692cf3bda5082ca8648bbf2f55d0b7be0f3830f",
+   "hash_ok": true
+  },
+  {
+   "doc": "uber/congress/hr1319-actions.json",
+   "source_class": "congress",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "e48783a99dc703abab795d0f29d571f97a586df4940b924d2d59e8eb3813f8cd",
+   "hash_ok": true
+  },
+  {
+   "doc": "uber/congress/hr1319-bill.json",
+   "source_class": "congress",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "2c82c4eb2de02c2fd7afbb3b8e9b4262e05d5c34c04e3b4b66bb3de2a95e1565",
+   "hash_ok": true
+  },
+  {
+   "doc": "uber/congress/hr1319-summaries.json",
+   "source_class": "congress",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "8ed1069c1f33c6c5da3774891c5549b3b2ecf8150acb4d49c9e860f52b0b1d22",
+   "hash_ok": true
+  },
+  {
+   "doc": "uber/fr/fr-2024-00067.json",
+   "source_class": "federal_register",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "539fcc08cd6a6b277de2479a4b1dc36a90a4aedd6920af2f5d15e4395d0cc7ab",
+   "hash_ok": true
+  },
+  {
+   "doc": "uber/fr/fr-2026-03962.json",
+   "source_class": "federal_register",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "7158090487101914d92427b5efb045117c18feabbe55ccef7df6120665743cab",
+   "hash_ok": true
+  },
+  {
+   "doc": "uber/fr/fr-2026-15483.json",
+   "source_class": "federal_register",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "090b8428779178959a03f9b032269042f717cb78ce057f238797e2626053b6c6",
+   "hash_ok": true
+  },
+  {
+   "doc": "uber/lda/lda-aa39e3af-fcad-4fa8-b840-8dba60561b8f.json",
+   "source_class": "lda",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "961b71c48c66569625259d1a76ea4d47483cb2432afa79f92c5975bd98573a29",
+   "hash_ok": true
+  },
+  {
+   "doc": "uber/lda/lda-d3049772-7541-4c6b-8809-de7271790a09.json",
+   "source_class": "lda",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "877a6adc5377b79d91c7af7451f017a909466debe7cdb7653f65cecbe1184061",
+   "hash_ok": true
+  },
+  {
+   "doc": "uber/lda/lda-e72bdfe6-b50d-4709-9703-06a9bc5d9543.json",
+   "source_class": "lda",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "b4a902070c8ce5f12d68f29de8b7c85c6143894ad7c10f8eabda784af40f3304",
+   "hash_ok": true
+  },
+  {
+   "doc": "uber/submissions.json",
+   "source_class": "edgar",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "830473a3db5348a0831b05e555fa15fae94aaf57a6a27b879e4eb6376f7ddb40",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/10k-000003408825000010.html",
+   "source_class": "edgar",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "ef8063b86ee33c8bcc1465c3c853752294a3397867621e1762c8fe45abf0ffc5",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/10k-000003408826000045.html",
+   "source_class": "edgar",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/companyfacts.json",
+   "source_class": "edgar",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "9b95535419e5662e3deed01de803e83deead477a4c81316e1c45186368fdd8b8",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/congress/hjres35-actions.json",
+   "source_class": "congress",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "09948460a15703c75647191ae286fd451249ead992e656e2ba8eb42c0ae816eb",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/congress/hjres35-bill.json",
+   "source_class": "congress",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "6b796fda92427b2811c2a50f37b9d27eab4bfe0f1db1f218b58babd789b8dce6",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/fr/fr-2024-26643.json",
+   "source_class": "federal_register",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/fr/fr-2025-08688.json",
+   "source_class": "federal_register",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "5e9369e57b154b2dcb40ddc545174103fb7ef8be5c3089a8dbb92f0f37abaa8e",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/fr/fr-2025-14531.json",
+   "source_class": "federal_register",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "ebf59230ed6ea2c123c95032b41a881db380a16607968923ebe556225a27e3d3",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/fr/fr-2026-11091.json",
+   "source_class": "federal_register",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "799c22fa8551dbe8594402aeb7ed839b63b7e5517103959e845af00047a3543d",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/lda/lda-56f306d8-b4ca-426e-9312-735aaa92dfc9.json",
+   "source_class": "lda",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "a80b1929db7f867677cd92b180ab062f0da65594c7863a149a21035525904709",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/lda/lda-5b0e6916-03f4-4b9f-be48-da93009dd2cb.json",
+   "source_class": "lda",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "37d062935a1c3ea4bc4f77efe7dc4ef77b19210e636b1dd34c909a31abf254bd",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/lda/lda-e007df95-896a-4345-bdef-6825e1930d72.json",
+   "source_class": "lda",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "ca2a22e2ebf62821a7e2e904fc5ba8de603a83616b5d3b45a78119a1c093234f",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/submissions.json",
+   "source_class": "edgar",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "7918818ea3045fb09fbb18d67537909a28feb245d693d0bd7cd3bc30b16ea3db",
+   "hash_ok": true
+  }
+ ]
+}
