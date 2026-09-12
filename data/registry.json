@@ -1,0 +1,304 @@
+{
+  "version": 1,
+  "companies": {
+    "meta": {
+      "fr_docs": [
+        [
+          "2025-05904",
+          "coppa-final-rule"
+        ]
+      ],
+      "congress_bills": [
+        [
+          "s",
+          1748,
+          "kids-online-safety-act"
+        ]
+      ],
+      "eu_acts": [
+        [
+          "32022R2065",
+          "Digital Services Act (Regulation (EU) 2022/2065)"
+        ],
+        [
+          "32022R1925",
+          "Digital Markets Act (Regulation (EU) 2022/1925)"
+        ]
+      ],
+      "lda_name": "Meta Platforms",
+      "issues": [
+        [
+          "children and teen privacy / safety",
+          [
+            "\\bCOPPA\\b",
+            "Children'?s Online Privacy",
+            "\\bminors?\\b",
+            "\\bteens?\\b"
+          ]
+        ],
+        [
+          "antitrust and competition",
+          [
+            "\\bantitrust\\b",
+            "\\bcompetition law",
+            "\\bmonopol"
+          ]
+        ],
+        [
+          "platform regulation",
+          [
+            "\\bKOSA\\b",
+            "Kids Online Safety",
+            "\\bSection 230\\b",
+            "Digital Markets Act",
+            "\\bDMA\\b",
+            "Digital Services Act",
+            "\\bDSA\\b"
+          ]
+        ]
+      ]
+    },
+    "uber": {
+      "fr_docs": [
+        [
+          "2024-00067",
+          "ic-final-rule-2024"
+        ],
+        [
+          "2026-03962",
+          "ic-proposed-rule-2026"
+        ],
+        [
+          "2026-15483",
+          "av-framework-2026"
+        ]
+      ],
+      "congress_bills": [
+        [
+          "hr",
+          1319,
+          "modern-worker-empowerment-act"
+        ]
+      ],
+      "eu_acts": [
+        [
+          "32024L2831",
+          "Platform Work Directive (Directive (EU) 2024/2831)"
+        ]
+      ],
+      "lda_name": "Uber Technologies",
+      "issues": [
+        [
+          "driver classification",
+          [
+            "independent contractor",
+            "\\bclassification\\b.*\\bdrivers?\\b",
+            "\\bgig\\b",
+            "Proposition 22",
+            "\\bemployment status\\b"
+          ]
+        ],
+        [
+          "autonomous vehicles",
+          [
+            "autonomous vehicle",
+            "\\bAVs?\\b",
+            "self-driving"
+          ]
+        ],
+        [
+          "EU platform work rules",
+          [
+            "platform work",
+            "presumption of employment",
+            "platform worker"
+          ]
+        ]
+      ]
+    },
+    "xom": {
+      "fr_docs": [
+        [
+          "2024-26643",
+          "wec-final-rule"
+        ],
+        [
+          "2025-08688",
+          "wec-cra-revocation"
+        ],
+        [
+          "2025-14531",
+          "methane-deadline-extension"
+        ],
+        [
+          "2026-11091",
+          "sec-climate-rescission-proposal"
+        ]
+      ],
+      "congress_bills": [
+        [
+          "hjres",
+          35,
+          "wec-cra-disapproval"
+        ]
+      ],
+      "eu_acts": [
+        [
+          "32024R1787",
+          "EU Methane Regulation (Regulation (EU) 2024/1787)"
+        ],
+        [
+          "32022L2464",
+          "Corporate Sustainability Reporting Directive (Directive (EU) 2022/2464)"
+        ]
+      ],
+      "lda_name": "Exxon Mobil",
+      "issues": [
+        [
+          "methane regulation",
+          [
+            "\\bmethane\\b",
+            "\\bOGMP\\b",
+            "New Source Performance Standards",
+            "\\bOOOO\\b"
+          ]
+        ],
+        [
+          "climate disclosure",
+          [
+            "climate-related",
+            "greenhouse gas",
+            "\\bGHG\\b",
+            "Scope [123]",
+            "emissions? (?:reporting|disclosure|reduction)"
+          ]
+        ],
+        [
+          "carbon policy",
+          [
+            "carbon (?:tax|price|pricing)",
+            "cap-and-trade",
+            "emissions trading"
+          ]
+        ],
+        [
+          "EU methane obligations",
+          [
+            "leak detection and repair",
+            "\\bLDAR\\b",
+            "venting and flaring"
+          ]
+        ],
+        [
+          "EU sustainability reporting",
+          [
+            "sustainability reporting",
+            "double materiality",
+            "\\bCSRD\\b"
+          ]
+        ]
+      ]
+    },
+    "pfe": {
+      "fr_docs": [
+        [
+          "2026-14583",
+          "ira-negotiation-notice-2026"
+        ],
+        [
+          "2024-23418",
+          "ira-negotiation-final-guidance"
+        ]
+      ],
+      "congress_bills": [
+        [
+          "hr",
+          6166,
+          "expand-drug-price-negotiation"
+        ]
+      ],
+      "eu_acts": [
+        [
+          "52023PC0131",
+          "EU Pharma Package: proposed general pharmaceutical legislation Directive (COM(2023) 131)"
+        ]
+      ],
+      "issues": [
+        [
+          "drug pricing and negotiation",
+          [
+            "maximum fair price",
+            "Medicare Drug Price Negotiation",
+            "\\bIRA\\b",
+            "Inflation Reduction Act",
+            "price setting"
+          ]
+        ],
+        [
+          "EU pharmaceutical legislation",
+          [
+            "regulatory data protection",
+            "marketing authori[sz]ation",
+            "pharmaceutical legislation",
+            "\\bEMA\\b",
+            "European Medicines Agency"
+          ]
+        ]
+      ]
+    },
+    "wmt": {
+      "fr_docs": [
+        [
+          "2025-15010",
+          "reciprocal-tariff-rates-eo"
+        ],
+        [
+          "2025-17507",
+          "reciprocal-tariff-scope-modification"
+        ]
+      ],
+      "congress_bills": [
+        [
+          "hr",
+          2743,
+          "raise-the-wage-act-2025"
+        ]
+      ],
+      "eu_acts": [
+        [
+          "32024L1760",
+          "Corporate Sustainability Due Diligence Directive (Directive (EU) 2024/1760)"
+        ]
+      ],
+      "issues": [
+        [
+          "tariffs and import costs",
+          [
+            "\\btariffs?\\b",
+            "ad valorem duties",
+            "reciprocal tariff",
+            "import(?:s|ed|ing)? .*dut(?:y|ies)"
+          ]
+        ],
+        [
+          "minimum wage and labor",
+          [
+            "minimum wage",
+            "Raise the Wage",
+            "\\bhourly wage",
+            "\\bwages?\\b"
+          ]
+        ],
+        [
+          "EU supply chain due diligence",
+          [
+            "due diligence",
+            "Corporate Sustainability Due Diligence",
+            "\\bCSDDD\\b",
+            "supply chain .*human rights"
+          ]
+        ]
+      ]
+    }
+  }
+}

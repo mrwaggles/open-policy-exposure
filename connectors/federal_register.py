@@ -17,6 +17,14 @@ DOCS = [
     ("wmt",  "2025-15010", "reciprocal-tariff-rates-eo"),
     ("wmt",  "2025-17507", "reciprocal-tariff-scope-modification"),
 ]
+try:
+    from registry import load as _load_reg
+    _reg = _load_reg()
+    if _reg:
+        DOCS = [(co, doc, slug) for co, cfg in _reg.items() for doc, slug in cfg.get("fr_docs", [])]
+except Exception:
+    pass
+
 def get(url):
     req = urllib.request.Request(url, headers={"User-Agent": "OpenPolicyExposure research build"})
     with urllib.request.urlopen(req, timeout=120) as r: return r.read()

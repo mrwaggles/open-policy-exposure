@@ -120,6 +120,26 @@ Not investment, legal, or policy advice.
   `data/changes.json` classifications are human review decisions with review
   records.
 
+## Add a company (dynamic pipeline)
+
+The pipeline is not hardcoded to the five benchmark companies. Per-company
+source configuration lives in `data/registry.json` (Federal Register docs,
+Congress bills, EUR-Lex acts, LDA registrant name, extractor issue patterns);
+connectors and the candidate extractor read it, and any company with raw
+snapshots is scanned even without tuned patterns (generic fallback).
+
+- CLI: `python3 build/add_company.py --id acme --name "Acme Corp" --cik 0000000000`
+  registers the company, auto-discovers SEC EDGAR revenue + latest 10-K and
+  Federal Register documents, runs the full pipeline (retrieval -> candidates
+  -> monitoring -> build gate), and labels anything unreachable as pending
+  instead of fabricating it.
+- UI: the site's "Add a company" panel generates that command and links to the
+  repo's `Add Company` GitHub Actions workflow, which runs the same pipeline
+  in CI and commits the result (repo write access required).
+- Honesty rules are structural: a new company enters with zero curated cases;
+  extractor output is unreviewed candidates only, never findings. Cases require
+  human curation per `REVIEW.md`.
+
 ## Read API (Stage 7 slice)
 
 `docs/data.json` is the stable read API: the complete payload (companies, cases

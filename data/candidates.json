@@ -363,8 +363,8 @@
     "doc_label": "Federal Register document (fr-2024-23418.txt)",
     "location": "sentence window around pattern match",
     "tier": "A",
-    "start": "ACTION: Notice. --------------------------------",
-    "end": "e implementation of the Inflation Reduction Act.",
+    "start": "ADDRESSES: Inquiries related to the final guidan",
+    "end": "tion Act was signed into law on August 16, 2022.",
     "publication_date": "unknown"
    }
   },

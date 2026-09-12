@@ -14,6 +14,17 @@ COMPANIES = [
     {"id": "xom",  "name": "Exxon Mobil Corporation", "cik": "0000034088", "ticker": "XOM"},
 ]
 
+try:
+    _cf = os.path.join(os.path.dirname(__file__), "..", "data", "companies.json")
+    _orgs = json.load(open(_cf))["organizations"]
+    COMPANIES = [{"id": o["company_id"], "name": o["name"], "cik": o["cik"], "ticker": o["ticker"]} for o in _orgs]
+except Exception:
+    pass
+if len(sys.argv) > 1:
+    COMPANIES = [c for c in COMPANIES if c["id"] in sys.argv[1:]]
+    if not COMPANIES:
+        raise SystemExit(f"no matching company in {sys.argv[1:]}")
+
 def fetch(url):
     req = urllib.request.Request(url, headers=UA)
     with urllib.request.urlopen(req, timeout=60) as r:

@@ -2440,7 +2440,7 @@
      "role": "candidate",
      "doc_label": "Federal Register document (fr-2024-23418.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "ACTION: Notice. ----------------------------------------------------------------------- SUMMARY: The Centers for Medicare & Medicaid Services (CMS) is announcing the availability of CMS' final guidance for the second cycle of the Medicare Drug Price Negotiation Program and manufacturer effectuation of the maximum fair price in 2026 and 2027 for the implementation of the Inflation Reduction Act.",
+     "exact_text": "ADDRESSES: Inquiries related to the final guidance should be sent to [email&#160;protected] with the relevant subject line, ``Medicare Drug Price Negotiation Program Final Guidance.'' SUPPLEMENTARY INFORMATION: The Inflation Reduction Act was signed into law on August 16, 2022.",
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/10/10/2024-23418/inflation-reduction-act-ira-medicare-drug-price-negotiation-program-final-guidance",
      "publication_date": "unknown",

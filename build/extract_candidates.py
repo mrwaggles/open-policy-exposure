@@ -39,6 +39,18 @@ ISSUES = {
   ("EU sustainability reporting", [r"sustainability reporting", r"double materiality", r"\bCSRD\b"]),
  ],
 }
+GENERIC_ISSUES = [
+ ("regulatory activity (generic)", [r"\brulemaking\b", r"\bregulation\b", r"\bcompliance\b", r"\benforcement\b"]),
+ ("legislation and appropriations (generic)", [r"\bact\b", r"\bbill\b", r"\bappropriat", r"\bstatut"]),
+]
+try:
+    _reg = json.load(open(os.path.join(ROOT, "data", "registry.json"))).get("companies", {})
+    for _co, _cfg in _reg.items():
+        if _cfg.get("issues"):
+            ISSUES[_co] = [(h, rs) for h, rs in _cfg["issues"]]
+except Exception:
+    pass
+
 AUTH = re.compile(r"\b(FTC|SEC|EPA|DOJ|Congress|Commission|Act|Rule|regulation|directive|court)\b")
 NUM = re.compile(r"\$|%|\b\d{4}\b|\b\d+(?:\.\d+)?\s?(?:billion|million)\b", re.I)
 
@@ -86,7 +98,14 @@ def main():
             for ev in c.get("evidence", []):
                 curated.append(re.sub(r"\s+", " ", ev.get("exact_text", "")).strip())
     items, seen = [], set()
-    for co, issues in ISSUES.items():
+    # every company with raw snapshots is scanned; companies without tuned
+    # patterns fall back to the generic set so a newly added company flows through
+    scan = dict(ISSUES)
+    rawroot = os.path.join(ROOT, "data/raw")
+    for co in os.listdir(rawroot):
+        if os.path.isdir(os.path.join(rawroot, co)) and co not in scan:
+            scan[co] = GENERIC_ISSUES
+    for co, issues in scan.items():
         hits_per_co = []
         for txt in sorted(glob.glob(os.path.join(ROOT, "data/raw", co, "**/*.txt"), recursive=True)):
             meta = meta_for(txt)
@@ -136,7 +155,7 @@ def main():
     }
     with open(os.path.join(ROOT, "data/candidates.json"), "w") as f:
         json.dump(out, f, indent=1)
-    print(f"CANDIDATES: {len(items)} across {len(ISSUES)} companies")
+    print(f"CANDIDATES: {len(items)} across {len(scan)} companies")
 
 if __name__ == "__main__":
     main()

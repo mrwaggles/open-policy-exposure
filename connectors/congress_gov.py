@@ -12,6 +12,14 @@ BILLS = [
     ("pfe",  "hr", 6166, "expand-drug-price-negotiation"),
     ("wmt",  "hr", 2743, "raise-the-wage-act-2025"),
 ]
+try:
+    from registry import load as _load_reg
+    _reg = _load_reg()
+    if _reg:
+        BILLS = [(co, bt, num, slug) for co, cfg in _reg.items() for bt, num, slug in cfg.get("congress_bills", [])]
+except Exception:
+    pass
+
 def get(url):
     req = urllib.request.Request(url, headers={"User-Agent": "OpenPolicyExposure research build"})
     with urllib.request.urlopen(req, timeout=60) as r: return r.read()

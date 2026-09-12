@@ -19,6 +19,14 @@ ACTS = [
     ("wmt",  "32024L1760", "Corporate Sustainability Due Diligence Directive (Directive (EU) 2024/1760)"),
 ]
 
+try:
+    from registry import load as _load_reg
+    _reg = _load_reg()
+    if _reg:
+        ACTS = [(co, celex, label) for co, cfg in _reg.items() for celex, label in cfg.get("eu_acts", [])]
+except Exception:
+    pass
+
 def get(url, accept=None):
     h = dict(UA)
     if accept: h["Accept"] = accept

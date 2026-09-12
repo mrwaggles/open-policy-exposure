@@ -9,6 +9,14 @@ COMPANIES = [
     ("uber", "Uber Technologies"),
     ("xom", "Exxon Mobil"),
 ]
+try:
+    from registry import load as _load_reg
+    _reg = _load_reg()
+    if _reg:
+        COMPANIES = [(co, cfg["lda_name"]) for co, cfg in _reg.items() if cfg.get("lda_name")]
+except Exception:
+    pass
+
 def get(url):
     import urllib.error
     for attempt in range(5):

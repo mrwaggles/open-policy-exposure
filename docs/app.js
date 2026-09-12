@@ -189,6 +189,37 @@
     lists.querySelectorAll("tr[data-case]").forEach(el => el.onclick = () => openCase(el.dataset.case));
   }
 
+  document.getElementById("add-company").innerHTML = `
+    <h3>Add a company</h3>
+    <div class="addco">
+      <p style="font-size:13.5px;color:var(--mut);margin-top:0">Any US public company can enter this pipeline on demand. It gets the same treatment as the five above: source retrieval, hashed snapshots, candidate extraction, freshness monitoring, and the build-time evidence gate. <b>Honesty rules do not bend:</b> a new company starts with zero curated cases - machine-surfaced passages land in the unreviewed candidate queue only, and a case exists only after human curation (REVIEW.md). Retrieval failures are labeled pending, never fabricated.</p>
+      <div class="addform">
+        <label>Company name <input id="ac-name" placeholder="Apple Inc."></label>
+        <label>Ticker <input id="ac-ticker" placeholder="AAPL"></label>
+        <label>CIK (SEC) <input id="ac-cik" placeholder="0000320193"></label>
+        <label>Business structure (optional) <input id="ac-structure" placeholder="Consumer electronics and services"></label>
+        <button id="ac-gen">Generate add command</button>
+      </div>
+      <div id="ac-out" class="hidden">
+        <p style="font-size:13px;margin-bottom:4px"><b>Option 1 - run the pipeline yourself</b> (clone of this repo):</p>
+        <pre id="ac-cmd" class="cmd"></pre>
+        <p style="font-size:13px;margin-bottom:4px"><b>Option 2 - trigger the repo's Add Company workflow</b> (requires write access to the repo; it runs the same pipeline in CI and commits the result):</p>
+        <p style="font-size:13px"><a href="https://github.com/mrwaggles/open-policy-exposure/actions/workflows/add-company.yml" target="_blank" rel="noopener">Open the Add Company workflow &rarr;</a></p>
+      </div>
+    </div>`;
+  document.getElementById("ac-gen").onclick = () => {
+    const v = id => document.getElementById(id).value.trim();
+    const name = v("ac-name"), cik = v("ac-cik").replace(/\D/g,"").padStart(10,"0"), tick = v("ac-ticker"), str = v("ac-structure");
+    if (!name || !v("ac-cik")) { alert("Name and CIK are required (CIK is the SEC identifier, e.g. 0000320193)."); return; }
+    const id = name.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"").slice(0,24);
+    let cmd = "python3 build/add_company.py --id " + id + " --name \"" + name + "\" --cik " + cik;
+    if (tick) cmd += " --ticker " + tick;
+    if (str) cmd += " --structure \"" + str + "\"";
+    cmd += " --fr-terms \"" + name + "\"";
+    document.getElementById("ac-cmd").textContent = cmd;
+    document.getElementById("ac-out").classList.remove("hidden");
+  };
+
   document.getElementById("methodology").innerHTML = `
     <h3>Method (from the design paper)</h3>
     <div class="cols">

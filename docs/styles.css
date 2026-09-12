@@ -117,3 +117,10 @@ table.port th { background:#f4f7fa; font-weight:600; font-size:11.5px; }
 table.port tr[data-case] { cursor:pointer; }
 table.port tr[data-case]:hover td { background:#f0f5ff; }
 td.ttl { max-width:340px; }
+
+.addco { background:#fff; border:1px solid var(--line); border-radius:12px; padding:14px 18px; margin-bottom:16px; }
+.addform { display:flex; flex-wrap:wrap; gap:10px; align-items:end; margin:10px 0; }
+.addform label { font-size:12px; color:var(--mut); display:flex; flex-direction:column; gap:3px; }
+.addform input { border:1px solid var(--line); border-radius:8px; padding:6px 9px; font-size:13px; min-width:150px; }
+.addform button { background:var(--ink); color:#fff; border:0; border-radius:8px; padding:8px 14px; font-size:13px; cursor:pointer; }
+pre.cmd { background:#0f172a; color:#e2e8f0; border-radius:8px; padding:10px 12px; font-size:12px; overflow-x:auto; white-space:pre-wrap; word-break:break-all; }
