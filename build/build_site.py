@@ -110,6 +110,7 @@ def main():
             {"source": "Federal Register API v1", "tier": "A", "access": "unauthenticated REST API", "cadence": "daily"},
             {"source": "Congress.gov API v3", "tier": "A", "access": "api.data.gov key (DEMO_KEY at low rate limits)", "cadence": "daily + event driven"},
             {"source": "Senate LDA API v1", "tier": "C", "access": "unauthenticated REST API", "cadence": "quarterly + updates"},
+            {"source": "EUR-Lex Cellar SPARQL + REST", "tier": "A", "access": "unauthenticated SPARQL + content negotiation", "cadence": "event-driven + periodic"},
         ],
         "dimension_legend": {
             "business_exposure": ["Limited", "Meaningful", "Core", "Unknown"],
@@ -129,6 +130,7 @@ def main():
         "changes": changes,
         "candidates": candidates,
         "freshness": freshness,
+        "boilerplate": json.load(open(os.path.join(ROOT, "data/boilerplate.json"))) if os.path.exists(os.path.join(ROOT, "data/boilerplate.json")) else None,
     }
     os.makedirs(os.path.join(ROOT, "docs"), exist_ok=True)
     with open(os.path.join(ROOT, "docs", "data.json"), "w") as f:

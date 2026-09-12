@@ -26,6 +26,12 @@
    "tier": "C",
    "access": "unauthenticated REST API",
    "cadence": "quarterly + updates"
+  },
+  {
+   "source": "EUR-Lex Cellar SPARQL + REST",
+   "tier": "A",
+   "access": "unauthenticated SPARQL + content negotiation",
+   "cadence": "event-driven + periodic"
   }
  ],
  "dimension_legend": {
@@ -991,10 +997,27 @@
      "supports": [
       "company advocacy position"
      ]
+    },
+    {
+     "evidence_id": "uber-driver-classification-eu-1",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "Platform Work Directive (EU) 2024/2831, EN text (EUR-Lex cellar)",
+     "location": "recital on the legal presumption of employment",
+     "exact_text": "In that context, a legal presumption of an employment relationship in favour of persons performing platform work is an effective instrument which greatly contributes to the improvement of living and working conditions of platform workers.",
+     "truncated": false,
+     "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2831",
+     "publication_date": "2024-10-23",
+     "retrieved_at": "2026-09-12T06:07:21Z",
+     "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
+     "supports": [
+      "mechanism: legal presumption of employment for platform workers",
+      "EU direction of travel on classification"
+     ]
     }
    ],
    "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution).",
-   "assessment_version": "1.0.0",
+   "assessment_version": "1.1.0",
    "review": {
     "status": "pending_second_review",
     "consequential": true,
@@ -1013,6 +1036,14 @@
       "reviewer": "demo-analyst",
       "action": "created",
       "reason": "Initial assessment built from retrieved official sources; spans machine-validated at build."
+     },
+     {
+      "at": "2026-09-11",
+      "reviewer": "demo-analyst",
+      "action": "amended",
+      "previous": "assessment v1.0.0",
+      "new": "assessment v1.1.0",
+      "reason": "Added EU primary-law evidence span (Stage 6 EU expansion); span machine-verified verbatim by the build gate."
      }
     ]
    }
@@ -1344,10 +1375,27 @@
      "supports": [
       "company advocacy position"
      ]
+    },
+    {
+     "evidence_id": "xom-methane-eu-1",
+     "tier": "A",
+     "role": "supporting",
+     "doc_label": "EU Methane Regulation (EU) 2024/1787, EN text (EUR-Lex cellar)",
+     "location": "LDAR programme obligation (operative text)",
+     "exact_text": "By 5 May 2025 for existing sites and within 6 months from the date of start of operations for new sites, operators shall submit a leak detection and repair programme (\u2018LDAR programme\u2019) to the competent authorities.",
+     "truncated": false,
+     "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1787",
+     "publication_date": "2024-06-13",
+     "retrieved_at": "2026-09-12T06:07:23Z",
+     "sha256": "231bfc7b994197536a3271ed37b8b8c3ecce9f2ce7e9625e7aff91caec07496f",
+     "supports": [
+      "mechanism: binding LDAR programme obligation with dates",
+      "process status: Implementation (obligations already in application)"
+     ]
     }
    ],
    "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution).",
-   "assessment_version": "1.0.0",
+   "assessment_version": "1.1.0",
    "review": {
     "status": "pending_second_review",
     "consequential": true,
@@ -1366,6 +1414,14 @@
       "reviewer": "demo-analyst",
       "action": "created",
       "reason": "Initial assessment built from retrieved official sources; spans machine-validated at build."
+     },
+     {
+      "at": "2026-09-11",
+      "reviewer": "demo-analyst",
+      "action": "amended",
+      "previous": "assessment v1.0.0",
+      "new": "assessment v1.1.0",
+      "reason": "Added EU primary-law evidence span (Stage 6 EU expansion); span machine-verified verbatim by the build gate."
      }
     ]
    }
@@ -1615,16 +1671,42 @@
     ],
     "span": {
      "evidence_id": "cand-meta-05-span",
-     "tier": "B",
+     "tier": "A",
      "role": "candidate",
-     "doc_label": "SEC 10-K filing (10k-000132680125000017.risk-factors.txt)",
+     "doc_label": "EUR-Lex act (EU primary law) (eu-32022R1925.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "DPF or regulators, courts, or legislative bodies determining that the legal bases we rely upon to transfer user data from the European Union to the United States are invalid; \u2022 there is decreased engagement with our products, decreased efficiency of our advertising products, or failure to accept our terms of service, as part of changes that we have implemented or may implement in the future, whether voluntarily, in connection with the GDPR, the European Union's ePrivacy Directive, the DMA, the DSA, the DMCC, U.S. state privacy laws including the California Consumer Privacy Act, as amended by the California Privacy Rights Act (CCPA), youth social media laws, or other laws, regulations, or regulatory actions, or otherwise; \u2022 technical or other problems prevent us from delivering our products in a rapid and reliable manner or otherwise affect the user experience, such as security breaches or failure to prevent or limit spam or otherwise objectionable content, or users feel their experience is diminished as a result of our efforts to protect the security and integrity of our platform; \u2022 we adopt terms, policies, or procedures related to areas such as sharing, content, user data, or advertising, or we take, or fail to take, actions to enforce our policies, that result in our removal of users from our platform or are perceived negatively by our users or the general public, including as a result of decisions or recommendations from the independent Oversight Board regarding conten...",
-     "truncated": true,
-     "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm",
-     "publication_date": "2025-01-30",
-     "retrieved_at": "2026-09-12T05:37:22Z",
-     "sha256": "931517fc551d51ced8c8348eb313f94a0baa931934eb6f189f432f5ece7e5ce1",
+     "exact_text": "L_2022265EN.01000101.xml 12.10.2022 EN Official Journal of the European Union L 265/1 REGULATION (EU) 2022/1925 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national parliaments, Having regard to the opinion of the European Economic and Social Committee ( 1 ) , Having regard to the opinion of the Committee of the Regions ( 2 ) , Acting in accordance with the ordinary legislative procedure ( 3 ) , Whereas: (1) Digital services in general and online platforms in particular play an increasingly important role in the economy, in particular in the internal market, by enabling businesses to reach users throughout the Union, by facilitating cross-border trade and by opening entirely new business opportunities to a large number of companies in the Union to the benefit of consumers in the Union.",
+     "truncated": false,
+     "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1925",
+     "publication_date": "2022-09-14",
+     "retrieved_at": "2026-09-12T06:07:18Z",
+     "sha256": "d6af21a4f11c2b001b0486391fbd0813deba32305fb0d3865fbceccd45b827eb",
+     "supports": [
+      "candidate passage - unreviewed"
+     ]
+    }
+   },
+   {
+    "candidate_id": "cand-meta-06",
+    "company_id": "meta",
+    "status": "unreviewed",
+    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+    "confidence": "medium",
+    "issue_hints": [
+     "platform regulation"
+    ],
+    "span": {
+     "evidence_id": "cand-meta-06-span",
+     "tier": "A",
+     "role": "candidate",
+     "doc_label": "EUR-Lex act (EU primary law) (eu-32022R1925.txt)",
+     "location": "sentence window around pattern match",
+     "exact_text": "Article 51 Amendment to Directive (EU) 2019/1937 In Point J of Part I of the Annex to Directive (EU) 2019/1937, the following point is added: \u2018(iv) Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) ( OJ L 265, 21.9.2022, p. 1 ).\u2019 Article 52 Amendment to Directive (EU) 2020/1828 In Annex I to Directive (EU) 2020/1828, the following point is added: \u2018(67) Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) ( OJ L 265, 21.9.2022, p. 1 ).\u2019 Article 53 Review 1.",
+     "truncated": false,
+     "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1925",
+     "publication_date": "2022-09-14",
+     "retrieved_at": "2026-09-12T06:07:18Z",
+     "sha256": "d6af21a4f11c2b001b0486391fbd0813deba32305fb0d3865fbceccd45b827eb",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1663,6 +1745,7 @@
     "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
     "confidence": "medium",
     "issue_hints": [
+     "EU platform work rules",
      "driver classification"
     ],
     "span": {
@@ -1671,7 +1754,7 @@
      "role": "candidate",
      "doc_label": "SEC 10-K filing (10k-000154315126000015.legal-proceedings.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "Other examples of judicial decisions include a decision by the French Supreme Court that a driver for a third-party meal delivery service was under a \u201csubordinate relationship\u201d of the service, indicating an employment relationship, decisions by the French Supreme Court in 2020 and 2023 that reclassified two UberX Drivers as employees (which were followed by inconsistent appellate decisions regarding employee status, and, in July 2025, by two French Supreme Court decisions analyzing Uber\u2019s more recent model that concluded that the Drivers were independent contractors), decisions by several Swiss governmental bodies ruling that Drivers should be classified as employees for Swiss social security or regulatory purposes, a recent Spanish regulation of food delivery platforms that presumes employment status and a ruling in September 2021 by a Netherlands court that Mobility Drivers are employees within the meaning of the taxi collective bargaining agreement.",
+     "exact_text": "The agreement invites collaboration on topics such as trade union representation, freedom of association and bargaining, working conditions, health and safety, social protections, and dispute resolution. \u25e6 Spain: In 2024, Uber Eats and the UGT (Uni\u00f3n General de Trabajadores) signed a memorandum of understanding aimed at improving working conditions for platform workers across the entire delivery sector, focusing on safety, training, and collective representation. \u25e6 We welcomed a number of policy developments and agreements across the globe, including: \u25aa In Canada, the provinces of British Columbia and Ontario introduced laws guaranteeing minimum earnings, transparency, and deactivation notices for platform drivers and couriers, while preserving their independent contractor status. \u25aa In Australia, the passage of the Fair Work Legislation Amendment affirms platform workers\u2019 independent status while guaranteeing access to minimum pay standards, superannuation, and deactivation protections. 8 \u2022 Protections and benefits : We partner with leading insurance companies around the world to pioneer protections for independent workers.",
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
      "publication_date": "2026-02-13",
@@ -1693,16 +1776,16 @@
     ],
     "span": {
      "evidence_id": "cand-uber-03-span",
-     "tier": "A",
+     "tier": "B",
      "role": "candidate",
-     "doc_label": "Federal Register document (fr-2024-00067.txt)",
+     "doc_label": "SEC 10-K filing (10k-000154315126000015.legal-proceedings.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "  Federal Register, Volume 89 Issue 7 (Wednesday, January 10, 2024)   [Federal Register Volume 89, Number 7 (Wednesday, January 10, 2024)] [Rules and Regulations] [Pages 1638-1743] From the Federal Register Online via the Government Publishing Office [www.gpo.gov] [FR Doc No: 2024-00067] [[Page 1637]] Vol. 89 Wednesday, No. 7 January 10, 2024 Part II Department of Labor ----------------------------------------------------------------------- Wage and Hour Division ----------------------------------------------------------------------- 29 CFR Parts 780, 788, and 795 Employee or Independent Contractor Classification Under the Fair Labor Standards Act; Final Rule \u0000\u0000Federal Register / Vol. 89 , No. 7 / Wednesday, January 10, 2024 / Rules and Regulations\u0000\u0000 [[Page 1638]] ----------------------------------------------------------------------- DEPARTMENT OF LABOR Wage and Hour Division 29 CFR Parts 780, 788, and 795 RIN 1235-AA43 Employee or Independent Contractor Classification Under the Fair Labor Standards Act AGENCY: Wage and Hour Division, Department of Labor.",
+     "exact_text": "Other examples of judicial decisions include a decision by the French Supreme Court that a driver for a third-party meal delivery service was under a \u201csubordinate relationship\u201d of the service, indicating an employment relationship, decisions by the French Supreme Court in 2020 and 2023 that reclassified two UberX Drivers as employees (which were followed by inconsistent appellate decisions regarding employee status, and, in July 2025, by two French Supreme Court decisions analyzing Uber\u2019s more recent model that concluded that the Drivers were independent contractors), decisions by several Swiss governmental bodies ruling that Drivers should be classified as employees for Swiss social security or regulatory purposes, a recent Spanish regulation of food delivery platforms that presumes employment status and a ruling in September 2021 by a Netherlands court that Mobility Drivers are employees within the meaning of the taxi collective bargaining agreement.",
      "truncated": false,
-     "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
-     "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T05:25:17Z",
-     "sha256": "539fcc08cd6a6b277de2479a4b1dc36a90a4aedd6920af2f5d15e4395d0cc7ab",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
+     "publication_date": "2026-02-13",
+     "retrieved_at": "2026-09-12T05:24:36Z",
+     "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1723,7 +1806,7 @@
      "role": "candidate",
      "doc_label": "Federal Register document (fr-2024-00067.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "In January 2021, the Department published a rule titled ``Independent Contractor Status Under the Fair Labor Standards Act'' (2021 IC Rule), providing guidance on the classification of independent contractors under the FLSA applicable to workers and businesses in any industry.\\3\\ The 2021 IC Rule marked a departure from the consistent, longstanding adoption and application of the economic reality test by courts and the Department of how to determine whether a worker is an employee or an independent contractor under the FLSA.",
+     "exact_text": "  Federal Register, Volume 89 Issue 7 (Wednesday, January 10, 2024)   [Federal Register Volume 89, Number 7 (Wednesday, January 10, 2024)] [Rules and Regulations] [Pages 1638-1743] From the Federal Register Online via the Government Publishing Office [www.gpo.gov] [FR Doc No: 2024-00067] [[Page 1637]] Vol. 89 Wednesday, No. 7 January 10, 2024 Part II Department of Labor ----------------------------------------------------------------------- Wage and Hour Division ----------------------------------------------------------------------- 29 CFR Parts 780, 788, and 795 Employee or Independent Contractor Classification Under the Fair Labor Standards Act; Final Rule \u0000\u0000Federal Register / Vol. 89 , No. 7 / Wednesday, January 10, 2024 / Rules and Regulations\u0000\u0000 [[Page 1638]] ----------------------------------------------------------------------- DEPARTMENT OF LABOR Wage and Hour Division 29 CFR Parts 780, 788, and 795 RIN 1235-AA43 Employee or Independent Contractor Classification Under the Fair Labor Standards Act AGENCY: Wage and Hour Division, Department of Labor.",
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
      "publication_date": "unknown",
@@ -1741,20 +1824,20 @@
     "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
     "confidence": "medium",
     "issue_hints": [
-     "driver classification"
+     "EU platform work rules"
     ],
     "span": {
      "evidence_id": "cand-uber-05-span",
      "tier": "A",
      "role": "candidate",
-     "doc_label": "Federal Register document (fr-2024-00067.txt)",
+     "doc_label": "EUR-Lex act (EU primary law) (eu-32024L2831.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "Walsh''). --------------------------------------------------------------------------- On October 13, 2022, the Department published a Notice of Proposed Rulemaking (NPRM) regarding employee or independent contractor classification under the FLSA, proposing to rescind and replace the 2021 IC Rule.\\11\\ The Department explained in its proposal that upon further consideration, the Department believed that the 2021 IC Rule did not fully comport with the FLSA's text and purpose as interpreted by courts and departed from decades of case law applying the economic reality test.",
+     "exact_text": "L_202402831EN.000101.fmx.xml Official Journal of the European Union EN L series 2024/2831 11.11.2024 DIRECTIVE (EU) 2024/2831 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 October 2024 on improving working conditions in platform work (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 153(2), point (b), in conjunction with Article 153(1), point (b), and Article 16(2), thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national parliaments, Having regard to the opinion of the European Economic and Social Committee ( 1 ) , Having regard to the opinion of the Committee of the Regions ( 2 ) , Acting in accordance with the ordinary legislative procedure ( 3 ) , Whereas: (1) Pursuant to Article 3 of the Treaty on European Union (TEU), the aims of the Union are, amongst others, to promote the well-being of its peoples and to work for the sustainable development of Europe based, inter alia, on balanced economic growth, and a highly competitive social market economy, aiming at full employment and social progress.",
      "truncated": false,
-     "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
-     "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T05:25:17Z",
-     "sha256": "539fcc08cd6a6b277de2479a4b1dc36a90a4aedd6920af2f5d15e4395d0cc7ab",
+     "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2831",
+     "publication_date": "2024-10-23",
+     "retrieved_at": "2026-09-12T06:07:21Z",
+     "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1767,20 +1850,21 @@
     "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
     "confidence": "medium",
     "issue_hints": [
+     "EU platform work rules",
      "driver classification"
     ],
     "span": {
      "evidence_id": "cand-uber-06-span",
      "tier": "A",
      "role": "candidate",
-     "doc_label": "Federal Register document (fr-2024-00067.txt)",
+     "doc_label": "EUR-Lex act (EU primary law) (eu-32024L2831.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "The Department also explained in the NPRM that it believed the 2021 IC Rule's departure from the longstanding test applied by the courts could result in greater confusion among employers in applying the new analysis, which could place workers at greater risk of misclassification as independent contractors due to the new analysis being applied improperly, and thus could negatively affect both the workers and competing businesses that correctly classify their employees.",
+     "exact_text": "(7) Court cases in several Member States have shown the persistence of the misclassification of the employment status in certain types of platform work, in particular in sectors where digital labour platforms exert a certain degree of direction and control.",
      "truncated": false,
-     "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
-     "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T05:25:17Z",
-     "sha256": "539fcc08cd6a6b277de2479a4b1dc36a90a4aedd6920af2f5d15e4395d0cc7ab",
+     "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2831",
+     "publication_date": "2024-10-23",
+     "retrieved_at": "2026-09-12T06:07:21Z",
+     "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1901,21 +1985,21 @@
     "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
     "confidence": "medium",
     "issue_hints": [
-     "climate disclosure",
-     "methane regulation"
+     "EU sustainability reporting",
+     "climate disclosure"
     ],
     "span": {
      "evidence_id": "cand-xom-05-span",
      "tier": "A",
      "role": "candidate",
-     "doc_label": "Federal Register document (fr-2024-26643.txt)",
+     "doc_label": "EUR-Lex act (EU primary law) (eu-32022L2464.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "The first exemption, found in CAA section 136(f)(5), exempts from the charge [[Page 91097]] emissions occurring at facilities in the onshore or offshore petroleum and natural gas production industry segments that are caused by eligible delays in environmental permitting of gathering or transmission infrastructure.\\6\\ The second exemption, found in CAA section 136(f)(6), exempts from the charge, if certain conditions are met, those facilities that are subject to and in compliance with final methane emissions requirements promulgated pursuant to CAA sections 111(b) and (d).\\7\\ This exemption becomes available only if a determination is made by the Administrator that such final requirements are approved and in effect in all States with respect to the applicable facilities, and that the emissions reductions resulting from those final requirements will achieve equivalent or greater emission reductions as would have resulted from the EPA's methane emissions requirements proposed in 2021.\\8\\ The third exemption, found in CAA section 136(f)(7), exempts from the charge reporting year emissions from wells that are permanently shut in and plugged.\\9\\ --------------------------------------------------------------------------- \\6\\ 42 U.S.C. 7436(f)(5) (``Charges shall not be imposed pursuant to paragraph (1) on emissions that exceed the waste emissions threshold specified in such paragraph if such emissions are caused by unreasonable delay, as determined by the Administrator, in enviro...",
+     "exact_text": "When adopting delegated acts pursuant to paragraph 1, the Commission shall, to the greatest extent possible, take account of: (a) the work of global standard-setting initiatives for sustainability reporting, and existing standards and frameworks for natural capital accounting and for greenhouse gas accounting, responsible business conduct, corporate social responsibility, and sustainable development; (b) the information that financial market participants need in order to comply with their disclosure obligations laid down in Regulation (EU) 2019/2088 and the delegated acts adopted pursuant to that Regulation; (c) the criteria, indicators and methodologies set out in the delegated acts adopted pursuant to Regulation (EU) 2020/852, including the technical screening criteria established pursuant to Article 10(3), Article 11(3), Article 12(2), Article 13(2), Article 14(2) and Article 15(2) of that Regulation and the reporting requirements set out in the delegated act adopted pursuant to Article 8 of that Regulation; (d) the disclosure requirements applicable to benchmark administrators in the benchmark statement and in the benchmark methodology and the minimum standards for the construction of EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks in accordance with Commission Delegated Regulations (EU) 2020/1816 ( *13 ) , (EU) 2020/1817 ( *14 ) and (EU) 2020/1818 ( *15 ) ; (e) the disclosures specified in the implementing acts adopted pursuant to Article 434a of Regu...",
      "truncated": true,
-     "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
-     "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T05:25:20Z",
-     "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+     "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2464",
+     "publication_date": "2022-12-14",
+     "retrieved_at": "2026-09-12T06:07:26Z",
+     "sha256": "6ad8df8d05b75c4caf19c926db0afc86c725872bb3342c4d7cd2544dd6c29837",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1928,21 +2012,21 @@
     "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
     "confidence": "medium",
     "issue_hints": [
-     "climate disclosure",
+     "EU methane obligations",
      "methane regulation"
     ],
     "span": {
      "evidence_id": "cand-xom-06-span",
      "tier": "A",
      "role": "candidate",
-     "doc_label": "Federal Register document (fr-2024-26643.txt)",
+     "doc_label": "EUR-Lex act (EU primary law) (eu-32024R1787.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "The CAA section 111 2024 Final NSPS/EG as well as the financial and technical assistance the EPA is administering under section 136 of the CAA, are also expected to drive methane emission reductions that will help applicable facilities reduce or eliminate their WEC obligations.",
+     "exact_text": "(78) To ensure harmonised implementation of this Regulation and to create a common technical framework for all actors in the oil, gas and coal sectors, the Commission should consider, in accordance with Regulation (EU) No 1025/2012 of the European Parliament and of the Council ( 16 ) , requesting the relevant European standardisation organisations to draft harmonised standards for the measurement and quantification of methane emissions in the oil, gas and coal sectors, for LDAR surveys and for venting and flaring equipment.",
      "truncated": false,
-     "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
-     "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T05:25:20Z",
-     "sha256": "a724dd0046eb02e3521336453f357dff3973231489dd957641fea53c79769dc0",
+     "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1787",
+     "publication_date": "2024-06-13",
+     "retrieved_at": "2026-09-12T06:07:23Z",
+     "sha256": "231bfc7b994197536a3271ed37b8b8c3ecce9f2ce7e9625e7aff91caec07496f",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -1952,34 +2036,38 @@
  },
  "freshness": {
   "checked_at": "2026-09-11",
-  "documents": 37,
-  "hash_verified": 37,
+  "documents": 42,
+  "hash_verified": 42,
   "hash_failures": 0,
   "stale": [],
   "freshness_targets_days": {
    "edgar": 45,
    "federal_register": 30,
    "congress": 30,
-   "lda": 100
+   "lda": 100,
+   "eur_lex": 180
   },
   "coverage": {
    "meta": {
     "edgar": true,
     "federal_register": true,
     "congress": true,
-    "lda": true
+    "lda": true,
+    "eur_lex": true
    },
    "uber": {
     "edgar": true,
     "federal_register": true,
     "congress": true,
-    "lda": true
+    "lda": true,
+    "eur_lex": true
    },
    "xom": {
     "edgar": true,
     "federal_register": true,
     "congress": true,
-    "lda": true
+    "lda": true,
+    "eur_lex": true
    }
   },
   "coverage_note": "Coverage is shown, not assumed: a missing source class for a company means the connector has not retrieved it - never that no government activity exists (paper: coverage trap).",
@@ -2030,6 +2118,22 @@
     "retrieved_at": "2026-09-12",
     "age_days": -1,
     "sha256": "ed4c5b9e34f5146d3bad9279cb1084c123fd8c29a1922fa8f67c50b39c3a5bef",
+    "hash_ok": true
+   },
+   {
+    "doc": "meta/eu/eu-32022R1925.html",
+    "source_class": "eur_lex",
+    "retrieved_at": "2026-09-12",
+    "age_days": -1,
+    "sha256": "d6af21a4f11c2b001b0486391fbd0813deba32305fb0d3865fbceccd45b827eb",
+    "hash_ok": true
+   },
+   {
+    "doc": "meta/eu/eu-32022R2065.html",
+    "source_class": "eur_lex",
+    "retrieved_at": "2026-09-12",
+    "age_days": -1,
+    "sha256": "11b119a7d45f3a10cd41714061f9d907839ef5d1634e41774490f00b95856bbf",
     "hash_ok": true
    },
    {
@@ -2118,6 +2222,14 @@
     "retrieved_at": "2026-09-12",
     "age_days": -1,
     "sha256": "8ed1069c1f33c6c5da3774891c5549b3b2ecf8150acb4d49c9e860f52b0b1d22",
+    "hash_ok": true
+   },
+   {
+    "doc": "uber/eu/eu-32024L2831.html",
+    "source_class": "eur_lex",
+    "retrieved_at": "2026-09-12",
+    "age_days": -1,
+    "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
     "hash_ok": true
    },
    {
@@ -2217,6 +2329,22 @@
     "hash_ok": true
    },
    {
+    "doc": "xom/eu/eu-32022L2464.html",
+    "source_class": "eur_lex",
+    "retrieved_at": "2026-09-12",
+    "age_days": -1,
+    "sha256": "6ad8df8d05b75c4caf19c926db0afc86c725872bb3342c4d7cd2544dd6c29837",
+    "hash_ok": true
+   },
+   {
+    "doc": "xom/eu/eu-32024R1787.html",
+    "source_class": "eur_lex",
+    "retrieved_at": "2026-09-12",
+    "age_days": -1,
+    "sha256": "231bfc7b994197536a3271ed37b8b8c3ecce9f2ce7e9625e7aff91caec07496f",
+    "hash_ok": true
+   },
+   {
     "doc": "xom/fr/fr-2024-26643.json",
     "source_class": "federal_register",
     "retrieved_at": "2026-09-12",
@@ -2281,5 +2409,30 @@
     "hash_ok": true
    }
   ]
+ },
+ "boilerplate": {
+  "metric": "share of FY2024 risk-factor sentences carried into FY2025 verbatim or near-verbatim (difflib ratio >= 0.9)",
+  "note": "High carryover = boilerplate risk: repeated generic disclosure is not new evidence of a changing exposure (paper: boilerplate trap).",
+  "window": "FY2024 10-K -> FY2025 10-K risk factors",
+  "companies": {
+   "meta": {
+    "sentences_fy2024": 915,
+    "sentences_fy2025": 883,
+    "carried_over": 615,
+    "carryover_share": 0.672
+   },
+   "uber": {
+    "sentences_fy2024": 1159,
+    "sentences_fy2025": 1166,
+    "carried_over": 961,
+    "carryover_share": 0.829
+   },
+   "xom": {
+    "sentences_fy2024": 157,
+    "sentences_fy2025": 153,
+    "carried_over": 77,
+    "carryover_share": 0.49
+   }
+  }
  }
 }

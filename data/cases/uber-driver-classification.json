@@ -208,10 +208,28 @@
    "supports": [
     "company advocacy position"
    ]
+  },
+  {
+   "evidence_id": "uber-driver-classification-eu-1",
+   "tier": "A",
+   "role": "supporting",
+   "doc_label": "Platform Work Directive (EU) 2024/2831, EN text (EUR-Lex cellar)",
+   "location": "recital on the legal presumption of employment",
+   "span": {
+    "start": "In that context, a legal presumption of an emplo",
+    "end": "ving and working conditions of platform workers."
+   },
+   "doc_path": "data/raw/uber/eu/eu-32024L2831.txt",
+   "meta_path": "data/raw/uber/eu/eu-32024L2831.html.meta.json",
+   "publication_date": "2024-10-23",
+   "supports": [
+    "mechanism: legal presumption of employment for platform workers",
+    "EU direction of travel on classification"
+   ]
   }
  ],
  "advocacy_note": "Lobbying disclosure establishes reported advocacy, not materiality or business importance (paper, Tier C caution).",
- "assessment_version": "1.0.0",
+ "assessment_version": "1.1.0",
  "review": {
   "status": "pending_second_review",
   "consequential": true,
@@ -230,6 +248,14 @@
     "reviewer": "demo-analyst",
     "action": "created",
     "reason": "Initial assessment built from retrieved official sources; spans machine-validated at build."
+   },
+   {
+    "at": "2026-09-11",
+    "reviewer": "demo-analyst",
+    "action": "amended",
+    "previous": "assessment v1.0.0",
+    "new": "assessment v1.1.0",
+    "reason": "Added EU primary-law evidence span (Stage 6 EU expansion); span machine-verified verbatim by the build gate."
    }
   ]
  }

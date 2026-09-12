@@ -69,7 +69,9 @@
     lists.innerHTML =
       `<h3 class="listhead">Current exposures</h3>` + cur.map(card).join("") +
       `<h3 class="listhead">Emerging</h3>` + em.map(card).join("") +
-      (chg.length ? `<h3 class="listhead">Changes since previous review <span style="font-weight:400;text-transform:none;letter-spacing:0">(${esc(d.changes.change_window)})</span></h3>` + chg.map(chgCard).join("") : "") +
+      (chg.length ? `<h3 class="listhead">Changes since previous review <span style="font-weight:400;text-transform:none;letter-spacing:0">(${esc(d.changes.change_window)})</span></h3>` +
+        (d.boilerplate && d.boilerplate.companies[cid] ? `<div class="boiler">Boilerplate check: ${(d.boilerplate.companies[cid].carryover_share*100).toFixed(0)}% of FY2024 risk-factor sentences carried into FY2025 (${d.boilerplate.companies[cid].carried_over}/${d.boilerplate.companies[cid].sentences_fy2024}). ${esc(d.boilerplate.note)}</div>` : "") +
+        chg.map(chgCard).join("") : "") +
       (cands.length ? `<h3 class="listhead">Candidate queue <span class="cand-sub">machine-surfaced &middot; unreviewed &middot; not findings</span></h3>` +
         `<div class="cand-note">${esc(d.candidates.note)} Extractor: ${esc(d.candidates.extractor)}. Review workflow in REVIEW.md.</div>` +
         cands.map(candCard).join("") : "");

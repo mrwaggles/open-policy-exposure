@@ -1,33 +1,37 @@
 {
  "checked_at": "2026-09-11",
- "documents": 37,
- "hash_verified": 37,
+ "documents": 42,
+ "hash_verified": 42,
  "hash_failures": 0,
  "stale": [],
  "freshness_targets_days": {
   "edgar": 45,
   "federal_register": 30,
   "congress": 30,
-  "lda": 100
+  "lda": 100,
+  "eur_lex": 180
  },
  "coverage": {
   "meta": {
    "edgar": true,
    "federal_register": true,
    "congress": true,
-   "lda": true
+   "lda": true,
+   "eur_lex": true
   },
   "uber": {
    "edgar": true,
    "federal_register": true,
    "congress": true,
-   "lda": true
+   "lda": true,
+   "eur_lex": true
   },
   "xom": {
    "edgar": true,
    "federal_register": true,
    "congress": true,
-   "lda": true
+   "lda": true,
+   "eur_lex": true
   }
  },
  "coverage_note": "Coverage is shown, not assumed: a missing source class for a company means the connector has not retrieved it - never that no government activity exists (paper: coverage trap).",
@@ -78,6 +82,22 @@
    "retrieved_at": "2026-09-12",
    "age_days": -1,
    "sha256": "ed4c5b9e34f5146d3bad9279cb1084c123fd8c29a1922fa8f67c50b39c3a5bef",
+   "hash_ok": true
+  },
+  {
+   "doc": "meta/eu/eu-32022R1925.html",
+   "source_class": "eur_lex",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "d6af21a4f11c2b001b0486391fbd0813deba32305fb0d3865fbceccd45b827eb",
+   "hash_ok": true
+  },
+  {
+   "doc": "meta/eu/eu-32022R2065.html",
+   "source_class": "eur_lex",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "11b119a7d45f3a10cd41714061f9d907839ef5d1634e41774490f00b95856bbf",
    "hash_ok": true
   },
   {
@@ -166,6 +186,14 @@
    "retrieved_at": "2026-09-12",
    "age_days": -1,
    "sha256": "8ed1069c1f33c6c5da3774891c5549b3b2ecf8150acb4d49c9e860f52b0b1d22",
+   "hash_ok": true
+  },
+  {
+   "doc": "uber/eu/eu-32024L2831.html",
+   "source_class": "eur_lex",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
    "hash_ok": true
   },
   {
@@ -262,6 +290,22 @@
    "retrieved_at": "2026-09-12",
    "age_days": -1,
    "sha256": "6b796fda92427b2811c2a50f37b9d27eab4bfe0f1db1f218b58babd789b8dce6",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/eu/eu-32022L2464.html",
+   "source_class": "eur_lex",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "6ad8df8d05b75c4caf19c926db0afc86c725872bb3342c4d7cd2544dd6c29837",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/eu/eu-32024R1787.html",
+   "source_class": "eur_lex",
+   "retrieved_at": "2026-09-12",
+   "age_days": -1,
+   "sha256": "231bfc7b994197536a3271ed37b8b8c3ecce9f2ce7e9625e7aff91caec07496f",
    "hash_ok": true
   },
   {

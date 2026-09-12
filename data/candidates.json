@@ -95,14 +95,34 @@
     "platform regulation"
    ],
    "span": {
-    "doc_path": "data/raw/meta/10k-000132680125000017.risk-factors.txt",
-    "meta_path": "data/raw/meta/10k-000132680125000017.html.meta.json",
-    "doc_label": "SEC 10-K filing (10k-000132680125000017.risk-factors.txt)",
+    "doc_path": "data/raw/meta/eu/eu-32022R1925.txt",
+    "meta_path": "data/raw/meta/eu/eu-32022R1925.html.meta.json",
+    "doc_label": "EUR-Lex act (EU primary law) (eu-32022R1925.txt)",
     "location": "sentence window around pattern match",
-    "tier": "B",
-    "start": "DPF or regulators, courts, or legislative bodies",
-    "end": " interact and share on third-party applications.",
-    "publication_date": "2025-01-30"
+    "tier": "A",
+    "start": "L_2022265EN.01000101.xml 12.10.2022 EN Official ",
+    "end": " Union to the benefit of consumers in the Union.",
+    "publication_date": "2022-09-14"
+   }
+  },
+  {
+   "candidate_id": "cand-meta-06",
+   "company_id": "meta",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "platform regulation"
+   ],
+   "span": {
+    "doc_path": "data/raw/meta/eu/eu-32022R1925.txt",
+    "meta_path": "data/raw/meta/eu/eu-32022R1925.html.meta.json",
+    "doc_label": "EUR-Lex act (EU primary law) (eu-32022R1925.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "A",
+    "start": "Article 51 Amendment to Directive (EU) 2019/1937",
+    "end": " L 265, 21.9.2022, p. 1 ).\u2019 Article 53 Review 1.",
+    "publication_date": "2022-09-14"
    }
   },
   {
@@ -132,6 +152,27 @@
    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
    "confidence": "medium",
    "issue_hints": [
+    "EU platform work rules",
+    "driver classification"
+   ],
+   "span": {
+    "doc_path": "data/raw/uber/10k-000154315126000015.legal-proceedings.txt",
+    "meta_path": "data/raw/uber/10k-000154315126000015.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000154315126000015.legal-proceedings.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "B",
+    "start": "The agreement invites collaboration on topics su",
+    "end": " to pioneer protections for independent workers.",
+    "publication_date": "2026-02-13"
+   }
+  },
+  {
+   "candidate_id": "cand-uber-03",
+   "company_id": "uber",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
     "driver classification"
    ],
    "span": {
@@ -146,7 +187,7 @@
    }
   },
   {
-   "candidate_id": "cand-uber-03",
+   "candidate_id": "cand-uber-04",
    "company_id": "uber",
    "status": "unreviewed",
    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
@@ -166,43 +207,23 @@
    }
   },
   {
-   "candidate_id": "cand-uber-04",
-   "company_id": "uber",
-   "status": "unreviewed",
-   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
-   "confidence": "medium",
-   "issue_hints": [
-    "driver classification"
-   ],
-   "span": {
-    "doc_path": "data/raw/uber/fr/fr-2024-00067.txt",
-    "meta_path": "data/raw/uber/fr/fr-2024-00067.json.meta.json",
-    "doc_label": "Federal Register document (fr-2024-00067.txt)",
-    "location": "sentence window around pattern match",
-    "tier": "A",
-    "start": "In January 2021, the Department published a rule",
-    "end": "yee or an independent contractor under the FLSA.",
-    "publication_date": "unknown"
-   }
-  },
-  {
    "candidate_id": "cand-uber-05",
    "company_id": "uber",
    "status": "unreviewed",
    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
    "confidence": "medium",
    "issue_hints": [
-    "driver classification"
+    "EU platform work rules"
    ],
    "span": {
-    "doc_path": "data/raw/uber/fr/fr-2024-00067.txt",
-    "meta_path": "data/raw/uber/fr/fr-2024-00067.json.meta.json",
-    "doc_label": "Federal Register document (fr-2024-00067.txt)",
+    "doc_path": "data/raw/uber/eu/eu-32024L2831.txt",
+    "meta_path": "data/raw/uber/eu/eu-32024L2831.html.meta.json",
+    "doc_label": "EUR-Lex act (EU primary law) (eu-32024L2831.txt)",
     "location": "sentence window around pattern match",
     "tier": "A",
-    "start": "Walsh''). --------------------------------------",
-    "end": " of case law applying the economic reality test.",
-    "publication_date": "unknown"
+    "start": "L_202402831EN.000101.fmx.xml Official Journal of",
+    "end": ", aiming at full employment and social progress.",
+    "publication_date": "2024-10-23"
    }
   },
   {
@@ -212,17 +233,18 @@
    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
    "confidence": "medium",
    "issue_hints": [
+    "EU platform work rules",
     "driver classification"
    ],
    "span": {
-    "doc_path": "data/raw/uber/fr/fr-2024-00067.txt",
-    "meta_path": "data/raw/uber/fr/fr-2024-00067.json.meta.json",
-    "doc_label": "Federal Register document (fr-2024-00067.txt)",
+    "doc_path": "data/raw/uber/eu/eu-32024L2831.txt",
+    "meta_path": "data/raw/uber/eu/eu-32024L2831.html.meta.json",
+    "doc_label": "EUR-Lex act (EU primary law) (eu-32024L2831.txt)",
     "location": "sentence window around pattern match",
     "tier": "A",
-    "start": "The Department also explained in the NPRM that i",
-    "end": "inesses that correctly classify their employees.",
-    "publication_date": "unknown"
+    "start": "(7) Court cases in several Member States have sh",
+    "end": "exert a certain degree of direction and control.",
+    "publication_date": "2024-10-23"
    }
   },
   {
@@ -316,18 +338,18 @@
    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
    "confidence": "medium",
    "issue_hints": [
-    "climate disclosure",
-    "methane regulation"
+    "EU sustainability reporting",
+    "climate disclosure"
    ],
    "span": {
-    "doc_path": "data/raw/xom/fr/fr-2024-26643.txt",
-    "meta_path": "data/raw/xom/fr/fr-2024-26643.json.meta.json",
-    "doc_label": "Federal Register document (fr-2024-26643.txt)",
+    "doc_path": "data/raw/xom/eu/eu-32022L2464.txt",
+    "meta_path": "data/raw/xom/eu/eu-32022L2464.html.meta.json",
+    "doc_label": "EUR-Lex act (EU primary law) (eu-32022L2464.txt)",
     "location": "sentence window around pattern match",
     "tier": "A",
-    "start": "The first exemption, found in CAA section 136(f)",
-    "end": "s sector will not be subject to WEC obligations.",
-    "publication_date": "unknown"
+    "start": "When adopting delegated acts pursuant to paragra",
+    "end": "European Parliament and of the Council ( *19 ) .",
+    "publication_date": "2022-12-14"
    }
   },
   {
@@ -337,18 +359,18 @@
    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
    "confidence": "medium",
    "issue_hints": [
-    "climate disclosure",
+    "EU methane obligations",
     "methane regulation"
    ],
    "span": {
-    "doc_path": "data/raw/xom/fr/fr-2024-26643.txt",
-    "meta_path": "data/raw/xom/fr/fr-2024-26643.json.meta.json",
-    "doc_label": "Federal Register document (fr-2024-26643.txt)",
+    "doc_path": "data/raw/xom/eu/eu-32024R1787.txt",
+    "meta_path": "data/raw/xom/eu/eu-32024R1787.html.meta.json",
+    "doc_label": "EUR-Lex act (EU primary law) (eu-32024R1787.txt)",
     "location": "sentence window around pattern match",
     "tier": "A",
-    "start": "The CAA section 111 2024 Final NSPS/EG as well a",
-    "end": "ities reduce or eliminate their WEC obligations.",
-    "publication_date": "unknown"
+    "start": "(78) To ensure harmonised implementation of this",
+    "end": "R surveys and for venting and flaring equipment.",
+    "publication_date": "2024-06-13"
    }
   }
  ]

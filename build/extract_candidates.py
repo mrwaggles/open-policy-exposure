@@ -20,11 +20,14 @@ ISSUES = {
  "uber": [
   ("driver classification", [r"independent contractor", r"\bclassification\b.*\bdrivers?\b", r"\bgig\b", r"Proposition 22", r"\bemployment status\b"]),
   ("autonomous vehicles", [r"autonomous vehicle", r"\bAVs?\b", r"self-driving"]),
+  ("EU platform work rules", [r"platform work", r"presumption of employment", r"platform worker"]),
  ],
  "xom": [
   ("methane regulation", [r"\bmethane\b", r"\bOGMP\b", r"New Source Performance Standards", r"\bOOOO\b"]),
   ("climate disclosure", [r"climate-related", r"greenhouse gas", r"\bGHG\b", r"Scope [123]", r"emissions? (?:reporting|disclosure|reduction)"]),
   ("carbon policy", [r"carbon (?:tax|price|pricing)", r"cap-and-trade", r"emissions trading"]),
+  ("EU methane obligations", [r"leak detection and repair", r"\bLDAR\b", r"venting and flaring"]),
+  ("EU sustainability reporting", [r"sustainability reporting", r"double materiality", r"\bCSRD\b"]),
  ],
 }
 AUTH = re.compile(r"\b(FTC|SEC|EPA|DOJ|Congress|Commission|Act|Rule|regulation|directive|court)\b")
@@ -46,6 +49,7 @@ def tier_label(path):
     if n.startswith("fr-"): return "A", "Federal Register document"
     if "10k" in n: return "B", "SEC 10-K filing section" if "." in n.replace("10k-","").split(".")[0] else "SEC 10-K filing"
     if n.startswith("lda"): return "C", "Senate LDA filing"
+    if n.startswith("eu-"): return "A", "EUR-Lex act (EU primary law)"
     return "B", "source document"
 
 def anchor(doc_text, win):
@@ -89,7 +93,11 @@ def main():
                 seen.add(ns)
                 hits_per_co.append((len(matched) + bool(AUTH.search(s)) + bool(NUM.search(s)), matched, s, txt, meta, tier, base_label))
         hits_per_co.sort(key=lambda x: -x[0])
-        for i, (score, matched, s, txt, meta, tier, base_label) in enumerate(hits_per_co[:6]):
+        eu_hits = [h for h in hits_per_co if "/eu/" in h[3]]
+        us_hits = [h for h in hits_per_co if "/eu/" not in h[3]]
+        # jurisdiction diversity quota (paper: coverage bias) - reserve slots for EU sources
+        picked = us_hits[:4] + eu_hits[:2] if eu_hits else us_hits[:6]
+        for i, (score, matched, s, txt, meta, tier, base_label) in enumerate(picked):
             win = s  # full sentence; display truncation is handled by the build validator
             anch = anchor(open(txt, encoding="utf-8", errors="ignore").read(), win)
             if not anch: continue  # no unambiguous anchor in doc - skip

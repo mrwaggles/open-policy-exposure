@@ -10,7 +10,7 @@ ROOT = os.path.join(os.path.dirname(__file__), "..")
 TODAY = datetime.date.today()
 
 # freshness targets in days, from the source registry cadences
-TARGETS = {"edgar": 45, "federal_register": 30, "congress": 30, "lda": 100}
+TARGETS = {"edgar": 45, "federal_register": 30, "congress": 30, "lda": 100, "eur_lex": 180}
 
 def source_class(meta, path):
     src = (meta.get("source") or "").lower()
@@ -18,6 +18,7 @@ def source_class(meta, path):
     if "edgar" in src or "sec" in src or "/10k" in p or "companyfacts" in p or "submissions" in p: return "edgar"
     if "federal" in src or "/fr/" in p or os.path.basename(p).startswith("fr-"): return "federal_register"
     if "congress" in src: return "congress"
+    if "eur-lex" in src or "/eu/" in p: return "eur_lex"
     if "lda" in src or "lda" in os.path.basename(p): return "lda"
     return "other"
 
@@ -57,7 +58,7 @@ def main():
             stale.append(d)
 
     # coverage matrix per company per source class (from actual snapshot dirs)
-    classes = ["edgar", "federal_register", "congress", "lda"]
+    classes = ["edgar", "federal_register", "congress", "lda", "eur_lex"]
     coverage = {}
     for co in sorted(os.listdir(os.path.join(ROOT, "data/raw"))):
         codir = os.path.join(ROOT, "data/raw", co)

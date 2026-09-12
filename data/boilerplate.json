@@ -1,0 +1,25 @@
+{
+ "metric": "share of FY2024 risk-factor sentences carried into FY2025 verbatim or near-verbatim (difflib ratio >= 0.9)",
+ "note": "High carryover = boilerplate risk: repeated generic disclosure is not new evidence of a changing exposure (paper: boilerplate trap).",
+ "window": "FY2024 10-K -> FY2025 10-K risk factors",
+ "companies": {
+  "meta": {
+   "sentences_fy2024": 915,
+   "sentences_fy2025": 883,
+   "carried_over": 615,
+   "carryover_share": 0.672
+  },
+  "uber": {
+   "sentences_fy2024": 1159,
+   "sentences_fy2025": 1166,
+   "carried_over": 961,
+   "carryover_share": 0.829
+  },
+  "xom": {
+   "sentences_fy2024": 157,
+   "sentences_fy2025": 153,
+   "carried_over": 77,
+   "carryover_share": 0.49
+  }
+ }
+}
