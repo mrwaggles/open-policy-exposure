@@ -1,0 +1,12 @@
+{
+  "doc_id": "wmt/10k-000010416926000055",
+  "source": "SEC EDGAR",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+  "retrieved_at": "2026-09-13T21:42:40Z",
+  "sha256": "276a6accff6066f00342ba03b390c6c2bd51aa7246f0346df22df0b839a5bf5c",
+  "bytes": 2323981,
+  "form": "10-K",
+  "accession": "0000104169-26-000055",
+  "filing_date": "2026-03-13",
+  "primary_document": "wmt-20260131.htm"
+}

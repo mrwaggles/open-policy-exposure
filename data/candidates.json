@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12",
+ "generated_at": "2026-09-13",
  "extractor": "keyword-window v1 (deterministic regex over immutable snapshots)",
  "note": "UNREVIEWED CANDIDATES - machine-surfaced passages awaiting human review per REVIEW.md. Not findings.",
  "items": [
@@ -137,9 +137,9 @@
     "driver classification"
    ],
    "span": {
-    "doc_path": "data/raw/uber/10k-000154315126000015.risk-factors.txt",
+    "doc_path": "data/raw/uber/10k-000154315126000015.legal-proceedings.txt",
     "meta_path": "data/raw/uber/10k-000154315126000015.html.meta.json",
-    "doc_label": "SEC 10-K filing (10k-000154315126000015.risk-factors.txt)",
+    "doc_label": "SEC 10-K filing (10k-000154315126000015.legal-proceedings.txt)",
     "location": "sentence window around pattern match",
     "tier": "B",
     "start": "The agreement invites collaboration on topics su",
@@ -157,9 +157,9 @@
     "driver classification"
    ],
    "span": {
-    "doc_path": "data/raw/uber/10k-000154315126000015.risk-factors.txt",
+    "doc_path": "data/raw/uber/10k-000154315126000015.legal-proceedings.txt",
     "meta_path": "data/raw/uber/10k-000154315126000015.html.meta.json",
-    "doc_label": "SEC 10-K filing (10k-000154315126000015.risk-factors.txt)",
+    "doc_label": "SEC 10-K filing (10k-000154315126000015.legal-proceedings.txt)",
     "location": "sentence window around pattern match",
     "tier": "B",
     "start": "Other examples of judicial decisions include a d",
@@ -255,6 +255,86 @@
    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
    "confidence": "medium",
    "issue_hints": [
+    "EU pharmaceutical legislation"
+   ],
+   "span": {
+    "doc_path": "data/raw/pfe/10k-000007800326000026.legal-proceedings.txt",
+    "meta_path": "data/raw/pfe/10k-000007800326000026.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000007800326000026.legal-proceedings.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "B",
+    "start": "Drug Enforcement Agency Developed Markets Includ",
+    "end": "B Financial Accounting Standards Board FCPA U.S.",
+    "publication_date": "2026-02-26"
+   }
+  },
+  {
+   "candidate_id": "cand-pfe-02",
+   "company_id": "pfe",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "drug pricing and negotiation"
+   ],
+   "span": {
+    "doc_path": "data/raw/pfe/10k-000007800326000026.legal-proceedings.txt",
+    "meta_path": "data/raw/pfe/10k-000007800326000026.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000007800326000026.legal-proceedings.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "B",
+    "start": "HRR homologous recombination repair IPR&D in-pro",
+    "end": "n Act of 2022 IRC Internal Revenue Code IRS U.S.",
+    "publication_date": "2026-02-26"
+   }
+  },
+  {
+   "candidate_id": "cand-pfe-03",
+   "company_id": "pfe",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "drug pricing and negotiation"
+   ],
+   "span": {
+    "doc_path": "data/raw/pfe/10k-000007800326000026.legal-proceedings.txt",
+    "meta_path": "data/raw/pfe/10k-000007800326000026.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000007800326000026.legal-proceedings.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "B",
+    "start": "Governmental shutdowns, including impacts on gov",
+    "end": "ct of Pfizer\u2019s voluntary agreement with the U.S.",
+    "publication_date": "2026-02-26"
+   }
+  },
+  {
+   "candidate_id": "cand-pfe-04",
+   "company_id": "pfe",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
+    "drug pricing and negotiation"
+   ],
+   "span": {
+    "doc_path": "data/raw/pfe/10k-000007800326000026.legal-proceedings.txt",
+    "meta_path": "data/raw/pfe/10k-000007800326000026.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000007800326000026.legal-proceedings.txt)",
+    "location": "sentence window around pattern match",
+    "tier": "B",
+    "start": "Government; \u2022 U.S. federal or state legislation ",
+    "end": "s or policies in the U.S., including by the U.S.",
+    "publication_date": "2026-02-26"
+   }
+  },
+  {
+   "candidate_id": "cand-pfe-05",
+   "company_id": "pfe",
+   "status": "unreviewed",
+   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
+   "confidence": "medium",
+   "issue_hints": [
     "drug pricing and negotiation"
    ],
    "span": {
@@ -269,7 +349,7 @@
    }
   },
   {
-   "candidate_id": "cand-pfe-02",
+   "candidate_id": "cand-pfe-06",
    "company_id": "pfe",
    "status": "unreviewed",
    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
@@ -285,86 +365,6 @@
     "tier": "B",
     "start": "In accordance with the Inflation Reduction Act of 2022, the negotiated price will apply to a sel",
     "end": "lected drug so long as the selected drug remains in the Medicare Drug Price Negotiation Program.",
-    "publication_date": "unknown"
-   }
-  },
-  {
-   "candidate_id": "cand-pfe-03",
-   "company_id": "pfe",
-   "status": "unreviewed",
-   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
-   "confidence": "medium",
-   "issue_hints": [
-    "drug pricing and negotiation"
-   ],
-   "span": {
-    "doc_path": "data/raw/pfe/cms/cms-second-cycle-selected-drugs.txt",
-    "meta_path": "data/raw/pfe/cms/cms-second-cycle-selected-drugs.txt.meta.json",
-    "doc_label": "source document (cms-second-cycle-selected-drugs.txt)",
-    "location": "sentence window around pattern match",
-    "tier": "B",
-    "start": "In accordance with the Inflation Reduction Act, ",
-    "end": "negotiated prices will become effective in 2027.",
-    "publication_date": "2025-01-17"
-   }
-  },
-  {
-   "candidate_id": "cand-pfe-04",
-   "company_id": "pfe",
-   "status": "unreviewed",
-   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
-   "confidence": "medium",
-   "issue_hints": [
-    "drug pricing and negotiation"
-   ],
-   "span": {
-    "doc_path": "data/raw/pfe/cms/cms-second-cycle-selected-drugs.txt",
-    "meta_path": "data/raw/pfe/cms/cms-second-cycle-selected-drugs.txt.meta.json",
-    "doc_label": "source document (cms-second-cycle-selected-drugs.txt)",
-    "location": "sentence window around pattern match",
-    "tier": "B",
-    "start": "HHS will continue negotiating in the best intere",
-    "end": "decide if they will participate in negotiations.",
-    "publication_date": "2025-01-17"
-   }
-  },
-  {
-   "candidate_id": "cand-pfe-05",
-   "company_id": "pfe",
-   "status": "unreviewed",
-   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
-   "confidence": "medium",
-   "issue_hints": [
-    "drug pricing and negotiation"
-   ],
-   "span": {
-    "doc_path": "data/raw/pfe/fr/fr-2024-23418.txt",
-    "meta_path": "data/raw/pfe/fr/fr-2024-23418.json.meta.json",
-    "doc_label": "Federal Register document (fr-2024-23418.txt)",
-    "location": "sentence window around pattern match",
-    "tier": "A",
-    "start": "<html> <head> <title>Federal Register, Volume 89",
-    "end": "icaid Services, Health and Human Services (HHS).",
-    "publication_date": "unknown"
-   }
-  },
-  {
-   "candidate_id": "cand-pfe-06",
-   "company_id": "pfe",
-   "status": "unreviewed",
-   "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
-   "confidence": "medium",
-   "issue_hints": [
-    "drug pricing and negotiation"
-   ],
-   "span": {
-    "doc_path": "data/raw/pfe/fr/fr-2024-23418.txt",
-    "meta_path": "data/raw/pfe/fr/fr-2024-23418.json.meta.json",
-    "doc_label": "Federal Register document (fr-2024-23418.txt)",
-    "location": "sentence window around pattern match",
-    "tier": "A",
-    "start": "ADDRESSES: Inquiries related to the final guidan",
-    "end": "tion Act was signed into law on August 16, 2022.",
     "publication_date": "unknown"
    }
   },
@@ -418,14 +418,14 @@
     "tariffs and import costs"
    ],
    "span": {
-    "doc_path": "data/raw/wmt/fr/fr-2025-15010.txt",
-    "meta_path": "data/raw/wmt/fr/fr-2025-15010.json.meta.json",
-    "doc_label": "Federal Register document (fr-2025-15010.txt)",
+    "doc_path": "data/raw/wmt/10k-000010416926000055.legal-proceedings.txt",
+    "meta_path": "data/raw/wmt/10k-000010416926000055.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000010416926000055.legal-proceedings.txt)",
     "location": "sentence window around pattern match",
-    "tier": "A",
-    "start": "In Executive Order 14257 of April 2, 2025 (Regul",
-    "end": "e or substantial part outside the United States.",
-    "publication_date": "unknown"
+    "tier": "B",
+    "start": "We experienced the impacts noted above during fi",
+    "end": " 2026 as a result of incremental import tariffs.",
+    "publication_date": "2026-03-13"
    }
   },
   {
@@ -438,14 +438,14 @@
     "tariffs and import costs"
    ],
    "span": {
-    "doc_path": "data/raw/wmt/fr/fr-2025-15010.txt",
-    "meta_path": "data/raw/wmt/fr/fr-2025-15010.json.meta.json",
-    "doc_label": "Federal Register document (fr-2025-15010.txt)",
+    "doc_path": "data/raw/wmt/10k-000010416926000055.legal-proceedings.txt",
+    "meta_path": "data/raw/wmt/10k-000010416926000055.html.meta.json",
+    "doc_label": "SEC 10-K filing (10k-000010416926000055.legal-proceedings.txt)",
     "location": "sentence window around pattern match",
-    "tier": "A",
-    "start": "These modifications shall be effective with resp",
-    "end": "ly imposed in Executive Order 14257, as amended.",
-    "publication_date": "unknown"
+    "tier": "B",
+    "start": "We expect the dynamic tariff environment to cont",
+    "end": " financial performance, which could be material.",
+    "publication_date": "2026-03-13"
    }
   },
   {

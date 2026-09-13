@@ -1,0 +1,9 @@
+{
+  "doc_id": "meta/lda-7b5bc578-9fa1-4190-bf2d-0c25a3c1dedb",
+  "slug": "lobbying-report",
+  "source": "Senate LDA API v1",
+  "source_url": "https://lda.gov/api/v1/filings/7b5bc578-9fa1-4190-bf2d-0c25a3c1dedb/",
+  "retrieved_at": "2026-09-13T21:42:49Z",
+  "sha256": "fe48164dc38a004887063e7705539bff265a43c5142a1ebfc23819be8e5d3836",
+  "bytes": 6819
+}

@@ -304,8 +304,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
      "publication_date": "2025-04-22",
-     "retrieved_at": "2026-09-12T21:36:58Z",
-     "sha256": "ce76cce045de057cc8f135e9205d6da72c36bd6e120a9c25d188c8f202d64b0e",
+     "retrieved_at": "2026-09-13T21:42:06Z",
+     "sha256": "ef7b87ba79f68df8caa9d918335b5707b128d9233977941b0544100f63a68070",
      "supports": [
       "policy process status",
       "time horizon"
@@ -321,8 +321,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
      "publication_date": "2025-04-22",
-     "retrieved_at": "2026-09-12T21:36:58Z",
-     "sha256": "ce76cce045de057cc8f135e9205d6da72c36bd6e120a9c25d188c8f202d64b0e",
+     "retrieved_at": "2026-09-13T21:42:06Z",
+     "sha256": "ef7b87ba79f68df8caa9d918335b5707b128d9233977941b0544100f63a68070",
      "supports": [
       "policy mechanism"
      ]
@@ -337,7 +337,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T15:56:39Z",
+     "retrieved_at": "2026-09-13T21:42:37Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "business activity linkage"
@@ -353,7 +353,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T15:56:39Z",
+     "retrieved_at": "2026-09-13T21:42:37Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "enforcement context",
@@ -469,7 +469,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T15:56:39Z",
+     "retrieved_at": "2026-09-13T21:42:37Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "policy mechanism",
@@ -486,7 +486,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T15:56:39Z",
+     "retrieved_at": "2026-09-13T21:42:37Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "intervention type",
@@ -503,7 +503,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T15:56:39Z",
+     "retrieved_at": "2026-09-13T21:42:37Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "precedent for structural remedy"
@@ -649,7 +649,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T15:56:39Z",
+     "retrieved_at": "2026-09-13T21:42:37Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "business activity linkage",
@@ -862,8 +862,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/10/10/2024-23418/inflation-reduction-act-ira-medicare-drug-price-negotiation-program-final-guidance",
      "publication_date": "2024-10-10",
-     "retrieved_at": "2026-09-12T21:37:07Z",
-     "sha256": "f273bef56e63f20cddf0f1bc5508a6e866632845ca41b1933b575942308e8b8e",
+     "retrieved_at": "2026-09-13T21:42:16Z",
+     "sha256": "2af4a1cd0dde16cd13eb95910158757a3b2f079e0e73455528f8c46eed39f62b",
      "supports": [
       "policy process status"
      ]
@@ -878,8 +878,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/07/20/2026-14583/medicare-program-inflation-reduction-act-of-2022-ira-medicare-drug-price-negotiation-program-draft",
      "publication_date": "2026-07-20",
-     "retrieved_at": "2026-09-12T21:37:06Z",
-     "sha256": "2cb3cbfafeadca1076d3dbc5124cd7fe08402ac9b4cdc16d3ff7289c0a4612d5",
+     "retrieved_at": "2026-09-13T21:42:15Z",
+     "sha256": "af4e214fe9b5ce09851a2e6ed435dae56e22475366852312c7b30a6f92783b2c",
      "supports": [
       "time horizon",
       "policy process status"
@@ -985,8 +985,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance",
      "publication_date": "2026-07-31",
-     "retrieved_at": "2026-09-12T21:37:01Z",
-     "sha256": "1557969e013a0b26e866d162eb3660c9bae85e63965a019b2604aa470afe1950",
+     "retrieved_at": "2026-09-13T21:42:09Z",
+     "sha256": "0f665c7534589730230c7bd73ba45620b95ff6303d41ad505da558074c16ccbb",
      "supports": [
       "policy mechanism",
       "policy process status"
@@ -1002,8 +1002,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance",
      "publication_date": "2026-07-31",
-     "retrieved_at": "2026-09-12T21:37:01Z",
-     "sha256": "1557969e013a0b26e866d162eb3660c9bae85e63965a019b2604aa470afe1950",
+     "retrieved_at": "2026-09-13T21:42:09Z",
+     "sha256": "0f665c7534589730230c7bd73ba45620b95ff6303d41ad505da558074c16ccbb",
      "supports": [
       "time horizon",
       "intervention type"
@@ -1019,7 +1019,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
      "publication_date": "2026-02-13",
-     "retrieved_at": "2026-09-12T15:57:22Z",
+     "retrieved_at": "2026-09-13T21:42:38Z",
      "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": [
       "business activity linkage"
@@ -1035,7 +1035,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
      "publication_date": "2026-02-13",
-     "retrieved_at": "2026-09-12T15:57:22Z",
+     "retrieved_at": "2026-09-13T21:42:38Z",
      "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": [
       "limiting consideration"
@@ -1155,8 +1155,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
      "publication_date": "2024-01-10",
-     "retrieved_at": "2026-09-12T21:36:59Z",
-     "sha256": "db8d72e810cec773fe5bcbe71633ea72978c9a67b59ae8c95e19f5356c2f63cb",
+     "retrieved_at": "2026-09-13T21:42:07Z",
+     "sha256": "64be1fcc78b073542402610df8ce5f95556f7910fff6b95ad485976c4dcd83f4",
      "supports": [
       "policy mechanism",
       "policy process status"
@@ -1172,8 +1172,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
      "publication_date": "2026-02-27",
-     "retrieved_at": "2026-09-12T21:37:00Z",
-     "sha256": "c1dd26e40734420f5ff4d3eb55440edf87bb29fd2f7d6f571bb503831b5e7332",
+     "retrieved_at": "2026-09-13T21:42:08Z",
+     "sha256": "14e800d103a7b968c77a5d9d6e9801678384ee2c07309ad1cb559dcb934133f4",
      "supports": [
       "policy process status",
       "direction of travel"
@@ -1189,7 +1189,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
      "publication_date": "2026-02-13",
-     "retrieved_at": "2026-09-12T15:57:22Z",
+     "retrieved_at": "2026-09-13T21:42:38Z",
      "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": [
       "business activity linkage"
@@ -1205,7 +1205,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
      "publication_date": "2026-02-13",
-     "retrieved_at": "2026-09-12T15:57:22Z",
+     "retrieved_at": "2026-09-13T21:42:38Z",
      "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": [
       "business exposure",
@@ -1272,7 +1272,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2831",
      "publication_date": "2024-10-23",
-     "retrieved_at": "2026-09-12T21:37:16Z",
+     "retrieved_at": "2026-09-13T21:42:25Z",
      "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
      "supports": [
       "mechanism: legal presumption of employment for platform workers",
@@ -1390,8 +1390,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
      "publication_date": "2025-08-06",
-     "retrieved_at": "2026-09-12T21:37:08Z",
-     "sha256": "a283c43b2d2da268694640c46284b2b079749b90efdee665292cdcbfae8ce911",
+     "retrieved_at": "2026-09-13T21:42:17Z",
+     "sha256": "221bfc4d9c67aef4aa17d2bbf453e2c66e87481c9912dd8a39e5c8c4402611a7",
      "supports": [
       "policy mechanism",
       "policy process status"
@@ -1407,8 +1407,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
      "publication_date": "2025-08-06",
-     "retrieved_at": "2026-09-12T21:37:08Z",
-     "sha256": "a283c43b2d2da268694640c46284b2b079749b90efdee665292cdcbfae8ce911",
+     "retrieved_at": "2026-09-13T21:42:17Z",
+     "sha256": "221bfc4d9c67aef4aa17d2bbf453e2c66e87481c9912dd8a39e5c8c4402611a7",
      "supports": [
       "policy mechanism",
       "time horizon"
@@ -1424,8 +1424,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/09/10/2025-17507/modifying-the-scope-of-reciprocal-tariffs-and-establishing-procedures-for-implementing-trade-and",
      "publication_date": "2025-09-10",
-     "retrieved_at": "2026-09-12T21:37:09Z",
-     "sha256": "aaaeeb3ba13f3b7b0027432231efea34e589cf0db65acef8e3721f1af273fed8",
+     "retrieved_at": "2026-09-13T21:42:18Z",
+     "sha256": "50bf2f4e3e9400170befc694d3434541e5b01d6e69679221520ea18dd7051f66",
      "supports": [
       "policy mechanism",
       "policy process status"
@@ -1441,8 +1441,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/09/10/2025-17507/modifying-the-scope-of-reciprocal-tariffs-and-establishing-procedures-for-implementing-trade-and",
      "publication_date": "2025-09-10",
-     "retrieved_at": "2026-09-12T21:37:09Z",
-     "sha256": "aaaeeb3ba13f3b7b0027432231efea34e589cf0db65acef8e3721f1af273fed8",
+     "retrieved_at": "2026-09-13T21:42:18Z",
+     "sha256": "50bf2f4e3e9400170befc694d3434541e5b01d6e69679221520ea18dd7051f66",
      "supports": [
       "time horizon",
       "policy process status"
@@ -1549,8 +1549,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11091/rescission-of-climate-related-disclosure-rules",
      "publication_date": "2026-06-03",
-     "retrieved_at": "2026-09-12T21:37:05Z",
-     "sha256": "4f4b917d3d434d8a0f0439756d10f7c0b3cb8b79d2fe461acb304d7dd0b10d86",
+     "retrieved_at": "2026-09-13T21:42:14Z",
+     "sha256": "f59596203792ec7d1d9b635a8f195c4c1b44a22deb0f9147cbaabb85d14a9e6e",
      "supports": [
       "policy mechanism",
       "policy process status"
@@ -1566,8 +1566,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11091/rescission-of-climate-related-disclosure-rules",
      "publication_date": "2026-06-03",
-     "retrieved_at": "2026-09-12T21:37:05Z",
-     "sha256": "4f4b917d3d434d8a0f0439756d10f7c0b3cb8b79d2fe461acb304d7dd0b10d86",
+     "retrieved_at": "2026-09-13T21:42:14Z",
+     "sha256": "f59596203792ec7d1d9b635a8f195c4c1b44a22deb0f9147cbaabb85d14a9e6e",
      "supports": [
       "time horizon"
      ]
@@ -1582,7 +1582,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
      "publication_date": "2026-02-18",
-     "retrieved_at": "2026-09-12T15:57:22Z",
+     "retrieved_at": "2026-09-13T21:42:39Z",
      "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
      "supports": [
       "business activity linkage",
@@ -1710,8 +1710,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/07/31/2025-14531/extension-of-deadlines-in-standards-of-performance-for-new-reconstructed-and-modified-sources-and",
      "publication_date": "2025-07-31",
-     "retrieved_at": "2026-09-12T21:37:04Z",
-     "sha256": "c069e6f61cbefe4c3a890fc25923268e7f761512347eb984237e7915b36de7ca",
+     "retrieved_at": "2026-09-13T21:42:13Z",
+     "sha256": "24f4ebda56d5fd2f24573eba1f237ee13ff5b4675f4da7051d16da8322a7828b",
      "supports": [
       "policy process status",
       "change event"
@@ -1727,8 +1727,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
      "publication_date": "2024-11-18",
-     "retrieved_at": "2026-09-12T21:37:02Z",
-     "sha256": "a1c644fa408def4efb505a3b797bf8957d6b0a318017903d383ecfb4c05d3a13",
+     "retrieved_at": "2026-09-13T21:42:11Z",
+     "sha256": "e13d94985702e82227e49972e3825254ec7c4f3a9eec39b24fa77e9753a6a7eb",
      "supports": [
       "policy mechanism",
       "intervention type"
@@ -1744,8 +1744,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08688/congressional-review-act-revocation-of-waste-emissions-charge-for-petroleum-and-natural-gas-systems",
      "publication_date": "2025-05-19",
-     "retrieved_at": "2026-09-12T21:37:03Z",
-     "sha256": "53586f8640ebe6b7db79afd226cda0f552c9dad398e975dee40df5c7a6381da6",
+     "retrieved_at": "2026-09-13T21:42:12Z",
+     "sha256": "45a45848b2766d481153ade560ff0aabe65156007a2b568b38197a26cfe17ea9",
      "supports": [
       "policy process status",
       "change event"
@@ -1761,7 +1761,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
      "publication_date": "2026-02-18",
-     "retrieved_at": "2026-09-12T15:57:22Z",
+     "retrieved_at": "2026-09-13T21:42:39Z",
      "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
      "supports": [
       "business activity linkage"
@@ -1810,7 +1810,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1787",
      "publication_date": "2024-06-13",
-     "retrieved_at": "2026-09-12T21:37:18Z",
+     "retrieved_at": "2026-09-13T21:42:28Z",
      "sha256": "231bfc7b994197536a3271ed37b8b8c3ecce9f2ce7e9625e7aff91caec07496f",
      "supports": [
       "mechanism: binding LDAR programme obligation with dates",
@@ -1872,7 +1872,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T15:56:39Z",
+     "retrieved_at": "2026-09-13T21:42:37Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": []
     },
@@ -1901,7 +1901,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T15:56:39Z",
+     "retrieved_at": "2026-09-13T21:42:37Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": []
     },
@@ -1930,7 +1930,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
      "publication_date": "2026-02-13",
-     "retrieved_at": "2026-09-12T15:57:22Z",
+     "retrieved_at": "2026-09-13T21:42:38Z",
      "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": []
     },
@@ -1959,7 +1959,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
      "publication_date": "2026-02-18",
-     "retrieved_at": "2026-09-12T15:57:22Z",
+     "retrieved_at": "2026-09-13T21:42:39Z",
      "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
      "supports": []
     },
@@ -1974,7 +1974,7 @@
   ]
  },
  "candidates": {
-  "generated_at": "2026-09-12",
+  "generated_at": "2026-09-13",
   "extractor": "keyword-window v1 (deterministic regex over immutable snapshots)",
   "note": "UNREVIEWED CANDIDATES - machine-surfaced passages awaiting human review per REVIEW.md. Not findings.",
   "items": [
@@ -1998,7 +1998,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T15:56:39Z",
+     "retrieved_at": "2026-09-13T21:42:37Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "candidate passage - unreviewed"
@@ -2025,8 +2025,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T21:36:58Z",
-     "sha256": "ce76cce045de057cc8f135e9205d6da72c36bd6e120a9c25d188c8f202d64b0e",
+     "retrieved_at": "2026-09-13T21:42:06Z",
+     "sha256": "ef7b87ba79f68df8caa9d918335b5707b128d9233977941b0544100f63a68070",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2051,7 +2051,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T15:56:39Z",
+     "retrieved_at": "2026-09-13T21:42:37Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "candidate passage - unreviewed"
@@ -2078,7 +2078,7 @@
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
      "publication_date": "2026-01-29",
-     "retrieved_at": "2026-09-12T15:56:39Z",
+     "retrieved_at": "2026-09-13T21:42:37Z",
      "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
      "supports": [
       "candidate passage - unreviewed"
@@ -2104,7 +2104,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1925",
      "publication_date": "2022-09-14",
-     "retrieved_at": "2026-09-12T21:37:14Z",
+     "retrieved_at": "2026-09-13T21:42:23Z",
      "sha256": "d6af21a4f11c2b001b0486391fbd0813deba32305fb0d3865fbceccd45b827eb",
      "supports": [
       "candidate passage - unreviewed"
@@ -2130,7 +2130,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1925",
      "publication_date": "2022-09-14",
-     "retrieved_at": "2026-09-12T21:37:14Z",
+     "retrieved_at": "2026-09-13T21:42:23Z",
      "sha256": "d6af21a4f11c2b001b0486391fbd0813deba32305fb0d3865fbceccd45b827eb",
      "supports": [
       "candidate passage - unreviewed"
@@ -2151,13 +2151,13 @@
      "evidence_id": "cand-uber-01-span",
      "tier": "B",
      "role": "candidate",
-     "doc_label": "SEC 10-K filing (10k-000154315126000015.risk-factors.txt)",
+     "doc_label": "SEC 10-K filing (10k-000154315126000015.legal-proceedings.txt)",
      "location": "sentence window around pattern match",
      "exact_text": "The agreement invites collaboration on topics such as trade union representation, freedom of association and bargaining, working conditions, health and safety, social protections, and dispute resolution. \u25e6 Spain: In 2024, Uber Eats and the UGT (Uni\u00f3n General de Trabajadores) signed a memorandum of understanding aimed at improving working conditions for platform workers across the entire delivery sector, focusing on safety, training, and collective representation. \u25e6 We welcomed a number of policy developments and agreements across the globe, including: \u25aa In Canada, the provinces of British Columbia and Ontario introduced laws guaranteeing minimum earnings, transparency, and deactivation notices for platform drivers and couriers, while preserving their independent contractor status. \u25aa In Australia, the passage of the Fair Work Legislation Amendment affirms platform workers\u2019 independent status while guaranteeing access to minimum pay standards, superannuation, and deactivation protections. 8 \u2022 Protections and benefits : We partner with leading insurance companies around the world to pioneer protections for independent workers.",
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
      "publication_date": "2026-02-13",
-     "retrieved_at": "2026-09-12T15:57:22Z",
+     "retrieved_at": "2026-09-13T21:42:38Z",
      "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": [
       "candidate passage - unreviewed"
@@ -2177,13 +2177,13 @@
      "evidence_id": "cand-uber-02-span",
      "tier": "B",
      "role": "candidate",
-     "doc_label": "SEC 10-K filing (10k-000154315126000015.risk-factors.txt)",
+     "doc_label": "SEC 10-K filing (10k-000154315126000015.legal-proceedings.txt)",
      "location": "sentence window around pattern match",
      "exact_text": "Other examples of judicial decisions include a decision by the French Supreme Court that a driver for a third-party meal delivery service was under a \u201csubordinate relationship\u201d of the service, indicating an employment relationship, decisions by the French Supreme Court in 2020 and 2023 that reclassified two UberX Drivers as employees (which were followed by inconsistent appellate decisions regarding employee status, and, in July 2025, by two French Supreme Court decisions analyzing Uber\u2019s more recent model that concluded that the Drivers were independent contractors), decisions by several Swiss governmental bodies ruling that Drivers should be classified as employees for Swiss social security or regulatory purposes, a recent Spanish regulation of food delivery platforms that presumes employment status and a ruling in September 2021 by a Netherlands court that Mobility Drivers are employees within the meaning of the taxi collective bargaining agreement.",
      "truncated": false,
      "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
      "publication_date": "2026-02-13",
-     "retrieved_at": "2026-09-12T15:57:22Z",
+     "retrieved_at": "2026-09-13T21:42:38Z",
      "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
      "supports": [
       "candidate passage - unreviewed"
@@ -2209,8 +2209,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T21:36:59Z",
-     "sha256": "db8d72e810cec773fe5bcbe71633ea72978c9a67b59ae8c95e19f5356c2f63cb",
+     "retrieved_at": "2026-09-13T21:42:07Z",
+     "sha256": "64be1fcc78b073542402610df8ce5f95556f7910fff6b95ad485976c4dcd83f4",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2235,8 +2235,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T21:36:59Z",
-     "sha256": "db8d72e810cec773fe5bcbe71633ea72978c9a67b59ae8c95e19f5356c2f63cb",
+     "retrieved_at": "2026-09-13T21:42:07Z",
+     "sha256": "64be1fcc78b073542402610df8ce5f95556f7910fff6b95ad485976c4dcd83f4",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2261,7 +2261,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2831",
      "publication_date": "2024-10-23",
-     "retrieved_at": "2026-09-12T21:37:16Z",
+     "retrieved_at": "2026-09-13T21:42:25Z",
      "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
      "supports": [
       "candidate passage - unreviewed"
@@ -2288,7 +2288,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2831",
      "publication_date": "2024-10-23",
-     "retrieved_at": "2026-09-12T21:37:16Z",
+     "retrieved_at": "2026-09-13T21:42:25Z",
      "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
      "supports": [
       "candidate passage - unreviewed"
@@ -2302,20 +2302,20 @@
     "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
     "confidence": "medium",
     "issue_hints": [
-     "drug pricing and negotiation"
+     "EU pharmaceutical legislation"
     ],
     "span": {
      "evidence_id": "cand-pfe-01-span",
      "tier": "B",
      "role": "candidate",
-     "doc_label": "source document (cms-negotiated-prices-ipay-2027.txt)",
+     "doc_label": "SEC 10-K filing (10k-000007800326000026.legal-proceedings.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "In accordance with the Inflation Reduction Act of 2022, CMS considered the statutory factors listed at section 1194(e) of the Social Security Act in determining its initial offers, revised offers, and final offers.",
+     "exact_text": "Drug Enforcement Agency Developed Markets Includes, but is not limited to, the following markets: Western Europe, Japan, Central Europe, Canada, Scandinavian countries, Australia, certain Eastern European countries, South Korea, Finland and New Zealand DMD Duchenne muscular dystrophy EC European Commission EMA European Medicines Agency Emerging Markets Includes, but is not limited to, the following markets: Asia (excluding Japan and South Korea), Latin America, Eastern Europe (excluding the Balkans and certain other countries), Africa, the Middle East and Turkey EPS earnings per share EU European Union EUA emergency use authorization Exchange Act Securities Exchange Act of 1934, as amended FASB Financial Accounting Standards Board FCPA U.S.",
      "truncated": false,
-     "source_url": "https://www.cms.gov/files/document/fact-sheet-negotiated-prices-ipay-2027.pdf",
-     "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:52:32Z",
-     "sha256": "2f27be731c03e286ad32b58dedb5003a7521fb15c23e7df5f37ab736cec85873",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm",
+     "publication_date": "2026-02-26",
+     "retrieved_at": "2026-09-13T21:42:40Z",
+     "sha256": "175e07c21ee258eddd9952e443d34df2a297d0c38e2d1312dff0a64a31c401ab",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2334,14 +2334,14 @@
      "evidence_id": "cand-pfe-02-span",
      "tier": "B",
      "role": "candidate",
-     "doc_label": "source document (cms-negotiated-prices-ipay-2027.txt)",
+     "doc_label": "SEC 10-K filing (10k-000007800326000026.legal-proceedings.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "In accordance with the Inflation Reduction Act of 2022, the negotiated price will apply to a selected drug so long as the selected drug remains in the Medicare Drug Price Negotiation Program.",
+     "exact_text": "HRR homologous recombination repair IPR&D in-process research and development IRA Inflation Reduction Act of 2022 IRC Internal Revenue Code IRS U.S.",
      "truncated": false,
-     "source_url": "https://www.cms.gov/files/document/fact-sheet-negotiated-prices-ipay-2027.pdf",
-     "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:52:32Z",
-     "sha256": "2f27be731c03e286ad32b58dedb5003a7521fb15c23e7df5f37ab736cec85873",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm",
+     "publication_date": "2026-02-26",
+     "retrieved_at": "2026-09-13T21:42:40Z",
+     "sha256": "175e07c21ee258eddd9952e443d34df2a297d0c38e2d1312dff0a64a31c401ab",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2360,14 +2360,14 @@
      "evidence_id": "cand-pfe-03-span",
      "tier": "B",
      "role": "candidate",
-     "doc_label": "source document (cms-second-cycle-selected-drugs.txt)",
+     "doc_label": "SEC 10-K filing (10k-000007800326000026.legal-proceedings.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "In accordance with the Inflation Reduction Act, the negotiations with participating drug companies for these 15 drugs will occur in 2025 and any negotiated prices will become effective in 2027.",
-     "truncated": false,
-     "source_url": "https://www.cms.gov/newsroom/press-releases/hhs-announces-15-additional-drugs-selected-medicare-drug-price-negotiations-continued-effort-lower",
-     "publication_date": "2025-01-17",
-     "retrieved_at": "2026-09-12T15:51:45Z",
-     "sha256": "ac1eacd5ea3051c8cb1aa3f4832a82ad3ae1a97813a9ce55b042927f2ca8ce23",
+     "exact_text": "Governmental shutdowns, including impacts on governmental agencies due to a shutdown; \u2022 the risk and impact of tariffs on our business, which is subject to a number of factors including, but not limited to, restrictions on trade, the effective date and duration of such tariffs, countries included in the scope of tariffs, changes to amounts of tariffs, and potential retaliatory tariffs or other retaliatory actions imposed by other countries; \u2022 the impact of disruptions related to climate change and natural disasters; \u2022 any changes in business, political and economic conditions due to actual or threatened terrorist activity, geopolitical instability, political or civil unrest or military action and the resulting economic or other consequences; \u2022 the impact of product recalls, withdrawals and other unusual items, including uncertainties related to regulator-directed risk evaluations and assessments, such as our ongoing evaluation of our product portfolio for the potential presence or formation of nitrosamines , and our voluntary withdrawal of all lots of Oxbryta in all markets where it is approved and any regulatory or other impact on Oxbryta and other sickle cell disease assets; \u2022 trade buying patterns; \u2022 the risk of an impairment charge related to our intangible assets, goodwill or equity-method investments; Pfizer Inc. 2025 Form 10-K 2 \u2022 the impact of, and risks and uncertainties related to, restructurings and internal reorganizations, as well as any other corporate strate...",
+     "truncated": true,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm",
+     "publication_date": "2026-02-26",
+     "retrieved_at": "2026-09-13T21:42:40Z",
+     "sha256": "175e07c21ee258eddd9952e443d34df2a297d0c38e2d1312dff0a64a31c401ab",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2386,14 +2386,14 @@
      "evidence_id": "cand-pfe-04-span",
      "tier": "B",
      "role": "candidate",
-     "doc_label": "source document (cms-second-cycle-selected-drugs.txt)",
+     "doc_label": "SEC 10-K filing (10k-000007800326000026.legal-proceedings.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "HHS will continue negotiating in the best interest of people with Medicare to have access to innovative, life-saving treatments at lower costs.\u201d \u201cThe Biden-Harris Administration continues to make history by announcing the latest round of drugs selected for the Medicare Drug Price Negotiation Program, with the goal of improving access to some of the costliest drugs while saving the American people billions of dollars,\u201d said CMS Administrator Chiquita Brooks-LaSure. \u201cImproving prescription drug affordability for Medicare enrollees is the core of the Inflation Reduction Act, and the next cycle of negotiations will continue to strengthen Medicare for generations to come.\u201d The selected drug list for the second cycle of negotiations is: - Ozempic; Rybelsus; Wegovy - Trelegy Ellipta - Xtandi - Pomalyst - Ibrance - Ofev - Linzess - Calquence - Austedo; Austedo XR - Breo Ellipta - Tradjenta - Xifaxan - Vraylar - Janumet; Janumet XR - Otezla In accordance with the final guidance for the second cycle of the Drug Price Negotiation Program, drug companies with a selected drug will have until February 28, 2025 to decide if they will participate in negotiations.",
-     "truncated": false,
-     "source_url": "https://www.cms.gov/newsroom/press-releases/hhs-announces-15-additional-drugs-selected-medicare-drug-price-negotiations-continued-effort-lower",
-     "publication_date": "2025-01-17",
-     "retrieved_at": "2026-09-12T15:51:45Z",
-     "sha256": "ac1eacd5ea3051c8cb1aa3f4832a82ad3ae1a97813a9ce55b042927f2ca8ce23",
+     "exact_text": "Government; \u2022 U.S. federal or state legislation or regulatory action and/or policy efforts affecting, among other things, pharmaceutical product pricing, including international reference pricing (including Most-Favored-Nation drug pricing), intellectual property, product approval processes and pathways, reimbursement or access to or recommendations for our medicines and vaccines, tax changes or other restrictions on U.S. direct-to-consumer advertising; limitations on interactions with healthcare professionals and other industry stakeholders; as well as pricing pressures for our products as a result of highly competitive biopharmaceutical markets; \u2022 risks and uncertainties related to changes to vaccine or other healthcare policy in the U.S., including: (i) risks and uncertainties relating to the evolving vaccine landscape; and (ii) the FDA's recently adopted policy of disclosing Complete Response Letters for unapproved drug candidates and the attendant risk of disclosure of trade secrets or confidential commercial information; \u2022 legislation or regulatory action and/or policy efforts in markets outside of the U.S., such as China or Europe, including, without limitation, laws related to pharmaceutical product pricing, intellectual property, medical regulation, environmental protections, data protection and cybersecurity, reimbursement or access, including, in particular, continued government-mandated reductions in prices and access restrictions for certain products to contro...",
+     "truncated": true,
+     "source_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm",
+     "publication_date": "2026-02-26",
+     "retrieved_at": "2026-09-13T21:42:40Z",
+     "sha256": "175e07c21ee258eddd9952e443d34df2a297d0c38e2d1312dff0a64a31c401ab",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2410,16 +2410,16 @@
     ],
     "span": {
      "evidence_id": "cand-pfe-05-span",
-     "tier": "A",
+     "tier": "B",
      "role": "candidate",
-     "doc_label": "Federal Register document (fr-2024-23418.txt)",
+     "doc_label": "source document (cms-negotiated-prices-ipay-2027.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "  Federal Register, Volume 89 Issue 197 (Thursday, October 10, 2024)   [Federal Register Volume 89, Number 197 (Thursday, October 10, 2024)] [Notices] [Page 82245] From the Federal Register Online via the Government Publishing Office [www.gpo.gov] [FR Doc No: 2024-23418] ----------------------------------------------------------------------- DEPARTMENT OF HEALTH AND HUMAN SERVICES Centers for Medicare & Medicaid Services [CMS-1800-N4] Inflation Reduction Act (IRA) Medicare Drug Price Negotiation Program Final Guidance AGENCY: Centers for Medicare & Medicaid Services, Health and Human Services (HHS).",
+     "exact_text": "In accordance with the Inflation Reduction Act of 2022, CMS considered the statutory factors listed at section 1194(e) of the Social Security Act in determining its initial offers, revised offers, and final offers.",
      "truncated": false,
-     "source_url": "https://www.federalregister.gov/documents/2024/10/10/2024-23418/inflation-reduction-act-ira-medicare-drug-price-negotiation-program-final-guidance",
+     "source_url": "https://www.cms.gov/files/document/fact-sheet-negotiated-prices-ipay-2027.pdf",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T21:37:07Z",
-     "sha256": "f273bef56e63f20cddf0f1bc5508a6e866632845ca41b1933b575942308e8b8e",
+     "retrieved_at": "2026-09-12T15:52:32Z",
+     "sha256": "2f27be731c03e286ad32b58dedb5003a7521fb15c23e7df5f37ab736cec85873",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2436,16 +2436,16 @@
     ],
     "span": {
      "evidence_id": "cand-pfe-06-span",
-     "tier": "A",
+     "tier": "B",
      "role": "candidate",
-     "doc_label": "Federal Register document (fr-2024-23418.txt)",
+     "doc_label": "source document (cms-negotiated-prices-ipay-2027.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "ADDRESSES: Inquiries related to the final guidance should be sent to [email&#160;protected] with the relevant subject line, ``Medicare Drug Price Negotiation Program Final Guidance.'' SUPPLEMENTARY INFORMATION: The Inflation Reduction Act was signed into law on August 16, 2022.",
+     "exact_text": "In accordance with the Inflation Reduction Act of 2022, the negotiated price will apply to a selected drug so long as the selected drug remains in the Medicare Drug Price Negotiation Program.",
      "truncated": false,
-     "source_url": "https://www.federalregister.gov/documents/2024/10/10/2024-23418/inflation-reduction-act-ira-medicare-drug-price-negotiation-program-final-guidance",
+     "source_url": "https://www.cms.gov/files/document/fact-sheet-negotiated-prices-ipay-2027.pdf",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T21:37:07Z",
-     "sha256": "f273bef56e63f20cddf0f1bc5508a6e866632845ca41b1933b575942308e8b8e",
+     "retrieved_at": "2026-09-12T15:52:32Z",
+     "sha256": "2f27be731c03e286ad32b58dedb5003a7521fb15c23e7df5f37ab736cec85873",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2470,8 +2470,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T21:37:08Z",
-     "sha256": "a283c43b2d2da268694640c46284b2b079749b90efdee665292cdcbfae8ce911",
+     "retrieved_at": "2026-09-13T21:42:17Z",
+     "sha256": "221bfc4d9c67aef4aa17d2bbf453e2c66e87481c9912dd8a39e5c8c4402611a7",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2496,8 +2496,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2025/09/10/2025-17507/modifying-the-scope-of-reciprocal-tariffs-and-establishing-procedures-for-implementing-trade-and",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T21:37:09Z",
-     "sha256": "aaaeeb3ba13f3b7b0027432231efea34e589cf0db65acef8e3721f1af273fed8",
+     "retrieved_at": "2026-09-13T21:42:18Z",
+     "sha256": "50bf2f4e3e9400170befc694d3434541e5b01d6e69679221520ea18dd7051f66",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2514,16 +2514,16 @@
     ],
     "span": {
      "evidence_id": "cand-wmt-03-span",
-     "tier": "A",
+     "tier": "B",
      "role": "candidate",
-     "doc_label": "Federal Register document (fr-2025-15010.txt)",
+     "doc_label": "SEC 10-K filing (10k-000010416926000055.legal-proceedings.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "In Executive Order 14257 of April 2, 2025 (Regulating Imports With a Reciprocal Tariff To Rectify Trade Practices That Contribute to Large and Persistent Annual United States Goods Trade Deficits), I found that conditions reflected in large and persistent annual U.S. goods trade deficits constitute an unusual and extraordinary threat to the national security and economy of the United States that has its source in whole or substantial part outside the United States.",
+     "exact_text": "We experienced the impacts noted above during fiscal 2026 as a result of incremental import tariffs.",
      "truncated": false,
-     "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
-     "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T21:37:08Z",
-     "sha256": "a283c43b2d2da268694640c46284b2b079749b90efdee665292cdcbfae8ce911",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+     "publication_date": "2026-03-13",
+     "retrieved_at": "2026-09-13T21:42:40Z",
+     "sha256": "276a6accff6066f00342ba03b390c6c2bd51aa7246f0346df22df0b839a5bf5c",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2540,16 +2540,16 @@
     ],
     "span": {
      "evidence_id": "cand-wmt-04-span",
-     "tier": "A",
+     "tier": "B",
      "role": "candidate",
-     "doc_label": "Federal Register document (fr-2025-15010.txt)",
+     "doc_label": "SEC 10-K filing (10k-000010416926000055.legal-proceedings.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "These modifications shall be effective with respect to goods entered for consumption, or withdrawn from warehouse for consumption, on or [[Page 37964]] after 12:01 a.m. eastern daylight time 7 days after the date of this order, except that goods loaded onto a vessel at the port of loading and in transit on the final mode of transit before 12:01 a.m. eastern daylight time 7 days after the date of this order, and entered for consumption, or withdrawn from warehouse for consumption, before 12:01 a.m. eastern daylight time on October 5, 2025, shall not be subject to such additional duty and shall instead remain subject to the additional ad valorem duties previously imposed in Executive Order 14257, as amended.",
+     "exact_text": "We expect the dynamic tariff environment to continue, including in fiscal 2027, and cannot predict with certainty the future impact that this environment will have on our results of operations or financial performance, which could be material.",
      "truncated": false,
-     "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
-     "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T21:37:08Z",
-     "sha256": "a283c43b2d2da268694640c46284b2b079749b90efdee665292cdcbfae8ce911",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+     "publication_date": "2026-03-13",
+     "retrieved_at": "2026-09-13T21:42:40Z",
+     "sha256": "276a6accff6066f00342ba03b390c6c2bd51aa7246f0346df22df0b839a5bf5c",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2574,7 +2574,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1760",
      "publication_date": "2024-06-13",
-     "retrieved_at": "2026-09-12T21:37:26Z",
+     "retrieved_at": "2026-09-13T21:42:35Z",
      "sha256": "727260144e8f968673eb4d2c275606eb07f35035c18895ac58883cf0d51184b3",
      "supports": [
       "candidate passage - unreviewed"
@@ -2600,7 +2600,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1760",
      "publication_date": "2024-06-13",
-     "retrieved_at": "2026-09-12T21:37:26Z",
+     "retrieved_at": "2026-09-13T21:42:35Z",
      "sha256": "727260144e8f968673eb4d2c275606eb07f35035c18895ac58883cf0d51184b3",
      "supports": [
       "candidate passage - unreviewed"
@@ -2627,8 +2627,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T21:37:02Z",
-     "sha256": "a1c644fa408def4efb505a3b797bf8957d6b0a318017903d383ecfb4c05d3a13",
+     "retrieved_at": "2026-09-13T21:42:11Z",
+     "sha256": "e13d94985702e82227e49972e3825254ec7c4f3a9eec39b24fa77e9753a6a7eb",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2654,8 +2654,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T21:37:02Z",
-     "sha256": "a1c644fa408def4efb505a3b797bf8957d6b0a318017903d383ecfb4c05d3a13",
+     "retrieved_at": "2026-09-13T21:42:11Z",
+     "sha256": "e13d94985702e82227e49972e3825254ec7c4f3a9eec39b24fa77e9753a6a7eb",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2681,8 +2681,8 @@
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T21:37:02Z",
-     "sha256": "a1c644fa408def4efb505a3b797bf8957d6b0a318017903d383ecfb4c05d3a13",
+     "retrieved_at": "2026-09-13T21:42:11Z",
+     "sha256": "e13d94985702e82227e49972e3825254ec7c4f3a9eec39b24fa77e9753a6a7eb",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2708,8 +2708,8 @@
      "truncated": true,
      "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
      "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T21:37:02Z",
-     "sha256": "a1c644fa408def4efb505a3b797bf8957d6b0a318017903d383ecfb4c05d3a13",
+     "retrieved_at": "2026-09-13T21:42:11Z",
+     "sha256": "e13d94985702e82227e49972e3825254ec7c4f3a9eec39b24fa77e9753a6a7eb",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2735,7 +2735,7 @@
      "truncated": true,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2464",
      "publication_date": "2022-12-14",
-     "retrieved_at": "2026-09-12T21:37:21Z",
+     "retrieved_at": "2026-09-13T21:42:30Z",
      "sha256": "6ad8df8d05b75c4caf19c926db0afc86c725872bb3342c4d7cd2544dd6c29837",
      "supports": [
       "candidate passage - unreviewed"
@@ -2762,7 +2762,7 @@
      "truncated": false,
      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1787",
      "publication_date": "2024-06-13",
-     "retrieved_at": "2026-09-12T21:37:18Z",
+     "retrieved_at": "2026-09-13T21:42:28Z",
      "sha256": "231bfc7b994197536a3271ed37b8b8c3ecce9f2ce7e9625e7aff91caec07496f",
      "supports": [
       "candidate passage - unreviewed"
@@ -2772,9 +2772,9 @@
   ]
  },
  "freshness": {
-  "checked_at": "2026-09-12",
-  "documents": 55,
-  "hash_verified": 52,
+  "checked_at": "2026-09-13",
+  "documents": 63,
+  "hash_verified": 63,
   "hash_failures": 0,
   "stale": [],
   "freshness_targets_days": {
@@ -2826,16 +2826,16 @@
    {
     "doc": "meta/10k-000162828026003942.html",
     "source_class": "edgar",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
-    "hash_ok": null
+    "hash_ok": true
    },
    {
     "doc": "meta/10k-000162828026003942.legal-proceedings.txt",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "bcddd69606f85a247f221aa787e32ab0de474a835d86b4b182598915b450935f",
     "hash_ok": true
    },
@@ -2843,7 +2843,7 @@
     "doc": "meta/10k-000162828026003942.risk-factors.txt",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "317dcbf2d02fdd0d8b9545242ca40fca6e1db050f4692a1ea11d2fc25798fdaf",
     "hash_ok": true
    },
@@ -2851,7 +2851,7 @@
     "doc": "meta/congress/s1748-actions.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "43f2b7a094e0deb4a067b606a13a45288bd05d216a724bcca75c573adb15f768",
     "hash_ok": true
    },
@@ -2859,7 +2859,7 @@
     "doc": "meta/congress/s1748-bill.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "73fbf6f01251624aff88ce16b529184568c35a1fc7e6fdf06dd4517d91c0f008",
     "hash_ok": true
    },
@@ -2867,14 +2867,14 @@
     "doc": "meta/congress/s1748-summaries.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "ed4c5b9e34f5146d3bad9279cb1084c123fd8c29a1922fa8f67c50b39c3a5bef",
     "hash_ok": true
    },
    {
     "doc": "meta/eu/eu-32022R1925.html",
     "source_class": "eur_lex",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "d6af21a4f11c2b001b0486391fbd0813deba32305fb0d3865fbceccd45b827eb",
     "hash_ok": true
@@ -2882,7 +2882,7 @@
    {
     "doc": "meta/eu/eu-32022R2065.html",
     "source_class": "eur_lex",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "11b119a7d45f3a10cd41714061f9d907839ef5d1634e41774490f00b95856bbf",
     "hash_ok": true
@@ -2890,16 +2890,32 @@
    {
     "doc": "meta/fr/fr-2025-05904.json",
     "source_class": "federal_register",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
-    "sha256": "ce76cce045de057cc8f135e9205d6da72c36bd6e120a9c25d188c8f202d64b0e",
+    "sha256": "ef7b87ba79f68df8caa9d918335b5707b128d9233977941b0544100f63a68070",
+    "hash_ok": true
+   },
+   {
+    "doc": "meta/lda/lda-2796fa63-8416-4e28-ab64-a242a084b2a3.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "d55209e16a23cd7548fbddcfa1e7cdce24fb5119a783e9aafe7d9f6ca979280f",
+    "hash_ok": true
+   },
+   {
+    "doc": "meta/lda/lda-7b5bc578-9fa1-4190-bf2d-0c25a3c1dedb.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "fe48164dc38a004887063e7705539bff265a43c5142a1ebfc23819be8e5d3836",
     "hash_ok": true
    },
    {
     "doc": "meta/lda/lda-ca90d94a-2bb1-46ae-9d89-13a2278cc80e.json",
     "source_class": "lda",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "58232ef348a6673869ef80252b435e28223ec5a70905a5ace8ca0f70376b2256",
     "hash_ok": true
    },
@@ -2907,23 +2923,31 @@
     "doc": "meta/lda/lda-db20d2b9-e40a-4eff-893c-9aed03fda925.json",
     "source_class": "lda",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "99540d05b308d0b3b64261776d35b67377feabe46f0686745ba8606da2bf891b",
     "hash_ok": true
    },
    {
     "doc": "meta/submissions.json",
     "source_class": "edgar",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "009af7b78bafe69ea35948fd261f14ad2f56076c2f7feb47d6241599f3f4391d",
+    "hash_ok": true
+   },
+   {
+    "doc": "pfe/10k-000007800326000026.html",
+    "source_class": "edgar",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "175e07c21ee258eddd9952e443d34df2a297d0c38e2d1312dff0a64a31c401ab",
     "hash_ok": true
    },
    {
     "doc": "pfe/cms/cms-negotiated-prices-ipay-2027.txt",
     "source_class": "other",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "2f27be731c03e286ad32b58dedb5003a7521fb15c23e7df5f37ab736cec85873",
     "hash_ok": true
    },
@@ -2931,7 +2955,7 @@
     "doc": "pfe/cms/cms-second-cycle-manufacturer-participation.txt",
     "source_class": "other",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "de6b1e9b83b91ba396be0ce1a0b6acd0ac93db6cbf85824f9e7b3fced6a6e48a",
     "hash_ok": true
    },
@@ -2939,7 +2963,7 @@
     "doc": "pfe/cms/cms-second-cycle-selected-drugs.txt",
     "source_class": "other",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "ac1eacd5ea3051c8cb1aa3f4832a82ad3ae1a97813a9ce55b042927f2ca8ce23",
     "hash_ok": true
    },
@@ -2947,7 +2971,7 @@
     "doc": "pfe/congress/hr6166-actions.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "f6162d1a9494d4bb95c58bf9ed0f835da867c8f5590133284c7a63cdc93e95a3",
     "hash_ok": true
    },
@@ -2955,7 +2979,7 @@
     "doc": "pfe/congress/hr6166-bill.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "f8af32f941b2321ff5f119d524522c2ba136bd20ccefb6e639029a6da93593db",
     "hash_ok": true
    },
@@ -2963,14 +2987,14 @@
     "doc": "pfe/edgar-revenue.json",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "4e34a302d04a47dcb527d27d3ef5a90ac91b67fabbe71886c7d54598842581ee",
     "hash_ok": true
    },
    {
     "doc": "pfe/eu/eu-52023PC0131.html",
     "source_class": "eur_lex",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "5928c2511f86ce63c88c5135cdd7b4fa66fe8a657a962676110aa1c6d5983419",
     "hash_ok": true
@@ -2978,23 +3002,23 @@
    {
     "doc": "pfe/fr/fr-2024-23418.json",
     "source_class": "federal_register",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
-    "sha256": "f273bef56e63f20cddf0f1bc5508a6e866632845ca41b1933b575942308e8b8e",
+    "sha256": "2af4a1cd0dde16cd13eb95910158757a3b2f079e0e73455528f8c46eed39f62b",
     "hash_ok": true
    },
    {
     "doc": "pfe/fr/fr-2026-14583.json",
     "source_class": "federal_register",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
-    "sha256": "2cb3cbfafeadca1076d3dbc5124cd7fe08402ac9b4cdc16d3ff7289c0a4612d5",
+    "sha256": "af4e214fe9b5ce09851a2e6ed435dae56e22475366852312c7b30a6f92783b2c",
     "hash_ok": true
    },
    {
     "doc": "pfe/submissions.json",
     "source_class": "edgar",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "15aea7b65397e67dee18c9c2525002fcfbeb9c2f17872df53c301748d383299a",
     "hash_ok": true
@@ -3002,16 +3026,16 @@
    {
     "doc": "uber/10k-000154315126000015.html",
     "source_class": "edgar",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
-    "hash_ok": null
+    "hash_ok": true
    },
    {
     "doc": "uber/10k-000154315126000015.risk-factors.txt",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "74581ba032487a40ea9f731932c81a0533ad35b0d078e9944bf51083e0a97b2e",
     "hash_ok": true
    },
@@ -3019,7 +3043,7 @@
     "doc": "uber/congress/hr1319-actions.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "e48783a99dc703abab795d0f29d571f97a586df4940b924d2d59e8eb3813f8cd",
     "hash_ok": true
    },
@@ -3027,7 +3051,7 @@
     "doc": "uber/congress/hr1319-bill.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "2c82c4eb2de02c2fd7afbb3b8e9b4262e05d5c34c04e3b4b66bb3de2a95e1565",
     "hash_ok": true
    },
@@ -3035,14 +3059,14 @@
     "doc": "uber/congress/hr1319-summaries.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "8ed1069c1f33c6c5da3774891c5549b3b2ecf8150acb4d49c9e860f52b0b1d22",
     "hash_ok": true
    },
    {
     "doc": "uber/eu/eu-32024L2831.html",
     "source_class": "eur_lex",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
     "hash_ok": true
@@ -3050,56 +3074,80 @@
    {
     "doc": "uber/fr/fr-2024-00067.json",
     "source_class": "federal_register",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
-    "sha256": "db8d72e810cec773fe5bcbe71633ea72978c9a67b59ae8c95e19f5356c2f63cb",
+    "sha256": "64be1fcc78b073542402610df8ce5f95556f7910fff6b95ad485976c4dcd83f4",
     "hash_ok": true
    },
    {
     "doc": "uber/fr/fr-2026-03962.json",
     "source_class": "federal_register",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
-    "sha256": "c1dd26e40734420f5ff4d3eb55440edf87bb29fd2f7d6f571bb503831b5e7332",
+    "sha256": "14e800d103a7b968c77a5d9d6e9801678384ee2c07309ad1cb559dcb934133f4",
     "hash_ok": true
    },
    {
     "doc": "uber/fr/fr-2026-15483.json",
     "source_class": "federal_register",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
-    "sha256": "1557969e013a0b26e866d162eb3660c9bae85e63965a019b2604aa470afe1950",
+    "sha256": "0f665c7534589730230c7bd73ba45620b95ff6303d41ad505da558074c16ccbb",
     "hash_ok": true
    },
    {
     "doc": "uber/lda/lda-055800ac-6b44-4d6a-b72a-1679df04a32c.json",
     "source_class": "lda",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "06cfa03b2786123333063a041c9252c239395df16b57e63d67ac923d5059b518",
+    "hash_ok": true
+   },
+   {
+    "doc": "uber/lda/lda-aa39e3af-fcad-4fa8-b840-8dba60561b8f.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "961b71c48c66569625259d1a76ea4d47483cb2432afa79f92c5975bd98573a29",
+    "hash_ok": true
+   },
+   {
+    "doc": "uber/lda/lda-d3049772-7541-4c6b-8809-de7271790a09.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "877a6adc5377b79d91c7af7451f017a909466debe7cdb7653f65cecbe1184061",
     "hash_ok": true
    },
    {
     "doc": "uber/lda/lda-e72bdfe6-b50d-4709-9703-06a9bc5d9543.json",
     "source_class": "lda",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "b4a902070c8ce5f12d68f29de8b7c85c6143894ad7c10f8eabda784af40f3304",
     "hash_ok": true
    },
    {
     "doc": "uber/submissions.json",
     "source_class": "edgar",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "830473a3db5348a0831b05e555fa15fae94aaf57a6a27b879e4eb6376f7ddb40",
+    "hash_ok": true
+   },
+   {
+    "doc": "wmt/10k-000010416926000055.html",
+    "source_class": "edgar",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "276a6accff6066f00342ba03b390c6c2bd51aa7246f0346df22df0b839a5bf5c",
     "hash_ok": true
    },
    {
     "doc": "wmt/congress/hr2743-actions.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "5cc2b96a2404322e1cbf4054329a9151a14f7f785f1a8eb03dc2c9fb6ec6f956",
     "hash_ok": true
    },
@@ -3107,7 +3155,7 @@
     "doc": "wmt/congress/hr2743-bill.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "61d5ccdc0cbbcc7a437aac5d907760158c477a9208ca5055c1b4dbfa48d4bb58",
     "hash_ok": true
    },
@@ -3115,14 +3163,14 @@
     "doc": "wmt/edgar-revenue.json",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "893bc3ea04047ef0ff1962f41d64d642bed240c0fad5b555c532c1b2535ea76a",
     "hash_ok": true
    },
    {
     "doc": "wmt/eu/eu-32024L1760.html",
     "source_class": "eur_lex",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "727260144e8f968673eb4d2c275606eb07f35035c18895ac58883cf0d51184b3",
     "hash_ok": true
@@ -3130,23 +3178,23 @@
    {
     "doc": "wmt/fr/fr-2025-15010.json",
     "source_class": "federal_register",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
-    "sha256": "a283c43b2d2da268694640c46284b2b079749b90efdee665292cdcbfae8ce911",
+    "sha256": "221bfc4d9c67aef4aa17d2bbf453e2c66e87481c9912dd8a39e5c8c4402611a7",
     "hash_ok": true
    },
    {
     "doc": "wmt/fr/fr-2025-17507.json",
     "source_class": "federal_register",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
-    "sha256": "aaaeeb3ba13f3b7b0027432231efea34e589cf0db65acef8e3721f1af273fed8",
+    "sha256": "50bf2f4e3e9400170befc694d3434541e5b01d6e69679221520ea18dd7051f66",
     "hash_ok": true
    },
    {
     "doc": "wmt/submissions.json",
     "source_class": "edgar",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "e5e7fd1ba7396f3f41b4407fde0f2929db3d8342b07f32de30f7eda3bfcd8244",
     "hash_ok": true
@@ -3154,16 +3202,16 @@
    {
     "doc": "xom/10k-000003408826000045.html",
     "source_class": "edgar",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
-    "hash_ok": null
+    "hash_ok": true
    },
    {
     "doc": "xom/10k-000003408826000045.legal-proceedings.txt",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "41e8dfd050ca51224cd1017690ecbfc830bcc0b2b7c6649a234623e66bcc40a1",
     "hash_ok": true
    },
@@ -3171,7 +3219,7 @@
     "doc": "xom/10k-000003408826000045.risk-factors.txt",
     "source_class": "edgar",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "b14a35e56edf00a9870ab3bb255a6cea9667aaf39a11317ac7930ff87f9d67c6",
     "hash_ok": true
    },
@@ -3179,7 +3227,7 @@
     "doc": "xom/congress/hjres35-actions.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "09948460a15703c75647191ae286fd451249ead992e656e2ba8eb42c0ae816eb",
     "hash_ok": true
    },
@@ -3187,14 +3235,14 @@
     "doc": "xom/congress/hjres35-bill.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "6b796fda92427b2811c2a50f37b9d27eab4bfe0f1db1f218b58babd789b8dce6",
     "hash_ok": true
    },
    {
     "doc": "xom/eu/eu-32022L2464.html",
     "source_class": "eur_lex",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "6ad8df8d05b75c4caf19c926db0afc86c725872bb3342c4d7cd2544dd6c29837",
     "hash_ok": true
@@ -3202,7 +3250,7 @@
    {
     "doc": "xom/eu/eu-32024R1787.html",
     "source_class": "eur_lex",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "231bfc7b994197536a3271ed37b8b8c3ecce9f2ce7e9625e7aff91caec07496f",
     "hash_ok": true
@@ -3210,40 +3258,48 @@
    {
     "doc": "xom/fr/fr-2024-26643.json",
     "source_class": "federal_register",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
-    "sha256": "a1c644fa408def4efb505a3b797bf8957d6b0a318017903d383ecfb4c05d3a13",
+    "sha256": "e13d94985702e82227e49972e3825254ec7c4f3a9eec39b24fa77e9753a6a7eb",
     "hash_ok": true
    },
    {
     "doc": "xom/fr/fr-2025-08688.json",
     "source_class": "federal_register",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
-    "sha256": "53586f8640ebe6b7db79afd226cda0f552c9dad398e975dee40df5c7a6381da6",
+    "sha256": "45a45848b2766d481153ade560ff0aabe65156007a2b568b38197a26cfe17ea9",
     "hash_ok": true
    },
    {
     "doc": "xom/fr/fr-2025-14531.json",
     "source_class": "federal_register",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
-    "sha256": "c069e6f61cbefe4c3a890fc25923268e7f761512347eb984237e7915b36de7ca",
+    "sha256": "24f4ebda56d5fd2f24573eba1f237ee13ff5b4675f4da7051d16da8322a7828b",
     "hash_ok": true
    },
    {
     "doc": "xom/fr/fr-2026-11091.json",
     "source_class": "federal_register",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
-    "sha256": "4f4b917d3d434d8a0f0439756d10f7c0b3cb8b79d2fe461acb304d7dd0b10d86",
+    "sha256": "f59596203792ec7d1d9b635a8f195c4c1b44a22deb0f9147cbaabb85d14a9e6e",
+    "hash_ok": true
+   },
+   {
+    "doc": "xom/lda/lda-56f306d8-b4ca-426e-9312-735aaa92dfc9.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "a80b1929db7f867677cd92b180ab062f0da65594c7863a149a21035525904709",
     "hash_ok": true
    },
    {
     "doc": "xom/lda/lda-5b0e6916-03f4-4b9f-be48-da93009dd2cb.json",
     "source_class": "lda",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "37d062935a1c3ea4bc4f77efe7dc4ef77b19210e636b1dd34c909a31abf254bd",
     "hash_ok": true
    },
@@ -3251,14 +3307,22 @@
     "doc": "xom/lda/lda-89597339-80ca-4948-a7bf-d1845d872506.json",
     "source_class": "lda",
     "retrieved_at": "2026-09-12",
-    "age_days": 0,
+    "age_days": 1,
     "sha256": "08cfd861e9bd8dd60fae9d877dff47a7ea6a1a385eead4445e134cf340da341f",
+    "hash_ok": true
+   },
+   {
+    "doc": "xom/lda/lda-e007df95-896a-4345-bdef-6825e1930d72.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "ca2a22e2ebf62821a7e2e904fc5ba8de603a83616b5d3b45a78119a1c093234f",
     "hash_ok": true
    },
    {
     "doc": "xom/submissions.json",
     "source_class": "edgar",
-    "retrieved_at": "2026-09-12",
+    "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "7918818ea3045fb09fbb18d67537909a28feb245d693d0bd7cd3bc30b16ea3db",
     "hash_ok": true

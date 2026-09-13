@@ -2,12 +2,11 @@
   "doc_id": "meta/10k-000162828026003942",
   "source": "SEC EDGAR",
   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
-  "retrieved_at": "2026-09-12T15:56:39Z",
+  "retrieved_at": "2026-09-13T21:42:37Z",
   "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
   "bytes": 2371750,
   "form": "10-K",
   "accession": "0001628280-26-003942",
   "filing_date": "2026-01-29",
-  "primary_document": "meta-20251231.htm",
-  "note": "Primary document bytes not stored in repo (size); sha256 recorded at retrieval. Parsed section .txt files are stored alongside."
+  "primary_document": "meta-20251231.htm"
 }
