@@ -42,11 +42,15 @@ def store(company, uuid, data, label):
 for company, name in COMPANIES:
     picked = []
     for year in (2026, 2025):
-        q = urllib.parse.urlencode({"client_name": name, "filing_year": year})
+        q = urllib.parse.urlencode({"client_name": name, "filing_year": year, "page_size": 100})
         res = json.loads(get(f"https://lda.gov/api/v1/filings/?{q}"))
-        reports = [r for r in res.get("results", []) if r["filing_type_display"].endswith("Report") and r["client"]["name"].upper().startswith(name.upper().split()[0])]
+        results = list(res.get("results", []))
+        while res.get("next"):  # LDA paginates at 25/page; follow next so in-house reports beyond page 1 are not missed
+            res = json.loads(get(res["next"]))
+            results += res.get("results", [])
+        reports = [r for r in results if r["filing_type_display"].endswith("Report") and r["client"]["name"].upper().startswith(name.upper().split()[0])]
         if not reports: continue
-        # most recent period first (results are newest first)
+        reports.sort(key=lambda r: r.get("dt_posted") or "", reverse=True)  # API default order is not newest-first
         inhouse = [r for r in reports if name.split()[0].upper() in r["registrant"]["name"].upper()]
         firms = sorted([r for r in reports if r not in inhouse and r.get("income")], key=lambda r: -float(r["income"]))
         picked = (inhouse[:1] + firms[:2])[:3]

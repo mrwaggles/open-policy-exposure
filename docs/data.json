@@ -2773,8 +2773,8 @@
  },
  "freshness": {
   "checked_at": "2026-09-13",
-  "documents": 63,
-  "hash_verified": 63,
+  "documents": 74,
+  "hash_verified": 74,
   "hash_failures": 0,
   "stale": [],
   "freshness_targets_days": {
@@ -2796,7 +2796,7 @@
     "edgar": true,
     "federal_register": true,
     "congress": true,
-    "lda": false,
+    "lda": true,
     "eur_lex": true
    },
    "uber": {
@@ -2810,7 +2810,7 @@
     "edgar": true,
     "federal_register": true,
     "congress": true,
-    "lda": false,
+    "lda": true,
     "eur_lex": true
    },
    "xom": {
@@ -2909,6 +2909,14 @@
     "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "fe48164dc38a004887063e7705539bff265a43c5142a1ebfc23819be8e5d3836",
+    "hash_ok": true
+   },
+   {
+    "doc": "meta/lda/lda-8f89db71-4375-455e-868f-d2b7bc724bc8.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "85aad7c6435dfff5320883b3b4fc5ea4ab10cf0dff3fd180c5179279fcd81608",
     "hash_ok": true
    },
    {
@@ -3013,6 +3021,38 @@
     "retrieved_at": "2026-09-13",
     "age_days": 0,
     "sha256": "af4e214fe9b5ce09851a2e6ed435dae56e22475366852312c7b30a6f92783b2c",
+    "hash_ok": true
+   },
+   {
+    "doc": "pfe/lda/lda-17640998-df82-47e3-8ad7-0afe51148524.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "b49030ea03d115e4f70f4689575d3cb2cc43c39f22af5b0cd636521486fd2e20",
+    "hash_ok": true
+   },
+   {
+    "doc": "pfe/lda/lda-2cc79e15-9bc4-4964-8548-7e08d69a08b5.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "f95c1d0e3b78f8d3e4f9b68049506f2d48a52288c3e1107bb718e4877dbb5923",
+    "hash_ok": true
+   },
+   {
+    "doc": "pfe/lda/lda-8f2443e8-3a53-4dc9-b865-a33dae4bc86e.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "92039ed48533ff061d850101c6a2643e184928b605afb4f895dcfeb83cc45c0f",
+    "hash_ok": true
+   },
+   {
+    "doc": "pfe/lda/lda-dd31025d-92a7-4fb3-87ab-b3fc6ae1d498.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "0b86e9f84af489698a7301a344f721fa355cdf6a140c539f5f3508c964d8ea18",
     "hash_ok": true
    },
    {
@@ -3192,6 +3232,38 @@
     "hash_ok": true
    },
    {
+    "doc": "wmt/lda/lda-02de05c5-c40e-4cd8-bb9c-2ab909242852.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "73cba6779f113ace63c634cab6a9ae85d91f29f6ff09f41e0ac9a2bdc132391c",
+    "hash_ok": true
+   },
+   {
+    "doc": "wmt/lda/lda-10445b6f-fc33-4801-90dd-e72694e87c5f.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "c21118daf5dd3356eaef4fa0f73b193a8dc0ca171d67e6149647c8b056f30d88",
+    "hash_ok": true
+   },
+   {
+    "doc": "wmt/lda/lda-1b0d674d-82a1-4035-bc5a-24f29c3113a1.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "e501a842afd5f889567126d0631c9e04121f395c19f20ad40f124100a71a35fe",
+    "hash_ok": true
+   },
+   {
+    "doc": "wmt/lda/lda-62cedb4b-4ea4-42f9-926e-92e22fce5f1a.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "6ba939c46ee8d817c95348af102b6bba812d2cf43b4e5cbcdd71fa6bcdd3ba86",
+    "hash_ok": true
+   },
+   {
     "doc": "wmt/submissions.json",
     "source_class": "edgar",
     "retrieved_at": "2026-09-13",
@@ -3288,6 +3360,14 @@
     "hash_ok": true
    },
    {
+    "doc": "xom/lda/lda-19d76bde-3c9a-4d27-95c0-6fed21e699d8.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "391174781520c7de71a39e55d4b7af936f4634dfc1ba4fd5eabc14f0f1fc4f4e",
+    "hash_ok": true
+   },
+   {
     "doc": "xom/lda/lda-56f306d8-b4ca-426e-9312-735aaa92dfc9.json",
     "source_class": "lda",
     "retrieved_at": "2026-09-13",
@@ -3309,6 +3389,14 @@
     "retrieved_at": "2026-09-12",
     "age_days": 1,
     "sha256": "08cfd861e9bd8dd60fae9d877dff47a7ea6a1a385eead4445e134cf340da341f",
+    "hash_ok": true
+   },
+   {
+    "doc": "xom/lda/lda-95b81aab-efaa-44a1-a297-72150fd6f846.json",
+    "source_class": "lda",
+    "retrieved_at": "2026-09-13",
+    "age_days": 0,
+    "sha256": "a7c80c0d4d6840dc0e8792513ac0d3c2fb62bf24604e87ec46b3e77ad372fdcb",
     "hash_ok": true
    },
    {

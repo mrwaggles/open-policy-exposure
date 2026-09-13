@@ -244,7 +244,8 @@
             "European Medicines Agency"
           ]
         ]
-      ]
+      ],
+      "lda_name": "Pfizer"
     },
     "wmt": {
       "fr_docs": [
@@ -298,7 +299,8 @@
             "supply chain .*human rights"
           ]
         ]
-      ]
+      ],
+      "lda_name": "Walmart"
     }
   }
 }
