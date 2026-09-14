@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-13",
+ "checked_at": "2026-09-14",
  "documents": 74,
  "hash_verified": 74,
  "hash_failures": 0,
@@ -53,7 +53,7 @@
   {
    "doc": "meta/10k-000162828026003942.html",
    "source_class": "edgar",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "97d1a65e8f28c8d2878a1f73218b89f8da3be83e6517c5cffdd81845c8ce40be",
    "hash_ok": true
@@ -62,7 +62,7 @@
    "doc": "meta/10k-000162828026003942.legal-proceedings.txt",
    "source_class": "edgar",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "bcddd69606f85a247f221aa787e32ab0de474a835d86b4b182598915b450935f",
    "hash_ok": true
   },
@@ -70,7 +70,7 @@
    "doc": "meta/10k-000162828026003942.risk-factors.txt",
    "source_class": "edgar",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "317dcbf2d02fdd0d8b9545242ca40fca6e1db050f4692a1ea11d2fc25798fdaf",
    "hash_ok": true
   },
@@ -78,7 +78,7 @@
    "doc": "meta/congress/s1748-actions.json",
    "source_class": "congress",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "43f2b7a094e0deb4a067b606a13a45288bd05d216a724bcca75c573adb15f768",
    "hash_ok": true
   },
@@ -86,7 +86,7 @@
    "doc": "meta/congress/s1748-bill.json",
    "source_class": "congress",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "73fbf6f01251624aff88ce16b529184568c35a1fc7e6fdf06dd4517d91c0f008",
    "hash_ok": true
   },
@@ -94,14 +94,14 @@
    "doc": "meta/congress/s1748-summaries.json",
    "source_class": "congress",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "ed4c5b9e34f5146d3bad9279cb1084c123fd8c29a1922fa8f67c50b39c3a5bef",
    "hash_ok": true
   },
   {
    "doc": "meta/eu/eu-32022R1925.html",
    "source_class": "eur_lex",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "d6af21a4f11c2b001b0486391fbd0813deba32305fb0d3865fbceccd45b827eb",
    "hash_ok": true
@@ -109,7 +109,7 @@
   {
    "doc": "meta/eu/eu-32022R2065.html",
    "source_class": "eur_lex",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "11b119a7d45f3a10cd41714061f9d907839ef5d1634e41774490f00b95856bbf",
    "hash_ok": true
@@ -117,16 +117,16 @@
   {
    "doc": "meta/fr/fr-2025-05904.json",
    "source_class": "federal_register",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
-   "sha256": "ef7b87ba79f68df8caa9d918335b5707b128d9233977941b0544100f63a68070",
+   "sha256": "79e9b8d97004da526b7fd36b230efc006641391c47d38d3966cb3cb771d26cea",
    "hash_ok": true
   },
   {
    "doc": "meta/lda/lda-2796fa63-8416-4e28-ab64-a242a084b2a3.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "d55209e16a23cd7548fbddcfa1e7cdce24fb5119a783e9aafe7d9f6ca979280f",
    "hash_ok": true
   },
@@ -134,7 +134,7 @@
    "doc": "meta/lda/lda-7b5bc578-9fa1-4190-bf2d-0c25a3c1dedb.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "fe48164dc38a004887063e7705539bff265a43c5142a1ebfc23819be8e5d3836",
    "hash_ok": true
   },
@@ -142,7 +142,7 @@
    "doc": "meta/lda/lda-8f89db71-4375-455e-868f-d2b7bc724bc8.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "85aad7c6435dfff5320883b3b4fc5ea4ab10cf0dff3fd180c5179279fcd81608",
    "hash_ok": true
   },
@@ -150,7 +150,7 @@
    "doc": "meta/lda/lda-ca90d94a-2bb1-46ae-9d89-13a2278cc80e.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "58232ef348a6673869ef80252b435e28223ec5a70905a5ace8ca0f70376b2256",
    "hash_ok": true
   },
@@ -158,22 +158,22 @@
    "doc": "meta/lda/lda-db20d2b9-e40a-4eff-893c-9aed03fda925.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "99540d05b308d0b3b64261776d35b67377feabe46f0686745ba8606da2bf891b",
    "hash_ok": true
   },
   {
    "doc": "meta/submissions.json",
    "source_class": "edgar",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
-   "sha256": "009af7b78bafe69ea35948fd261f14ad2f56076c2f7feb47d6241599f3f4391d",
+   "sha256": "d2bf201cd71dbe9afea296d82d936b11f1fd4bf32682258dd88019b6c3e625c5",
    "hash_ok": true
   },
   {
    "doc": "pfe/10k-000007800326000026.html",
    "source_class": "edgar",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "175e07c21ee258eddd9952e443d34df2a297d0c38e2d1312dff0a64a31c401ab",
    "hash_ok": true
@@ -182,7 +182,7 @@
    "doc": "pfe/cms/cms-negotiated-prices-ipay-2027.txt",
    "source_class": "other",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "2f27be731c03e286ad32b58dedb5003a7521fb15c23e7df5f37ab736cec85873",
    "hash_ok": true
   },
@@ -190,7 +190,7 @@
    "doc": "pfe/cms/cms-second-cycle-manufacturer-participation.txt",
    "source_class": "other",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "de6b1e9b83b91ba396be0ce1a0b6acd0ac93db6cbf85824f9e7b3fced6a6e48a",
    "hash_ok": true
   },
@@ -198,7 +198,7 @@
    "doc": "pfe/cms/cms-second-cycle-selected-drugs.txt",
    "source_class": "other",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "ac1eacd5ea3051c8cb1aa3f4832a82ad3ae1a97813a9ce55b042927f2ca8ce23",
    "hash_ok": true
   },
@@ -206,7 +206,7 @@
    "doc": "pfe/congress/hr6166-actions.json",
    "source_class": "congress",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "f6162d1a9494d4bb95c58bf9ed0f835da867c8f5590133284c7a63cdc93e95a3",
    "hash_ok": true
   },
@@ -214,7 +214,7 @@
    "doc": "pfe/congress/hr6166-bill.json",
    "source_class": "congress",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "f8af32f941b2321ff5f119d524522c2ba136bd20ccefb6e639029a6da93593db",
    "hash_ok": true
   },
@@ -222,14 +222,14 @@
    "doc": "pfe/edgar-revenue.json",
    "source_class": "edgar",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "4e34a302d04a47dcb527d27d3ef5a90ac91b67fabbe71886c7d54598842581ee",
    "hash_ok": true
   },
   {
    "doc": "pfe/eu/eu-52023PC0131.html",
    "source_class": "eur_lex",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "5928c2511f86ce63c88c5135cdd7b4fa66fe8a657a962676110aa1c6d5983419",
    "hash_ok": true
@@ -237,24 +237,24 @@
   {
    "doc": "pfe/fr/fr-2024-23418.json",
    "source_class": "federal_register",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
-   "sha256": "2af4a1cd0dde16cd13eb95910158757a3b2f079e0e73455528f8c46eed39f62b",
+   "sha256": "571904ae349e6c5b34d1f18be33b3c25b4bbf157956a83fa3fe9ba7da1de7d65",
    "hash_ok": true
   },
   {
    "doc": "pfe/fr/fr-2026-14583.json",
    "source_class": "federal_register",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
-   "sha256": "af4e214fe9b5ce09851a2e6ed435dae56e22475366852312c7b30a6f92783b2c",
+   "sha256": "9e093fce9c6ddc1dc6b4d9c21eeba0527b779d8994771e0dbdbd0b4188deabe3",
    "hash_ok": true
   },
   {
    "doc": "pfe/lda/lda-17640998-df82-47e3-8ad7-0afe51148524.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "b49030ea03d115e4f70f4689575d3cb2cc43c39f22af5b0cd636521486fd2e20",
    "hash_ok": true
   },
@@ -262,7 +262,7 @@
    "doc": "pfe/lda/lda-2cc79e15-9bc4-4964-8548-7e08d69a08b5.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "f95c1d0e3b78f8d3e4f9b68049506f2d48a52288c3e1107bb718e4877dbb5923",
    "hash_ok": true
   },
@@ -270,7 +270,7 @@
    "doc": "pfe/lda/lda-8f2443e8-3a53-4dc9-b865-a33dae4bc86e.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "92039ed48533ff061d850101c6a2643e184928b605afb4f895dcfeb83cc45c0f",
    "hash_ok": true
   },
@@ -278,14 +278,14 @@
    "doc": "pfe/lda/lda-dd31025d-92a7-4fb3-87ab-b3fc6ae1d498.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "0b86e9f84af489698a7301a344f721fa355cdf6a140c539f5f3508c964d8ea18",
    "hash_ok": true
   },
   {
    "doc": "pfe/submissions.json",
    "source_class": "edgar",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "15aea7b65397e67dee18c9c2525002fcfbeb9c2f17872df53c301748d383299a",
    "hash_ok": true
@@ -293,7 +293,7 @@
   {
    "doc": "uber/10k-000154315126000015.html",
    "source_class": "edgar",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "f6f3b8ef3ef09327cd29b94f45932fb94d59953cb44eead4364d7e720ea38655",
    "hash_ok": true
@@ -302,7 +302,7 @@
    "doc": "uber/10k-000154315126000015.risk-factors.txt",
    "source_class": "edgar",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "74581ba032487a40ea9f731932c81a0533ad35b0d078e9944bf51083e0a97b2e",
    "hash_ok": true
   },
@@ -310,7 +310,7 @@
    "doc": "uber/congress/hr1319-actions.json",
    "source_class": "congress",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "e48783a99dc703abab795d0f29d571f97a586df4940b924d2d59e8eb3813f8cd",
    "hash_ok": true
   },
@@ -318,7 +318,7 @@
    "doc": "uber/congress/hr1319-bill.json",
    "source_class": "congress",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "2c82c4eb2de02c2fd7afbb3b8e9b4262e05d5c34c04e3b4b66bb3de2a95e1565",
    "hash_ok": true
   },
@@ -326,14 +326,14 @@
    "doc": "uber/congress/hr1319-summaries.json",
    "source_class": "congress",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "8ed1069c1f33c6c5da3774891c5549b3b2ecf8150acb4d49c9e860f52b0b1d22",
    "hash_ok": true
   },
   {
    "doc": "uber/eu/eu-32024L2831.html",
    "source_class": "eur_lex",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "5f8f31b0bb1a9d994b80b88c89e71caf93f84eccf45d34ba279b7d1ad9aad11e",
    "hash_ok": true
@@ -341,32 +341,32 @@
   {
    "doc": "uber/fr/fr-2024-00067.json",
    "source_class": "federal_register",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
-   "sha256": "64be1fcc78b073542402610df8ce5f95556f7910fff6b95ad485976c4dcd83f4",
+   "sha256": "f4c81f2646c0b51c25eb3a22e9f90327ee8387ab7ad3f127510b5da403d7c02e",
    "hash_ok": true
   },
   {
    "doc": "uber/fr/fr-2026-03962.json",
    "source_class": "federal_register",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
-   "sha256": "14e800d103a7b968c77a5d9d6e9801678384ee2c07309ad1cb559dcb934133f4",
+   "sha256": "84e2ee6825172e8d42fbe44f803634dfacaf1b85d293a6cc0311fe5aa2848704",
    "hash_ok": true
   },
   {
    "doc": "uber/fr/fr-2026-15483.json",
    "source_class": "federal_register",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
-   "sha256": "0f665c7534589730230c7bd73ba45620b95ff6303d41ad505da558074c16ccbb",
+   "sha256": "7ba8024803c78e818834d996c2e1ab06f77455652ac96a3c652093d73e240920",
    "hash_ok": true
   },
   {
    "doc": "uber/lda/lda-055800ac-6b44-4d6a-b72a-1679df04a32c.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "06cfa03b2786123333063a041c9252c239395df16b57e63d67ac923d5059b518",
    "hash_ok": true
   },
@@ -374,7 +374,7 @@
    "doc": "uber/lda/lda-aa39e3af-fcad-4fa8-b840-8dba60561b8f.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "961b71c48c66569625259d1a76ea4d47483cb2432afa79f92c5975bd98573a29",
    "hash_ok": true
   },
@@ -382,7 +382,7 @@
    "doc": "uber/lda/lda-d3049772-7541-4c6b-8809-de7271790a09.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "877a6adc5377b79d91c7af7451f017a909466debe7cdb7653f65cecbe1184061",
    "hash_ok": true
   },
@@ -390,14 +390,14 @@
    "doc": "uber/lda/lda-e72bdfe6-b50d-4709-9703-06a9bc5d9543.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "b4a902070c8ce5f12d68f29de8b7c85c6143894ad7c10f8eabda784af40f3304",
    "hash_ok": true
   },
   {
    "doc": "uber/submissions.json",
    "source_class": "edgar",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "830473a3db5348a0831b05e555fa15fae94aaf57a6a27b879e4eb6376f7ddb40",
    "hash_ok": true
@@ -405,7 +405,7 @@
   {
    "doc": "wmt/10k-000010416926000055.html",
    "source_class": "edgar",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "276a6accff6066f00342ba03b390c6c2bd51aa7246f0346df22df0b839a5bf5c",
    "hash_ok": true
@@ -414,7 +414,7 @@
    "doc": "wmt/congress/hr2743-actions.json",
    "source_class": "congress",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "5cc2b96a2404322e1cbf4054329a9151a14f7f785f1a8eb03dc2c9fb6ec6f956",
    "hash_ok": true
   },
@@ -422,7 +422,7 @@
    "doc": "wmt/congress/hr2743-bill.json",
    "source_class": "congress",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "61d5ccdc0cbbcc7a437aac5d907760158c477a9208ca5055c1b4dbfa48d4bb58",
    "hash_ok": true
   },
@@ -430,14 +430,14 @@
    "doc": "wmt/edgar-revenue.json",
    "source_class": "edgar",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "893bc3ea04047ef0ff1962f41d64d642bed240c0fad5b555c532c1b2535ea76a",
    "hash_ok": true
   },
   {
    "doc": "wmt/eu/eu-32024L1760.html",
    "source_class": "eur_lex",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "727260144e8f968673eb4d2c275606eb07f35035c18895ac58883cf0d51184b3",
    "hash_ok": true
@@ -445,24 +445,24 @@
   {
    "doc": "wmt/fr/fr-2025-15010.json",
    "source_class": "federal_register",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
-   "sha256": "221bfc4d9c67aef4aa17d2bbf453e2c66e87481c9912dd8a39e5c8c4402611a7",
+   "sha256": "3685ab87d1c33ad0b890de0f7052dabc32e6931bfa141f9b0c582b2f6527bcdb",
    "hash_ok": true
   },
   {
    "doc": "wmt/fr/fr-2025-17507.json",
    "source_class": "federal_register",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
-   "sha256": "50bf2f4e3e9400170befc694d3434541e5b01d6e69679221520ea18dd7051f66",
+   "sha256": "5e5164b8d6cf292bc9a1401140671539f43234a43302ed66b5d18daa9b3d9a33",
    "hash_ok": true
   },
   {
    "doc": "wmt/lda/lda-02de05c5-c40e-4cd8-bb9c-2ab909242852.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "73cba6779f113ace63c634cab6a9ae85d91f29f6ff09f41e0ac9a2bdc132391c",
    "hash_ok": true
   },
@@ -470,7 +470,7 @@
    "doc": "wmt/lda/lda-10445b6f-fc33-4801-90dd-e72694e87c5f.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "c21118daf5dd3356eaef4fa0f73b193a8dc0ca171d67e6149647c8b056f30d88",
    "hash_ok": true
   },
@@ -478,7 +478,7 @@
    "doc": "wmt/lda/lda-1b0d674d-82a1-4035-bc5a-24f29c3113a1.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "e501a842afd5f889567126d0631c9e04121f395c19f20ad40f124100a71a35fe",
    "hash_ok": true
   },
@@ -486,14 +486,14 @@
    "doc": "wmt/lda/lda-62cedb4b-4ea4-42f9-926e-92e22fce5f1a.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "6ba939c46ee8d817c95348af102b6bba812d2cf43b4e5cbcdd71fa6bcdd3ba86",
    "hash_ok": true
   },
   {
    "doc": "wmt/submissions.json",
    "source_class": "edgar",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "e5e7fd1ba7396f3f41b4407fde0f2929db3d8342b07f32de30f7eda3bfcd8244",
    "hash_ok": true
@@ -501,7 +501,7 @@
   {
    "doc": "xom/10k-000003408826000045.html",
    "source_class": "edgar",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
    "hash_ok": true
@@ -510,7 +510,7 @@
    "doc": "xom/10k-000003408826000045.legal-proceedings.txt",
    "source_class": "edgar",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "41e8dfd050ca51224cd1017690ecbfc830bcc0b2b7c6649a234623e66bcc40a1",
    "hash_ok": true
   },
@@ -518,7 +518,7 @@
    "doc": "xom/10k-000003408826000045.risk-factors.txt",
    "source_class": "edgar",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "b14a35e56edf00a9870ab3bb255a6cea9667aaf39a11317ac7930ff87f9d67c6",
    "hash_ok": true
   },
@@ -526,7 +526,7 @@
    "doc": "xom/congress/hjres35-actions.json",
    "source_class": "congress",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "09948460a15703c75647191ae286fd451249ead992e656e2ba8eb42c0ae816eb",
    "hash_ok": true
   },
@@ -534,14 +534,14 @@
    "doc": "xom/congress/hjres35-bill.json",
    "source_class": "congress",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "6b796fda92427b2811c2a50f37b9d27eab4bfe0f1db1f218b58babd789b8dce6",
    "hash_ok": true
   },
   {
    "doc": "xom/eu/eu-32022L2464.html",
    "source_class": "eur_lex",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "6ad8df8d05b75c4caf19c926db0afc86c725872bb3342c4d7cd2544dd6c29837",
    "hash_ok": true
@@ -549,7 +549,7 @@
   {
    "doc": "xom/eu/eu-32024R1787.html",
    "source_class": "eur_lex",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "231bfc7b994197536a3271ed37b8b8c3ecce9f2ce7e9625e7aff91caec07496f",
    "hash_ok": true
@@ -557,40 +557,40 @@
   {
    "doc": "xom/fr/fr-2024-26643.json",
    "source_class": "federal_register",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
-   "sha256": "e13d94985702e82227e49972e3825254ec7c4f3a9eec39b24fa77e9753a6a7eb",
+   "sha256": "0d05d64df0babedf3e53d35b5092d2dc78281c5d800005e02cbcb1ea5fb3c8fe",
    "hash_ok": true
   },
   {
    "doc": "xom/fr/fr-2025-08688.json",
    "source_class": "federal_register",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
-   "sha256": "45a45848b2766d481153ade560ff0aabe65156007a2b568b38197a26cfe17ea9",
+   "sha256": "bf3732ecfa8efed438ceec5655b71a02daaf604d8bafcf431a498c681bb88fcb",
    "hash_ok": true
   },
   {
    "doc": "xom/fr/fr-2025-14531.json",
    "source_class": "federal_register",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
-   "sha256": "24f4ebda56d5fd2f24573eba1f237ee13ff5b4675f4da7051d16da8322a7828b",
+   "sha256": "153deaae1f43ba8c8ffa115ceeb578e2a34ab67a7777c7de95eb0936f93059b0",
    "hash_ok": true
   },
   {
    "doc": "xom/fr/fr-2026-11091.json",
    "source_class": "federal_register",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
-   "sha256": "f59596203792ec7d1d9b635a8f195c4c1b44a22deb0f9147cbaabb85d14a9e6e",
+   "sha256": "bfaf9f254619d8ee671a85e89a1602a6b916fb952e8d05e747ca650ed480145e",
    "hash_ok": true
   },
   {
    "doc": "xom/lda/lda-19d76bde-3c9a-4d27-95c0-6fed21e699d8.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "391174781520c7de71a39e55d4b7af936f4634dfc1ba4fd5eabc14f0f1fc4f4e",
    "hash_ok": true
   },
@@ -598,7 +598,7 @@
    "doc": "xom/lda/lda-56f306d8-b4ca-426e-9312-735aaa92dfc9.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "a80b1929db7f867677cd92b180ab062f0da65594c7863a149a21035525904709",
    "hash_ok": true
   },
@@ -606,7 +606,7 @@
    "doc": "xom/lda/lda-5b0e6916-03f4-4b9f-be48-da93009dd2cb.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "37d062935a1c3ea4bc4f77efe7dc4ef77b19210e636b1dd34c909a31abf254bd",
    "hash_ok": true
   },
@@ -614,7 +614,7 @@
    "doc": "xom/lda/lda-89597339-80ca-4948-a7bf-d1845d872506.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-12",
-   "age_days": 1,
+   "age_days": 2,
    "sha256": "08cfd861e9bd8dd60fae9d877dff47a7ea6a1a385eead4445e134cf340da341f",
    "hash_ok": true
   },
@@ -622,7 +622,7 @@
    "doc": "xom/lda/lda-95b81aab-efaa-44a1-a297-72150fd6f846.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "a7c80c0d4d6840dc0e8792513ac0d3c2fb62bf24604e87ec46b3e77ad372fdcb",
    "hash_ok": true
   },
@@ -630,14 +630,14 @@
    "doc": "xom/lda/lda-e007df95-896a-4345-bdef-6825e1930d72.json",
    "source_class": "lda",
    "retrieved_at": "2026-09-13",
-   "age_days": 0,
+   "age_days": 1,
    "sha256": "ca2a22e2ebf62821a7e2e904fc5ba8de603a83616b5d3b45a78119a1c093234f",
    "hash_ok": true
   },
   {
    "doc": "xom/submissions.json",
    "source_class": "edgar",
-   "retrieved_at": "2026-09-13",
+   "retrieved_at": "2026-09-14",
    "age_days": 0,
    "sha256": "7918818ea3045fb09fbb18d67537909a28feb245d693d0bd7cd3bc30b16ea3db",
    "hash_ok": true
