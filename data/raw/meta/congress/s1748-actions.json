@@ -1,0 +1,55 @@
+{
+    "actions": [
+        {
+            "actionDate": "2026-08-05",
+            "committees": [
+                {
+                    "name": "Commerce, Science, and Transportation Committee",
+                    "systemCode": "sscm00",
+                    "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+                }
+            ],
+            "sourceSystem": {
+                "name": "Senate"
+            },
+            "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+            "type": "Committee"
+        },
+        {
+            "actionDate": "2025-05-14",
+            "committees": [
+                {
+                    "name": "Commerce, Science, and Transportation Committee",
+                    "systemCode": "sscm00",
+                    "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+                }
+            ],
+            "sourceSystem": {
+                "name": "Senate"
+            },
+            "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S2929-2930)",
+            "type": "IntroReferral"
+        },
+        {
+            "actionCode": "10000",
+            "actionDate": "2025-05-14",
+            "sourceSystem": {
+                "code": 9,
+                "name": "Library of Congress"
+            },
+            "text": "Introduced in Senate",
+            "type": "IntroReferral"
+        }
+    ],
+    "pagination": {
+        "count": 3
+    },
+    "request": {
+        "billNumber": "1748",
+        "billType": "s",
+        "billUrl": "https://api.congress.gov/v3/bill/119/s/1748?format=json",
+        "congress": "119",
+        "contentType": "application/json",
+        "format": "json"
+    }
+}

@@ -1,0 +1,437 @@
+<html>
+<head>
+<title>Federal Register, Volume 90 Issue 95 (Monday, May 19, 2025)</title>
+</head>
+<body><pre>
+[Federal Register Volume 90, Number 95 (Monday, May 19, 2025)]
+[Rules and Regulations]
+[Pages 21225-21228]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2025-08688]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+ENVIRONMENTAL PROTECTION AGENCY
+
+40 CFR Parts 2, 98, and 99
+
+[EPA-HQ-OAR-2023-0434; FRL-12723-01-OAR]
+RIN 2060-AW54
+
+
+Congressional Review Act Revocation of Waste Emissions Charge for 
+Petroleum and Natural Gas Systems: Procedures for Facilitating 
+Compliance, Including Netting and Exemptions
+
+AGENCY: Environmental Protection Agency (EPA).
+
+ACTION: Final rule; CRA revocation.
+
+-----------------------------------------------------------------------
+
+SUMMARY: Congress has passed and the President has signed a joint 
+resolution of disapproval under the Congressional Review Act (CRA) of 
+the Environmental Protection Agency's (EPA) final rule titled, ``Waste 
+Emissions Charge for Petroleum and Natural Gas Systems: Procedures for 
+Facilitating Compliance, Including Netting and Exemptions'' (2024 WEC 
+Final Rule). The 2024 WEC Final Rule implemented and facilitated 
+compliance with the requirements of the Waste Emissions Charge in the 
+Clean Air Act's (CAA) Methane Emissions Reduction Program. Under the 
+joint resolution and by operation of the CRA, the 2024 WEC Final Rule 
+now has no legal force or effect. Because the rule has been nullified, 
+the EPA is removing it from the Code of Federal Regulations (CFR). This 
+action is exempt from notice-and-comment rulemaking because it is 
+ministerial in nature.
+
+DATES: This final rule is effective May 19, 2025.
+
+ADDRESSES: EPA has established a docket for this action under Docket ID 
+No. EPA-HQ-OAR-2023-0434. Publicly available docket materials are 
+available either electronically at <a href="https://www.regulations.gov">https://www.regulations.gov</a> or in 
+hard copy at Air and Radiation Docket and Information Center, EPA 
+Docket Center, EPA/DC, EPA WJC West Building, 1301 Constitution Ave. 
+NW, Room 3334, Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Claudia Menasche, Climate Change 
+Division, Office of Atmospheric Protection (MC-6207A), Environmental 
+Protection Agency, 1200 Pennsylvania Ave. NW, Washington, DC 20460; 
+telephone number: (202) 564-3391; email address: <a href="/cdn-cgi/l/email-protection#69040c1b19290c1908470e061f"><span class="__cf_email__" data-cfemail="8ae7eff8facaeffaeba4ede5fc">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+I. Does this action apply to me?
+
+    This action may be relevant to you if you are an owner or operator 
+of a facility in certain segments of the petroleum and natural gas 
+systems industry that reports--or will report--more than 25,000 metric 
+tons (mt) of carbon dioxide equivalent (CO<INF>2</INF>e) pursuant to 
+the requirements codified at 40 CFR part 98 and report emissions under 
+subpart W (Petroleum and Natural Gas Systems) (hereafter referred to as 
+``part 98, subpart W''). The industry segments, as they are defined 
+under part 98, subpart W, to which the 2024 WEC Final Rule may have 
+applied are offshore petroleum and natural gas production, onshore 
+petroleum and natural gas production, onshore natural gas processing, 
+onshore gas transmission compression, underground natural gas storage, 
+liquefied natural gas
+
+[[Page 21226]]
+
+storage, liquefied natural gas import and export equipment, onshore 
+petroleum and natural gas gathering and boosting, and onshore natural 
+gas transmission pipeline. Revisions to part 98, subpart A, also 
+contained in the 2024 WEC Final Rule, may have applied to all of the 
+aforementioned segments and natural gas distribution, as defined in 
+part 98, subpart W. These categories and entities include, but are not 
+limited to, those listed in table 1 of this preamble:
+
+           Table 1--Examples of Affected Entities by Category
+------------------------------------------------------------------------
+                                  North American
+                                     Industry       Examples of affected
+           Category               Classification         facilities
+                                  System (NAICS)
+------------------------------------------------------------------------
+Petroleum and Natural Gas                  486210  Pipeline
+ Systems.                                           transportation of
+                                                    natural gas.
+                                           221210  Natural gas
+                                                    processing and
+                                                    transmission
+                                                    compression.
+                                           211120  Crude petroleum
+                                                    extraction.
+                                           211130  Natural gas
+                                                    extraction.
+------------------------------------------------------------------------
+
+    Table 1 of this preamble is not intended to be exhaustive but 
+rather provides a guide for readers regarding facilities that may have 
+been affected by the 2024 WEC Final Rule. If you have questions 
+regarding the applicability of this action to a particular facility, 
+consult the person listed in the FOR FURTHER INFORMATION CONTACT 
+section.
+
+II. Background and Rationale for This Final Action
+
+    On January 26, 2024, the EPA published in the Federal Register (FR) 
+a notice of proposed rulemaking to facilitate implementation of the 
+provisions of the WEC, following the requirements of CAA section 
+136(c)-(g) (89 FR 5318). The EPA published the 2024 WEC Final Rule in 
+the FR on November 18, 2024 (89 FR 91094) and codified associated 
+regulations at 40 CFR parts 2, 98 (subpart A), and 99.
+    The United States House of Representatives passed a joint 
+resolution (H.J. Res. 35) on February 26, 2025, disapproving the 2024 
+WEC Final Rule under the CRA (5 U.S.C. 801 et seq.). The United States 
+Senate passed H.J. Res. 35 on February 27, 2025. President Donald J. 
+Trump signed the joint resolution of disapproval into law as Public Law 
+(Pub. L.) 119-2 on March 14, 2025. Under the joint resolution and by 
+operation of the CRA, the 2024 WEC Final Rule has no legal force or 
+effect.
+
+III. Final Action
+
+    This final action revises the CFR to remove the now null amendments 
+that were codified under the 2024 WEC Final Rule. This action removes 
+40 CFR part 99 (Waste Emissions Charge) and reverts to the text in 
+effect immediately prior to the effective date of the 2024 WEC Final 
+Rule for the amended paragraphs of 40 CFR part 2, subpart B (Public 
+Information--Confidentiality of Business Information) and 40 CFR part 
+98, subpart A (Mandatory Greenhouse Gas Reporting--General Provisions). 
+The amendments to 40 CFR part 2, subpart B included revisions to 40 CFR 
+2.301(d) to include references to part 99. The amendments to 40 CFR 
+part 98, subpart A included the addition of 40 CFR 98.3(c)(14), which 
+required additional reporting for facilities subject to part 98, 
+subpart W; the addition of 40 CFR 98.4(o), which specified alternative 
+provisions for responsibility for part 98 report submissions and 
+revisions related to changes in owners and operators for facilities 
+that report under subpart W; revisions to 40 CFR 98.4(g) and (h) to 
+include cross-references to paragraph 98.4(o); and revisions to 40 CFR 
+98.4(n)(2) to clarify responsibilities following certain types of 
+facility acquisitions.
+    The EPA is taking this action as a final rule without providing an 
+opportunity for public comment or a public hearing because the EPA 
+finds that the Administrative Procedure Act (APA) ``good cause'' 
+exemption applies. The EPA has determined that there is good cause here 
+because the correction of the CFR is a ministerial act to effectuate 
+H.J. Res. 35 and the operation of the CRA. The CRA joint resolution was 
+signed on March 14, 2025, at which point the 2024 WEC Final Rule ceased 
+to have any legal force or effect. As such, public notice and comment 
+is unnecessary and would serve no useful purpose.
+    For these reasons, the EPA finds good cause to issue a final 
+rulemaking without undergoing public notice and comment, in conformance 
+with 5 U.S.C. 553(b)(B).
+
+IV. Statutory and Executive Order Review
+
+    Additional information about these statutes and Executive Orders 
+can be found at <a href="https://www.epa.gov/laws-regulations/laws-and-executive-orders">https://www.epa.gov/laws-regulations/laws-and-executive-orders</a>.
+
+A. Executive Order 12866: Regulatory Planning and Review
+
+    This action is not a significant regulatory action and was 
+therefore not submitted to the Office of Management and Budget (OMB) 
+for review.
+
+B. Executive Order 14192: Unleashing Prosperity Through Deregulation
+
+    This action is considered an Executive Order 14192 deregulatory 
+action that results in $7,540,709 in cost savings associated with 
+information collection and EPA implementation. Details on the estimated 
+cost savings of this final rule can be found in the Information 
+Collection Request (ICR) as part of the final WEC rule (89 FR 91094).
+
+C. Paperwork Reduction Act (PRA)
+
+    This action does not impose an information collection burden under 
+the PRA. This final action is ministerial in nature and does not 
+contain any information collection activities.
+
+D. Regulatory Flexibility Act (RFA)
+
+    This action is not subject to the RFA. The RFA applies only to 
+rules subject to notice and comment rulemaking requirements under the 
+Administrative Procedure Act (APA), 5 U.S.C. 553, or any other statute. 
+This rule is not subject to notice and comment requirements because the 
+Agency has invoked the APA ``good cause'' exemption under 5 U.S.C. 
+553(b)(B).
+
+E. Unfunded Mandates Reform Act (UMRA)
+
+    This action does not contain any unfunded mandate as described in 
+UMRA, 2 U.S.C. 1531-1538 and does not significantly or uniquely affect 
+small governments. The action imposes no enforceable duty on any State, 
+local, or Tribal governments.
+
+[[Page 21227]]
+
+F. Executive Order 13132: Federalism
+
+    This action does not have federalism implications. It will not have 
+substantial direct effects on the States, on the relationship between 
+the National Government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+
+G. Executive Order 13175: Consultation and Coordination With Indian 
+Tribal Governments
+
+    This action does not have Tribal implications as specified in 
+Executive Order 13175. This action is ministerial in nature. Thus, 
+Executive Order 13175 does not apply to this action.
+
+H. Executive Order 13045: Protection of Children From Environmental 
+Health Risks and Safety Risks
+
+    The EPA interprets Executive Order 13045 as applying only to those 
+regulatory actions that concern environmental health or safety risks 
+that the EPA has reason to believe may disproportionately affect 
+children, per the definition of ``covered regulatory action'' in 
+section 2-202 of the Executive Order.
+    Therefore, this action is not subject to Executive Order 13045 
+because it does not concern an environmental health risk or safety 
+risk. Since this action does not concern human health, EPA's Policy on 
+Children's Health also does not apply.
+
+I. Executive Order 13211: Actions That Significantly Affect Energy 
+Supply, Distribution, or Use
+
+    This action is not subject to Executive Order 13211 because it is 
+not a significant regulatory action under E.O. 12866.
+
+J. National Technology Transfer and Advancement Act
+
+    This rulemaking does not involve technical standards.
+
+K. Congressional Review Act
+
+    As discussed above, this action reflects the effect of the joint 
+resolution to disapprove the 2024 WEC Final Rule under the CRA.
+
+L. Judicial Review
+
+    Under CAA section 307(b)(1), any petition for review of this final 
+rule must be filed in the U.S. Court of Appeals for the District of 
+Columbia Circuit by July 18, 2025.
+
+List of Subjects
+
+40 CFR Part 2
+
+    Environmental protection, Administrative practice and procedure, 
+Confidential business information, Courts, Freedom of information, 
+Government employees.
+
+40 CFR Part 98
+
+    Environmental protection, Greenhouse gases, Incorporation by 
+reference, Reporting and recordkeeping requirements.
+
+40 CFR Part 99
+
+    Environmental protection, Greenhouse gases, Natural gas, Penalties, 
+Petroleum, Reporting and recordkeeping requirements.
+
+Lee Zeldin,
+Administrator.
+
+    Under the authority of the Congressional Review Act and Public Law 
+119-2, 139 Stat. 3, the EPA amends title 40, chapter I, of the Code of 
+Federal Regulations as follows:
+
+PART 2--PUBLIC INFORMATION
+
+0
+1. The authority citation for part 2 continues to read as follows:
+
+    Authority:  5 U.S.C. 552, 552a, 553; 28 U.S.C. 509, 510, 534; 31 
+U.S.C. 3717.
+
+Subpart B--Confidentiality of Business Information
+
+0
+2. Amend Sec.  2.301 by reinstating paragraph (d) to read as follows:
+
+
+Sec.  2.301  Special rules governing certain information obtained under 
+the Clean Air Act.
+
+* * * * *
+    (d) Data submitted under 40 CFR part 98. (1) Sections 2.201 through 
+2.215 do not apply to data submitted under 40 CFR part 98 that EPA has 
+determined, pursuant to sections 114(c) and 307(d) of the Clean Air 
+Act, to be either of the following:
+    (i) Emission data.
+    (ii) Data not otherwise entitled to confidential treatment pursuant 
+to section 114(c) of the Clean Air Act.
+    (2) Except as otherwise provided in paragraphs (d)(2) and (d)(4) of 
+this section, Sec. Sec.  2.201 through 2.215 do not apply to data 
+submitted under 40 CFR part 98 data that EPA has determined, pursuant 
+to sections 114(c) and 307(d) of the Clean Air Act, to be entitled to 
+confidential treatment. EPA shall treat that information as 
+confidential in accordance with the provisions of Sec.  2.211, subject 
+to paragraph (d)(4) of this section and Sec.  2.209.
+    (3) Upon receiving a request under 5 U.S.C. 552 for data submitted 
+under 40 CFR part 98 that EPA has determined, pursuant to sections 
+114(c) and 307(d) of the Clean Air Act, to be entitled to confidential 
+treatment, the EPA office shall furnish the requestor a notice that the 
+information has been determined to be entitled to confidential 
+treatment and that the request is therefore denied. The notice shall 
+include or cite to the appropriate EPA determination.
+    (4) Modification of prior confidentiality determination. A 
+determination made pursuant to sections 114(c) and 307(d) of the Clean 
+Air Act that information submitted under 40 CFR part 98 is entitled to 
+confidential treatment shall continue in effect unless, subsequent to 
+the confidentiality determination, EPA takes one of the following 
+actions:
+    (i) EPA determines, pursuant to sections 114(c) and 307(d) of the 
+Clean Air Act, that the information is emission data or data not 
+otherwise entitled to confidential treatment under section 114(c) of 
+the Clean Air Act.
+    (ii) The Office of General Counsel issues a final determination, 
+based on the criteria in Sec.  2.208, stating that the information is 
+no longer entitled to confidential treatment because of change in the 
+applicable law or newly discovered or changed facts. Prior to making 
+such final determination, EPA shall afford the business an opportunity 
+to submit comments on pertinent issues in the manner described by 
+Sec. Sec.  2.204(e) and 2.205(b). If, after consideration of any timely 
+comments submitted by the business, the Office of General Counsel makes 
+a revised final determination that the information is not entitled to 
+confidential treatment under section 114(c) of the Clean Air Act, EPA 
+will notify the business in accordance with the procedures described in 
+Sec.  2.205(f)(2).
+* * * * *
+
+PART 98--MANDATORY GREENHOUSE GAS REPORTING
+
+0
+3. The authority citation for part 98 continues to read as follows:
+
+    Authority:  42 U.S.C. 7401-7671q.
+
+Subpart A--General Provision
+
+
+Sec.  98.3  [Amended]
+
+0
+4. Amend Sec.  98.3 by removing paragraph (c)(14).
+
+0
+5. Amend Sec.  98.4 by reinstating paragraphs (g), (h), and (n)(2) and 
+removing paragraph (o) to read as follows:
+
+
+Sec.  98.4  Authorization and responsibilities of the designated 
+representative.
+
+* * * * *
+    (g) Changing a designated representative or alternate designated 
+representative. The designated representative or alternate designated
+
+[[Page 21228]]
+
+representative identified in a complete certificate of representation 
+under this section for a facility or supplier received by the 
+Administrator may be changed at any time upon receipt by the 
+Administrator of another later signed, complete certificate of 
+representation under this section for the facility or supplier. 
+Notwithstanding any such change, all representations, actions, 
+inactions, and submissions by the previous designated representative or 
+the previous alternate designated representative of the facility or 
+supplier before the time and date when the Administrator receives such 
+later signed certificate of representation shall be binding on the new 
+designated representative and the owners and operators of the facility 
+or supplier.
+    (h) Changes in owners and operators. Except as provided in 
+paragraph (n) of this section, in the event an owner or operator of the 
+facility or supplier is not included in the list of owners and 
+operators in the certificate of representation under this section for 
+the facility or supplier, such owner or operator shall be deemed to be 
+subject to and bound by the certificate of representation, the 
+representations, actions, inactions, and submissions of the designated 
+representative and any alternate designated representative of the 
+facility or supplier, as if the owner or operator were included in such 
+list. Within 90 days after any change in the owners and operators of 
+the facility or supplier (including the addition of a new owner or 
+operator), the designated representative or any alternate designated 
+representative shall submit a certificate of representation that is 
+complete under this section except that such list shall be amended to 
+reflect the change. If the designated representative or alternate 
+designated representative determines at any time that an owner or 
+operator of the facility or supplier is not included in such list and 
+such exclusion is not the result of a change in the owners and 
+operators, the designated representative or any alternate designated 
+representative shall submit, within 90 days of making such 
+determination, a certificate of representation that is complete under 
+this section except that such list shall be amended to include such 
+owner or operator.
+* * * * *
+    (n) * * *
+    (2) If the entire facility is acquired by an owner or operator that 
+already has a reporting facility in the same industry segment and basin 
+(for onshore petroleum and natural gas production or onshore petroleum 
+and natural gas gathering and boosting) or state (for natural gas 
+distribution), the new owner or operator shall merge the acquired 
+facility with their existing facility for purposes of the annual 
+greenhouse gas (GHG) report. The owner or operator shall also follow 
+the provisions of Sec.  98.2(i)(6) to notify EPA that the acquired 
+facility will discontinue reporting and shall provide the e-GGRT 
+identification number of the merged, or reconstituted, facility. The 
+owner or operator of the merged facility shall be responsible for 
+submitting the annual report for the merged facility for the entire 
+reporting year beginning with the reporting year in which the 
+acquisition occurred.
+* * * * *
+
+PART 99--[Removed and Reserved]
+
+0
+6. Remove and reserve part 99.
+
+[FR Doc. 2025-08688 Filed 5-16-25; 8:45 am]
+BILLING CODE 6560-50-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

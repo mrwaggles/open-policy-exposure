@@ -1,0 +1,69 @@
+{
+    "bill": {
+        "actions": {
+            "count": 3,
+            "url": "https://api.congress.gov/v3/bill/119/s/1748/actions?format=json"
+        },
+        "committees": {
+            "count": 1,
+            "url": "https://api.congress.gov/v3/bill/119/s/1748/committees?format=json"
+        },
+        "congress": 119,
+        "cosponsors": {
+            "count": 76,
+            "countIncludingWithdrawnCosponsors": 76,
+            "url": "https://api.congress.gov/v3/bill/119/s/1748/cosponsors?format=json"
+        },
+        "introducedDate": "2025-05-14",
+        "latestAction": {
+            "actionDate": "2026-08-05",
+            "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably."
+        },
+        "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+        "number": "1748",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "policyArea": {
+            "name": "Science, Technology, Communications"
+        },
+        "sponsors": [
+            {
+                "bioguideId": "B001243",
+                "firstName": "Marsha",
+                "fullName": "Sen. Blackburn, Marsha [R-TN]",
+                "isByRequest": "N",
+                "lastName": "Blackburn",
+                "party": "R",
+                "state": "TN",
+                "url": "https://api.congress.gov/v3/member/B001243?format=json"
+            }
+        ],
+        "subjects": {
+            "count": 21,
+            "url": "https://api.congress.gov/v3/bill/119/s/1748/subjects?format=json"
+        },
+        "summaries": {
+            "count": 1,
+            "url": "https://api.congress.gov/v3/bill/119/s/1748/summaries?format=json"
+        },
+        "textVersions": {
+            "count": 1,
+            "url": "https://api.congress.gov/v3/bill/119/s/1748/text?format=json"
+        },
+        "title": "Kids Online Safety Act",
+        "titles": {
+            "count": 3,
+            "url": "https://api.congress.gov/v3/bill/119/s/1748/titles?format=json"
+        },
+        "type": "S",
+        "updateDate": "2026-09-08T18:03:40Z",
+        "updateDateIncludingText": "2026-09-08T18:03:40Z"
+    },
+    "request": {
+        "billNumber": "1748",
+        "billType": "s",
+        "congress": "119",
+        "contentType": "application/json",
+        "format": "json"
+    }
+}

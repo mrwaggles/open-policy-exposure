@@ -1,0 +1,299 @@
+{
+    "actions": [
+        {
+            "actionCode": "E40000",
+            "actionDate": "2025-03-14",
+            "sourceSystem": {
+                "code": 9,
+                "name": "Library of Congress"
+            },
+            "text": "Became Public Law No: 119-2.",
+            "type": "President"
+        },
+        {
+            "actionCode": "36000",
+            "actionDate": "2025-03-14",
+            "sourceSystem": {
+                "code": 9,
+                "name": "Library of Congress"
+            },
+            "text": "Became Public Law No: 119-2.",
+            "type": "BecameLaw"
+        },
+        {
+            "actionCode": "E30000",
+            "actionDate": "2025-03-14",
+            "sourceSystem": {
+                "code": 9,
+                "name": "Library of Congress"
+            },
+            "text": "Signed by President.",
+            "type": "President"
+        },
+        {
+            "actionCode": "36000",
+            "actionDate": "2025-03-14",
+            "sourceSystem": {
+                "code": 9,
+                "name": "Library of Congress"
+            },
+            "text": "Signed by President.",
+            "type": "BecameLaw"
+        },
+        {
+            "actionCode": "E20000",
+            "actionDate": "2025-03-04",
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "Presented to President.",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "28000",
+            "actionDate": "2025-03-04",
+            "sourceSystem": {
+                "code": 9,
+                "name": "Library of Congress"
+            },
+            "text": "Presented to President.",
+            "type": "President"
+        },
+        {
+            "actionDate": "2025-02-27",
+            "sourceSystem": {
+                "name": "Senate"
+            },
+            "text": "Message on Senate action sent to the House.",
+            "type": "Floor"
+        },
+        {
+            "actionDate": "2025-02-27",
+            "recordedVotes": [
+                {
+                    "chamber": "Senate",
+                    "congress": 119,
+                    "date": "2025-02-27T18:03:50Z",
+                    "rollNumber": 97,
+                    "sessionNumber": 1,
+                    "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00097.xml"
+                }
+            ],
+            "sourceSystem": {
+                "name": "Senate"
+            },
+            "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 97. (consideration: CR S1419)",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "17000",
+            "actionDate": "2025-02-27",
+            "recordedVotes": [
+                {
+                    "chamber": "Senate",
+                    "congress": 119,
+                    "date": "2025-02-27T18:03:50Z",
+                    "rollNumber": 97,
+                    "sessionNumber": 1,
+                    "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00097.xml"
+                }
+            ],
+            "sourceSystem": {
+                "code": 9,
+                "name": "Library of Congress"
+            },
+            "text": "Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 97.",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "H38310",
+            "actionDate": "2025-02-26",
+            "actionTime": "16:45:32",
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "Motion to reconsider laid on the table Agreed to without objection.",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "H37100",
+            "actionDate": "2025-02-26",
+            "actionTime": "16:45:30",
+            "recordedVotes": [
+                {
+                    "chamber": "House",
+                    "congress": 119,
+                    "date": "2025-02-26T21:45:30Z",
+                    "rollNumber": 52,
+                    "sessionNumber": 1,
+                    "url": "https://clerk.house.gov/evs/2025/roll052.xml"
+                }
+            ],
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "On passage Passed by the Yeas and Nays: 220 - 206, 1 Present (Roll no. 52). (text: CR H846)",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "8000",
+            "actionDate": "2025-02-26",
+            "actionTime": "16:45:30",
+            "recordedVotes": [
+                {
+                    "chamber": "House",
+                    "congress": 119,
+                    "date": "2025-02-26T21:45:30Z",
+                    "rollNumber": 52,
+                    "sessionNumber": 1,
+                    "url": "https://clerk.house.gov/evs/2025/roll052.xml"
+                }
+            ],
+            "sourceSystem": {
+                "code": 9,
+                "name": "Library of Congress"
+            },
+            "text": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 206, 1 Present (Roll no. 52). (text: CR H846)",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "H30000",
+            "actionDate": "2025-02-26",
+            "actionTime": "16:36:28",
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "Considered as unfinished business. (consideration: CR H859-860)",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "H8D000",
+            "actionDate": "2025-02-26",
+            "actionTime": "13:22:52",
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 35, the Chair put the question on passage of the joint resolution, and by voice vote, announced that the ayes had prevailed. Mr. Pallone demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "H35000",
+            "actionDate": "2025-02-26",
+            "actionTime": "13:21:44",
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "The previous question was ordered pursuant to the rule.",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "H8D000",
+            "actionDate": "2025-02-26",
+            "actionTime": "13:08:36",
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "DEBATE - The House resumed debate on H.J. Res. 35.",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "H8D000",
+            "actionDate": "2025-02-26",
+            "actionTime": "12:20:47",
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 35.",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "H8D000",
+            "actionDate": "2025-02-26",
+            "actionTime": "12:20:00",
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "Rule provides for consideration of H.J. Res. 20, H.J. Res. 35 and H. Con. Res. 14. The resolution provides for consideration of two joint resolutions, H.J.Res.20, under a closed rule and H.J.Res. 35, under a closed rule. Also, the resolution provides for consideration of H. Con. Res. 14, under a closed rule. The joint resolutions are debated for one hour each and the concurrent resolution is debated for 3 hours.",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "H30000",
+            "actionDate": "2025-02-26",
+            "actionTime": "12:19:55",
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "Considered under the provisions of rule H. Res. 161. (consideration: CR H846-853)",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "H1L210",
+            "actionDate": "2025-02-25",
+            "actionTime": "10:35:04",
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "Rules Committee Resolution H. Res. 161 Reported to House. Rule provides for consideration of H.J. Res. 20, H.J. Res. 35 and H. Con. Res. 14. The resolution provides for consideration of two joint resolutions, H.J.Res.20, under a closed rule and H.J.Res. 35, under a closed rule. Also, the resolution provides for consideration of H. Con. Res. 14, under a closed rule. The joint resolutions are debatable for one hour each and the concurrent resolution is debatable for 3 hours.",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "H11100",
+            "actionDate": "2025-02-04",
+            "committees": [
+                {
+                    "name": "Energy and Commerce Committee",
+                    "systemCode": "hsif00",
+                    "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+                }
+            ],
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "Referred to the House Committee on Energy and Commerce.",
+            "type": "IntroReferral"
+        },
+        {
+            "actionCode": "Intro-H",
+            "actionDate": "2025-02-04",
+            "sourceSystem": {
+                "code": 9,
+                "name": "Library of Congress"
+            },
+            "text": "Introduced in House",
+            "type": "IntroReferral"
+        },
+        {
+            "actionCode": "1000",
+            "actionDate": "2025-02-04",
+            "sourceSystem": {
+                "code": 9,
+                "name": "Library of Congress"
+            },
+            "text": "Introduced in House",
+            "type": "IntroReferral"
+        }
+    ],
+    "pagination": {
+        "count": 23
+    },
+    "request": {
+        "billNumber": "35",
+        "billType": "hjres",
+        "billUrl": "https://api.congress.gov/v3/bill/119/hjres/35?format=json",
+        "congress": "119",
+        "contentType": "application/json",
+        "format": "json"
+    }
+}

@@ -1,0 +1,2499 @@
+<html>
+<head>
+<title>Federal Register, Volume 90 Issue 145 (Thursday, July 31, 2025)</title>
+</head>
+<body><pre>
+[Federal Register Volume 90, Number 145 (Thursday, July 31, 2025)]
+[Rules and Regulations]
+[Pages 35966-35985]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2025-14531]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+ENVIRONMENTAL PROTECTION AGENCY
+
+40 CFR Part 60
+
+[EPA-HQ-OAR-2025-0162; FRL-12675-01-OAR]
+RIN 2060-AW61
+
+
+Extension of Deadlines in Standards of Performance for New, 
+Reconstructed, and Modified Sources and Emissions Guidelines for 
+Existing Sources: Oil and Natural Gas Sector Climate Review Final Rule
+
+AGENCY: Environmental Protection Agency (EPA).
+
+ACTION: Interim final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The U.S. Environmental Protection Agency (EPA) is taking 
+interim final action to extend certain deadlines within the final rule 
+titled ``Standards of Performance for New, Reconstructed, and Modified 
+Sources and Emissions Guidelines for Existing Sources: Oil and Natural 
+Gas Sector Climate Review,'' 89 FR 16820 (March 8, 2024) (hereafter 
+``2024 final rule''). Specifically, the EPA is extending deadlines for 
+certain provisions related to control devices, equipment leaks, storage 
+vessels, process controllers, and covers/closed vent systems in 
+``Subpart
+
+[[Page 35967]]
+
+OOOOb--Standards of Performance for Crude Oil and Natural Gas 
+Facilities for Which Construction, Modification or Reconstruction 
+Commenced After December 6, 2022'' (NSPS OOOOb). The EPA also is 
+extending the date for future implementation of the SuperEmitter 
+Program. Finally, the EPA is extending the state plan submittal 
+deadline in ``Subpart OOOOc--Emissions Guidelines (EG) for Greenhouse 
+Gas Emissions From Existing Crude Oil and Natural Gas Facilities'' (EG 
+OOOOc). The EPA is requesting comments on all aspects of this interim 
+final rule and will consider all comments received in determining 
+whether amendments to this rule are appropriate after the conclusion of 
+the comment period.
+
+DATES: This interim final rule is effective on July 31, 2025. Comments 
+on this interim final rule must be received on or before September 2, 
+2025.
+
+ADDRESSES: You may send comments, identified by Docket ID No. EPA-HQ-
+OAR-2025-0162, by any of the following methods:
+    <bullet> Federal eRulemaking Portal: <a href="https://www.regulations.gov">https://www.regulations.gov</a> 
+(our preferred method). Follow the online instructions for submitting 
+comments.
+    <bullet> Email: <a href="/cdn-cgi/l/email-protection#92f3bff3fcf6bfe0bff6fdf1f9f7e6d2f7e2f3bcf5fde4"><span class="__cf_email__" data-cfemail="09682468676d247b246d666a626c7d496c7968276e667f">[email&#160;protected]</span></a>. Include Docket ID No. EPA-
+HQ-OAR-2025-0162 in the subject line of the message.
+    <bullet> Mail: U.S. Environmental Protection Agency, EPA Docket 
+Center, Docket ID No. EPAHQ-OAR-2025-0162, Mail Code 28221T, 1200 
+Pennsylvania Avenue NW, Washington, DC 20460.
+    <bullet> Hand/Courier Delivery: EPA Docket Center, WJC West 
+Building, Room 3334, 1301 Constitution Avenue NW, Washington, DC 20004. 
+The Docket Center's hours of operation are 8:30 a.m.-4:30 p.m., Monday-
+Friday (except Federal Holidays). Comments received may be posted 
+without change to <a href="https://www.regulations.gov">https://www.regulations.gov</a>, including any personal 
+information provided. For detailed instructions on sending comments, 
+see the ``Public Participation'' heading of the General Information 
+section of this document.
+
+FOR FURTHER INFORMATION CONTACT: Amy Hambrick, Sector Policies and 
+Programs Division (E143-05), 109 T.W. Alexander Drive, P.O. Box 12055, 
+Office of Air Quality Planning and Standards, United States 
+Environmental Protection Agency, Research Triangle Park, North Carolina 
+27711; telephone number: (919) 541-0964; and email address: 
+<a href="/cdn-cgi/l/email-protection#2e464f434c5c474d45004f43576e4b5e4f00494158"><span class="__cf_email__" data-cfemail="4129202c233328222a6f202c38012431206f262e37">[email&#160;protected]</span></a>. Individuals who are deaf or hard of hearing, as 
+well as individuals who have speech or communication disabilities may 
+use a relay service. To learn more about how to make an accessible 
+telephone call to any of the numbers shown in this document, visit the 
+web page for the relay service of the Federal Communications 
+Commission. Additional questions may be directed to the following email 
+address: <a href="/cdn-cgi/l/email-protection#1a553c5d577f6e727b747f486f767f5a7f6a7b347d756c"><span class="__cf_email__" data-cfemail="28670e6f654d5c4049464d7a5d444d684d5849064f475e">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+    Preamble acronyms and abbreviations. Throughout this document the 
+use of ``we,'' ``us,'' or ``our'' is intended to refer to the EPA. We 
+use multiple acronyms and terms in this preamble. While this list may 
+not be exhaustive, to ease the reading of this preamble and for 
+reference purposes, the EPA defines the following terms and acronyms 
+here:
+
+APA Administrative Procedure Act
+AVO audible, visual, and olfactory
+CAA Clean Air Act
+CBI Confidential Business Information
+CFR Code of Federal Regulations
+CRA Congressional Review Act
+CVS closed vent systems
+ECD enclosed combustion device
+EG emissions guidelines
+EPA Environmental Protection Agency
+FR Federal Register
+GC gas chromatograph
+GHG greenhouse gas
+LPE legally and practicably enforceable
+Mcf thousand cubic feet
+MS mass spectrometer
+NAICS North American Industry Classification System
+NIE no identifiable emissions
+NHV net heating value
+NHV<INF>cz</INF> combustion zone net heating value
+NHV<INF>dil</INF> dilution parameter net heating value
+NSPS new source performance standards
+OGI optical gas imaging
+OMB Office of Management and Budget
+ppmv parts per million by volume
+PRA Paperwork Reduction Act
+RFA Regulatory Flexibility Act
+RULOF remaining useful life and other factors
+SEP super emitter program
+SIP state implementation plan
+TOC total organic compounds
+tpy tons per year
+UMRA Unfunded Mandates Reform Act
+U.S.C. United States Code
+VOC volatile organic compound(s)
+
+    Organization of this document. The information in this preamble is 
+organized as follows:
+
+I. General Information
+    A. Public Participation
+    B. Potentially Affected Entities
+    C. Statutory Authority
+    D. Judicial Review and Administrative Review
+II. Regulatory Revisions
+    A. Background and Summary
+    B. Deadline Extensions for NSPS OOOOb
+    C. Deadline Extensions for EG OOOOc
+III. Rulemaking Procedures
+IV. Request for Comment
+V. Statutory and Executive Order Reviews
+    A. Executive Order 12866: Regulatory Planning and Review and 
+Executive Order 13563: Improving Regulation and Regulatory Review
+    B. Executive Order 14192: Unleashing Prosperity Through 
+Deregulation
+    C. Paperwork Reduction Act (PRA)
+    D. Regulatory Flexibility Act (RFA)
+    E. Unfunded Mandates Reform Act of 1995 (UMRA)
+    F. Executive Order 13132: Federalism
+    G. Executive Order 13175: Consultation and Coordination With 
+Indian Tribal Governments
+    H. Executive Order 13045: Protection of Children From 
+Environmental Health Risks and Safety Risks
+    I. Executive Order 13211: Actions Concerning Regulations That 
+Significantly Affect Energy Supply, Distribution, or Use
+    J. National Technology Transfer and Advancement Act (NTTAA) and 
+1 CFR Part 51
+    K. Congressional Review Act (CRA)
+
+I. General Information
+
+A. Public Participation
+
+    Submit your written comments, identified by Docket ID No. EPA-HQ-
+OAR-2025-0162, at <a href="https://www.regulations.gov">https://www.regulations.gov</a> (our preferred method), 
+or by the other methods identified in the ADDRESSES section. Once 
+submitted, comments cannot be edited or removed from the docket. The 
+EPA may publish any comment received to its public docket. Do not 
+submit to the EPA's docket at <a href="https://www.regulations.gov">https://www.regulations.gov</a> any 
+information you consider to be Confidential Business Information (CBI) 
+or other information whose disclosure is restricted by statute. This 
+type of information should be submitted as discussed in the Submitting 
+CBI section of this document. Multimedia submissions (audio, video, 
+etc.) must be accompanied by a written comment. The written comment is 
+considered the official comment and should include discussion of all 
+points you wish to make. The EPA will generally not consider comments 
+or comment contents located outside of the primary submission (i.e., on 
+the web, cloud, or other file sharing system). Please visit <a href="https://www.epa.gov/dockets/commenting-epa-dockets">https://www.epa.gov/dockets/commenting-epa-dockets</a> for additional submission 
+methods; the full EPA public comment policy; information about CBI or 
+multimedia submissions; and general guidance on making effective 
+comments.
+    Submitting CBI. Do not submit information containing CBI to the EPA 
+through <a href="https://www.regulations.gov">https://www.regulations.gov</a>. Clearly mark the part or all the 
+information that you claim to be CBI. For CBI on any digital storage 
+media
+
+[[Page 35968]]
+
+that you mail to the EPA, note the docket ID, mark the outside of the 
+digital storage media as CBI, and identify electronically within the 
+digital storage media the specific information that is claimed as CBI. 
+In addition to one complete version of the comments that includes 
+information claimed as CBI, you must submit a copy of the comments that 
+does not contain the information claimed as CBI directly to the public 
+docket through the procedures outlined in the Public Participation 
+section of this document. If you submit any digital storage media that 
+does not contain CBI, mark the outside of the digital storage media 
+clearly that it does not contain CBI and note the docket ID. 
+Information not marked as CBI will be included in the public docket and 
+the EPA's electronic public docket without prior notice. Information 
+marked as CBI will not be disclosed except in accordance with 
+procedures set forth in 40 Code of Federal Regulations (CFR) part 2.
+    Our preferred method to receive CBI is for it to be transmitted 
+electronically using email attachments, File Transfer Protocol (FTP), 
+or other online file sharing services (e.g., Dropbox, OneDrive, Google 
+Drive). Electronic submissions must be transmitted directly to the 
+OAQPS CBI Office at the email address <a href="/cdn-cgi/l/email-protection#fd929c8c8d8ea29e9f94bd988d9cd39a928b"><span class="__cf_email__" data-cfemail="f49b95858487ab97969db4918495da939b82">[email&#160;protected]</span></a>, and as 
+described above, should include clear CBI markings, and note the docket 
+ID. If assistance is needed with submitting large electronic files that 
+exceed the file size limit for email attachments, and if you do not 
+have your own file sharing service, please email <a href="/cdn-cgi/l/email-protection#7a151b0b0a09251918133a1f0a1b541d150c"><span class="__cf_email__" data-cfemail="4a252b3b3a39152928230a2f3a2b642d253c">[email&#160;protected]</span></a> to 
+request a file transfer link. If sending CBI information through the 
+postal service, please send it to the following address: OAQPS Document 
+Control Officer (C404-02), OAQPS, U.S. Environmental Protection Agency, 
+109 T.W. Alexander Drive, P.O. Box 12055, Research Triangle Park, North 
+Carolina 27711, Attention Docket ID No. EPA-HQ-OAR-2025-0162. The 
+mailed CBI material should be double wrapped and clearly marked. Any 
+CBI markings should not show through the outer envelope.
+
+B. Potentially Affected Entities
+
+    The source category that is the subject of this action is the Crude 
+Oil and Natural Gas source category, regulated under Clean Air Act 
+(CAA) section 111. The North American Industry Classification System 
+(NAICS) codes for the industrial source categories affected by the new 
+source performance standards (NSPS) portion of this action are 
+summarized in table 1.
+
+       Table 1--Industrial Source Categories Affected by the NSPS
+------------------------------------------------------------------------
+                                                  Examples of regulated
+            Category             NAICS code \1\          entities
+------------------------------------------------------------------------
+Industry.......................          211120  Crude Petroleum
+                                                  Extraction.
+                                         211130  Natural Gas Extraction.
+                                         221210  Natural Gas
+                                                  Distribution.
+                                         486110  Pipeline Distribution
+                                                  of Crude Oil.
+                                         486210  Pipeline Transportation
+                                                  of Natural Gas.
+Federal Government.............  ..............  Not affected.
+State and Local Government.....  ..............  Not affected.
+Tribal Government..............          921150  American Indian and
+                                                  Alaska Native Tribal
+                                                  Governments.
+------------------------------------------------------------------------
+\1\ North American Industry Classification System (NAICS).
+
+    This table is not intended to be exhaustive, but rather to provide 
+a guide for readers regarding entities likely to be affected by the 
+deadline extensions. Other types of entities not listed in the table 
+could also be affected by this action. To determine whether your entity 
+is affected by any of the deadline extensions in this action, you 
+should carefully examine the applicability criteria found in NSPS 
+OOOOb. If you have questions regarding the applicability of this action 
+to a particular entity, consult the person listed in the FOR FURTHER 
+INFORMATION CONTACT section.
+    The deadline extensions in EG OOOOc does not impose binding 
+requirements directly on existing sources. The EG codified in 40 CFR 
+part 60, subpart OOOOc, applies to states in the development, 
+submittal, and implementation of state plans to establish performance 
+standards to reduce emissions of greenhouse gases (GHG) from designated 
+facilities that are existing sources on or before December 6, 2022. 
+Under the Tribal Authority Rule (TAR), eligible tribes may seek 
+approval to implement a plan under CAA section 111(d) in a manner 
+similar to a state. See 40 CFR part 49, subpart A. Tribes may, but are 
+not required to, seek approval for treatment in a manner similar to a 
+state for purposes of developing a tribal implementation plan (TIP) 
+implementing the EG codified in 40 CFR part 60, subpart OOOOc. The TAR 
+authorizes tribes to develop and implement their own air quality 
+programs, or portions thereof, under the CAA. However, it does not 
+require tribes to develop a CAA program. Tribes may implement programs 
+that are most relevant to their air quality needs. If a tribe does not 
+seek and obtain the authority from the EPA to establish a TIP, the EPA 
+has the authority to establish a Federal CAA section 111(d) plan for 
+designated facilities that are located in areas of Indian country.\1\ A 
+Federal plan would apply to all designated facilities located in the 
+areas of Indian country covered by the Federal plan unless and until 
+the EPA approves a TIP applicable to those facilities.
+---------------------------------------------------------------------------
+
+    \1\ See the EPA's website, <a href="https://www.epa.gov/tribal/tribes-approved-treatment-state-tas">https://www.epa.gov/tribal/tribes-approved-treatment-state-tas</a>, for information on those tribes that 
+have treatment as a state for specific environmental regulatory 
+programs, administrative functions, and grant programs.
+---------------------------------------------------------------------------
+
+C. Statutory Authority
+
+    Statutory authority to issue the amendments finalized in this 
+action is provided by the same CAA provisions that provided authority 
+to issue the regulations being amended: CAA section 111(b)(1)(B) 
+(requirement to review, and if appropriate, revise, standards of 
+performance for new sources at least every 8 years) and CAA section 
+111(d) (requirement to issue EG for existing sources for certain 
+pollutants to which a NSPS would apply if such existing source were a 
+new source). These statutory provisions, along with administrative 
+agencies' authority to reconsider prior regulations, provide the EPA's 
+statutory authority for the targeted amendments to compliance deadlines 
+finalized in this action.\2\
+---------------------------------------------------------------------------
+
+    \2\ See FDA v. Wages & White Lion Invs., LLC, 145 S. Ct. 898 
+(2025); FCC v. Fox TV Stations, Inc., 556 U.S. 502 (2009); Motor 
+Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 
+(1983).
+
+---------------------------------------------------------------------------
+
+[[Page 35969]]
+
+    Statutory authority for the rulemaking procedures followed in this 
+action is provided by Administrative Procedure Act (APA) section 
+553(b)(B), 5 United States Code (U.S.C.) 553(b)(B) (good cause 
+exception to notice-and-comment rulemaking), and statutory authority 
+for making this action, which meets the criteria under 5 U.S.C. 804(2), 
+effectively immediately is provided by 5 U.S.C. 808(2). As explained in 
+section III of this preamble, the EPA finds good cause to forego prior 
+notice and comment because such procedures are unnecessary and 
+impracticable under the circumstances detailed in section II of this 
+preamble.
+
+D. Judicial Review and Administrative Review
+
+    Under CAA section 307(b)(1), judicial review of this final action 
+is available only by filing a petition for review in the United States 
+Court of Appeals for the District of Columbia Circuit by September 29, 
+2025. Under CAA section 307(b)(2), the requirements established by this 
+final action may not be challenged separately in any civil or criminal 
+proceedings brought by the EPA to enforce the requirements.
+
+II. Regulatory Revisions
+
+A. Background and Summary
+
+    On November 15, 2021, the EPA published a proposed rule (``November 
+2021 Proposal'') to reduce GHG and volatile organic compound (VOC) 
+emissions from the oil and natural gas industry,\3\ specifically the 
+Crude Oil and Natural Gas source category.<SUP>4 5</SUP> In the 
+November 2021 Proposal, the EPA proposed revised standards of 
+performance under CAA section 111(b) for GHG and VOC emissions from 
+new, modified, and reconstructed sources in this source category, as 
+well as changes to standards of performance already codified at 40 CFR 
+part 60, subparts OOOO and OOOOa. The EPA also proposed EG under CAA 
+section 111(d) for GHG emissions from existing sources.\6\ The EPA also 
+updated the NSPS OOOO and NSPS OOOOa provisions in the Code of Federal 
+Regulations (CFR) in response to Congress' disapproval of the EPA's 
+final rule titled, ``Oil and Natural Gas Sector: Emission Standards for 
+New, Reconstructed, and Modified Sources Review,'' September 14, 2020 
+(``2020 Policy Rule''), under the CRA. Lastly, the EPA proposed a 
+protocol under the NSPS general provisions for optical gas imaging 
+(OGI).
+---------------------------------------------------------------------------
+
+    \3\ The EPA characterizes the oil and natural gas industry 
+operations as being generally composed of 4 segments: (1) Extraction 
+and production of crude oil and natural gas (``oil and natural gas 
+production''), (2) natural gas processing, (3) natural gas 
+transmission and storage, and (4) natural gas distribution.
+    \4\ ``Standards of Performance for New, Reconstructed, and 
+Modified Sources and Emissions Guidelines for Existing Sources: Oil 
+and Natural Gas Sector Climate Review.'' Proposed rule. 86 FR 63110 
+(November 15, 2021).
+    \5\ The EPA defines the Crude Oil and Natural Gas source 
+category to mean: (1) crude oil production, which includes the well 
+and extends to the point of custody transfer to the crude oil 
+transmission pipeline or any other forms of transportation; and (2) 
+natural gas production, processing, transmission, and storage, which 
+include the well and extend to, but do not include, the local 
+distribution company custody transfer station, commonly referred to 
+as the ``city-gate.''
+    \6\ The term ``designated facility'' means ``any existing 
+facility which emits a designated pollutant and which would be 
+subject to a standard of performance for that pollutant if the 
+existing facility were an affected facility.'' See 40 CFR 60.21a(b).
+---------------------------------------------------------------------------
+
+    On December 6, 2022, the EPA published a supplemental proposed rule 
+(``December 2022 Supplemental Proposal'') that was composed of two main 
+additions.\7\ First, the EPA proposed to update, tighten, and expand 
+the NSPS OOOOb standards proposed in November 2021 under CAA section 
+111(b) for GHG and VOC emissions from new, modified, and reconstructed 
+sources. Second, the EPA proposed to update, tighten, and expand the EG 
+OOOOc presumptive standards proposed in November 2021 under CAA section 
+111(d) for GHG emissions from existing sources. For purposes of EG 
+OOOOc, the EPA also proposed implementation requirements for state 
+plans.
+---------------------------------------------------------------------------
+
+    \7\ ``Standards of Performance for New, Reconstructed, and 
+Modified Sources and Emissions Guidelines for Existing Sources: Oil 
+and Natural Gas Sector Climate Review.'' Supplemental notice of 
+proposed rulemaking. 87 FR 74702 (December 6, 2022).
+---------------------------------------------------------------------------
+
+    On March 8, 2024, the EPA published a final rule for the Crude Oil 
+and Natural Gas source category under CAA section 111(b) and (d). 
+First, the EPA finalized NSPS OOOOb for GHG and VOC emissions from new, 
+modified, and reconstructed sources in this source category. Second, 
+the EPA finalized EG OOOOc for GHG emissions from existing sources in 
+this source category. Third, the EPA finalized various amendments in 
+response to Congress' disapproval of the 2020 Policy Rule. The 2024 
+final rule became effective on May 7, 2024.
+    After publication of the 2024 final rule, the EPA received multiple 
+petitions for reconsideration and has now determined, through ongoing 
+and recent communications with stakeholders and review of the relevant 
+regulatory language, that certain discrete provisions in the final rule 
+present immediate problems related to compliance. The issues raised in 
+petitions for reconsideration that are relevant to this interim final 
+rule are described in individual sections below. In this action, the 
+EPA is amending certain compliance deadlines and timeframes for 
+implementation in response to information received after promulgation 
+of the 2024 final rule to address legitimate concerns, raised by 
+stakeholders, that certain regulatory provisions are not currently 
+workable or contain problematic regulatory language that frustrates 
+compliance.
+    The 2024 final rule is extensive, covering many individual 
+emissions sources of different types at thousands of facilities in the 
+oil and natural gas source category across the country. As explained in 
+more detail in the sections below, the 2024 rule included several 
+provisions that subsequent developments have shown to be untenable from 
+a compliance perspective on the original timeframes set out in the 2024 
+rule. These timing difficulties were not anticipated in or intended by 
+the 2024 rule, and it is in the public interest and consistent with the 
+purposes of the CAA to provide regulated entities sufficient time to 
+achieve the emissions reductions envisioned by the 2024 rule. Based on 
+information received in petitions for reconsideration and from ongoing 
+conversations with regulated entities, the EPA finds that the targeted 
+revisions to compliance deadlines set forth below are necessary, 
+appropriate, and consistent with the purposes of the 2024 rule and the 
+CAA.
+    Each regulatory change included in this final action is severable 
+from the other. First, each of the deadlines amended in this action is 
+functionally independent from the others--i.e., may operate in practice 
+independently of the other requirements being amended here, such that 
+the amendment of a deadline in one set of requirements does not turn on 
+the amendment of a deadline in any other set of requirements. For 
+example, amendments to individual compliance deadlines in NSPS OOOOb 
+function separately from amendments to the state plan submittal 
+deadline in EG OOOOc. Similarly, amendments to the implementation 
+deadline for the Super-Emitter Program and amendments to timing for EPA 
+action on methane detection technology for use in the Super-Emitter 
+Program function separately from amendments to individual compliance 
+deadlines to other aspects of the 2024 final rule. Second, as explained 
+in section II.B of this preamble, the reasoning for each regulatory 
+change is distinct and independent from the others. For
+
+[[Page 35970]]
+
+example, amendments to individual compliance deadlines in NSPS OOOOb 
+are separately justified, based on the recent information received by 
+the Agency, from the amendments made to the state plan submittal 
+deadline in EG OOOOc based on recent information gathered by the Agency 
+on a distinct set of issues related to OOOOc. Similarly, amendments to 
+individual implementation deadlines for the SEP are separately 
+justified, based on information received by the Agency, from amendments 
+made in response to information received on distinct compliance issues 
+under the other provisions of the 2024 final rule.
+    The EPA continues to review other issues related to the 2024 final 
+rule that have been brought to the Agency's attention but are not 
+substantively addressed in this action.<SUP>8 9</SUP> Thus, this action 
+does not reopen the substance of the 2024 final rule or address the 
+substantive amendments requested in various petitions for 
+reconsideration. As noted in section IV of this preamble, the EPA seeks 
+comment on the compliance deadline amendments at issue in this action 
+and will consider appropriate revisions in reviewing comments. However, 
+the EPA does not seek comment on the substance of the 2024 final rule 
+and will seek and respond to comments on further amendments to the 
+substance of the 2024 final rule at an appropriate time in future 
+rulemaking.
+---------------------------------------------------------------------------
+
+    \8\ See 90 FR 3734. On January 15, 2025, the EPA proposed 
+amendments to NSPS OOOOb and EG OOOOc in response to petitions for 
+reconsideration. The January 2025 proposal includes discrete 
+technical changes to two aspects of the 2024 final rule. The two 
+issues addressed in the January 2025 proposal are temporary flaring 
+provisions for associated gas in certain situations and vent gas NHV 
+continuous monitoring requirements and alternative performance test 
+(sampling demonstration) option for flares and ECDs.
+    \9\ In a press release dated March 12, 2025, the EPA 
+Administrator announced various reconsideration efforts including 
+NSPS OOOOb and EG OOOOc. <a href="https://www.epa.gov/newsreleases/trump-epa-announces-oooo-bc-reconsideration-biden-harris-rules-strangling-american">https://www.epa.gov/newsreleases/trump-epa-announces-oooo-bc-reconsideration-biden-harris-rules-strangling-american</a>.
+---------------------------------------------------------------------------
+
+B. Deadline Extensions for NSPS OOOOb <SUP>10</SUP>
+---------------------------------------------------------------------------
+
+    \10\ Changes made to the SEP discussed in section II.B.6 of this 
+preamble also apply to 40 CFR part 60, subparts OOOO and OOOOa.
+---------------------------------------------------------------------------
+
+1. Control Devices
+    In the 2024 final rule, the EPA finalized monitoring requirements 
+for control devices that included vent gas net heating value (NHV) 
+continuous monitoring requirements and an alternative performance test 
+(sampling demonstration) option for flares and enclosed combustion 
+devices (ECDs). In the 2024 final rule, with exceptions for catalytic 
+vapor incinerators, boilers and process heaters, and enclosed 
+combustors where temperature is an indicator of destruction efficiency, 
+all flares and enclosed combustors must maintain the NHV of the gas 
+sent to the device above a minimum NHV if the combustion device is 
+pressure-assisted or uses no assist gas. If an owner or operator uses a 
+steam- or air-assisted flare or ECD, the owner or operator must 
+maintain the combustion zone NHV (NHV<INF>cz</INF>) above a minimum 
+level. If the owner or operator uses an air-assisted enclosed flare or 
+ECD, the owner or operator must maintain the NHV dilution parameter 
+(NHV<INF>dil</INF>) above a minimum level. The NHV<INF>cz</INF> and 
+NHV<INF>dil</INF> parameter terms account for the reduction in heating 
+value caused by the introduction of air or steam. These terms ensure 
+that the assist gas does not overwhelm the heating value provided by 
+the vent gas to the point where proper combustion is no longer 
+occurring. Owners or operators also have the option to apply to use an 
+alternative test method that either demonstrates continuous compliance 
+with the combustion efficiency limit or directly demonstrates 
+continuous compliance with the NHV<INF>cz</INF> operating limit and, if 
+applicable, the NHV<INF>dil</INF> operating limit.
+    For each flare or ECD used to control gases other than associated 
+gas from a well site affected facility, the owner or operator must 
+conduct continuous monitoring using a calorimeter, gas chromatograph 
+(GC), or mass spectrometer (MS) in order to determine the NHV of the 
+vent stream. As an alternative to continuous monitoring of NHV, the 
+owner or operator may conduct a performance test to demonstrate the NHV 
+of the vent stream consistently exceeds the applicable NHV operating 
+limit in one of two ways: (1) Continuous sampling for 14 consecutive 
+days plus ongoing (3 samples every 5 years) sampling, or (2) manual 
+sampling (twice daily for 14 consecutive days) plus ongoing (3 samples 
+every 5 years) sampling. The minimum collection time for each 
+individual, manually collected sample must be at least 1 hour. If inlet 
+gas flow is intermittent such that collecting 28 samples in 14 days is 
+infeasible, an owner or operator must continue to collect samples 
+beyond 14 days in order to collect a minimum of 28 samples. Owners or 
+operators also have the option to use an alternative test method 
+<SUP>11 12</SUP> that demonstrates continuous compliance with the 
+combustion efficiency limit. If there are no values of the combustion 
+efficiency measured by the alternative test method over the 14-day 
+period that are less than 95 percent, the gas stream is considered to 
+consistently exceed the applicable NHV operating limit, and the owner 
+or operator is not required to continuously monitor or conduct sampling 
+of the NHV of the inlet gas to the flare or ECD. Owners or operators of 
+steam-assisted and air-assisted enclosed combustors and flares also 
+must monitor the vent gas and assist gas flow rates and calculate 
+NHV<INF>cz</INF> and NHV<INF>dil</INF> in accordance with the 
+provisions in 40 CFR 63.670 (i.e., the refinery maximum achievable 
+control technology rule, or Refinery MACT). Alternatively, owners or 
+operators of air-assisted flares may provide a one-time demonstration 
+based on maximum air assist rates, minimum waste gas flow rates (based 
+on back pressure regulator setting), and minimum NHV from the most 
+recent sampling rather than continuously monitor vent gas and assist 
+gas flow rates.
+---------------------------------------------------------------------------
+
+    \11\ Under the provisions outlined in 40 CFR 60.5412b(d) and 
+60.5415b(f)(1)(xi), sources can request to use an ``equivalent 
+method'' pursuant to 40 CFR 60.8(b)(2), or ``an alternative method 
+the results of which [the Administrator] has determined to be 
+adequate for indicating whether a specific source is in compliance'' 
+pursuant to 40 CFR 60.8(b)(3). The EPA is currently accepting and 
+reviewing applications for alternative (ALT) test methods for NHV 
+monitoring in the oil and natural gas sector. See <a href="https://www.epa.gov/emc/oil-andgas-alternative-test-methods#:">https://www.epa.gov/emc/oil-andgas-alternative-test-methods#:</a>~:text=The%20application%20portal%20can%20be,Air%20Emission%
+20Measurement%20Center%20web page. Since the rule's publication date 
+of March 8, 2024, two alternative test method requests have been 
+approved by the EPA for use under NSPS subpart OOOOb: (1) ALT-156 
+Alternative Test Method to monitor the NHV of the flare combustion 
+zone at facilities Subject to NSPS OOOOb and (2) ALT-157 Alternative 
+Test Method for determining NHV from gas sent to an ECD or Flare 
+subject to NSPS OOOOb. A list of the EPA's approved alternative test 
+methods can be found at <a href="https://www.epa.gov/emc/broadlyapplicable-approved-alternative-test-methods">https://www.epa.gov/emc/broadlyapplicable-approved-alternative-test-methods</a>.
+    \12\ Per 40 CFR 60.8(b)(5), the EPA has more general authority 
+to approve alternative test methods involving ``shorter sampling 
+times and smaller sample volumes when necessitated by process 
+variables or other factors.''
+---------------------------------------------------------------------------
+
+    Multiple petitions for reconsideration and communications with 
+stakeholders after promulgation of the 2024 final rule raised concerns 
+regarding the availability of equipment and personnel necessary \13\ to 
+comply with the NHV provisions in the 2024 final rule. Due to the 
+thousands of control devices immediately subject to the OOOOb NHV 
+requirements, number of samples required to be taken, and existing 
+supply chain constraints for monitoring equipment and sampling 
+vendors,\14\ petitioners have credibly asserted that
+
+[[Page 35971]]
+
+compliance would be very challenging to achieve within the compliance 
+timeline.\15\ Moreover, petitioners credibly asserted that even if the 
+samples could be taken within the prescribed period, there is also 
+insufficient analytical laboratory capacity to conduct the necessary 
+analyses for each sample in a timely manner. One of the petitioners 
+stated that vent gas flow from midstream sources to control devices 
+tends to be sporadic and at low pressure and this is particularly true 
+for storage vessels that either have low flows generally or have 
+pressure control valves that only release short bursts of gas to 
+control devices.\16\ Other stakeholders added that even if continuous 
+monitoring was technically feasible, there is a lack of available 
+monitoring equipment,\17\ and that it will take owners and operators 
+several months to procure continuous monitoring equipment and 
+installation will take additional time. Furthermore, stakeholders have 
+credibly asserted that discussions with vendors indicated that 
+calorimeters would take between 8 to 12 weeks for delivery and 
+continuous monitoring devices will take up to 26 weeks \18\ with 
+installation requiring an additional 2 to 3 weeks.\19\
+---------------------------------------------------------------------------
+
+    \13\ See EPA-HQ-OAR-2024-0358-0023 attachment 1 at page 9.
+    \14\ See EPA-HQ-OAR-2024-0358-0016 at page 6.
+    \15\ See EPA-HQ-OAR-2024-0358-0009 at page 1.
+    \16\ See EPA-HQ-OAR-2024-0358-0016 at page 6.
+    \17\ See EPA-HQ-OAR-2024-0358-0020 attachment 3 at page 5.
+    \18\ See EPA-HQ-OAR-2024-0358-0020 attachment 3 at page 13.
+    \19\ See EPA-HQ-OAR-2024-0358-0013 at pages 2-3.
+---------------------------------------------------------------------------
+
+    Additionally, one of the petitioners credibly asserted that the 
+2024 final rule does not provide an adequate period of time to perform 
+the alternative testing procedures under 40 CFR 60.5412b(d) and does 
+not provide any time for testing at all, putting owners and operators 
+at risk of being deemed out of compliance for operating a modified 
+source before and during testing. The petitioner added that the 
+alternative testing protocol (40 CFR 60.5312b(d)(1)-(5)) requires the 
+combustion device to already be operating in order to determine 
+destruction efficiency and inspect for visible emissions, unlike 
+continuous monitoring, which can be installed prior to the startup of a 
+new source. Therefore, petitioners stated that full compliance with the 
+current deadlines across the industry is not feasible. These concerns 
+have been reiterated \20\ in public comments submitted by industry 
+groups on the EPA's proposed reconsideration related to NHV 
+monitoring.\21\ Commenters have pointed out that testing equipment 
+requires significant lead times, often multiple months in advance.\22\
+---------------------------------------------------------------------------
+
+    \20\ See EPA-HQ-OAR-2024-0358-0083 at page 16, submitted to the 
+EPA on March 4, 2025.
+    \21\ On January 15, 2025, the EPA proposed amendments to the 
+2024 final rule based on reconsideration of two discrete issues 
+related to NHV monitoring and temporary flaring. See 90 FR 3734 for 
+the January 2025 reconsideration proposal. See Docket ID No. EPA-HQ-
+OAR-2024-0358 for public comments submitted on the January 2025 
+reconsideration proposal.
+    \22\ See EPA-HQ-OAR-2024-0358-0046 at page 8.
+---------------------------------------------------------------------------
+
+    In the 2024 final rule, in addition to the NHV requirements 
+described in this section, the EPA also finalized performance testing 
+requirements for ECDs applicable to well, centrifugal compressor, 
+reciprocating compressor, storage vessel, process controller, pump, or 
+process unit equipment affected facilities. These performance test 
+requirements consist of a minimum of 3 test runs at least 1 hour long 
+at the inlet of the first control device and at the outlet of the final 
+control device to determine compliance with a total organic compound 
+(TOC) percent reduction requirement of 95.0 percent by weight or 
+greater, or reduce the concentration of TOC in the exhaust gases at the 
+outlet to the control device to a level equal to or less than 275 ppmv 
+as propane on a wet basis corrected to 3 percent oxygen.
+    According to reconsideration petitioners, the performance testing 
+provisions for ECDs are currently untenable for NSPS OOOOb control 
+devices. Due to the sheer volume of ECDs that require testing under 
+NSPS OOOOb, coupled with the limited number of specialized source 
+testing firms that are available to perform these tests, the 
+petitioners stated that additional time is needed to conduct 
+performance testing for ECDs at affected facilities constructed, 
+modified, or reconstructed since December 6, 2022. The petitioners also 
+expressed concerns over the workload and backlog for the EPA or 
+delegated state and local authorities to process alternative 
+performance testing requests for potentially hundreds of ECD test 
+programs. The petitioners credibly asserted that relying on delegated 
+authorities to address performance testing issues provides no solution 
+on most tribal lands, where the EPA is often the sole agency 
+responsible for implementing NSPS OOOOb.\23\ Petitioners stated that 
+while owners and operators utilizing ECDs to comply with standards in a 
+state or Federal plan under EG OOOOc will likely have years to address 
+these challenges, these performance testing issues present an immediate 
+and untenable scenario for NSPS OOOOb control devices.
+---------------------------------------------------------------------------
+
+    \23\ See EPA-HQ-OAR-2024-0358-0009 at page 5.
+---------------------------------------------------------------------------
+
+    The petitioners expressed additional concerns over the amount of 
+time required (i.e., minimum test run duration) and the need for 
+supplemental gas to conduct three 1-hour test runs on sources that have 
+intermittent flow (e.g., storage vessels). A testing crew is typically 
+able to conduct up to two performance tests per day where vapor flow is 
+sufficient. Where vapor flow is low and/or intermittent, as can be the 
+case for many storage vessels, it may take multiple days of waiting to 
+find a window with sufficient flow to accommodate a 1-hour test run, 
+and in many cases, there will never be sufficient vapor flow to 
+accommodate a 1-hour test run under normal operating conditions. 
+Therefore, petitioners stated, performing these tests as prescribed in 
+the 2024 final rule is not always feasible.
+    Additionally, petitioners stated the installation of monitoring 
+equipment or sampling ports on existing ECDs requires specialized ``hot 
+tap'' work. A ``hot tap'' requires specialized vendors and a site 
+shutdown to perform this work. This work exacerbates the already 
+challenging compliance timeline given the existing supply chain 
+constraints, which will prevent most affected facilities from obtaining 
+the necessary monitoring equipment, and the large number of needed 
+retrofits.\24\ Therefore, petitioners said this work cannot be 
+accomplished across the industry prior to the deadline for compliance 
+demonstrations.
+---------------------------------------------------------------------------
+
+    \24\ See EPA-HQ-OAR-2024-0358-0009 at page 2 and attachment 1 to 
+the petition.
+---------------------------------------------------------------------------
+
+    In this action, the EPA is extending the compliance dates related 
+to NHV monitoring of flares and ECDs found in 40 CFR 60.5417b(d)(8)(i) 
+through (iv) and (vi) by 120 days from publication of this interim 
+final rule to address the supply chain, personnel, and laboratory 
+limitations identified by petitioners which make compliance with the 
+requirements promulgated in the 2024 final rule infeasible. On January 
+15, 2025, the EPA proposed amendments to the NSPS and EG related to NHV 
+requirements based on reconsideration petitions. The Agency is working 
+towards finalizing those amendments and expects a final rule to be 
+issued soon. Because a separate rulemaking action will address the 
+substantive problems raised with the NHV provisions in the 2024 final 
+rule, we have determined that an extension to November 28, 2025 is 
+sufficient for present purposes. The EPA solicits comments on this 
+extension of 120 days.
+
+[[Page 35972]]
+
+If, based on comments or otherwise, additional adjustment to the 
+compliance timeline for the NHV requirements is needed, the EPA may 
+address that issue via additional amendments following this action, 
+including potentially in the separate reconsideration action.
+    Additionally, the EPA is extending the requirement to conduct 
+performance tests on ECDs in 40 CFR 60.5413b(b) until January 22, 2027 
+to provide affected facilities sufficient lead time to retrofit sources 
+and to plan and execute the performance tests required by the final 
+rule. The EPA notes that even though the Agency is extending the 
+deadline to complete the prescribed NHV monitoring on these source 
+types, the visible emission observation requirements of 40 CFR 
+60.5417b(d)(8)(v) will continue to apply in order for sources to 
+demonstrate compliance with the prescribed emission standards as of the 
+2024 final rule effective date of May 7, 2024, or 180 days after 
+startup, whichever is later, as required in 40 CFR 60.5370b(a)(9)(ii).
+2. Covers and Closed Vent Systems
+    As in NSPS OOOO and OOOOa, NSPS OOOOb contains requirements for 
+closed vent systems (CVS) and covers.\25\ CVS route emissions from well 
+(i.e., oil wells when routing associated gas to a control device), 
+centrifugal compressor, reciprocating compressor, process controller, 
+pump, storage vessel and process unit affected facilities to a control 
+device or to a process. Pursuant to the 2024 final rule, each CVS used 
+for compliance with an NSPS OOOOb standard must be designed and 
+operated to capture and route all gases, vapors, and fumes to a process 
+or to a control device with ``no identifiable emissions'' (NIE) and 
+these systems must be inspected within 30 days of startup of the 
+affected facility and annually thereafter to verify NIE. Covers must 
+form a continuous impermeable barrier over the entire surface area of 
+the liquid in the storage vessel, over the centrifugal compressor wet 
+seal fluid degassing system, or over the reciprocating compressor rod 
+packing emissions collection system. Each cover opening shall be 
+secured in a closed, sealed position (e.g., covered by a gasketed lid 
+or cap) whenever material is in the unit on which the cover is 
+installed, except during those times when it is necessary to use an 
+opening, such as to inspect equipment or to remove material from the 
+equipment.
+---------------------------------------------------------------------------
+
+    \25\ Also, as in NSPS OOOOa, CVS and covers that are not 
+associated with an affected facility are fugitive emissions 
+components.
+---------------------------------------------------------------------------
+
+    Under the final 2024 rule, initial and continuous compliance of the 
+NIE requirement can be demonstrated through OGI, EPA Method 21, or 
+audio, visual and olfactory inspections (AVO) inspections conducted at 
+the same frequency as the fugitive emissions monitoring for the type of 
+site where the cover and CVS are located. Alternatively, an owner or 
+operator could demonstrate ongoing compliance with the NIE requirement 
+for covers and CVS using the periodic screening or continuous 
+monitoring requirements for advanced methane detection technologies in 
+40 CFR 60.5398b. Where AVO inspections are required, the CVS and cover 
+are determined to operate with NIE if no emissions are detected by AVO 
+means. Where OGI monitoring is conducted, the CVS and cover are 
+determined to operate with NIE if no emissions are imaged by the OGI 
+camera. Where EPA Method 21 monitoring is conducted, the CVS and covers 
+are determined to operate with NIE if the readings obtained using EPA 
+Method 21 are less than 500 parts per million by volume (ppmv) above 
+background. Emissions detected by AVO, OGI, or EPA Method 21 constitute 
+a deviation of the NIE requirement until a subsequent inspection 
+determines that the CVS and cover operate with NIE. Where monitoring is 
+conducted using advanced methane detection technologies, covers and CVS 
+are determined to operate with NIE if no emissions are detected by the 
+periodic screening survey or, where continuous monitoring is conducted, 
+the site remains under the action levels. If emissions are detected 
+from the site during a periodic screening survey or the site exceeds an 
+action level, the cover and CVS are still determined to operate with 
+NIE unless a follow-up inspection with EPA Method 21, OGI, or AVO 
+indicates that the cover and CVS do not operate with NIE.
+    Each CVS must be inspected to ensure that the CVS operates with NIE 
+initially within 30 calendar days after startup of the affected 
+facility routing emissions through the CVS. Specifically, for the well 
+sites and centralized production facilities where a CVS is present, 
+quarterly OGI or EPA Method 21 and bimonthly AVO would be required; for 
+compressor stations, quarterly OGI or EPA Method 21 and monthly AVO 
+would be required. For CVS and covers located at onshore natural gas 
+processing plants, AVO inspections are required annually and instrument 
+monitoring for NIE must be conducted either bimonthly with OGI 
+following the procedures in appendix K or quarterly in accordance with 
+EPA Method 21. For CVS joints, seams, and connections that are 
+permanently or semi-permanently sealed, owners and operators are not 
+required to conduct periodic instrument monitoring with OGI or EPA 
+Method 21, but the owner or operator must still conduct initial 
+instrument monitoring and periodic AVO monitoring. Additionally, annual 
+visual inspections must be conducted for all CVS to check for defects, 
+such as cracks, holes, or gaps. If the CVS is equipped with a bypass, 
+the bypass must include a flow monitor and sound an alarm to alert 
+personnel or send a notification via remote alarm to the nearest field 
+office that a bypass is being diverted to the atmosphere, or it must be 
+equipped with a car-seal or lock-and-key configuration to ensure the 
+valve remains in a non-diverting position. To ensure proper design, an 
+assessment of the CVS must be conducted and certified by a qualified 
+professional engineer or inhouse engineer.
+    Any emissions or defects detected during an inspection of a cover 
+or CVS is subject to repair, with a first attempt at repair within 5 
+days after detecting the emissions or defect and final repair within 30 
+days after detecting the emissions or defect. While awaiting final 
+repair, covers must have a gasket-compatible grease applied to improve 
+the seal. Delay of repair is allowed where the repair is infeasible 
+without a shutdown, or it is determined that immediate repair would 
+result in emissions greater than delaying repair. In all instances, 
+repairs must be completed by the end of the next shutdown. Owners and 
+operators may designate parts of the CVS as unsafe to inspect or 
+difficult to inspect but must have a written plan of the inspection of 
+this equipment. Equipment that is unsafe to inspect would expose 
+inspecting personnel to an imminent potential danger; this equipment 
+must be inspected as frequently as practicable, during safe to inspect 
+times. Equipment that is difficult to inspect would require elevating 
+inspecting personnel more than 2 meters above a support surface; this 
+equipment must be inspected at least once every 5 years.
+    As to this set of issues, the reconsideration petitioners have 
+credibly asserted that it is not technically achievable over the long-
+term to maintain NIE compliance with these systems.\26\ They state that 
+fugitive emissions will occur over time due to normal wear and tear 
+during typical operation of the equipment and leak
+
+[[Page 35973]]
+
+detection and repair (LDAR) programs are typically designed to allow 
+operators to address them promptly and responsibly.\27\ The petitioners 
+state that affected facilities will not be able to prevent inevitable 
+minor fugitive emissions from covers and CVS, and thus the requirement 
+to achieve and maintain NIE is untenable. According to the petitioners, 
+this unrealistic requirement will inevitably yield widespread non-
+compliance with the NIE requirements in the 2024 final rule due to 
+normal operation of these affected sources because detected leaks are 
+treated as deviations without first allowing for repair.\28\ These 
+concerns related to compliance with a requirement viewed as unworkable 
+have been reiterated by stakeholders in subsequent meetings with the 
+EPA.<SUP>29 30</SUP>
+---------------------------------------------------------------------------
+
+    \26\ See EPA-HQ-OAR-2024-0358-0009 at page 7.
+    \27\ See EPA-HQ-OAR-2024-0358-0012 at page 1.
+    \28\ See EPA-HQ-OAR-2024-0358-0013 at page 14.
+    \29\ See EPA-HQ-OAR-2024-0358-0046 at page 16.
+    \30\ See EPA-HQ-OAR-2024-0358-0023 at page 16.
+---------------------------------------------------------------------------
+
+    In this action, the EPA is extending the compliance date for NIE 
+requirements until January 22, 2027. Based on information received 
+since promulgation of the 2024 final rule, the EPA has serious concerns 
+regarding the ability of owners/operators to meet the NIE inspection 
+requirements in the 2024 rule on the existing compliance schedule and 
+finds it necessary, appropriate, and in the public interest to extend 
+the compliance deadline given credible workability concerns. We note 
+that other compliance requirements for affected facilities that would 
+otherwise be subject to NIE requirements continue to apply consistent 
+with the substantive requirements and goals of the 2024 final rule. In 
+other words, owners and operators still must design and install a CVS 
+and perform initial and ongoing inspections to ensure that the system 
+has no leaks consistent with the requirements of the 2024 final rule 
+and repair any leaks that are found within 30 days. The only 
+requirements that are being delayed are the inspections to confirm that 
+systems operate with NIE during which identifying a leak would be 
+considered a deviation of the standard.
+3. Equipment Leaks
+    In the 2024 final rule, the EPA promulgated requirements for 
+equipment leaks that included provisions for repairs when equipment 
+leaks are detected. For each valve where a leak is detected, regulated 
+entities must comply by repacking the existing valve with a low 
+emitting (low-E) packing, replacing the existing valve with a low-E 
+valve; or performing a drill and tap repair with a low-E injectable 
+packing.\31\ An owner or operator is not required to utilize a low-E 
+valve or low-E packing to replace or repack a valve if the owner or 
+operator demonstrates that a low-E valve or low-E packing is not 
+technically feasible. Low-E valve or low-E packing that is not suitable 
+for its intended use is considered to be technically infeasible. 
+Factors that may be considered in determining technical infeasibility 
+include the following: retrofit requirements for installation (e.g., 
+re-piping or space limitation), commercial unavailability for valve 
+type, or certain instrumentation assemblies.
+---------------------------------------------------------------------------
+
+    \31\ The 2024 final rule includes the following definitions: 
+Low-e valve means a valve (including its specific packing assembly) 
+for which the manufacturer has issued a written warranty or 
+performance guarantee that it will not emit fugitives at greater 
+than 100 ppm in the first five years. A valve may qualify as a low-e 
+valve if it is as an extension of another valve that has qualified 
+as a low-e valve. Low-e packing means a valve packing product for 
+which the manufacturer has issued a written warranty or performance 
+guarantee that it will not emit fugitives at greater than 100 ppm in 
+the first five years. Low-e injectable packing is a type of low-e 
+packing product for which the manufacturer has also issued a written 
+warranty or performance guarantee and that can be injected into a 
+valve during a ``drill-and-tap'' repair of the valve.
+---------------------------------------------------------------------------
+
+    Reconsideration petitioners have credibly asserted that requiring 
+replacement of leaking valves with low-E valves without first providing 
+an opportunity for an attempt at repair of the existing valve is 
+technically and economically infeasible, did not follow proper notice 
+and comment requirements, and creates confusion regarding when 
+replacement is considered feasible in an enforcement proceeding.\32\ 
+Based on cost estimates provided in the petitions for reconsideration, 
+petitioners claim that such equipment (low-E valves and packing) is not 
+commercially available at costs that make widespread replacement of 
+valves with low-E equipment viable across the industry.
+---------------------------------------------------------------------------
+
+    \32\ See EPA-HQ-OAR-2024-0358-0013 at pages 7-11.
+---------------------------------------------------------------------------
+
+    The EPA acknowledges that regulatory language in the 2024 final 
+rule introduced unintended compliance difficulties related to equipment 
+leak repair requirements. As currently written, the regulatory language 
+in 40 CFR 60.5400b(h)(2)(ii)(A) appears to require a source to repack 
+an existing valve with low-E packing, and then the language is unclear 
+as to whether a source must also comply with paragraph (B) or (C), 
+which require that they either replace the valve with a low-e valve or 
+perform a drill and tap repair with a low-E injectable packing, 
+respectively. It was not the EPA's intention to require that a source 
+repack an existing valve and replace that valve during the same repair. 
+Furthermore, the CFR erroneously includes two versions of paragraph 
+60.5401b(i). The EPA discovered since promulgation of the 2024 final 
+rule that these two copies of the repair requirements paragraph differ 
+and create confusion for affected facilities. The first of the two 
+copies included in the CFR is correct while the second contains similar 
+errors to those present in 40 CFR 60.5400b(h)(2)(ii). In order to 
+alleviate the compliance confusion created by the conflicting 
+regulatory language, and to provide potentially affected sources 
+additional time to undertake planning to obtain needed low-e equipment 
+given the cost and widespread need for such equipment, the EPA is 
+extending the compliance date for equipment leak repair requirements 
+contained in 40 CFR 60.5400b(h)(2)(ii) and 60.5401b(i)(2)(ii) until 
+January 22, 2027 or 180 days after startup of the affected source, 
+whichever is later.
+4. Process Controllers
+    Process controllers are automated instruments used for maintaining 
+a process condition, such as liquid level, pressure, pressure 
+difference, or temperature. Historically, in the oil and gas industry, 
+many process controllers were powered by pressurized natural gas and 
+therefore would emit natural gas to the atmosphere. However, process 
+controllers may also be powered by electricity or compressed air, and 
+these types of controllers do not use or emit natural gas. In the 
+December 2022 Supplemental Proposal, the EPA proposed a ``zero 
+emissions'' VOC and methane standard for most process controllers in 
+NSPS OOOOb and a ``zero emissions'' methane presumptive standard for 
+most process controllers in EG OOOOc. This standard can be achieved by 
+using a process controller that is not powered by natural gas, by 
+capturing the emissions from the natural gas-driven controllers and 
+routing them to a process, or by using self-contained controllers. The 
+2024 final rule includes the ``zero emissions'' VOC standard proposed 
+in December 2022 along with different standards for process controllers 
+in Alaska at locations where access to electrical power from the power 
+grid is not available. The requirements for these sources in Alaska are 
+to use lower emitting natural gas-driven process controllers and to 
+perform inspections to ensure that they are operating properly.
+
+[[Page 35974]]
+
+    The process controller standards apply to the collection of new, 
+modified, and reconstructed natural gas-driven process controllers at a 
+site (i.e., a well site, centralized production facility, onshore 
+natural gas processing plant, or compressor station). Process 
+controllers that are emergency shutdown devices (ESD) or that are not 
+natural gas-driven are not included in the affected facility 
+definition.
+    The standards that apply differ depending on the location of the 
+site and whether access to electrical power is available at the site, 
+which are sites that have commercial line power onsite. For any site 
+outside of Alaska, the standard for all process controllers is zero 
+emissions of VOC and methane. Zero emissions of VOC and methane may be 
+achieved by using process controllers that are not driven by natural 
+gas (and thus not affected facilities), by routing natural gas-driven 
+process controller vapors through a CVS to a process, by using self-
+contained natural gas-driven process controllers, or by another means 
+that achieves the numerical standard of zero emissions of methane and 
+VOC. For sites in Alaska with access to electrical power the standard 
+for all process controllers at the site is also zero emissions of VOC 
+and methane. For sites in Alaska without access to electrical power, 
+owners/operators must use natural gas-driven process controllers with 
+low natural gas emission rates. These process controllers include 
+continuous bleed controllers with an emissions rate (or bleed rate) of 
+less than or equal to 6 standard cubic feet per hour (scfh) and 
+intermittent vent controllers, which are process controllers that only 
+emit natural gas when they actuate, rather than emitting continuously. 
+Intermittent vent controllers are subject to monitoring requirements. 
+Further, as an alternative, sites in Alaska without access to 
+electrical power may route emissions from natural gas-driven process 
+controllers to a control device achieving a 95 percent emissions 
+reduction. Table 12 of the March 2024 final rule preamble (89 FR 16882) 
+summarizes the emissions standards for process controllers.
+    Based on comments the EPA received in 2022 and 2023 expressing 
+concerns about new sources' ability to obtain the equipment necessary 
+to demonstrate compliance with the final standard of zero emissions 
+immediately upon the effective date of the final rule, the EPA 
+finalized a NSPS compliance deadline for process controllers that 
+allows up to 1 year from the effective date of the final rule to come 
+into full compliance with the final standard of zero emissions. Until 
+that final date of compliance, owners and operators must demonstrate 
+compliance with an interim standard which mirrors the requirements for 
+sites in Alaska that do not have access to electrical power. See 89 FR 
+16929-30.
+    According to reconsideration petitioners, in the 2024 final rule, 
+existing sites that trigger the OOOOb modification provisions, and thus 
+become subject to the NSPS, have to convert all process controllers in 
+a process controller affected facility to comply with the zero-emission 
+standard by May 7, 2025, or upon modification, whichever is later. 
+Reconsideration petitioners have credibly asserted that this will place 
+a significant demand on the equipment, supplies, and service vendors 
+during the compliance time frame and add more strain to a supply chain 
+that currently requires 12-18 months to deliver certain types of 
+components necessary for the conversion of large natural gas driven 
+controllers to an air driven system.\33\ According to petitioners, if 
+an operator is unable to complete the conversion due to reasons beyond 
+its control, the operator will have to make a decision whether to 
+continue operating, potentially in a non-compliant state; or shut down 
+that compressor station, thereby reducing its ability to move gas 
+during peak demand periods, pursuant to their Federal Energy Regulatory 
+Commission approved tariffs.\34\ Petitioners also state that the EPA's 
+regulatory language is ambiguous and creates confusion regarding the 
+types of processes potentially subject to the standards. Specifically, 
+petitioners have credibly asserted that the 2024 final rule is unclear 
+with respect to whether certain high-pressure applications are included 
+in the scope of the regulations.\35\ Therefore, even more sources may 
+require the equipment necessary to achieve the zero emissions standard 
+which puts even more demand on a limited supply, resulting in further 
+compliance delays that EPA did not intend to create in promulgating the 
+2024 final rule.
+---------------------------------------------------------------------------
+
+    \33\ See EPA-HQ-OAR-2024-0358-0014 at page 10.
+    \34\ See EPA-HQ-OAR-2024-0358-0014 at page 10.
+    \35\ See EPA-HQ-OAR-2024-0358-0043 attachment 2 at page 4.
+---------------------------------------------------------------------------
+
+    In this final action, the EPA is extending the second phase of the 
+phased-in compliance deadline for the zero emission standards 
+applicable to process controllers to January 22, 2027 to address the 
+supply chain and logistical issues raised by petitioners. The EPA has 
+determined that the additional compliance time is needed to ensure that 
+sufficient equipment can be sourced, obtained, and installed in 
+timelines that are achievable by affected sources. In the meantime, 
+consistent with the substantive provisions and goals of the 2024 final 
+rule, the interim standard continues to apply to process controller 
+affected facilities (i.e., the same standard applicable to sites in 
+Alaska without access to electricity).
+5. Storage Vessels
+    In the 2024 final rule, the EPA promulgated requirements that 
+defined a storage vessel affected facility as a tank battery that has 
+the potential for VOC emissions equal to or greater than 6 tons per 
+year (tpy) or methane emissions equal to or greater than 20 tpy. A 
+storage vessel is a tank or other vessel that contains an accumulation 
+of crude oil, condensate, intermediate hydrocarbon liquids, or produced 
+water, and that is constructed primarily of non-earthen materials. A 
+tank battery is a group of all storage vessels that are manifolded 
+together for liquid transfer. For purposes of this rule, a tank battery 
+may consist of a single storage vessel if only one storage vessel is 
+present. The 2024 final rule includes language in 40 CFR 
+60.5365b(e)(ii) that describes how a source should determine the 
+potential emissions from storage vessels. Specifically, the final rule 
+states that potential for VOC and methane emissions must be calculated 
+using a generally accepted model or calculation methodology that 
+accounts for flashing, working, and breathing losses, based on the 
+maximum average daily throughput to the tank battery determined for a 
+30-day period of production.
+    Storage vessel affected facilities must reduce emissions of VOC and 
+methane by 95 percent. The standard reflects the degree of emission 
+limitation achievable through application of a combustion control 
+device or vapor recovery unit (VRU). For storage vessel affected 
+facilities not at a well site or centralized production site, and 
+without potential for flashing emissions, owners and operators may 
+choose to comply by using an internal or external floating roof to 
+reduce emissions in accordance with 40 CFR part 60, subpart Kb (NSPS 
+for Volatile Organic Liquid Storage Vessels). The rule allows removal 
+of a control device from a storage vessel affected facility if the 
+owner or operator maintains the uncontrolled actual VOC emissions at 
+less than 4 tpy and the actual methane emissions at less than 14 tpy as 
+determined monthly for 12 consecutive months.
+    Storage vessel affected facilities which use a control device to 
+reduce emissions must equip each storage
+
+[[Page 35975]]
+
+vessel in the tank battery with a cover and must equip the tank battery 
+with one or more CVS which route all emissions to a process or one or 
+more control devices. Owners and operators of flares and other control 
+devices must conduct monitoring, recordkeeping, and reporting to ensure 
+that the control device is continuously achieving the required 95 
+percent reduction. More information on the flare and other control 
+device monitoring and compliance provisions is provided in section X.H 
+of the March 2024 final rule preamble (89 FR 16963) and information 
+regarding covers and CVS may be found in section X.K of the March 2024 
+final rule preamble (89 FR 16984).
+    The EPA finalized an affected facility-specific definition of 
+``modification'' for storage vessels to include specific physical 
+changes that trigger the modification requirements. Those changes 
+include adding an additional storage vessel, replacing existing storage 
+vessel(s) that result in an increased capacity of the tank battery, 
+receiving additional throughput from production well(s) at tank 
+batteries at well sites or centralized production facilities, or 
+receiving additional fluids which cumulatively exceed the throughput 
+used in the most recent determination of the potential for VOC or 
+methane emissions not located at a well site or centralized production 
+facility, including each tank battery at compressors stations or 
+onshore natural gas processing plants that also result in exceeding the 
+applicability threshold for either VOC or methane. The EPA defined 
+``reconstruction'' for OOOOb storage vessels to mean at least half of 
+the storage vessels are replaced in the existing tank battery that 
+consists of more than one storage vessel, or the provisions of 40 CFR 
+60.15 are met for the existing tank battery and the resulting emissions 
+exceed the applicability threshold for either VOC or methane.
+    Further, in the 2024 final rule, the EPA finalized criteria that 
+must be met for a permit limit or other requirement to qualify as a 
+legally and practicably enforceable (LPE) limit for purposes of 
+determining whether a tank battery is an affected or designated 
+facility under NSPS OOOOb or EG OOOOc, respectively. The 2024 final 
+rule established that a LPE limit must include a quantitative 
+production limit and quantitative operational limit(s) for the 
+equipment, or quantitative operational limits for the equipment; an 
+averaging time period for the production limit, if a production-based 
+limit is used, that is equal to or less than 30 days; established 
+parametric limits for the production and/or operational limit(s), and 
+where a control device is used to achieve an operational limit, an 
+initial compliance demonstration (i.e., performance test) for the 
+control device that establishes the parametric limits; ongoing 
+monitoring of the parametric limits that demonstrates continuous 
+compliance with the production and/or operational limit(s); 
+recordkeeping by the owner or operator that demonstrates continuous 
+compliance with the limit(s) in; and periodic reporting that 
+demonstrates continuous compliance.
+    Reconsideration petitioners have raised concerns with provisions 
+related to how sources determine potential emissions,\36\ the triggers 
+for modification, and the specific criteria for limits on potential to 
+emit to be considered LPE.\37\ Some reconsideration petitioners 
+credibly asserted that the applicability determination language in 40 
+CFR 60.5365b(e)(2)(ii) is ambiguous for tanks that commenced 
+construction, modification, or reconstruction after the date of the 
+supplemental proposal (December 6, 2022) and prior to the OOOOb 
+effective date (``pre-effective date tanks''), May 7, 2024.\38\ The 
+petitioners also stated that it is unclear what ``30-day period of 
+production'' operators must use to determine the maximum average daily 
+throughput to calculate the potential for VOC and methane emissions for 
+pre-effective date tanks.\39\ Without clarification, operators may not 
+know with certainty the scope of affected storage vessels that must 
+comply with OOOOb by the compliance deadline. The petitioners also 
+credibly asserted that requiring a determination earlier than the OOOOb 
+effective date imposes compliance obligations before they are 
+effective. Additionally, the petitioners stated this is compounded by 
+defining a ``legally and practicably enforceable limit,'' which 
+effectively eliminated the ability to rely on permit limits for 
+applicability determinations under OOOOb. Stakeholders have continued 
+to reiterate these concerns in further discussions with the EPA.\40\ 
+Petitioners further stated that the LPE requirements apply to storage 
+vessels for which states do not have the authority or mechanisms to 
+apply such limits in permits.\41\
+---------------------------------------------------------------------------
+
+    \36\ See EPA-HQ-OAR-2024-0358-0043 at page 17.
+    \37\ See EPA-HQ-OAR-2024-0358-0016 at pages 2-4.
+    \38\ See EPA-HQ-OAR-2024-0358-0009 at page 7.
+    \39\ See EPA-HQ-OAR-2024-0358-0010 at page 5.
+    \40\ See EPA-HQ-OAR-2024-0358-0046 at page 15.
+    \41\ See EPA-HQ-OAR-2024-0358-0043 attachment 2 at page 5.
+---------------------------------------------------------------------------
+
+    According to petitioners, the expansive storage vessel modification 
+provisions will immediately and automatically trigger new source 
+requirements for tens of thousands of tanks and tank batteries (far 
+more than the EPA predicted when formulating those provisions). The EPA 
+agrees that the modification provisions finalized in 2024 contain a 
+degree of vagueness such that it is possible that far more midstream 
+storage vessels could trigger modification than the EPA estimated in 
+the 2024 final rule. We did not anticipate that these provisions would 
+affect the large number of sources cited by petitioners and agree that 
+additional compliance time is needed for the large number of 
+potentially affected sources.
+    The petitioners also stated the EPA should allow more time than 
+afforded in the 2024 final rule to allow state, local, and tribal 
+agencies to adopt and implement conformant LPE limits. The EPA is 
+extending the date for the specific provisions required for a limit to 
+be considered LPE limits in 40 CFR 60.5365b(e)(2)(i)(A)-(F) until 
+January 22, 2027. This action will ensure there is enough time for 
+sources to work with delegated authorities to establish limits that are 
+LPE without foreclosing the use of LPE limits already established that 
+may or may not contain the same level of specificity as the 
+requirements in NSPS OOOOb during that time. Additionally, the EPA is 
+extending the date at which the throughput-based modification triggers 
+become effective by 18 months in order to provide time for the 
+potentially large number of sources that would trigger those provisions 
+to make any needed adjustments to facility planning, equipment 
+procurement, and process changes needed to comply with the 
+requirements. Finally, the EPA is extending the date by which sources 
+must calculate potential emissions using the 30-day period of 
+production by 18 months to allow facilities to obtain additional 
+information and make the requisite decisions related to their 
+facilities that may be subject to these requirements. We note that 
+until the provisions that we are extending come into effect, there are 
+still provisions in place that establish what other activities 
+constitute a modification, i.e., sources that add an additional vessel 
+or replace a vessel with one that has increased capacity still trigger 
+modification. Sources are still required to determine the potential 
+emissions from storage vessels. The only change to these provisions is 
+that, in the interim period, sources need not use the (confusing) 30-
+day period of production calculation
+
+[[Page 35976]]
+
+and limits on potential emissions can be considered LPE with or without 
+the specific criteria included in the 2024 final rule. Any sources that 
+do trigger modification provisions will still be subject to the 
+standards in the 2024 final rule and this action does not change those 
+standards.
+6. Super Emitter Program
+    The EPA included the Super Emitter Program (SEP) in the 2024 final 
+rule, previously proposed as the Super Emitter Response Program in the 
+December 2022 Supplemental Proposal. For purposes of the 2024 final 
+rule, a ``super emitter event'' is defined as any emissions event that 
+is located at or near an oil and natural gas facility and that is 
+detected using remote detection methods and has a quantified emission 
+rate of 100 kg/hr of methane or greater.
+    As described in the preamble to the 2024 final rule, this program 
+was designed to provide a mechanism by which the EPA would provide 
+owners and operators with timely notifications of super-emitter 
+emissions data collected by EPA-certified third parties using EPA-
+approved remote sensing technologies. See 89 FR 16877. Where such an 
+event is attributable to an oil or natural gas source regulated under 
+CAA section 111 (NSPS OOOO, OOOOa, or OOOOb, or a state or Federal plan 
+implementing EG OOOOc), the responsible owner or operator would take 
+action in response to such notifications in accordance with the 
+applicable regulation. Id. Section X.C of the 2024 final rule preamble 
+describes the SEP in detail. See 89 FR 16876.
+    In implementing this novel program, the EPA has experienced 
+unanticipated difficulties and concerns that require additional time 
+for effective and lawful administration of various program 
+procedures.\42\ For example, while the rule requires a third-party 
+notifier to provide a significant amount of information regarding a 
+super emitter event as part of submitting a notification of the event 
+to the EPA, the attribution of who owns or operates a site is not a 
+required element. While the EPA has developed tools to aid certified 
+third parties in the attribution of identified events, in limited 
+practice, the certified third parties that have submitted information 
+to date have chosen not to include an owner/operator attribution in the 
+submitted notification. In the absence of this information, to meet the 
+program's goals of providing the submitted information about these 
+events to the owners or operators of the appropriate facilities, the 
+EPA must itself determine and then confirm the owner/operator 
+attribution. This process has proven time- and labor-intensive and 
+generated unanticipated concerns about improper attribution and related 
+consequences for enforcement and compliance efforts more generally.
+---------------------------------------------------------------------------
+
+    \42\ See EPA-HQ-OAR-2024-0358-0010 at 27-32.
+---------------------------------------------------------------------------
+
+    Though the super-emitter program has thus far received relatively 
+few submittals of notifications of super-emitter events from a 
+certified third party, we expect that the number of submittals would 
+grow extensively if more cost-effective technologies were approved 
+(e.g., satellite sensors). With the potential increase in the number of 
+submitted notifications, the EPA's ability to provide timely 
+notification of these events to the facility owner or operator would be 
+hampered given the existing challenges identified in determination 
+attribution for each owner or operator. Similarly, if the number of 
+notifications that the EPA receives based on the currently approved 
+remote-sensing technology were to substantially increase, the EPA's 
+ability to timely provide the notification to the appropriate owner and 
+operator would be constrained by the EPA's ability to make and confirm 
+the owner or operator attribution. These limitations would lead to 
+delays in providing notifications to the appropriate owner or operator 
+that are inconsistent with the program's design and intended function. 
+A central element of the program's design is to provide information 
+about these emissions events in a timely fashion to the appropriate 
+owners and operators, so that they can quickly conduct the 
+investigations into the event required under the rule and take any 
+necessary corrective action if the source is subject to the rule. 
+Delays in providing the notifications to owners and operators would 
+result in the information being stale when received, or superseded by 
+intervening events, limiting both the value of information that could 
+be discovered through the required investigation and the opportunity to 
+take corrective action.
+    Additionally, implementation of the program to date indicates that 
+application of this program has been broader than the EPA anticipated 
+in promulgating the 2024 final rule. For instance, part of the 
+definition of a super-emitter event under 40 CFR 60.5371b is that the 
+event be located at or near an oil and natural gas facility. In limited 
+practice, this definition has resulted in the EPA receiving 
+notifications of an event at a downstream production site not subject 
+to any upstream oil and gas regulation. Specifically, a notification 
+was provided to a renewable fuel refinery in Bakersfield, California on 
+January 21, 2025. Though this facility is within an oil and gas 
+production basin and an emission was detected from the site, it does 
+not appear to be the type of oil and gas facility that the EPA intended 
+to cover in the SEP. This distinction is important since these types of 
+emissions are likely tied to short-term process conditions which are 
+typical at downstream production sites. While the program requires the 
+EPA to review the submitted notifications of super-emitter events for 
+completeness and accuracy, it does not allow the EPA the discretion to 
+not post or provide a notification to an owner or operator identified 
+in the notification for other reasons, such as the EPA's judgment on 
+the appropriateness of a notification. In the absence of such 
+discretion, the EPA is required to provide a notification to an owner 
+or operator of who is identified in the notification, so long as the 
+EPA had reviewed the notification and determined that it is complete 
+and does not contain information that the EPA finds to be inaccurate to 
+a reasonable degree of certainty, even if other reasons might counsel 
+against providing the notification, such as when that site has already 
+received a notification of a particular emissions event, or if the EPA 
+has determined that a notification relates to an emissions event that 
+is not regulated or prohibited under the EPA's oil and gas rules.
+    For these reasons, the EPA is extending the date for future 
+implementation of the super-emitter program until January 22, 2027. 
+This extension also impacts the timing for EPA action on methane 
+detection technology under 40 CFR 60.5398b(d)(1)(iii) for use in the 
+SEP. Because the EPA is extending the date for future implementation of 
+the SEP, there is no need for the EPA to act on submissions of remote-
+detection technology for use in the program in the intervening period. 
+Therefore, the EPA is extending the provisions that include conditional 
+approval of methane detection technology for use in the SEP that occurs 
+if the EPA does not act on submissions of those technologies by the 
+timelines prescribed by the rule until January 22, 2027.
+7. Flare Pilot Flame and Alarm Requirements
+    In the 2024 final rule, the EPA finalized requirements that all 
+enclosed combustion devices, other than boilers and process heaters, 
+that introduce the vent stream with the primary fuel into the flame 
+zone or use the vent stream as the primary fuel, as well as all 
+catalytic
+
+[[Page 35977]]
+
+incinerators, that operate above a minimum flow rate established by the 
+manufacturer must install and operate a continuous burning pilot or 
+combustion flame. Additionally, the combustion devices must have a way 
+to alert the nearest control room whenever the pilot or combustion 
+flame is unlit.
+    The 2024 final rule also requires that all flares (e.g., 
+unassisted, pressure-assisted, and steam-assisted) have a continuous 
+burning pilot or combustion flame and have a system that provides an 
+alert to the nearest control room whenever the pilot or combustion 
+flame is unlit. Additionally, the flow rate to a flare must be 
+maintained at a level that ensures compliance with the flare tip 
+velocity limits in the 40 CFR part 60 General Provisions, and the flow 
+rate to an enclosed combustion device must be below a maximum flow rate 
+established during the performance test or by the manufacturer, if the 
+initial performance test is performed by the manufacturer.
+    Flares and enclosed combustion devices that use pressure-assisted 
+tips to promote mixing at the burner tip are not subject to this 
+maximum flow rate limit because these units are designed to operate at 
+high flow rates. All flares and all enclosed combustion devices used to 
+comply with the standards must also operate with a continuous burning 
+pilot flame and with no visible emissions, except for periods not to 
+exceed a total of 1 minute during any 15-minute period. Compliance with 
+the visible emissions requirement can be confirmed either through 
+monthly testing using EPA Method 22 or through continuous use of a 
+video surveillance camera. The 2024 final rule requires that if owners 
+and operators use certain flares and enclosed combustion devices to 
+comply with the standards, they must install a system to send an alarm 
+to the nearest control room if an unlit pilot flame is detected on a 
+flare or enclosed combustion device. Additionally, during each fugitive 
+emissions inspection conducted using an OGI camera, including those 
+conducted in response to periodic screening events using alternative 
+technologies, owners and operators must observe each enclosed 
+combustion device and flare to determine if it is operating properly, 
+including ensuring that a flame is present and that there is no 
+indication of uncontrolled emissions. During each fugitive emissions 
+inspection conducted using AVO, owners and operators must observe each 
+enclosed combustion device and flare to determine if it is operating 
+properly, visually confirming that the pilot flame is lit and operating 
+properly.
+    Owners and operators also have the option to request an alternative 
+test method to demonstrate continuous 95.0 percent control of 
+emissions. Using this option, the owner or operator would demonstrate 
+that the combustion device continuously achieves 95.0 percent 
+combustion efficiency or that the combustion device continuously 
+complies with the combustion zone NHV and NHV dilution parameter 
+requirements. The alternative test method, if approved by the EPA, 
+would be used in lieu of the other monitoring required for combustion 
+device (e.g., vent gas NHV, flow rate).
+    In addition to information that must be reported, owners and 
+operators must keep records of continuous compliance with the 
+monitoring requirements, including information about the pilot flame 
+being lit, CPMS limits, CPMS hourly and average values, and results of 
+visible emissions observations or surveillance camera feed.
+    Petitioners have raised concerns that the 2024 final rule 
+requirements for continuous pilot flames pose significant logistical 
+challenges. These challenges relate to providing supplemental fuel to 
+maintain a continuous pilot flame at intermittently operating processes 
+for affected facilities that are located far from reliable sources of 
+such fuel.\43\ Petitioners have also described challenges in obtaining 
+and installing communications equipment capable of reliably 
+transmitting an alarm to the nearest control room.\44\ Due to the large 
+number and remote geographic location of many flares and enclosed 
+combustion devices used to achieve compliance with the EPA's standards, 
+industry requires additional time to prepare and install needed 
+equipment to maintain continuous pilot flames that alarm in the nearest 
+control room when the pilot is unlit. Therefore, in this action, we are 
+extending the date by which owners and operators who utilize these 
+flares and enclosed combustion devices must: (1) ensure that flares and 
+enclosed combustion devices operate with a continuous pilot flame, and 
+(2) install and operate a system to send an alarm to the nearest 
+control room when a pilot flame is unlit to 18 months from publication 
+of this interim final rule. The emission reduction requirements for 
+flares and enclosed combustion devices and the other monitoring of such 
+devices described above are not affected by this extension. Put another 
+way, during this extension owners and operators are still required to 
+ensure that emissions being routed to a flare or enclosed combustion 
+devise are reduced by 95.0 percent, and there are still other 
+applicable requirements in the 2024 final rule to ensure compliance.
+---------------------------------------------------------------------------
+
+    \43\ See EPA-HQ-OAR-2024-0358-0010 at page 13.
+    \44\ See EPA-HQ-OAR-2024-0358-0010 at page 13-14.
+---------------------------------------------------------------------------
+
+C. Deadline Extensions for EG OOOOc
+
+1. State Plan Submittal Deadline
+    In the 2024 final rule, the EPA finalized a state plan submittal 
+deadline of 24 months after publication of the final EG OOOOc (March 9, 
+2026).\45\ While the EPA did not receive any petitions for 
+reconsideration on this deadline, since the rule was finalized, the EPA 
+has regularly engaged with various states regarding their concerns. For 
+example, one state has informally asked their respective EPA Region for 
+an extension of the state plan submittal deadline; other states have 
+been inquiring as to the consequences of late state plan submissions. 
+These compliance assistance efforts from the EPA to the states prompted 
+the EPA to assess the status of the state plan submittals. This 
+assessment has led the EPA to determine that states planning to submit 
+state plans need additional time to develop their plans to achieve the 
+emissions-reduction goals of the 2024 final rule in an effective and 
+efficient manner.
+---------------------------------------------------------------------------
+
+    \45\ See 89 FR 17010.
+---------------------------------------------------------------------------
+
+    The EPA expects approximately 21 states to submit state plans. 
+Since publication of the 2024 final rule, states should now be 
+approximately halfway completed with the plan development process 
+because state plans are due on March 9, 2026; in other words, we are 
+over 1 year into the 2-year time allowance. For those states relying 
+entirely or mostly on the EPA's model rule included in the final EG 
+without modification, the EPA would expect states to have completed, or 
+be near completing, at least some of the following development 
+milestones: (1) Conduct and document meaningful engagement with 
+pertinent stakeholders pursuant to 40 CFR 60.5363c(a)(6) and 60.23a(i); 
+(2) identify the types of designated facilities within the state that 
+will be covered by the state plan; (3) produce a draft of major 
+portions of the state plan, including standards of performance, 
+compliance schedules, increments of progress, and compliance assurance 
+measures, incorporating relevant sections of the model rule in EG 
+OOOOc; (4) determine and/or draft enforceable regulatory mechanisms to 
+implement the state plan (e.g., general permits, state regulations, 
+etc.); and (5)
+
+[[Page 35978]]
+
+notice the draft state plan for public comment in accordance with state 
+laws.
+    Further, for those states not relying predominantly on the model 
+rule but which are instead leveraging pre-existing state programs and/
+or invoking remaining useful life and other factors (RULOF) to apply 
+less stringent standards than the presumptive standards in EG OOOOc, 
+the EPA would expect states to have completed, or be near completing, 
+at least some of the following milestones: (1) Conduct and document 
+meaningful engagement with pertinent stakeholders; (2) identify the 
+types of designated facilities within the state that will be covered by 
+the state plan; (3) compile and compare all relevant pre-existing state 
+regulations (or statutes, permits, or other legal authorities) to 
+corresponding coverage of EG OOOOc and determine which state 
+regulations to leverage for purposes of satisfying state plan 
+obligations; (4) determine changes necessary, if any, to harmonize pre-
+existing state regulations with state plan requirements of EG OOOOc 
+(e.g., changes to designated facilities, designated pollutants, types 
+of standards, etc.); (5) conduct and document analyses to demonstrate 
+equivalency between pre-existing state regulations and EG OOOOc in 
+terms of emissions reductions; (6) begin state rulemaking process to 
+make changes to existing state regulations, if any are necessary; (7) 
+collect and document information to support RULOF demonstrations, if 
+any, for less stringent standards (or longer compliance schedules) than 
+those in EG OOOOc; (8) determine alternative standards to apply in any 
+case where invoking RULOF; and (9) draft other portions of the state 
+plan (those not leveraging pre-existing state regulations and/or 
+invoking RULOF).
+    The EPA, however, has identified twelve states that have yet to 
+identify how they plan to implement EG OOOOc. Several of these states 
+are still seeking to identify all the potentially impacted facilities 
+within their borders before deciding whether to develop a state plan. 
+The EPA has also identified that 18 of 21 states intending to submit a 
+state plan have yet to share significant portions of those plans with 
+the EPA for feedback. The EPA expects approximately nine states to 
+leverage at least some pre-existing state regulations to satisfy state 
+plan obligations. While at least four states have identified some 
+revisions necessary to harmonize their pre-existing programs with EG 
+OOOOc, the EPA is aware of no state that has begun its rulemaking 
+process to undertake those revisions. Additionally, while the EPA has 
+received numerous questions from states concerning demonstrating 
+equivalency between pre-existing state regulations and EG OOOOc in 
+terms emissions reductions, the EPA has not received any draft analyses 
+for such demonstrations for review. Similarly, while the EPA currently 
+expects approximately five states to invoke RULOF to apply less 
+stringent standards to certain designated facilities, and while the EPA 
+has received numerous questions from states concerning RULOF 
+demonstrations, the EPA has yet to receive any draft RULOF 
+demonstrations for review. The EPA outlines this information in table 2 
+below. This demonstrates that many states are struggling to develop 
+their plans on the schedule that the 2024 final rule requires.
+
+              Table 2--Status of State and Territory Plans
+------------------------------------------------------------------------
+              Status                               States
+------------------------------------------------------------------------
+I. EPA-Approved State Plans.......  None.
+II. Anticipated Negative            Hawaii, American Samoa, Guam.
+ Declarations to be Submitted to
+ the EPA.
+III. Negative Declaration           Vermont (submitted), Puerto Rico
+ Submitted/EPA Approved.             (submitted), District of Columbia
+                                     (submitted).
+IV. Anticipated State Plans to be   Maine, New York, Delaware, Maryland,
+ Submitted to the EPA.               Pennsylvania, Virginia, West
+                                     Virginia, Georgia, South Carolina,
+                                     Tennessee, Arkansas, New Mexico,
+                                     Oklahoma, Texas, Colorado, Montana,
+                                     North Dakota, Utah, Wyoming,
+                                     Arizona, California.
+V. Anticipated State Plans          New York, Maryland, New Mexico,
+ Leveraging Pre-Existing State       Colorado, Montana, North Dakota,
+ Programs to be Submitted to the     Utah, Wyoming, California.
+ EPA.
+VI. Anticipated State Plans         Tennessee, Arkansas, Oklahoma,
+ Invoking RULOF to be Submitted to   Texas, California.
+ the EPA.
+VII. Final State Plans Submitted    None.
+ to the EPA.
+VIII. Draft State Plans Submitted   Pennsylvania (partial), West
+ to the EPA.                         Virginia (partial), Montana
+                                     (partial).
+IX. EPA Has Not Received a Draft    Maine, New York, Delaware, Maryland,
+ or Final State Plan or Negative     Virginia, Alabama, Florida,
+ Declaration.                        Kentucky, Mississippi, North
+                                     Carolina, Georgia, South Carolina,
+                                     Tennessee, Illinois, Indiana,
+                                     Michigan, Minnesota, Ohio,
+                                     Arkansas, Louisiana, New Mexico,
+                                     Oklahoma, Texas, Missouri,
+                                     Colorado, Montana, North Dakota,
+                                     Utah, Wyoming, Arizona, California,
+                                     Hawaii, American Samoa, Guam.
+X. Anticipated Federal Plan         Connecticut, Massachusetts, New
+ Promulgation.                       Hampshire, Rhode Island, New
+                                     Jersey, Wisconsin, Iowa, Kansas,
+                                     Nebraska, South Dakota, Nevada,
+                                     Alaska, Idaho, Oregon, Washington.
+------------------------------------------------------------------------
+
+    The EPA acknowledges this delay in meeting expected informal state 
+plan development milestones could be because of various factors, 
+including several that the EPA acknowledged in the 2024 final rule. 
+However, the EPA has determined that the practical reality of states 
+identifying impacted sources and pertinent stakeholders, conducting 
+meaningful engagement, comparing pre-existing state programs to EG 
+OOOOc, and producing RULOF demonstrations has proven to be more time-
+consuming than we expected because of various challenges faced by 
+states. These challenges stem from both the relatively large and 
+complex nature of the source category, the corresponding complexity 
+associated with applying EG OOOOc to designated facilities, and states' 
+lack of familiarity with the newly revised general implementing 
+regulations.\46\
+
+[[Page 35979]]
+
+States are understandably taking more time than the EPA initially 
+expected as they navigate these multiple challenges, including through 
+iterative questions for and discussions with the Agency.
+---------------------------------------------------------------------------
+
+    \46\ EG OOOOc represents the first time states will be 
+implementing the requirements promulgated in the revisions to 40 CFR 
+part 60, subpart Ba (subpart Ba), the implementing regulations for 
+the adoption and submission of state plans. 88 FR 80480.
+---------------------------------------------------------------------------
+
+    Moreover, implementing some of these requirements in the context of 
+EG OOOOc in particular is proving to be more complex than originally 
+anticipated. For example, the new requirement to submit documentation 
+of meaningful engagement pursuant to 40 CFR 60.23a(i) has proven time 
+consuming due to the large number of geographically dispersed 
+designated facilities in some states, covering multiple industry 
+segments. States have faced challenges determining the appropriate 
+scope, form, and number of engagement activities, as well as 
+identifying pertinent stakeholders and owners and operators. States 
+have also communicated to the EPA that the relatively complicated 
+technical nature of EG OOOOc has presented obstacles to fostering 
+public participation at engagement activities.
+    Similarly, states are needing more time than anticipated to invoke 
+RULOF to apply less stringent standards (or longer compliance 
+schedules).\47\ For example, due to the large number of EG OOOOc 
+designated facilities, some states have undertaken the task of 
+attempting to segment designated facility types into classes for 
+purposes of RULOF. Given the number and diverse circumstances of 
+designated facilities in the source category, collecting enough 
+information on facility operations necessary to determine appropriate 
+classes and associated standards has proven difficult and time-
+consuming. For similar reasons, states have confronted difficulties 
+with quickly collecting the full complement of relevant data on 
+emissions and costs to demonstrate fundamental differences between the 
+information specific to those facilities (for which the states are 
+invoking RULOF) and the information the EPA considered in determining 
+the presumptive standards in EG OOOOc.
+---------------------------------------------------------------------------
+
+    \47\ See 40 CFR 60.24a(e)-(h); 88 FR 80508-80528.
+---------------------------------------------------------------------------
+
+    While the EPA provided flexibility to states with pre-existing 
+regulatory programs for the oil and natural gas industry to leverage 
+those programs for the purposes of state plan submission, the scope and 
+stringency of those programs varies considerably, each posing unique 
+issues regarding demonstrating equivalency or harmonizing with EG 
+OOOOc. Analyses to compare the stringency of pre-existing standards and 
+their associated compliance assurance measures to EG OOOOc have proven 
+to be complicated and time-consuming, especially for those presumptive 
+standards that are expressed in a non-numerical format in EG OOOOc. 
+Administrative complexities have also arisen for several states 
+attempting to concurrently revise associated state rules for Reasonably 
+Available Control Technology in their State Implementation Plans (SIP) 
+for CAA sections 182 and/or 184, in order to maintain a single set of 
+requirements for the oil and natural gas sources in those states.
+    These challenges have increased the time needed to develop state 
+plans beyond the EPA's expectations. The EPA has worked to provide 
+assistance to states along the way. The EPA has made information 
+publicly available in efforts to helps states including a document 
+summarizing requirements for state plans \48\ and answers to frequently 
+asked questions about the 2024 final rule.\49\ Additionally, the EPA 
+notes that states have returned multiple times to their Regional 
+offices and the EPA's Office of Air Quality Planning and Standards for 
+numerous meetings to get dozens of complex implementation questions 
+answered, many of which require the coordinated weeks-long effort of 
+multiple EPA staff members to respond to.
+---------------------------------------------------------------------------
+
+    \48\ <a href="https://www.epa.gov/system/files/documents/2024-08/ooooc-summary-of-requirements-for-state-plans-final-8-23-2024.pdf">https://www.epa.gov/system/files/documents/2024-08/ooooc-summary-of-requirements-for-state-plans-final-8-23-2024.pdf</a>.
+    \49\ <a href="https://www.epa.gov/controlling-air-pollution-oil-and-natural-gas-operations/frequently-asked-questions-about-epas">https://www.epa.gov/controlling-air-pollution-oil-and-natural-gas-operations/frequently-asked-questions-about-epas</a>.
+---------------------------------------------------------------------------
+
+    Based on the information the EPA currently has, the EPA anticipates 
+the vast majority of states intending to submit state plans will be 
+unable to meet the current state plan submittal deadline of March 9, 
+2026. If a state does not submit a state plan within the prescribed 
+time, the EPA is obligated to promulgate a Federal plan within twelve 
+months of the submittal deadline.\50\ The EPA does not find it 
+appropriate to maintain a state plan submittal deadline that we now 
+have reason to believe is untenable for most states intending to submit 
+state plans. The EPA does not wish to set these states up to fail, 
+especially when they have been diligently working to try to meet the 
+submittal deadline. Extending the submittal deadline will enable states 
+to devote suitable time and resources to developing approvable plans 
+that meet all applicable requirements and achieve the objectives of the 
+states and their stakeholders. In contrast, pressing forward on the 
+existing deadline could needlessly embroil states and the EPA in 
+disputes over untimely or insufficient submissions, thereby triggering 
+administrative processes and litigation that detract from 
+implementation of the emission guidelines and could be avoided with a 
+targeted extension.
+---------------------------------------------------------------------------
+
+    \50\ 40 CFR 60.27a(c). The EPA's obligation to promulgate a 
+Federal plan is removed if the state submits, and the EPA approves, 
+a state plan before the EPA issues a Federal plan.
+---------------------------------------------------------------------------
+
+    In this action we are extending the deadline for state plan 
+submittal until January 22, 2027 for the reasons discussed in this 
+section. This gives states additional time from their current deadline 
+in March 2026.
+
+III. Rulemaking Procedures
+
+    As noted in section I.C. of this preamble, the EPA's authority for 
+the rulemaking procedures followed in this action is provided by APA 
+section 553(b)(B), which allows an agency to forgo notice-and comment 
+requirements ``when the Agency for good cause finds (and incorporates 
+the finding and a brief statement of reasons, therefore, in the rule 
+issued) that notice and public procedure thereon are impracticable, 
+unnecessary, or contrary to the public interest.'' \51\ The EPA finds 
+good cause to forego prior notice and comment because that rulemaking 
+procedure is impracticable and unnecessary under the circumstances.
+---------------------------------------------------------------------------
+
+    \51\ Although the procedural requirements of CAA section 307(d) 
+apply to the EPA's promulgation or revision of any standard of 
+performance under CAA section 111, these procedural requirements do 
+not apply ``in the case of any rule or circumstance referred to in 
+subparagraphs (A) or (B) of [APA section 553(b)].'' 42 U.S.C. 
+7607(d)(1).
+---------------------------------------------------------------------------
+
+    The EPA finds that prior notice and comment is unnecessary because 
+the EPA is making only targeted changes to certain compliance or 
+implementation dates in response to immediate concerns raised by 
+stakeholders, including owners and operators subject to the rule's 
+requirements. For the reasons described in more detail in section II of 
+this preamble, certain regulatory provisions have created unintended 
+compliance difficulties unrelated to the actual emissions standards and 
+other requirements of the underlying regulations. This targeted action 
+provides subject facilities the additional time needed to resolve these 
+specific compliance and implementation problems without disrupting the 
+sequencing of the compliance deadlines in the final rule or risking 
+interim noncompliance proceedings. The EPA believes the targeted 
+deadline revisions in this action do not interfere with, or 
+unreasonably frustrate, the ultimate emission reduction requirements of 
+the rule. To the extent interested parties
+
+[[Page 35980]]
+
+raise concerns about this action or any particular deadline amendment 
+made therein, the EPA will carefully review any comments submitted on 
+this action and consider whether changes are appropriate after close of 
+the comment period.
+    In addition, the EPA finds that prior notice and comment would be 
+impracticable given the applicable compliance deadlines and the 
+timeline involved in completing such procedures. The EPA has determined 
+through ongoing communications with stakeholders and review of the 
+relevant regulatory language that there are legitimate barriers to 
+compliance and/or questions as to whether the regulatory provisions for 
+which we are extending compliance deadlines are practically and 
+logistically achievable as promulgated in the timeframes allowed by the 
+2024 final rule. As a result, the EPA is making only targeted changes 
+to certain compliance dates in this action to provide the immediate 
+relief necessary to avoid unnecessary and problematic situations of 
+owners and operators expending time and resources attempting to comply 
+in short amounts of time with untenable regulatory provisions. Prior 
+notice and comment would be impracticable given the purpose of these 
+targeted amendments, which is to provide the immediate extension 
+required to address the problems identified above.
+    The EPA has determined that this rule may take effect immediately 
+upon publication because, in extending certain deadlines within the 
+2024 rule it ``relieves a restriction.'' 5 U.S.C. 553(d)(1). Further, 
+for the reasons described above, there exists ``good cause'' for an 
+immediate effective date. 5 U.S.C. 553(d)(3); 5 U.S.C. 808(2).
+
+IV. Request for Comment
+
+    As explained in section III of this document, the EPA finds good 
+cause to issue this interim final rule without prior notice or 
+opportunity for public comment. However, the EPA is providing an 
+opportunity for the public to comment on the deadlines being extended 
+in the regulatory text changes being made by this action and, thus, 
+requests comment on the revisions described herein. The EPA is not 
+reopening for comment any provisions of the March 2024 final rule other 
+than the specific changes made in this interim final rule. The EPA will 
+review comments received and consider whether this action should be 
+revised, if appropriate, in response to comments received.
+
+V. Statutory and Executive Order Reviews
+
+    Additional information about these statutes and Executive Orders 
+can be found at <a href="https://www.epa.gov/laws-regulations/laws-and-executive-orders">https://www.epa.gov/laws-regulations/laws-and-executive-orders</a>.
+
+A. Executive Order 12866: Regulatory Planning and Review and Executive 
+Order 13563: Improving Regulation and Regulatory Review
+
+    This action is a significant regulatory action as defined under 
+section 3(f)(1) of Executive Order (E.O.) 12866. Accordingly, it was 
+submitted to the Office of Management and Budget (OMB) for review. Any 
+changes made in response to E.O. 12866 review have been documented in 
+the docket. The EPA prepared an analysis of the potential costs and 
+benefits associated with this action. This analysis, Economic Impact 
+Analysis for the Extension of Deadlines in the NSPS OOOOb and EG OOOOc, 
+is available in the docket.
+    In the analysis, we present the estimated present values (PV) and 
+equivalent annualized values (EAV) of the estimated cost savings of 
+delaying compliance with the EG OOOOc (via extending the state plan 
+submittal deadline) in 2024 dollars over the 2028 to 2039 period, 
+discounted to 2025. Those quantitative results can be found in the next 
+section. We acknowledge, but do not quantify, the cost savings to 
+states resulting from having an additional year to develop state plans 
+to implement the EG OOOOc.
+    Under the IFR, we anticipate disbenefits associated with additional 
+emissions and lost value of captured natural gas because of delayed 
+compliance with EG OOOOc. Specifically, we estimate climate damages 
+from increasing methane emissions by 1,300,000 short tons, lost value 
+of PM<INF>2.5</INF> and ozone-related health benefits from increasing 
+VOC emissions by 350,000 short tons, and lost value of benefits from 
+increasing HAP emissions by 13,000 short tons. In addition, we estimate 
+present values of the lost value of natural gas of $170 million using a 
+3 percent discount rate and $280 million using a 7 percent discount 
+rate.
+
+B. Executive Order 14192: Unleashing Prosperity Through Deregulation
+
+    This action is considered an Executive Order 14192 deregulatory 
+action. Details on the estimated cost savings of this final rule can be 
+found in the EPA's analysis of the potential costs and benefits 
+associated with this action. Table 3 presents the estimates of the 
+compliance cost savings of this action. The analysis horizon over which 
+the present value (PV) and equivalent annualized value (EAV) are 
+estimated is 2028 to 2039. We estimate the PV and EAV under 3 and 7 
+percent discount rates discounted back to 2025 in 2024 dollars.
+
+        Table 3--Present Value (PV) and Equivalent Annualized Value (EAV) of the Compliance Cost Savings
+                                       [Billion 2024$, discounted to 2025]
+----------------------------------------------------------------------------------------------------------------
+                         3 Percent discount rate                                  7 Percent discount rate
+----------------------------------------------------------------------------------------------------------------
+                         PV                                   EAV                 PV                  EAV
+----------------------------------------------------------------------------------------------------------------
+0.75................................................               0.08                1.38                0.18
+----------------------------------------------------------------------------------------------------------------
+
+C. Paperwork Reduction Act (PRA)
+
+    This action does not impose any new information collection burden 
+under the PRA. On June 28, 2024, the information collection activities 
+for NSPS OOOOb and EG OOOOc were approved by OMB under the PRA.\52\ The 
+ICR document that the EPA prepared has been assigned OMB Control No. 
+2060-0721 and EPA ICR number 2523.07. You can find a copy of the 
+previously submitted ICR in EPA-HQ-OAR-2021-0317.
+---------------------------------------------------------------------------
+
+    \52\ <a href="https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202405-2060-001">https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202405-2060-001</a>.
+---------------------------------------------------------------------------
+
+    This action does not change the information collection 
+requirements.
+
+D. Regulatory Flexibility Act (RFA)
+
+    This action is not subject to the RFA. The RFA applies only to 
+rules subject to notice and comment rulemaking requirements under the 
+APA, 5 U.S.C. 553, or any other statute. This rule is not
+
+[[Page 35981]]
+
+subject to notice and comment requirements because the Agency has 
+invoked the APA ``good cause'' exemption under 5 U.S.C. 553(b).
+
+E. Unfunded Mandates Reform Act of 1995 (UMRA)
+
+    This action does not contain an unfunded mandate of $100 million or 
+more as described in UMRA, 2 U.S.C. 1531-1538, and does not 
+significantly or uniquely affect small governments. This action imposes 
+no enforceable duty on any state, local or tribal governments or the 
+private sector. This action extends certain deadlines in the March 2024 
+final rule.
+
+F. Executive Order 13132: Federalism
+
+    This action does not have federalism implications. It will not have 
+substantial direct effects on the states, on the relationship between 
+the national government and the states, or on the distribution of power 
+and responsibilities among the various levels of government. This 
+action extends the deadline for state plan submittals, which will allow 
+additional time for states to develop plans. However, this action does 
+not alter the substantive requirements related to the content of state 
+plans.
+
+G. Executive Order 13175: Consultation and Coordination With Indian 
+Tribal Governments
+
+    This action does not have tribal implications as specified in 
+Executive Order 13175. This action will implement extension of certain 
+deadlines in the March 2024 final rule. Thus, Executive Order 13175 
+does not apply to this action.
+
+H. Executive Order 13045: Protection of Children From Environmental 
+Health Risks and Safety Risks
+
+    This action is not subject to Executive Order 13045 because the EPA 
+does not believe the environmental health risks or safety risks 
+addressed by this action present a disproportionate risk to children. 
+The EPA contends that the environmental health risks or safety risks 
+addressed by this action do not present a disproportionate risk to 
+children because other regulations are sufficiently protective of 
+children's health. This action does not affect the level of public 
+health and environmental protection already being provided by existing 
+NAAQS and other mechanisms in the CAA. Nor does this action result in 
+any changes to the control of air pollutants. This action does not 
+affect applicable local, state, or Federal permitting or air quality 
+management programs that will continue to address areas with degraded 
+air quality and maintain the air quality in areas meeting current 
+standards. Areas that need to reduce criteria air pollution to meet the 
+NAAQS will still need to rely on control strategies to reduce 
+emissions. The EPA does not believe this decrease in emission 
+reductions projected from this action will have a disproportionate 
+adverse effect on children's health.
+
+I. Executive Order 13211: Actions Concerning Regulations That 
+Significantly Affect Energy Supply, Distribution, or Use
+
+    This action is not a ``significant energy action'' because it is 
+not likely to have a significant adverse effect on the supply, 
+distribution or use of energy. In the Regulatory Impact Analysis (RIA) 
+accompanying the 2024 final rule, the EPA used a set of supply and 
+demand price elasticities to estimate the impacts of the rule on the 
+United States energy system (see section 4.1.4 of that document). The 
+EPA estimated maximum production reductions of about 41.4 million 
+barrels of crude oil (1.05 percent of projected baseline production) 
+and 272.5 million Mcf (thousand cubic feet) per year (0.75 percent). 
+This final rule is estimated to result in a decrease in total 
+compliance costs, with the reduction in costs affecting the affected 
+entities under EG subpart OOOOc, which the EPA expects will attenuate 
+the impacts estimated for the 2024 final rule RIA.
+
+J. National Technology Transfer and Advancement Act (NTTAA) and 1 CFR 
+Part 51
+
+    This action does not involve technical standards; therefore, the 
+NTTAA does not apply.
+
+K. Congressional Review Act (CRA)
+
+    This action meets the criteria described at 5 U.S.C. 804(2), and 
+the EPA will submit a rule report to each House of the Congress and to 
+the Comptroller General of the United States. The CRA allows the 
+issuing agency to make a rule effective sooner than otherwise provided 
+by the CRA if the agency makes a good cause finding that notice and 
+comment rulemaking procedures are impracticable, unnecessary, or 
+contrary to the public interest (5 U.S.C. 808(2)). The EPA has made a 
+good cause finding for this action as discussed in section III of this 
+document, including the basis for that finding.
+
+List of Subjects in 40 CFR Part 60
+
+    Environmental protection, Administrative practices and procedures, 
+Air pollution control, Intergovernmental relations, Reporting and 
+recordkeeping requirements.
+
+Lee Zeldin,
+Administrator.
+
+    For the reasons stated in the preamble, the Environmental 
+Protection Agency amends part 60 of title 40, chapter I, of the Code of 
+Federal Regulations as follows:
+
+PART 60--STANDARDS OF PERFORMANCE FOR NEW STATIONARY SOURCES
+
+0
+1. The authority citation for part 60 continues to read as follows:
+
+    Authority:  42 U.S.C. 7401 et seq.
+
+Subpart OOOO--Standards of Performance for Crude Oil and Natural 
+Gas Facilities for Which Construction, Modification, or 
+Reconstruction Commenced After August 23, 2011, and On or Before 
+September 18, 2015
+
+0
+2. Amend Sec.  60.5371 by adding two sentences before the first 
+sentence of the introductory text to read as follows:
+
+
+Sec.  60.5371  What standards apply to super-emitter events?
+
+    The provisions of this section will not apply between July 31, 
+2025, and January 22, 2027. The provisions of this section will apply 
+after January 22, 2027. * * *
+* * * * *
+
+Subpart OOOOa--Standards of Performance for Crude Oil and Natural 
+Gas Facilities for Which Construction, Modification or 
+Reconstruction Commenced After September 18, 2015 and On or Before 
+December 6, 2022
+
+0
+3. Amend Sec.  60.5371a by adding two sentences before the first 
+sentence of the introductory text to read as follows:
+
+
+Sec.  60.5371a  What standards apply to super-emitter events?
+
+    The provisions of this section will not apply between July 31, 
+2025, and January 22, 2027. The provisions of this section will apply 
+after January 22, 2027. * * *
+* * * * *
+
+Subpart OOOOb--Standards of Performance for Crude Oil and Natural 
+Gas Facilities for Which Construction, Modification or 
+Reconstruction Commenced After December 6, 2022
+
+0
+4. Amend Sec.  60.5365b by revising paragraph (e)(2)(i) introductory 
+text and paragraphs (e)(2)(ii) and (e)(3)(ii)(C) and (D) to read as 
+follows:
+
+[[Page 35982]]
+
+Sec.  60.5365b  Am I subject to this subpart?
+
+* * * * *
+    (e) * * *
+    (2) * * *
+    (i) Beginning January 22, 2027, or upon startup, whichever is 
+later, for purposes of determining the applicability of a storage 
+vessel tank battery as an affected facility, a legally and practicably 
+enforceable limit must include the elements provided in paragraphs 
+(e)(2)(i)(A) through (F) of this section.
+* * * * *
+    (ii) For each tank battery located at a well site or centralized 
+production facility, you must determine the potential for VOC and 
+methane emissions within 30 days after startup of production, or within 
+30 days after an action specified in paragraphs (e)(3)(i) and (ii) of 
+this section, except as provided in paragraph (e)(5)(iv) of this 
+section. Beginning January 22, 2027, the potential for VOC and methane 
+emissions must be calculated using a generally accepted model or 
+calculation methodology that accounts for flashing, working, and 
+breathing losses, based on the maximum average daily throughput to the 
+tank battery determined for a 30-day period of production.
+* * * * *
+    (3) * * *
+    (ii) * * *
+    (C) Beginning January 22, 2027, or upon startup, whichever is 
+later, for tank batteries at well sites or centralized production 
+facilities, an existing tank battery receives additional crude oil, 
+condensate, intermediate hydrocarbons, or produced water throughput 
+from actions, including but not limited to, the addition of operations 
+or a production well, or changes to operations or a production well 
+(including hydraulic fracturing or refracturing of the well).
+    (D) Beginning January 22, 2027, or upon startup, whichever is 
+later, for tank batteries not located at a well site or centralized 
+production facility, including each tank battery at compressor stations 
+or onshore natural gas processing plants, an existing tank battery 
+receives additional fluids which cumulatively exceed the throughput 
+used in the most recent (i.e., prior to an action in paragraph 
+(e)(3)(ii)(A), (B), or (D) of this section) determination of the 
+potential for VOC or methane emissions.
+* * * * *
+
+0
+5. Amend Sec.  60.5370b by revising paragraph (a) introductory text and 
+paragraphs (a)(4) and (5) and adding paragraphs (a)(8) and (9) to read 
+as follows:
+
+
+Sec.  60.5370b  When must I comply with this subpart?
+
+    (a) You must be in compliance with the standards of this subpart no 
+later than May 7, 2024, or upon initial startup, whichever date is 
+later, except as specified in paragraph (a)(1) of this section for 
+reciprocating compressor affected facilities, paragraphs (a)(2) and (3) 
+of this section for storage vessel affected facilities, paragraph 
+(a)(4) of this section for process unit equipment affected facilities 
+at onshore natural gas processing plants, paragraph (a)(5) of this 
+section for process controllers, paragraph (a)(6) of this section for 
+pumps, paragraph (a)(7) of this section for centrifugal compressor 
+affected facilities, paragraph (a)(8) of this section for enclosed 
+combustion devices, paragraph (a)(9) of this section for enclosed 
+combustion devices or flares, and paragraphs Sec.  60.5377b(b) or (c) 
+for associated gas wells.
+* * * * *
+    (4) Except as specified in paragraph (a)(4)(i) and (ii) of this 
+section, you must comply with the requirements of Sec.  60.5400b or as 
+an alternative, the requirements in Sec.  60.5401b, for all process 
+unit equipment affected facilities at a natural gas processing plant, 
+as soon as practicable but no later than 180 days after the initial 
+startup of the process unit.
+    (i) If complying with Sec.  60.5400b, beginning January 22, 2027, 
+or 180 days after startup, whichever is later, you must comply with the 
+requirements of Sec.  60.5400b(h)(2)(ii).
+    (ii) If complying with Sec.  60.5401b, beginning January 22, 2027, 
+or 180 days after startup, whichever is later, you must comply with the 
+requirements of Sec.  60.5401b(i)(2)(ii).
+    (5) For process controller affected facilities, you must comply 
+with the requirements of paragraph (a)(5)(i) or (ii) of this section, 
+as applicable.
+    (i) Any process controller affected facilities may comply with 
+Sec.  60.5390b(b)(1) and (2) or (3) as an alternative to compliance 
+with Sec.  60.5390b(a) until January 22, 2027.
+    (ii) On or after January 22, 2027, process controller affected 
+facilities must comply with Sec.  60.5390b(a) or (b), as specified in 
+those paragraphs.
+* * * * *
+    (8) For an enclosed combustion device, you must comply with the 
+requirements of paragraph (a)(8)(i) of this section, as applicable.
+    (i) Beginning January 22, 2027, or 180 days after startup, 
+whichever is later, you must comply with the performance testing 
+procedures of Sec.  60.5413b(b).
+    (ii) [Reserved]
+    (9) For an enclosed combustion device or for a flare, you must 
+comply with the requirements of paragraph (a)(9)(i), (ii), or (iii) of 
+this section, as applicable.
+    (i) Beginning November 28, 2025, or 180 days after startup, 
+whichever is later, you must comply with the continuous monitoring 
+systems requirements of Sec.  60.5417b(d)(8)(i) through (iv).
+    (ii) Beginning May 7, 2024 or 180 days after startup, whichever is 
+later, you must comply with the visible emission observation 
+requirements of Sec.  60.5417b(d)(8)(v).
+    (iii) Beginning November 28, 2025, or 180 days after startup, 
+whichever is later, you must comply with the continuous monitoring 
+systems requirements of Sec.  60.5417b(d)(8)(vi) for enclosed 
+combustion devices or flares that are air-assisted or steam-assisted.
+* * * * *
+
+0
+6. Amend Sec.  60.5371b by adding two sentences before the first 
+sentence of the introductory text to read as follows:
+
+
+Sec.  60.5371b  What GHG and VOC standards apply to super-emitter 
+events?
+
+    The provisions of this section will not apply between July 31, 
+2025, and January 22, 2027. The provisions of this section will apply 
+after January 22, 2027. * * *
+* * * * *
+
+0
+7. Amend Sec.  60.5375b by revising paragraphs (a)(2) and (f)(3)(i) and 
+(ii) to read as follows:
+
+
+Sec.  60.5375b  What GHG and VOC standards apply to well completions at 
+well affected facilities?
+
+    (a) * * *
+    (2) If it is technically infeasible to route the recovered gas as 
+required in paragraph (a)(1)(ii) of this section, then you must capture 
+and direct recovered gas to a completion combustion device, except in 
+conditions that may result in a fire hazard or explosion, or where high 
+heat emissions from a completion combustion device may negatively 
+impact tundra, permafrost or waterways. After January 22, 2027, 
+completion combustion devices must be equipped with a reliable 
+continuous pilot flame.
+* * * * *
+    (f) * * *
+    (3) * * *
+    (i) Route all flowback to a completion combustion device, except in 
+conditions that may result in a fire hazard or explosion, or where high 
+heat emissions from a completion combustion device may negatively 
+impact tundra, permafrost or waterways. After January 22, 2027, 
+completion combustion
+
+[[Page 35983]]
+
+devices must be equipped with a reliable continuous pilot flame.
+    (ii) Route all flowback into one or more well completion vessels 
+and commence operation of a separator unless it is technically 
+infeasible for a separator to function. You must have the separator 
+onsite or otherwise available for use at the wildcat well, delineation 
+well, or low pressure well. The separator must be available and ready 
+for use to comply with paragraph (f)(3)(ii) of this section during the 
+entirety of the flowback period. Any gas present in the flowback before 
+the separator can function is not subject to control under this 
+section. Capture and direct recovered gas to a completion combustion 
+device, except in conditions that may result in a fire hazard or 
+explosion, or where high heat emissions from a completion combustion 
+device may negatively impact tundra, permafrost, or waterways. After 
+January 22, 2027, completion combustion devices must be equipped with a 
+reliable continuous pilot flame.
+* * * * *
+
+0
+8. Amend Sec.  60.5390b by revising paragraph (a) introductory text to 
+read as follows:
+
+
+Sec.  60.5390b  What GHG and VOC standards apply to process controller 
+affected facilities?
+
+* * * * *
+    (a) Beginning January 22, 2027, or upon startup, whichever is 
+later, you must design and operate each process controller affected 
+facility with zero methane and VOC emissions to the atmosphere, except 
+as provided in paragraph (b) of this section.
+* * * * *
+
+0
+9. Amend Sec.  60.5398b by revising paragraph (d)(1)(iii) to read as 
+follows:
+
+
+Sec.  60.5398b   What alternative GHG and VOC standards apply to 
+fugitive emissions components affected facilities and what inspection 
+and monitoring requirements apply to covers and closed vent systems 
+when using an alternative technology?
+
+* * * * *
+    (d) * * *
+    (1) * * *
+    (iii) Within 270 days of receipt of an alternative test method 
+request that was determined to be complete, the Administrator will 
+determine whether the requested alternative test method is adequate for 
+indicating compliance with the requirements for monitoring fugitive 
+emissions components affected facilities in Sec.  60.5397b and 
+continuous inspection and monitoring of covers and closed vent systems 
+in Sec.  60.5416b and/or for identifying super-emitter events in Sec.  
+60.5371b, except that the Administrator is not required to make 
+determinations on such requests for methods for identifying super 
+emitter events in Sec.  60.5371b before January 22, 2027. The 
+Administrator will issue either an approval or disapproval in writing 
+to the submitter. Approvals may be considered site-specific or more 
+broadly applicable. Broadly applicable alternative test methods and 
+approval letters will be posted at <a href="https://www.epa.gov/emc/oil-and-gas-approved-alternative-test-methods-approvals">https://www.epa.gov/emc/oil-and-gas-approved-alternative-test-methods-approvals</a>. If the Administrator fails 
+to provide the submitter a decision on approval or disapproval within 
+270 days, the alternative test method will be given conditional 
+approval status and posted on this same web page, except that 
+conditional approval will not be given for purposes of identifying 
+super-emitter events in Sec.  60.5371b before January 22, 2027. If the 
+Administrator finds any deficiencies in the request and disapproves the 
+request in writing, the owner or operator may choose to revise the 
+information and submit a new request for an alternative test method.
+* * * * *
+
+0
+10. Amend Sec.  60.5411b by revising paragraphs (a)(3) and (b)(4) to 
+read as follows:
+
+
+Sec.  60.5411b  What additional requirements must I meet to determine 
+initial compliance for my covers and closed vent systems?
+
+* * * * *
+    (a) * * *
+    (3) Beginning January 22, 2027, or upon startup, whichever is 
+later, you must design and operate the closed vent system with no 
+identifiable emissions as demonstrated by Sec.  60.5416b(a) and (b).
+* * * * *
+    (b) * * *
+    (4) Beginning January 22, 2027 or upon startup, whichever is later, 
+you must design and operate the cover with no identifiable emissions as 
+demonstrated by Sec.  60.5416b(a) and (b), except when operated as 
+provided in paragraphs (b)(2)(i) through (iv) of this section.
+* * * * *
+
+0
+11. Amend Sec.  60.5412b by revising paragraphs (a)(1)(viii), 
+(a)(3)(viii), and (d)(5) to read as follows:
+
+
+Sec.  60.5412b   What additional requirements must I meet for 
+determining initial compliance of my control devices?
+
+* * * * *
+    (a) * * *
+    (1) * * *
+    (viii) After January 22, 2027, you must install and operate a 
+continuous burning pilot or combustion flame. After January 22, 2027, 
+an alert must be sent to the nearest control room whenever the pilot or 
+combustion flame is unlit.
+* * * * *
+    (3) * * *
+    (viii) After January 22, 2027, you must install and operate a 
+continuous burning pilot or combustion flame. After January 22, 2027, 
+an alert must be sent to the nearest control room whenever the pilot or 
+combustion flame is unlit.
+* * * * *
+    (d) * * *
+    (5) If the alternative test method demonstrates compliance with the 
+metrics specified in paragraphs (d)(1)(i) and (ii) of this section 
+instead of demonstrating continuous compliance with 95.0 percent or 
+greater combustion efficiency, after January 22, 2027, you must still 
+install the pilot or combustion flame monitoring system required by 
+Sec.  60.5417b(d)(8)(i). If the alternative test method demonstrates 
+continuous compliance with a combustion efficiency of 95.0 percent or 
+greater, the requirement in Sec.  60.5417b(d)(8)(i) no longer applies.
+
+0
+12. Amend Sec.  60.5413b by revising paragraph (e)(2) to read as 
+follows:
+
+
+Sec.  60.5413b   What are the performance testing procedures for 
+control devices?
+
+* * * * *
+    (e) * * *
+    (2) After January 22, 2027, a pilot or combustion flame must be 
+present at all times of operation. After January 22, 2027, an alert 
+must be sent to the nearest control room whenever the pilot or 
+combustion flame is unlit.
+* * * * *
+
+0
+13. Amend Sec.  60.5415b by revising paragraph (f)(1)(vii)(A)(1) and 
+paragraph (h)(1) introductory text to read as follows:
+
+
+Sec.  60.5415b  How do I demonstrate continuous compliance with the 
+standards for each of my affected facilities?
+
+* * * * *
+    (f) * * *
+    (1) * * *
+    (vii) * * *
+    (A) * * *
+    (1) After January 22, 2027, a pilot or combustion flame must be 
+present at all times of operation. After January 22, 2027, an alert 
+must be sent to the nearest control room whenever the pilot or 
+combustion flame is unlit.
+* * * * *
+    (h) * * *
+    (1) Beginning January 22, 2027, or upon startup, whichever is 
+later, you must demonstrate that your process controller affected 
+facility does not emit any VOC or methane to the atmosphere
+
+[[Page 35984]]
+
+by meeting the requirements of paragraph (h)(1)(i) or (ii) of this 
+section.
+* * * * *
+0
+14. Amend Sec.  60.5416b by revising paragraphs (a)(1) and (2) and 
+(a)(3)(i) and paragraph (b) introductory text to read as follows:
+
+
+Sec.  60.5416b  What are the initial and continuous cover and closed 
+vent system inspection and monitoring requirements?
+
+* * * * *
+    (a) * * *
+    (1) For each closed vent system joint, seam, or other connection 
+that is permanently or semi-permanently sealed (e.g., a welded joint 
+between two sections of hard piping or a bolted and gasketed ducting 
+flange), you must meet the requirements specified in paragraphs 
+(a)(1)(i) through (iii) of this section.
+    (i) Within the first 30 calendar days after January 22, 2027, or 
+upon startup of the affected facility routing emissions through the 
+closed vent system, whichever is later, conduct an initial inspection 
+according to the test methods and procedures specified in paragraph (b) 
+of this section to demonstrate that the closed vent system operates 
+with no identifiable emissions.
+    (ii) Conduct annual visual inspections for defects that could 
+result in air emissions. Defects include, but are not limited to, 
+visible cracks, holes, or gaps in piping; loose connections; liquid 
+leaks; or broken or missing caps or other closure devices. Beginning on 
+the first annual inspection after January 22, 2027, and for all annual 
+inspections thereafter, you must monitor a component or connection 
+using the test methods and procedures in paragraph (b) of this section 
+to demonstrate that it operates with no identifiable emissions 
+following any time the component is repaired or replaced or the 
+connection is unsealed.
+    (iii) Conduct AVO inspections in accordance with and at the same 
+frequency as specified for fugitive emissions components affected 
+facilities located at the same type of site as specified in Sec.  
+60.5397b(g). Process unit equipment affected facilities must conduct 
+annual AVO inspections concurrent with the inspections required by 
+paragraph (a)(1)(ii) of this section.
+    (2) For closed vent system components other than those specified in 
+paragraph (a)(1) of this section, you must meet the requirements of 
+paragraphs (a)(2)(i) through (iv) of this section.
+    (i) Conduct an initial inspection according to the test methods and 
+procedures specified in paragraph (b) of this section within the first 
+30 calendars days after startup of the affected facility routing 
+emissions through the closed vent system or January 22, 2027, whichever 
+is later, to demonstrate that the closed vent system operates with no 
+identifiable emissions.
+    (ii) Beginning January 22, 2027, conduct inspections according to 
+the test methods, procedures, and frequencies specified in paragraph 
+(b) of this section to demonstrate that the components or connections 
+operate with no identifiable emissions.
+    (iii) Conduct annual visual inspections for defects that could 
+result in air emissions. Defects include, but are not limited to, 
+visible cracks, holes, or gaps in ductwork; loose connections; liquid 
+leaks; or broken or missing caps or other closure devices. Beginning 
+January 22, 2027, you must monitor a component or connection using the 
+test methods and procedures in paragraph (b) of this section to 
+demonstrate that it operates with no identifiable emissions following 
+any time the component is repaired or replaced or the connection is 
+unsealed.
+    (iv) Conduct AVO inspections in accordance with and at the same 
+frequency as specified for fugitive emissions components affected 
+facilities located at the same type of site, as specified in Sec.  
+60.5397b(g). Process unit equipment affected facilities must conduct 
+annual AVO inspections concurrent with the inspections required by 
+paragraph (a)(2)(iii) of this section.
+    (3) * * *
+    (i) Beginning January 22, 2027, conduct the inspections specified 
+in paragraphs (a)(3)(ii) through (iv) of this section to identify 
+defects that could result in air emissions and to ensure the cover 
+operates with no identifiable emissions. Defects include, but are not 
+limited to, visible cracks, holes, or gaps in the cover, or between the 
+cover and the separator wall; broken, cracked, or otherwise damaged 
+seals or gaskets on closure devices; and broken or missing hatches, 
+access covers, caps, or other closure devices. In the case where the 
+storage vessel is buried partially or entirely underground, you must 
+inspect only those portions of the cover that extend to or above the 
+ground surface, and those connections that are on such portions of the 
+cover (e.g., fill ports, access hatches, gauge wells, etc.) and can be 
+opened to the atmosphere.
+* * * * *
+    (b) No identifiable emissions test methods and procedures. If you 
+are required to conduct an inspection of a closed vent system and cover 
+as specified in paragraph (a)(1), (2), or (3) of this section or Sec.  
+60.5398b(b), you must meet the requirements of paragraphs (b)(1) 
+through (9) of this section after January 22, 2027. You must meet the 
+requirements of paragraphs (b)(1), (2), (4), and (9) of this section 
+for each self-contained process controller at your process controller 
+affected facility as specified at Sec.  60.5390b(a)(2).
+* * * * *
+
+0
+15. Amend Sec.  60.5417b by revising paragraphs (d)(8)(i) and (i)(6)(v) 
+to read as follows:
+
+
+Sec.  60.5417b   What are the continuous monitoring requirements for my 
+control devices?
+
+* * * * *
+    (d) * * *
+    (8) * * *
+    (i) After January 22, 2027, continuously monitor at least once 
+every five minutes for the presence of a pilot flame or combustion 
+flame using a device (including, but not limited to, a thermocouple, 
+ultraviolet beam sensor, or infrared sensor) capable of detecting that 
+the pilot or combustion flame is present at all times. After January 
+22, 2027, an alert must be sent to the nearest control room whenever 
+the pilot or combustion flame is unlit. Continuous monitoring systems 
+used for the presence of a pilot flame or combustion flame are not 
+subject to a minimum accuracy requirement beyond being able to detect 
+the presence or absence of a flame and are exempt from the calibration 
+requirements of this section.
+* * * * *
+    (i) * * *
+    (6) * * *
+    (v) After January 22, 2027, if required by paragraph (i)(5) of this 
+section to install a pilot or combustion flame monitoring system, a 
+deviation occurs when there is no indication of the presence of a pilot 
+or combustion flame for any 5-minute period.
+* * * * *
+
+Subpart OOOOc--Emissions Guidelines for Greenhouse Gas Emissions 
+From Existing Crude Oil and Natural Gas Facilities
+
+0
+16. Amend Sec.  60.5362c by revising paragraph (c) to read as follows:
+
+
+Sec.  60.5362c   Am I affected by this subpart?
+
+* * * * *
+    (c) You must submit the state or Tribal plan or negative 
+declaration letter to EPA by January 22, 2027.
+
+0
+17. Revise Sec.  60.5368c to read as follows:
+
+[[Page 35985]]
+
+Sec.  60.5368c  What if my state or Tribal plan is not approvable?
+
+    If you do not submit a state or Tribal plan (or a negative 
+declaration letter) by January 22, 2027, or if EPA disapproves your 
+state plan, EPA will develop a Federal plan according to Sec.  
+60.27a(c) through (f) to implement the emission guidelines contained in 
+this subpart.
+
+0
+18. Amend Sec.  60.5374c by revising paragraph (b) to read as follows:
+
+
+Sec.  60.5374c  Does this subpart directly affect designated facility 
+owners and operators in my state?
+
+* * * * *
+    (b) If you do not submit a plan to implement and enforce the 
+guidelines contained in this subpart by the date specified in Sec.  
+60.5352c, or if EPA disapproves your plan, the EPA will implement and 
+enforce a Federal plan, as provided in Sec.  60.5368c, to ensure that 
+each designated facility within your state that commenced construction, 
+modification or reconstruction on or before December 6, 2022, reaches 
+compliance with all the provisions of this subpart by the dates 
+specified in Sec.  60.5360c.
+
+[FR Doc. 2025-14531 Filed 7-30-25; 8:45 am]
+BILLING CODE 6560-50-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

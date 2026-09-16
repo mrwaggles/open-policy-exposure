@@ -1,0 +1,81 @@
+{
+    "bill": {
+        "actions": {
+            "count": 8,
+            "url": "https://api.congress.gov/v3/bill/119/hr/1319/actions?format=json"
+        },
+        "committeeReports": [
+            {
+                "citation": "H. Rept. 119-505",
+                "url": "https://api.congress.gov/v3/committee-report/119/HRPT/505?format=json"
+            }
+        ],
+        "committees": {
+            "count": 1,
+            "url": "https://api.congress.gov/v3/bill/119/hr/1319/committees?format=json"
+        },
+        "congress": 119,
+        "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 30 (Thursday, February 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KILEY of California:\nH.R. 1319.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8\n[Page H711]\n</pre>",
+        "cosponsors": {
+            "count": 23,
+            "countIncludingWithdrawnCosponsors": 23,
+            "url": "https://api.congress.gov/v3/bill/119/hr/1319/cosponsors?format=json"
+        },
+        "introducedDate": "2025-02-13",
+        "latestAction": {
+            "actionDate": "2026-02-20",
+            "text": "Placed on the Union Calendar, Calendar No. 431."
+        },
+        "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1319",
+        "number": "1319",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "policyArea": {
+            "name": "Labor and Employment"
+        },
+        "relatedBills": {
+            "count": 1,
+            "url": "https://api.congress.gov/v3/bill/119/hr/1319/relatedbills?format=json"
+        },
+        "sponsors": [
+            {
+                "bioguideId": "K000401",
+                "district": 3,
+                "firstName": "Kevin",
+                "fullName": "Rep. Kiley, Kevin [R-CA-3]",
+                "isByRequest": "N",
+                "lastName": "Kiley",
+                "party": "R",
+                "state": "CA",
+                "url": "https://api.congress.gov/v3/member/K000401?format=json"
+            }
+        ],
+        "subjects": {
+            "count": 3,
+            "url": "https://api.congress.gov/v3/bill/119/hr/1319/subjects?format=json"
+        },
+        "summaries": {
+            "count": 1,
+            "url": "https://api.congress.gov/v3/bill/119/hr/1319/summaries?format=json"
+        },
+        "textVersions": {
+            "count": 2,
+            "url": "https://api.congress.gov/v3/bill/119/hr/1319/text?format=json"
+        },
+        "title": "Modern Worker Empowerment Act",
+        "titles": {
+            "count": 3,
+            "url": "https://api.congress.gov/v3/bill/119/hr/1319/titles?format=json"
+        },
+        "type": "HR",
+        "updateDate": "2026-06-11T23:26:41Z",
+        "updateDateIncludingText": "2026-06-11T23:26:41Z"
+    },
+    "request": {
+        "billNumber": "1319",
+        "billType": "hr",
+        "congress": "119",
+        "contentType": "application/json",
+        "format": "json"
+    }
+}

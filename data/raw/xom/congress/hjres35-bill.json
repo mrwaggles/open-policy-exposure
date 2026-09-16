@@ -1,0 +1,89 @@
+{
+    "bill": {
+        "actions": {
+            "count": 23,
+            "url": "https://api.congress.gov/v3/bill/119/hjres/35/actions?format=json"
+        },
+        "cboCostEstimates": [
+            {
+                "description": "As posted by the House Committee on Rules on February 24, 2025",
+                "pubDate": "2025-02-26T17:12:00Z",
+                "title": "H.J. Res. 35, a joint resolution providing for Congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to “Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions”",
+                "url": "https://www.cbo.gov/publication/61228"
+            }
+        ],
+        "committees": {
+            "count": 1,
+            "url": "https://api.congress.gov/v3/bill/119/hjres/35/committees?format=json"
+        },
+        "congress": 119,
+        "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 23 (Tuesday, February 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. PFLUGER:\nH.J. Res. 35.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8\n[Page H461]\n</pre>",
+        "cosponsors": {
+            "count": 19,
+            "countIncludingWithdrawnCosponsors": 19,
+            "url": "https://api.congress.gov/v3/bill/119/hjres/35/cosponsors?format=json"
+        },
+        "introducedDate": "2025-02-04",
+        "latestAction": {
+            "actionDate": "2025-03-14",
+            "text": "Became Public Law No: 119-2."
+        },
+        "laws": [
+            {
+                "number": "119-2",
+                "type": "Public Law"
+            }
+        ],
+        "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/35",
+        "number": "35",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "policyArea": {
+            "name": "Environmental Protection"
+        },
+        "relatedBills": {
+            "count": 4,
+            "url": "https://api.congress.gov/v3/bill/119/hjres/35/relatedbills?format=json"
+        },
+        "sponsors": [
+            {
+                "bioguideId": "P000048",
+                "district": 11,
+                "firstName": "August",
+                "fullName": "Rep. Pfluger, August [R-TX-11]",
+                "isByRequest": "N",
+                "lastName": "Pfluger",
+                "party": "R",
+                "state": "TX",
+                "url": "https://api.congress.gov/v3/member/P000048?format=json"
+            }
+        ],
+        "subjects": {
+            "count": 7,
+            "url": "https://api.congress.gov/v3/bill/119/hjres/35/subjects?format=json"
+        },
+        "summaries": {
+            "count": 2,
+            "url": "https://api.congress.gov/v3/bill/119/hjres/35/summaries?format=json"
+        },
+        "textVersions": {
+            "count": 5,
+            "url": "https://api.congress.gov/v3/bill/119/hjres/35/text?format=json"
+        },
+        "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions\".",
+        "titles": {
+            "count": 3,
+            "url": "https://api.congress.gov/v3/bill/119/hjres/35/titles?format=json"
+        },
+        "type": "HJRES",
+        "updateDate": "2026-08-11T17:44:38Z",
+        "updateDateIncludingText": "2026-08-11T17:44:38Z"
+    },
+    "request": {
+        "billNumber": "35",
+        "billType": "hjres",
+        "congress": "119",
+        "contentType": "application/json",
+        "format": "json"
+    }
+}

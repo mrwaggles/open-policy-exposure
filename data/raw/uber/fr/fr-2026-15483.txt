@@ -1,0 +1,772 @@
+<html>
+<head>
+<title>Federal Register, Volume 91 Issue 146 (Friday, July 31, 2026)</title>
+</head>
+<body><pre>
+[Federal Register Volume 91, Number 146 (Friday, July 31, 2026)]
+[Notices]
+[Pages 48485-48491]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2026-15483]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+National Highway Traffic Safety Administration
+
+[Docket No. NHTSA-2026-1552]
+
+
+AV Framework Updates and Request for Comments on Interim Guidance
+
+AGENCY: National Highway Traffic Safety Administration (NHTSA), U.S. 
+Department of Transportation (Department or DOT).
+
+ACTION: Notice of updates; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: In April 2025, DOT and NHTSA announced a new automated vehicle 
+framework designed to prioritize safety, promote innovation, foster 
+American ingenuity, and remove regulatory barriers to the advancement 
+of automated driving system technologies. This notice furthers NHTSA's 
+implementation of this framework by requesting public comment on 
+interim guidance for commercial deployment exemptions for automated 
+vehicles. This notice also summarizes NHTSA's other recent activity 
+relating to the AV Framework.
+
+DATES: Comments are requested on or before August 31, 2026.
+
+ADDRESSES: You may submit comments identified by the docket number in 
+the heading of this document through any of the following methods:
+
+[[Page 48486]]
+
+    <bullet> Electronic submissions: Go to the Federal eRulemaking 
+Portal at <a href="http://www.regulations.gov">http://www.regulations.gov</a>. Follow the online instructions 
+for submitting comments.
+    <bullet> Fax: (202) 493-2251.
+    <bullet> Mail or Hand Delivery: Docket Management, U.S. Department 
+of Transportation, 1200 New Jersey Avenue SE, West Building, Suite W58-
+213, Washington, DC 20590, between 9 a.m. and 5 p.m., Monday through 
+Friday, except on Federal holidays. To be sure someone is there to help 
+you, please call (202) 366-9826 or (202) 366-9317 before coming.
+    Instructions: All submissions must include the agency name and 
+docket number for this notice. Note that all comments received will be 
+posted without change to <a href="http://www.regulations.gov">http://www.regulations.gov</a>, including any 
+personal information provided. Please see the Privacy Act heading 
+below.
+    Privacy Act: Anyone is able to search the electronic form of all 
+comments received into any of our dockets by the name of the individual 
+submitting the comment (or signing the comment, if submitted on behalf 
+of an association, business, labor union, etc.). You may review DOT's 
+complete Privacy Act Statement in the Federal Register published on 
+April 11, 2000 (65 FR 19477-78) or you may visit <a href="https://www.transportation.gov/privacy">https://www.transportation.gov/privacy</a>.
+    Docket: For access to the docket to read background documents or 
+comments received, go to <a href="http://www.regulations.gov">http://www.regulations.gov</a> or the street 
+address listed above. Follow the online instructions for accessing the 
+dockets via internet.
+    Confidential Business Information:If you claim that any of the 
+information in your comment (including any additional documents or 
+attachments) constitutes confidential business information within the 
+meaning of 5 U.S.C. 552(b)(4) or is protected from disclosure pursuant 
+to 18 U.S.C. 1905, please see the detailed instructions given under the 
+Public Participation heading of the SUPPLEMENTARY INFORMATION section 
+of this document.
+
+FOR FURTHER INFORMATION CONTACT: Andrew Magaletti, Rulemaking Office of 
+Automation Safety by email: <a href="/cdn-cgi/l/email-protection#14757a706671633a79757375787160607d54707b603a737b62"><span class="__cf_email__" data-cfemail="f1909f95839486df9c9096909d94858598b1959e85df969e87">[email&#160;protected]</span></a>, or phone: (202) 
+366-2190, 1200 New Jersey Ave. SE, Washington, DC 20590.
+
+SUPPLEMENTARY INFORMATION: On April 24, 2025, DOT and NHTSA announced a 
+new automated vehicle (AV) framework as part of the Department's 
+broader transportation innovation agenda. This framework solidified 
+that advanced vehicle technologies, such as automated driving systems 
+(ADS), are a key priority of the agency. The framework is rooted in 
+three principles: (1) prioritize the safety of ongoing AV operations on 
+public roads; (2) unleash innovation by removing unnecessary regulatory 
+barriers; and (3) enable the commercial deployment of AVs to enhance 
+safety and mobility for the American public.\1\ This notice summarizes 
+NHTSA's work on the AV Framework over the last year and requests 
+comment on interim guidance for commercial deployment exemptions.
+---------------------------------------------------------------------------
+
+    \1\ See U.S. Dept. of Transp., Trump's Transportation Secretary 
+Sean P. Duffy Unveils New Automated Vehicle Framework as Part of 
+Innovation Agenda (Apr. 24, 2025), available at <a href="https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-unveils-new-automated-vehicle-framework">https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-unveils-new-automated-vehicle-framework</a>.
+---------------------------------------------------------------------------
+
+I. Interim Guidance Concerning Commercial Deployment Exemptions
+
+    On June 13, 2025, NHTSA announced improvements to the process for 
+adjudicating exemptions under 49 U.S.C. 30113 (``General Exemptions''). 
+General Exemptions issued under section 30113 are for more general 
+purposes than exemptions issued under section 30114(a). Specifically, 
+these General Exemptions, which are implemented in NHTSA's regulations 
+in 49 CFR part 555, allow manufacturers to produce and sell vehicles to 
+consumers or otherwise commercially deploy vehicles that do not comply 
+with all applicable FMVSS. Applications for General Exemptions under 
+section 30113 may be made on one or more of four bases specified in the 
+statute. The four bases are: (1) ``compliance with the standard would 
+cause substantial economic hardship to a manufacturer that has tried to 
+comply with the standard in good faith;'' (2) ``the exemption would 
+make easier the development or field evaluation of a new motor vehicle 
+safety feature providing a safety level at least equal to the safety 
+level of the standard;'' (3) ``the exemption would make the development 
+or field evaluation of a low-emission motor vehicle easier and would 
+not unreasonably lower the safety level of that vehicle;'' or (4) 
+``compliance with the standard would prevent the manufacturer from 
+selling a motor vehicle with an overall safety level at least equal to 
+the overall safety level of nonexempt vehicles.'' \2\ Requests for 
+General Exemptions of ADS-equipped vehicles have typically invoked at 
+least one of the last three bases.
+---------------------------------------------------------------------------
+
+    \2\ See 49 U.S.C. 30113(b)(3)(B).
+---------------------------------------------------------------------------
+
+    Section 30113 requires specific procedures and findings when 
+administering General Exemptions. Specifically, NHTSA must publish a 
+notice announcing receipt of an application for exemption, provide an 
+opportunity for public comment, and publish a decision notice. NHTSA 
+may grant a General Exemption on terms it considers appropriate if it 
+finds that the exemption meets one of the four statutory bases and that 
+granting the exemption would be consistent with the public interest and 
+the Safety Act. Both the statute (49 U.S.C. 30113) and NHTSA's 
+implementing regulations (49 CFR part 555) also require specified 
+information to accompany an application for a General Exemption.
+    In reviewing the exemption process after announcing the AV 
+Framework, NHTSA recognized there are opportunities to expedite the 
+process and streamline reviews for ADS-equipped vehicles. As part of 
+the AV Framework, NHTSA announced two types of improvements to its 
+General Exemption processing times substantially to keep pace with 
+innovation and ensure that General Exemptions remain effective tools.
+    To modernize the part 555 process, NHTSA focused on key areas that 
+previously have experienced prolonged review times. In particular, 
+because most ADS operations evolve over time as the technology matures, 
+their operations do not easily translate to static terms and conditions 
+for the entire lifespan of an exempted vehicle. In addition, processing 
+applications for ADS-equipped vehicles typically has required extensive 
+follow-up with applicants. NHTSA developed process improvements to 
+mitigate each of these issues.
+    First, NHTSA adopted a more dynamic and flexible approach to 
+evaluating and overseeing General Exemptions involving ADS. NHTSA's 
+traditional approach to processing part 555 applications has proven 
+inadequate for adjudicating applications involving ADS-equipped 
+vehicles in a timely manner. As announced in the June 2025 letter, 
+NHTSA has adopted a new approach to adjudicating these exemption 
+requests. Under this new approach, the terms and conditions issued at 
+the time of a General Exemption grant will create a foundation for more 
+specific and flexible terms that govern the particular operations of 
+the exempted vehicles.
+    NHTSA may issue exemptions under 49 U.S.C. 30113 ``on terms the 
+Secretary considers appropriate.'' Historically, NHTSA has applied 
+terms and conditions to the grant of a General Exemption infrequently 
+and, when it did so, only established a single set of static terms and 
+conditions that would
+
+[[Page 48487]]
+
+apply for the lifespan of exempted vehicles. However, the statute does 
+not require the terms issued by NHTSA to be static or otherwise 
+prescribe how those terms must be implemented. To the contrary, the 
+statute affords NHTSA the discretion to determine what types of terms 
+and conditions are ``appropriate'' in satisfying the findings required 
+for an exemption and furthering the purposes of the Safety Act. During 
+the process of applying traditional General Exemption practices to more 
+recent applications involving ADS-equipped vehicles, NHTSA has found 
+that establishing a single set of static terms and conditions that 
+would apply to ADS-equipped vehicles throughout their lifespan is often 
+impractical and inefficient. Static terms also do not always 
+effectively promote motor vehicle safety because they cannot account 
+for the dynamic nature of ADS technologies. Particularly at an early 
+stage in the development of an ADS, capabilities can improve 
+dramatically as the technology improves and operational design domains 
+are updated over the lifespan of a particular vehicle or generation of 
+vehicles. What may start as a small low-speed deployment in a localized 
+area can expand over time to include entirely different capabilities. 
+Therefore, terms and conditions for ADS-equipped vehicles may need to 
+evolve as the technology changes or as safety issues arise.
+    Accordingly, NHTSA has improved its approach to developing terms 
+that are appropriate for General Exemptions involving ADS-equipped 
+vehicles. This improved oversight structure provides the needed 
+flexibility and can be applied when NHTSA believes that such oversight 
+is necessary or appropriate. This oversight structure would be 
+established via a permanent term or condition in the Federal Register 
+decision notice, which subjects the exempted vehicles to continued 
+operational oversight as outlined in operational terms and conditions 
+in an operational authorization.
+    Within the oversight structure, operational authorizations would be 
+tailored to the individual manufacturer and the ADS's existing 
+capabilities. The first operational authorization would be issued at 
+the same time that the grant notice is published in the Federal 
+Register and would contain initial operational terms and conditions. 
+The manufacturer would be able to begin manufacturing and commercially 
+deploying vehicles immediately consistent with the terms and conditions 
+of the initial authorization. The operational permissions could later 
+be modified via additional operational authorizations, such as after a 
+manufacturer requests a change. This approach gives NHTSA flexibility 
+to change operational terms quickly, such as by expanding the scope of 
+the operational permission as the ADS continues to develop, and allows 
+the exemption to mirror real-world ADS development, which often starts 
+with smaller, more limited operations, before expanding over time.
+    This approach also enables NHTSA to process General Exemption 
+applications more quickly by allowing the agency to rely on an 
+adaptable oversight framework. In turn, NHTSA's initial review can 
+focus on the current capabilities of the vehicles rather than 
+developing specific terms and conditions that anticipate possible 
+future changes. This improvement also builds on processes that have 
+proven effective for ADS in Special Exemptions issued under NHTSA's 
+Automated Vehicle Exemption Program (AVEP). Because these process 
+improvements relate to the way that NHTSA administers General 
+Exemptions, NHTSA began implementing these improvements immediately 
+upon the June 2025 announcement. Since then, NHTSA has applied these 
+process improvements to the review of General Exemption petitions.
+    Second, NHTSA has published interim guidance in the docket and on 
+its website that is intended to help prospective applicants better 
+understand the General Exemption process and anticipate the information 
+likely to assist with NHTSA's review of an application.\3\ In the past, 
+processing times for applications for ADS-equipped vehicles were often 
+lengthened by extensive follow-up with applicants. To mitigate this, 
+NHTSA developed interim guidance to help manufacturers more clearly 
+understand the type of information that would be most helpful to the 
+agency when evaluating an application. This interim guidance is 
+intended to reduce the need for extensive follow-up, reducing burden on 
+both the applicants and NHTSA.
+---------------------------------------------------------------------------
+
+    \3\ See NHTSA, Interim Part 555 Guidance and Enhanced 
+Application Instructions, available at <a href="https://www.nhtsa.gov/part-555-guidance-and-enhanced-application-instructions">https://www.nhtsa.gov/part-555-guidance-and-enhanced-application-instructions</a>.
+---------------------------------------------------------------------------
+
+    The interim guidance provides more detail about what types of 
+information would be most helpful to the agency, how NHTSA reviews each 
+of the possible grounds for a General Exemption, and whether the 
+exemption furthers the public interest. Although the interim guidance 
+is intended to help all part 555 applicants, it is expected to be 
+especially helpful to manufacturers seeking exemptions for ADS-equipped 
+vehicles because it contains a section dedicated to the information 
+likely to be useful in NHTSA's review of applications for ADS-equipped 
+vehicles.
+    NHTSA is requesting public comment on the interim guidance and 
+would particularly welcome comments on how the interim guidance could 
+be improved to help prospective applicants understand the types of 
+information that would be most helpful to include in a General 
+Exemption application. NHTSA also welcomes comments on any other 
+aspects of the General Exemption process that could be improved, even 
+if they are not referenced in the interim guidance. In particular, 
+NHTSA is interested in feedback regarding changes that could be made, 
+such as changes in the way that NHTSA adjudicates the applications or 
+changes in its regulations that could be made under NHTSA's existing 
+statutory authority in section 30113.
+
+II. Additional NHTSA Activities
+
+    Since releasing the AV Framework in April 2025, NHTSA has: (1) 
+expanded the Automated Vehicle Exemption Program to include vehicles 
+built in the United States; (2) streamlined its Standing General Order 
+on crash reporting for vehicles equipped with automated driving systems 
+and certain advanced driver assistance systems to sharpen the focus on 
+critical safety information while removing unnecessary and duplicative 
+requirements; (3) launched multiple rulemakings to modernize the 
+Federal Motor Vehicle Safety Standards for ADS-equipped vehicles; (4) 
+announced the commencement of work to establish ADS performance 
+requirements; and (5) engaged extensively with stakeholders to develop 
+a foundation for future updates to the framework.
+
+a. Expanded Exemption Opportunities for Domestic Vehicles
+
+    Concurrently with the announcement of the AV Framework, on April 
+24, 2025, NHTSA expanded the exemption opportunities for vehicles 
+manufactured in the United States by announcing that the agency would 
+consider applications for those vehicles to receive exemptions under 49 
+U.S.C. 30114(a).\4\ This expansion covers all types of motor vehicles 
+and motor vehicle equipment manufactured in the United States. NHTSA 
+expects the expansion to
+
+[[Page 48488]]
+
+promote the development of vehicle automation technology in the United 
+States because these exemptions are particularly well suited for ADS 
+research.
+---------------------------------------------------------------------------
+
+    \4\ See Open Letter from Peter Simshauser, NHTSA Chief Counsel 
+(Apr. 24, 2025), available at <a href="https://www.nhtsa.gov/sites/nhtsa.gov/files/2025-04/automated-vehicle-exemption-program-domestic-exemptions-2025.pdf">https://www.nhtsa.gov/sites/nhtsa.gov/files/2025-04/automated-vehicle-exemption-program-domestic-exemptions-2025.pdf</a>.
+---------------------------------------------------------------------------
+
+    As a result of this expansion, exemptions for ADS-equipped vehicles 
+built in the United States are now available through AVEP, which 
+administers section 30114(a) exemptions (``Special Exemptions'') for 
+ADS-equipped vehicles. Section 30114(a) authorizes NHTSA to administer 
+special exemptions for vehicles that do not comply with Federal Motor 
+Vehicle Safety Standards (FMVSS), as long as they meet one of seven 
+particular purposes: research, investigations, demonstrations, 
+training, competitive racing events, show, or display. Historically, 
+NHTSA only administered these exemptions for vehicles imported into the 
+United States. This is because the regulations NHTSA issued to 
+implement its authority in section 30114(a) are specific to imported 
+vehicles.
+    At the outset of developing the AV Framework, NHTSA recognized that 
+restricting Special Exemptions to imported vehicles unintentionally 
+provided certain companies who manufacture vehicles abroad with more 
+avenues for innovation than companies that build vehicles in the United 
+States. This is because Special Exemptions are particularly useful for 
+research and development activities, and companies frequently use these 
+exemptions to test novel technologies in prototype vehicles. The AVEP 
+exemption process is designed to be agile and streamlined to facilitate 
+ADS operations that involve vehicles not engaged in commercial 
+deployments. With the growth of vehicle automation in recent years, 
+Special Exemptions have increasingly been used for research and 
+demonstration operations involving imported ADS-equipped vehicles. 
+Through AVEP, from 2016 through 2025, NHTSA processed and issued 
+Special Exemptions for more than 460 imported ADS-equipped vehicles for 
+operations in over 360 projects across 31 States. These exemptions were 
+issued to over 40 applicants operating in more than 130 cities across 
+the United States. As ADS technologies continued to progress, the 
+availability of a streamlined exemption path only for imported vehicles 
+increasingly posed an obstacle to many companies establishing research 
+or manufacturing operations in the United States.
+    To remove such barriers to American innovation quickly, as a first 
+step of the AV Framework, NHTSA announced that it would begin 
+considering requests for Special Exemptions for domestic vehicles under 
+section 30114(a). Although NHTSA expects this expansion to promote ADS-
+equipped vehicles, the expansion applies to all motor vehicles or motor 
+vehicle equipment manufactured in the United States, not just those 
+equipped with an ADS. Since this announcement in April 2025, NHTSA has 
+received and granted Special Exemption requests for ADS-equipped 
+vehicles manufactured in the United States.\5\ NHTSA has also announced 
+the commencement of rulemaking process to codify this domestic 
+exemption pathway.\6\
+---------------------------------------------------------------------------
+
+    \5\ See NHTSA, NHTSA Issues First-Ever Demonstration Exemption 
+to American-Built Automated Vehicles, (Aug. 6, 2025), available at 
+<a href="https://www.nhtsa.gov/press-releases/nhtsa-issues-first-ever-demonstration-exemption-american-built-automated-vehicles">https://www.nhtsa.gov/press-releases/nhtsa-issues-first-ever-demonstration-exemption-american-built-automated-vehicles</a>.
+    \6\ See Spring 2025 Unified Agenda of Regulatory and 
+Deregulatory Actions, Dept. of Transp., RIN 2127-AM14, Expansion of 
+Temporary Exemption Program to Domestic Manufacturers for Research, 
+Demonstrations, and Other Purposes, available at <a href="https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202504&RIN=2127-AM14">https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202504&RIN=2127-AM14</a>.
+---------------------------------------------------------------------------
+
+    NHTSA adjudicates domestic applications consistent with how the 
+agency reviews and oversees Special Exemptions under the agency's AVEP 
+and Box 7 programs. In general, upon receipt of an application, NHTSA 
+typically engages in iterative follow-up with an applicant. At the end 
+of the agency's review, NHTSA issues a decision to the applicant in the 
+form of a letter. If the exemption is granted, this letter contains the 
+terms and conditions that govern the exemption. Entities interested in 
+submitting such requests are encouraged to contact the Automation 
+Exemptions Division of NHTSA's Office of Automation Safety at 
+<a href="/cdn-cgi/l/email-protection#8ccddac9f4e9e1fcf8e5e3e2ffcce8e3f8a2ebe3fa"><span class="__cf_email__" data-cfemail="2a6b7c6f524f475a5e434544596a4e455e044d455c">[email&#160;protected]</span></a> for more information.
+    In addition, NHTSA has developed an application template to assist 
+with the submission of requests for Special Exemptions for vehicles 
+built in the United States. The template can be found at: <a href="https://vpic.nhtsa.dot.gov/mfrportal/SpecialExemptions-Veh_Checklist_2025-05-19.pdf">https://vpic.nhtsa.dot.gov/mfrportal/SpecialExemptions-Veh_Checklist_2025-05-19.pdf</a>. It lists information that NHTSA has found helpful when 
+reviewing Special Exemptions requests for ADS-equipped vehicles. 
+Although use of the template is not required, providing the listed 
+information may help NHTSA process an application more efficiently. As 
+mentioned previously, NHTSA is also continuing to develop a proposed 
+rule to codify its procedures for Special Exemptions involving vehicles 
+built in the United States.
+
+b. Streamlined Crash Reporting
+
+    Upon the announcement of the AV Framework, on April 24, 2025, NHTSA 
+also issued an amendment to Standing General Order 2021-01 (SGO), which 
+requires specified entities to report alleged crashes involving their 
+ADS or certain Advanced Driver Assistance Systems (ADAS) within a 
+specified amount of time after learning about them.\7\ This amendment 
+took effect starting with the reporting period that began on June 16, 
+2025.
+---------------------------------------------------------------------------
+
+    \7\ See NHTSA, In re: Third Amended Standing General Order 2021-
+01, Incident Reporting for Automated Driving Systems (ADS) and Level 
+2 Advanced Driver Assistance Systems (ADAS) (Apr. 24, 2025), 
+available at <a href="https://www.nhtsa.gov/sites/nhtsa.gov/files/2025-04/third-amended-SGO-2021-01_2025.pdf">https://www.nhtsa.gov/sites/nhtsa.gov/files/2025-04/third-amended-SGO-2021-01_2025.pdf</a>.
+---------------------------------------------------------------------------
+
+    NHTSA issued the SGO as an enforcement tool, to ensure the agency 
+timely learns of certain crashes involving ADS or ADAS. Prior to the 
+SGO, no such reporting requirement existed, and NHTSA learned of 
+automation crashes in an ad hoc manner, such as through media reports, 
+referrals from law enforcement or other local entities, or companies 
+voluntarily notifying NHTSA of a crash. The SGO provides consistency 
+and timeliness to crash reports, enabling NHTSA to follow-up with 
+companies about incidents quickly, review for trends in crash data, and 
+open formal investigations when necessary. The SGO has been effective 
+in achieving these goals, but after years of reviewing and acting on 
+SGO data, NHTSA identified many aspects of the reporting for which 
+improvements were possible to help NHTSA more efficiently investigate 
+crashes and avoid imposing burdens on companies with little 
+corresponding safety benefit.
+    NHTSA's website contains a more detailed summary of the differences 
+between the current and prior versions of the SGO.\8\ In general, the 
+most recent third amendment was designed to streamline and refine some 
+of the SGO's reporting requirements to help NHTSA focus on the types of 
+crashes most likely to require agency review, as well as to reduce 
+unnecessary and duplicative reporting burdens. The majority of crashes 
+reportable under prior versions of the SGO remain reportable after the 
+latest amendment. However, NHTSA's experience reviewing prior SGO 
+reports indicated that certain types of crashes seldom led to agency 
+follow-up or otherwise occurred in circumstances in
+
+[[Page 48489]]
+
+which the vehicle automation system was unlikely to have contributed 
+meaningfully to the crash. Removing those types of crashes from the 
+reporting data helps NHTSA to pinpoint the crashes that most 
+necessitate closer review. The third amendment also made other 
+important changes to eliminate certain requirements that imposed 
+reporting burdens with little corresponding safety benefit to the 
+agency from the information. Examples of those include eliminating the 
+need for multiple entities to report the same crash and no longer 
+requiring reports from entities every month even when an entity does 
+not have any crashes to report in the month. Finally, the third amended 
+SGO updated some of the timeframes in which reports were required, to 
+align with the agency's review and follow-up timeframes more 
+effectively, as well as refreshed the list of entities responsible for 
+reporting.
+---------------------------------------------------------------------------
+
+    \8\ See NHTSA, Standing General Order on Crash Reporting, FAQ: 
+What are some of the differences between the second and third 
+amended versions of the General Order?, available at <a href="https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting">https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting</a>.
+---------------------------------------------------------------------------
+
+    NHTSA began receiving reports under the third amended SGO in June 
+2025. From this time through the end of 2025, NHTSA received reports of 
+517 alleged crashes involving ADS and 787 alleged crashes involving 
+Level 2 ADAS. NHTSA regularly follows up with entities about the 
+crashes they report. Since the third amended SGO took effect in June 
+2025 through July 2026, NHTSA's engagement with entities has 
+contributed to the opening of seven formal investigations and prompted 
+seven recalls. NHTSA publishes on its website the crash reports 
+received under the SGO.\9\ NHTSA is developing a proposed rule to 
+codify the SGO reporting requirements into NHTSA's regulations.\10\
+---------------------------------------------------------------------------
+
+    \9\ See NHTSA, Standing General Order on Crash Reporting: 
+Download Summary Incident Report Data, available at <a href="https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting">https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting</a>.
+    \10\ See Spring 2025 Unified Agenda of Regulatory and 
+Deregulatory Actions, Dept. of Transp., RIN 2127-AM63, Incident 
+Reporting Requirements for Automated Driving Systems and Level 2 
+Advanced Driver Assistance Systems, available at <a href="https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202504&RIN=2127-AM63">https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202504&RIN=2127-AM63</a>.
+---------------------------------------------------------------------------
+
+c. FMVSS Modernization
+
+    As part of the AV Framework, NHTSA has initiated multiple 
+rulemakings to modernize the FMVSS for ADS-equipped vehicles. These 
+regulatory actions are designed to ensure that safety standards, many 
+of which were written decades ago for human-driven vehicles, remain 
+current and do not pose unnecessary regulatory barriers to the 
+development and deployment of innovative new vehicle designs, 
+particularly those lacking traditional manual controls. On March 16, 
+2026, NHTSA published two NPRMs proposing to amend the FMVSS to address 
+the applicability of the standards to ADS-equipped vehicles without 
+manual controls. These rulemakings span FMVSS No. 102, ``Transmission 
+shift position sequence, starter interlock and transmission braking 
+effect,'' \11\ FMVSS No. 103, ``Windshield defrosting and defogging 
+systems,'' and FMVSS No. 104, ``Windshield wiping and washing 
+systems.'' \12\ For FMVSS No. 102, NHTSA is proposing to modify the 
+standard to except vehicles equipped with ADS that do not have manually 
+operated driving controls from the requirement for a transmission shift 
+position display.
+---------------------------------------------------------------------------
+
+    \11\ NHTSA, Federal Motor Vehicle Safety Standards; 
+Modernization of FMVSS No. 102 To Accommodate ADS-Equipped Vehicles, 
+91 FR 12532 (Mar. 16, 2026).
+    \12\ NHTSA, Federal Motor Vehicle Safety Standards; 
+Modernization of FMVSS No. 103 and FMVSS No. 104 To Accommodate ADS-
+Equipped Vehicles; Incorporation by Reference, 91 FR 12537 (Mar. 16, 
+2026).
+---------------------------------------------------------------------------
+
+    In addition, NHTSA proposed modifications to FMVSS Nos. 103 and 104 
+to except from the standards vehicles equipped with ADS that do not 
+have manually operated driving controls. This latter rulemaking would 
+remove unnecessary regulatory burdens and costs associated with systems 
+intended to provide visibility for a person driving the vehicle. On 
+April 1, 2026, NHTSA published another, similar proposal to amend FMVSS 
+No. 110, ``Tire selection and rims and motor home/recreation vehicle 
+trailer load carrying capacity information for motor vehicles with a 
+GVWR of 4,536 kilograms (10,000 pounds) or less.'' \13\ The proposed 
+modification would amend a single section of the standard to enable 
+compliance by affixing the required placard on the left side of the 
+vehicle when there is not a ``driver's side'' for vehicles equipped 
+with ADS that do not have manually operated driving controls. In June 
+2026, NHTSA proposed to amend FMVSS No. 135, ``Light vehicle brake 
+systems'' to distinguish how its requirements apply to vehicles with 
+and without manually operated driving controls.\14\ These proposed 
+modifications would clarify definitions, telltale requirements, 
+performance requirements, and test procedures in the standard and 
+remove sections that are no longer relevant. Each of these rulemakings 
+would maintain the level of safety performance required by the current 
+standard. NHTSA has several additional rulemakings underway to maintain 
+safety performance while removing unnecessary regulatory barriers.
+---------------------------------------------------------------------------
+
+    \13\ NHTSA, Federal Motor Vehicle Safety Standards; 
+Modernization of FMVSS No. 110 To Accommodate ADS-Equipped Vehicles, 
+91 FR 16172 (Apr. 1, 2026).
+    \14\ NHTSA, Federal Motor Vehicle Safety Standards; 
+Modernization of FMVSS No. 135 To Accommodate ADS- Equipped 
+Vehicles, 91 FR 38593 (Jun. 26, 2026).
+---------------------------------------------------------------------------
+
+d. ADS Performance Requirements
+
+    On March 10, 2026, NHTSA announced the commencement of a rulemaking 
+process to establish performance requirements for ADS, which is 
+expected to culminate in establishment of one or more FMVSS. As an 
+FMVSS, performance requirements would need to meet the need for motor 
+vehicle safety, be practicable, and be stated in objective terms.\15\ 
+Test procedures for an FMVSS would also need to be objective and enable 
+the manufacturer to ensure that the vehicle meets the standard's 
+requirements.
+---------------------------------------------------------------------------
+
+    \15\ See 49 U.S.C. 30111.
+---------------------------------------------------------------------------
+
+e. Other Activities
+
+    Leading up to and since the announcement of the AV Framework, NHTSA 
+has continuously engaged in a robust dialogue with stakeholders about a 
+wide spectrum of issues pertaining to the advancement and oversight of 
+vehicle automation. Through this dialogue, NHTSA has sought to identify 
+opportunities to encourage vehicle safety improvements and understand 
+potential regulatory barriers to the growth of ADS technologies in the 
+United States. Such engagement has helped NHTSA identify prospective 
+regulatory actions and established a strong foundation upon which 
+future actions under the AV Framework will be charted.
+    NHTSA's stakeholder engagement in 2025 culminated in a public 
+meeting held from November 20-21, 2025 on NHTSA's safety research 
+portfolio. The first day of the public meeting consisted of an ADS 
+workshop, which included NHTSA overviews of important agency programs 
+and activities involving ADS, as well as roundtable discussions 
+centered around nine topics of interest: (1) exemptions: AVEP and part 
+555; (2) emergency responder interactions; (3) FMVSS modernization 
+recommendations for ADS purpose-built vehicles (PBVs); (4) incident and 
+data reporting; (5) State and local jurisdictional concerns; (6) near-
+term ADS performance assessment; (7) safety case components; (8) 
+general desires and concerns relating to ADS regulation; and (9) other 
+DOT modal discussions. NHTSA's website contains more information about 
+this public meeting,
+
+[[Page 48490]]
+
+including recordings of many of the agency's presentations.\16\
+---------------------------------------------------------------------------
+
+    \16\ See NHTSA Safety Research Portfolio Public Meeting: Fall 
+2025, available at <a href="https://www.nhtsa.gov/events/nhtsa-safety-research-portfolio-public-meeting-fall-2025#86141">https://www.nhtsa.gov/events/nhtsa-safety-research-portfolio-public-meeting-fall-2025#86141</a>.
+---------------------------------------------------------------------------
+
+    On December 11, 2025, NHTSA released the fourth volume of a 
+research effort entitled ``FMVSS Considerations for Vehicles with 
+Automated Driving Safety.'' \17\ This research concluded a multi-year 
+initiative to identify existing FMVSS that pose potential obstacles for 
+certain ADS technologies or for which conformity challenges exist for 
+innovative new vehicle designs equipped with ADS. The research 
+presented options for technical translations of select FMVSS and their 
+test procedures to account better for ADS-dedicated vehicles, including 
+those that lack manually operated driving controls. The final report 
+spanned 23 FMVSS including the braking and electronic stability control 
+(ESC) test methods for FMVSS Nos. 135 and 126; the heavy braking and 
+ESC requirements associated with FMVSS Nos. 105, 121, and 136; the 
+technical translations of FMVSS Nos. 122, 122a, 123, 131, 223, 224, 
+403, 404, and CFR part 571 subpart A; and potential unconventional 
+seating barriers associated with FMVSS Nos. 201, 202a, 207, 209, 210, 
+214, 216a, 219, and 226. This research built on extensive engagement 
+with a variety of stakeholders, research team experts, and subject 
+matter experts. Upon the publication of this research, NHTSA published 
+a notice in the Federal Register requesting comment on whether any 
+changes have occurred in industry, product plans, new concepts that may 
+have impacted the scope of the documented effort, and whether other 
+issues may have been identified or newly emerged since the effort was 
+carried out.\18\ The comment period for the technical translation 
+research notice closed on February 13, 2026.
+---------------------------------------------------------------------------
+
+    \17\ See Stowe, Loren et al., FMVSS Considerations for Vehicles 
+With Automated Driving Systems: Volume 4 (2025), available at 
+<a href="https://doi.org/10.21949/hq4a-6m74">https://doi.org/10.21949/hq4a-6m74</a>.
+    \18\ See NHTSA, Technical Translation Research; Request for 
+Comment, 90 FR 58087 (Dec. 15, 2025).
+---------------------------------------------------------------------------
+
+    Next, on January 23, 2026, NHTSA published a notice and request for 
+comments on a proposed Global Technical Regulation (GTR) for ADS.\19\ 
+The draft GTR included provisions regarding the following:
+---------------------------------------------------------------------------
+
+    \19\ NHTSA, Notice and Request for Comment; Proposal for a New 
+United Nations Global Technical Regulation on Automated Driving 
+Systems (ADS), 91 FR 2994 (Jan. 23, 2026).
+---------------------------------------------------------------------------
+
+    <bullet> General Requirements for ADS-equipped vehicles: including 
+requirements for the ADS to perform the Dynamic Driving Task, or DDT;
+    <bullet> The safety of interactions between the User and ADS;
+    <bullet> Manufacturer requirements, including the overall Safety 
+Management System under which the ADS was developed;
+    <bullet> The testing system and environment that the manufacturer 
+used to qualify the safe operation of the ADS;
+    <bullet> Requirements for the submission of a valid Safety Case for 
+the ADS; and
+    <bullet> Post-deployment monitoring capabilities.
+    NHTSA sought comments on the draft GTR to help inform the position 
+of the United States, including how the position could relate to any 
+future actions regarding the safety and performance of ADS. The comment 
+period for the GTR notice closed on March 10, 2026.
+    The GTR and the complementary U.N. Regulation were adopted on 
+Wednesday, June 24, 2026, with the United States joining China, Japan, 
+and Europe in voting in favor of the measure. This action marks the 
+world's first unified, global regulatory framework for fully 
+driverless, highly automated vehicles (SAE Level 4 and Level 5). 
+Because major markets--including the European Union, China, the United 
+States, Japan, the United Kingdom, and Canada--strongly backed and 
+endorsed this GTR, this action offers stakeholders a standardized 
+global roadmap and offers the potential for manufacturers to scale 
+development pipelines across borders without rebuilding the fundamental 
+safety and validation framework for every country.
+    Finally, NHTSA held a public meeting on March 10, 2026, to further 
+the agency's dialogue with stakeholders regarding the Automated Vehicle 
+(AV) Framework.\20\ This meeting built upon the foundational technical 
+discussions from the November 2025 ADS workshop and focused on 
+identifying specific pathways for the domestic development and testing 
+of Automated Driving Systems. The morning session featured keynote 
+addresses from DOT leadership concerning current agency activities and 
+the strategic direction of the AV Framework. The event also featured a 
+robust discussion between NHTSA's administrator and AV CEOs from 
+Aurora, Waymo, and Zoox. The afternoon session transitioned into an 
+interactive workshop where NHTSA obtained granular stakeholder input on 
+three primary pillars: (1) enhancing public road safety for current ADS 
+operations; (2) identifying and mitigating regulatory barriers to 
+innovation; and (3) establishing frameworks for commercial deployment 
+to improve public mobility. Updates and additional details on the 
+working group topics are posted at <a href="https://www.nhtsa.gov/events/av-public-meeting-2026">https://www.nhtsa.gov/events/av-public-meeting-2026</a>. This engagement is designed to inform the agency's 
+future guidance and potential rulemaking actions as it refines its 
+oversight of evolving vehicle technologies. NHTSA opened a public 
+docket (No. NHTSA-2026-0265) to receive written comments through April 
+10, 2026, ensuring that the insights gathered from both the meeting 
+participants and the broader public are integrated into the agency's 
+next steps under the AV Framework. The feedback received through these 
+forums has informed NHTSA's subsequent engagement with stakeholders, 
+including fostering dialogue with State and local regulators about how 
+to strengthen coordination across the jurisdictional landscapes and 
+minimize burdens from overlapping regulatory requirements.
+---------------------------------------------------------------------------
+
+    \20\ NHTSA, NHTSA Automated Vehicle Safety Public Meeting: March 
+2026, 91 FR 5801 (Feb. 9, 2026).
+---------------------------------------------------------------------------
+
+III. Public Participation
+
+    As NHTSA implements its AV Framework, NHTSA will continue to seek 
+out and welcome public input. Although NHTSA is requesting comments on 
+the interim part 555 Guidance and Enhanced Application Instructions 
+specifically, NHTSA also welcomes suggestions for other future actions 
+that will allow the U.S. to continue to lead the way toward the safe 
+deployment of automated vehicles.
+
+How do I prepare and submit comments?
+
+    Your comments must be written and in English. To ensure that your 
+comments are correctly filed in the docket, please include the docket 
+number indicated in this document in your comments.
+    Your comments must not be more than 15 pages long (49 CFR 553.21). 
+NHTSA established this limit to encourage you to write your primary 
+comments in a concise fashion. However, you may attach necessary 
+additional documents to your comments. There is no limit on the length 
+of the attachments.
+    If you are submitting comments electronically as a PDF (Adobe) 
+file, NHTSA asks that the documents submitted be scanned using an 
+Optical Character Recognition (OCR) process, thus allowing NHTSA to 
+search and copy certain portions of your submissions.
+
+[[Page 48491]]
+
+How do I submit confidential business information?
+
+    You should submit a redacted ``public version'' of your comment 
+(including redacted versions of any additional documents or 
+attachments) to the docket using any of the methods identified under 
+ADDRESSES. This ``public version'' of your comment should contain only 
+the portions for which no claim of confidential treatment is made and 
+from which those portions for which confidential treatment is claimed 
+has been redacted. See below for further instructions on how to do 
+this.
+    You also need to submit a request for confidential treatment 
+directly to the Office of Chief Counsel. Requests for confidential 
+treatment are governed by 49 CFR part 512. Your request must set forth 
+the information specified in part 512. This includes the materials for 
+which confidentiality is being requested (as explained in more detail 
+below); supporting information, pursuant to section 512.8; and a 
+certificate, pursuant to section 512.4(b) and part 512, Appendix A.
+    You are required to submit to the Office of the Chief Counsel one 
+unredacted ``confidential version'' of the information for which you 
+are seeking confidential treatment. Pursuant to section 512.6, the 
+words ``ENTIRE PAGE CONFIDENTIAL BUSINESS INFORMATION'' or 
+``CONFIDENTIAL BUSINESS INFORMATION CONTAINED WITHIN BRACKETS'' (as 
+applicable) must appear at the top of each page containing information 
+claimed to be confidential. In the latter situation, where not all 
+information on the page is claimed to be confidential, identify each 
+item of information for which confidentiality is requested within 
+brackets: ``[ ].''
+    You are also required to submit to the Office of the Chief Counsel 
+one redacted ``public version'' of the information for which you are 
+seeking confidential treatment. Pursuant to section 512.5(a)(2), the 
+redacted ``public version'' should include redactions of any 
+information for which you are seeking confidential treatment (i.e., the 
+only information that should be unredacted is information for which you 
+are not seeking confidential treatment).
+    NHTSA is currently treating electronic submission as an acceptable 
+method for submitting confidential business information to the Agency 
+under part 512. Please do not send a hard copy of a request for 
+confidential treatment to NHTSA's headquarters. The request should be 
+sent to Dan Rabinovitz in the Office of the Chief Counsel at 
+<a href="/cdn-cgi/l/email-protection#8bcfeae5e2eee7a5d9eae9e2e5e4fde2fff1cbefe4ffa5ece4fd"><span class="__cf_email__" data-cfemail="b2f6d3dcdbd7de9ce0d3d0dbdcddc4dbc6c8f2d6ddc69cd5ddc4">[email&#160;protected]</span></a> or you may contact him for a secure file 
+transfer link. Manufacturers or any companies that already have a 
+Confidential Business Information (CBI) Portal account or an Enterprise 
+Account with NHTSA should use the CBI Portal for their submission. If 
+you submit a CBI request, please also email a courtesy copy of the 
+request to Andrew Magaletti at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8dcce3e9ffe8faa3c0eceaece1e8f9f9e4cde9e2f9a3eae2fb">[email&#160;protected]</a>.
+
+Will the Agency consider late comments?
+
+    We will consider all comments received before the close of business 
+on the comment closing date indicated above under DATES. To the extent 
+possible, we will also consider comments that the docket receives after 
+that date.
+
+How can I read the comments submitted by other people?
+
+    You may read the materials placed in the docket for this document 
+(e.g., the comments submitted in response to this document by other 
+interested persons) at any time by going to <a href="http://www.regulations.gov">http://www.regulations.gov</a>. 
+Follow the online instructions for accessing the dockets. You may also 
+read the materials at the Docket Management Facility by going to the 
+street address given above under ADDRESSES. The Docket Management 
+Facility is open between 9 a.m. and 5 p.m. Eastern Time, Monday through 
+Friday, except Federal holidays.
+    Please note that even after the comment closing date, we will 
+continue to file relevant information on the docket as it becomes 
+available. Further, some people may submit late comments. Accordingly, 
+we recommend that you periodically check the docket for new material.
+
+    Issued under authority delegated in 49 CFR 1.95.
+Jonathan Morrison,
+Administrator.
+[FR Doc. 2026-15483 Filed 7-30-26; 8:45 am]
+BILLING CODE 4910-59-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
