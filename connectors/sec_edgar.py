@@ -87,6 +87,21 @@ def main():
         acc, fdate, prim = tenk
         acc_nodash = acc.replace("-", "")
         doc_url = f"https://www.sec.gov/Archives/edgar/data/{int(c['cik'])}/{acc_nodash}/{prim}"
+        existing = os.path.join(RAW, c["id"], f"10k-{acc_nodash}.html")
+        existing_meta = existing + ".meta.json"
+        if os.path.exists(existing) and os.path.exists(existing_meta):
+            try:
+                m = json.load(open(existing_meta))
+                if m.get("sha256") == hashlib.sha256(open(existing, "rb").read()).hexdigest():
+                    text = html_to_text(open(existing, "rb").read())
+                    rf = extract_section(text, r"Item\s+1A\.?\s*Risk Factors", [r"Item\s+1B\.?\s*Unresolved", r"Item\s+2\.?\s*Properties"])
+                    lp = extract_section(text, r"Item\s+3\.?\s*Legal Proceedings", [r"Item\s+4\.?\s*Mine Safety", r"Item\s+5\.?\s*Market"], min_len=200)
+                    index.append({"company": c, "accession": acc, "filing_date": fdate, "doc_url": doc_url,
+                                  "full_chars": len(text), "rf_chars": len(rf or ""), "lp_chars": len(lp or "")})
+                    print(f"{c['id']}: 10-K {fdate} acc={acc} (hash-verified, skip re-download)")
+                    continue
+            except Exception:
+                pass
         doc = fetch(doc_url)
         store(c["id"], f"10k-{acc_nodash}", doc_url, doc, "html",
               {"form": "10-K", "accession": acc, "filing_date": fdate, "primary_document": prim})

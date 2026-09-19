@@ -3,9 +3,7 @@
   "slug": "ira-negotiation-notice-2026",
   "source": "Federal Register API",
   "source_url": "https://www.federalregister.gov/documents/2026/07/20/2026-14583/medicare-program-inflation-reduction-act-of-2022-ira-medicare-drug-price-negotiation-program-draft",
-  "retrieved_at": "2026-09-18T21:41:31Z",
-  "sha256": "fbaad13b83a3b09767cb9a7ef30620b4d48b1d48cdcd6250d6067a97d2df3fd0",
-  "bytes": 4827,
-  "raw_text_sha256": "98fff1bd3e7766ce66c78bf509a8f04dba10f5ebe5ea40249e3c207d4097edc2",
-  "raw_text_bytes": 4271
+  "retrieved_at": "2026-09-19T21:42:48Z",
+  "sha256": "8b8654932918041fba43464bc8a2df9c78b4f994e2accda19a83493468ab2b5e",
+  "bytes": 4827
 }
