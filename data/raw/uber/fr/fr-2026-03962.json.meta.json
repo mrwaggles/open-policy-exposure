@@ -3,7 +3,9 @@
   "slug": "ic-proposed-rule-2026",
   "source": "Federal Register API",
   "source_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
-  "retrieved_at": "2026-09-20T21:42:51Z",
-  "sha256": "93c2d336cb16db9df40bde530b8e8c01e6ad10ebc3f39a7765c6bcdf972e9583",
-  "bytes": 6699
+  "retrieved_at": "2026-09-21T21:43:31Z",
+  "sha256": "e5fe9967052df23d0c03cd9a7994a65d6c28e3f2220e1a251d692ff079e16c57",
+  "bytes": 6699,
+  "raw_text_sha256": "1859c80f2806e7a81d7ac1302b972a0a6d0a61614c31597c2afddad23a41485e",
+  "raw_text_bytes": 368376
 }

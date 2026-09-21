@@ -3,7 +3,9 @@
   "slug": "av-framework-2026",
   "source": "Federal Register API",
   "source_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance",
-  "retrieved_at": "2026-09-20T21:42:52Z",
-  "sha256": "c614d9c883ed338832a683ab03c05b9e64858b79d24042e46dcf357252ba9906",
-  "bytes": 4703
+  "retrieved_at": "2026-09-21T21:43:32Z",
+  "sha256": "ba44364b89accbe3335ecfdbf47cf0aa9d6ce30f22b4a36243d062d847dc42f8",
+  "bytes": 4703,
+  "raw_text_sha256": "8a68156c9c79777a367bcdf5825b64f6f5cff2caabf3c6cc777ce4fa56a6479b",
+  "raw_text_bytes": 47820
 }

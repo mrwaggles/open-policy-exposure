@@ -3,7 +3,9 @@
   "slug": "wec-final-rule",
   "source": "Federal Register API",
   "source_url": "https://www.federalregister.gov/documents/2024/11/18/2024-26643/waste-emissions-charge-for-petroleum-and-natural-gas-systems-procedures-for-facilitating-compliance",
-  "retrieved_at": "2026-09-20T21:42:53Z",
-  "sha256": "b94f4730667f09ace1bf3a560f5076ce625c1102d2142d8b8305c0d4d70fd3f1",
-  "bytes": 50003
+  "retrieved_at": "2026-09-21T21:43:33Z",
+  "sha256": "4602eace9ed9d9da977dc0b17b8239a6cdaacd58b5e2351bfd22ce367fc1b01e",
+  "bytes": 50003,
+  "raw_text_sha256": "8c86c502eb1d24d96a89f2582d1da255b13b68d47bcf569a8b5dc2437273ab61",
+  "raw_text_bytes": 781322
 }

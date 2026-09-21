@@ -2,7 +2,7 @@
   "doc_id": "uber/submissions",
   "source": "SEC EDGAR",
   "source_url": "https://data.sec.gov/submissions/CIK0001543151.json",
-  "retrieved_at": "2026-09-20T21:43:18Z",
-  "sha256": "6a0e0473d40abfbce43b7dbae740730670739a3869bf7b84efbab21f15d01e13",
-  "bytes": 163679
+  "retrieved_at": "2026-09-21T21:43:59Z",
+  "sha256": "b901cf54c08085b0db567c5eda2897e3f85b6022c3214d92067a537f339007b9",
+  "bytes": 163842
 }

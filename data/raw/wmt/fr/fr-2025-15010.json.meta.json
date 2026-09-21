@@ -3,7 +3,9 @@
   "slug": "reciprocal-tariff-rates-eo",
   "source": "Federal Register API",
   "source_url": "https://www.federalregister.gov/documents/2025/08/06/2025-15010/further-modifying-the-reciprocal-tariff-rates",
-  "retrieved_at": "2026-09-20T21:42:58Z",
-  "sha256": "991b2a3dd5f011126c5776dda525e262d9d3277705af843c7d8e4ad2ed01ba2c",
-  "bytes": 36550
+  "retrieved_at": "2026-09-21T21:43:39Z",
+  "sha256": "5633a0ee6c0fdbd39645189cb645f6176ebe7ae95d532b6b755dbde1db9a0ee6",
+  "bytes": 36550,
+  "raw_text_sha256": "93ff52a765082332154b57ba4accc6d9c4b2b8d4cbf8e3863ca72f89e3ae0710",
+  "raw_text_bytes": 18736
 }

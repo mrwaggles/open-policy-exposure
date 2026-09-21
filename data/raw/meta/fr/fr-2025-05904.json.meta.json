@@ -3,7 +3,9 @@
   "slug": "coppa-final-rule",
   "source": "Federal Register API",
   "source_url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
-  "retrieved_at": "2026-09-20T21:42:49Z",
-  "sha256": "f53554613953d04857673496056e37efcc24c44da8c3a91924764477727266f7",
-  "bytes": 5321
+  "retrieved_at": "2026-09-21T21:43:29Z",
+  "sha256": "688369a61f3947c0c6d754b7d4161d74b6749c033ce7bef3374272aa3471c395",
+  "bytes": 5321,
+  "raw_text_sha256": "c165022b82aa0e86f931f4561e8b3f74f793878eceaada1d683a9136511e0b34",
+  "raw_text_bytes": 598701
 }

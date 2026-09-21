@@ -3,7 +3,9 @@
   "slug": "ira-negotiation-final-guidance",
   "source": "Federal Register API",
   "source_url": "https://www.federalregister.gov/documents/2024/10/10/2024-23418/inflation-reduction-act-ira-medicare-drug-price-negotiation-program-final-guidance",
-  "retrieved_at": "2026-09-20T21:42:57Z",
-  "sha256": "aea0aac39b630bb7034669d322ffe0201fd6d26ef8ae1a372e189d920cd065a8",
-  "bytes": 4515
+  "retrieved_at": "2026-09-21T21:43:38Z",
+  "sha256": "63d024458eb2db40c84fe0024312d103d9066c1fcf4bc294663dc869662ce352",
+  "bytes": 4515,
+  "raw_text_sha256": "9006cd974907d2440220507cd96bdbcc5c598d0a26cae6a746c053f210ba94c7",
+  "raw_text_bytes": 4006
 }
