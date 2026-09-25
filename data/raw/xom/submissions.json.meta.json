@@ -2,7 +2,7 @@
   "doc_id": "xom/submissions",
   "source": "SEC EDGAR",
   "source_url": "https://data.sec.gov/submissions/CIK0000034088.json",
-  "retrieved_at": "2026-09-24T21:45:56Z",
-  "sha256": "0a18bedfd809b14e32e21b89357b2ea2da7e5beecc9e2180f92ce7ca78ee78f1",
-  "bytes": 162231
+  "retrieved_at": "2026-09-25T21:46:52Z",
+  "sha256": "f029eca48d910d53ab502fa55c77dcd15cb7364154d96c2ba3e27a53eb1815fa",
+  "bytes": 162387
 }
