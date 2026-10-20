@@ -2,7 +2,7 @@
   "doc_id": "meta/submissions",
   "source": "SEC EDGAR",
   "source_url": "https://data.sec.gov/submissions/CIK0001326801.json",
-  "retrieved_at": "2026-10-19T22:04:52Z",
-  "sha256": "9a17c99c03fb3f382d1bc97550dbc0c20152fba7a0da07e7cc19f648ea3794f5",
+  "retrieved_at": "2026-10-20T22:06:16Z",
+  "sha256": "bdf2ccd67c9ad38eefeec7f5ff15d591afb96a8b7c6e491c41d3abc94a839f1a",
   "bytes": 157526
 }
