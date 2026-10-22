@@ -2,7 +2,7 @@
   "doc_id": "wmt/submissions",
   "source": "SEC EDGAR",
   "source_url": "https://data.sec.gov/submissions/CIK0000104169.json",
-  "retrieved_at": "2026-10-21T22:07:35Z",
-  "sha256": "82210a564dde0ba3a57ead677ca07ca6b91b6f798b9903d78cc3ca7a58cd54d1",
+  "retrieved_at": "2026-10-22T22:07:16Z",
+  "sha256": "30c5640fb5332f02975895872fcdf46e3b454675e88bd33a471cd879c869faec",
   "bytes": 157613
 }
