@@ -177,14 +177,14 @@
     "driver classification"
    ],
    "span": {
-    "doc_path": "data/raw/uber/fr/fr-2024-00067.txt",
-    "meta_path": "data/raw/uber/fr/fr-2024-00067.json.meta.json",
-    "doc_label": "Federal Register document (fr-2024-00067.txt)",
+    "doc_path": "data/raw/uber/10q-000154315126000032.risk-factors.txt",
+    "meta_path": "data/raw/uber/10q-000154315126000032.html.meta.json",
+    "doc_label": "SEC 10-Q filing section (10q-000154315126000032.risk-factors.txt)",
     "location": "sentence window around pattern match",
-    "tier": "A",
-    "start": "<html> <head> <title>Federal Register, Volume 89",
-    "end": "CY: Wage and Hour Division, Department of Labor.",
-    "publication_date": "unknown"
+    "tier": "B",
+    "start": "Other examples of judicial decisions include a d",
+    "end": "ing of the taxi collective bargaining agreement.",
+    "publication_date": "2026-08-05"
    }
   },
   {
@@ -202,8 +202,8 @@
     "doc_label": "Federal Register document (fr-2024-00067.txt)",
     "location": "sentence window around pattern match",
     "tier": "A",
-    "start": "In January 2021, the Department published a rule",
-    "end": "yee or an independent contractor under the FLSA.",
+    "start": "<html> <head> <title>Federal Register, Volume 89",
+    "end": "CY: Wage and Hour Division, Department of Labor.",
     "publication_date": "unknown"
    }
   },
@@ -335,17 +335,17 @@
    "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
    "confidence": "medium",
    "issue_hints": [
-    "drug pricing and negotiation"
+    "EU pharmaceutical legislation"
    ],
    "span": {
-    "doc_path": "data/raw/pfe/cms/cms-negotiated-prices-ipay-2027.txt",
-    "meta_path": "data/raw/pfe/cms/cms-negotiated-prices-ipay-2027.txt.meta.json",
-    "doc_label": "source document (cms-negotiated-prices-ipay-2027.txt)",
+    "doc_path": "data/raw/pfe/10q-000007800326000127.txt",
+    "meta_path": "data/raw/pfe/10q-000007800326000127.html.meta.json",
+    "doc_label": "SEC 10-Q filing section (10q-000007800326000127.txt)",
     "location": "sentence window around pattern match",
     "tier": "B",
-    "start": "In accordance with the Inflation Reduction Act o",
-    "end": "nitial offers, revised offers, and final offers.",
-    "publication_date": "unknown"
+    "start": "ATTR-CM transthyretin amyloid cardiomyopathy Bio",
+    "end": "SB Financial Accounting Standards Board FDA U.S.",
+    "publication_date": "2026-11-03"
    }
   },
   {
@@ -358,14 +358,14 @@
     "drug pricing and negotiation"
    ],
    "span": {
-    "doc_path": "data/raw/pfe/cms/cms-negotiated-prices-ipay-2027.txt",
-    "meta_path": "data/raw/pfe/cms/cms-negotiated-prices-ipay-2027.txt.meta.json",
-    "doc_label": "source document (cms-negotiated-prices-ipay-2027.txt)",
+    "doc_path": "data/raw/pfe/10q-000007800326000127.txt",
+    "meta_path": "data/raw/pfe/10q-000007800326000127.html.meta.json",
+    "doc_label": "SEC 10-Q filing section (10q-000007800326000127.txt)",
     "location": "sentence window around pattern match",
     "tier": "B",
-    "start": "In accordance with the Inflation Reduction Act of 2022, the negotiated price will apply to a sel",
-    "end": "lected drug so long as the selected drug remains in the Medicare Drug Price Negotiation Program.",
-    "publication_date": "unknown"
+    "start": "IPR&D in-process research and development IRA In",
+    "end": "ent IRA Inflation Reduction Act of 2022 IRS U.S.",
+    "publication_date": "2026-11-03"
    }
   },
   {

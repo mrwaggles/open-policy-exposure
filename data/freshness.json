@@ -1,7 +1,7 @@
 {
  "checked_at": "2026-11-03",
- "documents": 88,
- "hash_verified": 88,
+ "documents": 93,
+ "hash_verified": 93,
  "hash_failures": 0,
  "stale": [
   {
@@ -196,6 +196,14 @@
    "hash_ok": true
   },
   {
+   "doc": "meta/10q-000162828026066773.html",
+   "source_class": "edgar",
+   "retrieved_at": "2026-11-03",
+   "age_days": 0,
+   "sha256": "acdccdd1bf60dcacfa6d8844225cf536ad26c97ef287b90f9b3a00eb1cd2d6ee",
+   "hash_ok": true
+  },
+  {
    "doc": "meta/congress/s1748-actions.json",
    "source_class": "congress",
    "retrieved_at": "2026-09-16",
@@ -313,6 +321,14 @@
    "retrieved_at": "2026-09-14",
    "age_days": 50,
    "sha256": "175e07c21ee258eddd9952e443d34df2a297d0c38e2d1312dff0a64a31c401ab",
+   "hash_ok": true
+  },
+  {
+   "doc": "pfe/10q-000007800326000127.html",
+   "source_class": "edgar",
+   "retrieved_at": "2026-11-03",
+   "age_days": 0,
+   "sha256": "01f522c7ce08e181db1fdca2194b9bea5048f9b1f05beafe3941460e2c284683",
    "hash_ok": true
   },
   {
@@ -468,6 +484,14 @@
    "hash_ok": true
   },
   {
+   "doc": "uber/10q-000154315126000032.html",
+   "source_class": "edgar",
+   "retrieved_at": "2026-11-03",
+   "age_days": 0,
+   "sha256": "d4db831385342f55e5e36260c27d702087d9e05fe05e5f454490a56a1ca6cd99",
+   "hash_ok": true
+  },
+  {
    "doc": "uber/congress/hr1319-actions.json",
    "source_class": "congress",
    "retrieved_at": "2026-09-16",
@@ -585,6 +609,14 @@
    "retrieved_at": "2026-09-14",
    "age_days": 50,
    "sha256": "276a6accff6066f00342ba03b390c6c2bd51aa7246f0346df22df0b839a5bf5c",
+   "hash_ok": true
+  },
+  {
+   "doc": "wmt/10q-000010416926000154.html",
+   "source_class": "edgar",
+   "retrieved_at": "2026-11-03",
+   "age_days": 0,
+   "sha256": "99e0d8e6758490d224ddf9506b2e4b801cf6925f8ff4b742ece953f98c4c1fcb",
    "hash_ok": true
   },
   {
@@ -729,6 +761,14 @@
    "retrieved_at": "2026-09-12",
    "age_days": 52,
    "sha256": "b14a35e56edf00a9870ab3bb255a6cea9667aaf39a11317ac7930ff87f9d67c6",
+   "hash_ok": true
+  },
+  {
+   "doc": "xom/10q-000003408826000093.html",
+   "source_class": "edgar",
+   "retrieved_at": "2026-11-03",
+   "age_days": 0,
+   "sha256": "305b3bc2bed352113281a4d07c2c7cab2b01caa41c621a7d7b9c67eb992fda99",
    "hash_ok": true
   },
   {

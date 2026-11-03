@@ -2201,16 +2201,16 @@
     ],
     "span": {
      "evidence_id": "cand-uber-03-span",
-     "tier": "A",
+     "tier": "B",
      "role": "candidate",
-     "doc_label": "Federal Register document (fr-2024-00067.txt)",
+     "doc_label": "SEC 10-Q filing section (10q-000154315126000032.risk-factors.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "  Federal Register, Volume 89 Issue 7 (Wednesday, January 10, 2024)   [Federal Register Volume 89, Number 7 (Wednesday, January 10, 2024)] [Rules and Regulations] [Pages 1638-1743] From the Federal Register Online via the Government Publishing Office [www.gpo.gov] [FR Doc No: 2024-00067] [[Page 1637]] Vol. 89 Wednesday, No. 7 January 10, 2024 Part II Department of Labor ----------------------------------------------------------------------- Wage and Hour Division ----------------------------------------------------------------------- 29 CFR Parts 780, 788, and 795 Employee or Independent Contractor Classification Under the Fair Labor Standards Act; Final Rule \u0000\u0000Federal Register / Vol. 89 , No. 7 / Wednesday, January 10, 2024 / Rules and Regulations\u0000\u0000 [[Page 1638]] ----------------------------------------------------------------------- DEPARTMENT OF LABOR Wage and Hour Division 29 CFR Parts 780, 788, and 795 RIN 1235-AA43 Employee or Independent Contractor Classification Under the Fair Labor Standards Act AGENCY: Wage and Hour Division, Department of Labor.",
+     "exact_text": "Other examples of judicial decisions include a decision by the French Supreme Court that a driver for a third-party meal delivery 51 service was under a \u201csubordinate relationship\u201d of the service, indicating an employment relationship, decisions by the French Supreme Court in 2020 and 2023 that reclassified two UberX Drivers as employees (which were followed by inconsistent appellate decisions regarding employee status, and, in July 2025, by two French Supreme Court decisions analyzing Uber\u2019s more recent model that concluded that the Drivers were independent contractors), decisions by several Swiss governmental bodies ruling that Drivers should be classified as employees for Swiss social security or regulatory purposes, a recent Spanish regulation of food delivery platforms that presumes employment status and a ruling in September 2021 by a Netherlands court that Mobility Drivers are employees within the meaning of the taxi collective bargaining agreement.",
      "truncated": false,
-     "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
-     "publication_date": "unknown",
-     "retrieved_at": "2026-11-03T22:16:27Z",
-     "sha256": "dd65ff3d0a967f2fdfaaac5a065de01ca68b9a9ffe40d5c8d80fb39634da4746",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000032/uber-20260630.htm",
+     "publication_date": "2026-08-05",
+     "retrieved_at": "2026-11-03T22:22:03Z",
+     "sha256": "d4db831385342f55e5e36260c27d702087d9e05fe05e5f454490a56a1ca6cd99",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2231,7 +2231,7 @@
      "role": "candidate",
      "doc_label": "Federal Register document (fr-2024-00067.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "In January 2021, the Department published a rule titled ``Independent Contractor Status Under the Fair Labor Standards Act'' (2021 IC Rule), providing guidance on the classification of independent contractors under the FLSA applicable to workers and businesses in any industry.\\3\\ The 2021 IC Rule marked a departure from the consistent, longstanding adoption and application of the economic reality test by courts and the Department of how to determine whether a worker is an employee or an independent contractor under the FLSA.",
+     "exact_text": "  Federal Register, Volume 89 Issue 7 (Wednesday, January 10, 2024)   [Federal Register Volume 89, Number 7 (Wednesday, January 10, 2024)] [Rules and Regulations] [Pages 1638-1743] From the Federal Register Online via the Government Publishing Office [www.gpo.gov] [FR Doc No: 2024-00067] [[Page 1637]] Vol. 89 Wednesday, No. 7 January 10, 2024 Part II Department of Labor ----------------------------------------------------------------------- Wage and Hour Division ----------------------------------------------------------------------- 29 CFR Parts 780, 788, and 795 Employee or Independent Contractor Classification Under the Fair Labor Standards Act; Final Rule \u0000\u0000Federal Register / Vol. 89 , No. 7 / Wednesday, January 10, 2024 / Rules and Regulations\u0000\u0000 [[Page 1638]] ----------------------------------------------------------------------- DEPARTMENT OF LABOR Wage and Hour Division 29 CFR Parts 780, 788, and 795 RIN 1235-AA43 Employee or Independent Contractor Classification Under the Fair Labor Standards Act AGENCY: Wage and Hour Division, Department of Labor.",
      "truncated": false,
      "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
      "publication_date": "unknown",
@@ -2406,20 +2406,20 @@
     "extraction_method": "keyword-window v1 (deterministic regex over snapshots)",
     "confidence": "medium",
     "issue_hints": [
-     "drug pricing and negotiation"
+     "EU pharmaceutical legislation"
     ],
     "span": {
      "evidence_id": "cand-pfe-05-span",
      "tier": "B",
      "role": "candidate",
-     "doc_label": "source document (cms-negotiated-prices-ipay-2027.txt)",
+     "doc_label": "SEC 10-Q filing section (10q-000007800326000127.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "In accordance with the Inflation Reduction Act of 2022, CMS considered the statutory factors listed at section 1194(e) of the Social Security Act in determining its initial offers, revised offers, and final offers.",
+     "exact_text": "ATTR-CM transthyretin amyloid cardiomyopathy BioNTech BioNTech SE Biopharma Global Biopharmaceuticals Business BMS Bristol-Myers Squibb Company BOD Board of Directors CODM Chief Operating Decision Maker Comirnaty Unless otherwise noted, refers to, as applicable, the current formulation of Comirnaty (COVID-19 Vaccine, mRNA) 2026-2027 Formula as well as all prior authorized or approved formulations of the vaccine, which was first authorized in the U.S. during December 2020 pursuant to an EUA COVID-19 novel coronavirus disease of 2019 Developed Markets Includes, but is not limited to, the following markets: Western Europe, Japan, Central Europe, Canada, Nordic countries, Australia, certain Eastern European countries, South Korea and New Zealand EMA European Medicines Agency Emerging Markets Includes, but is not limited to, the following markets: Asia (excluding Japan and South Korea), Latin America, Eastern Europe (excluding the Balkans and certain other countries), Africa, the Middle East and Turkey EPS earnings per share EU European Union EUA emergency use authorization Exchange Act Securities Exchange Act of 1934, as amended FASB Financial Accounting Standards Board FDA U.S.",
      "truncated": false,
-     "source_url": "https://www.cms.gov/files/document/fact-sheet-negotiated-prices-ipay-2027.pdf",
-     "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:52:32Z",
-     "sha256": "2f27be731c03e286ad32b58dedb5003a7521fb15c23e7df5f37ab736cec85873",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000127/pfe-20260927.htm",
+     "publication_date": "2026-11-03",
+     "retrieved_at": "2026-11-03T22:22:06Z",
+     "sha256": "01f522c7ce08e181db1fdca2194b9bea5048f9b1f05beafe3941460e2c284683",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2438,14 +2438,14 @@
      "evidence_id": "cand-pfe-06-span",
      "tier": "B",
      "role": "candidate",
-     "doc_label": "source document (cms-negotiated-prices-ipay-2027.txt)",
+     "doc_label": "SEC 10-Q filing section (10q-000007800326000127.txt)",
      "location": "sentence window around pattern match",
-     "exact_text": "In accordance with the Inflation Reduction Act of 2022, the negotiated price will apply to a selected drug so long as the selected drug remains in the Medicare Drug Price Negotiation Program.",
+     "exact_text": "IPR&D in-process research and development IRA Inflation Reduction Act of 2022 IRS U.S.",
      "truncated": false,
-     "source_url": "https://www.cms.gov/files/document/fact-sheet-negotiated-prices-ipay-2027.pdf",
-     "publication_date": "unknown",
-     "retrieved_at": "2026-09-12T15:52:32Z",
-     "sha256": "2f27be731c03e286ad32b58dedb5003a7521fb15c23e7df5f37ab736cec85873",
+     "source_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000127/pfe-20260927.htm",
+     "publication_date": "2026-11-03",
+     "retrieved_at": "2026-11-03T22:22:06Z",
+     "sha256": "01f522c7ce08e181db1fdca2194b9bea5048f9b1f05beafe3941460e2c284683",
      "supports": [
       "candidate passage - unreviewed"
      ]
@@ -2773,8 +2773,8 @@
  },
  "freshness": {
   "checked_at": "2026-11-03",
-  "documents": 88,
-  "hash_verified": 88,
+  "documents": 93,
+  "hash_verified": 93,
   "hash_failures": 0,
   "stale": [
    {
@@ -2969,6 +2969,14 @@
     "hash_ok": true
    },
    {
+    "doc": "meta/10q-000162828026066773.html",
+    "source_class": "edgar",
+    "retrieved_at": "2026-11-03",
+    "age_days": 0,
+    "sha256": "acdccdd1bf60dcacfa6d8844225cf536ad26c97ef287b90f9b3a00eb1cd2d6ee",
+    "hash_ok": true
+   },
+   {
     "doc": "meta/congress/s1748-actions.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-16",
@@ -3086,6 +3094,14 @@
     "retrieved_at": "2026-09-14",
     "age_days": 50,
     "sha256": "175e07c21ee258eddd9952e443d34df2a297d0c38e2d1312dff0a64a31c401ab",
+    "hash_ok": true
+   },
+   {
+    "doc": "pfe/10q-000007800326000127.html",
+    "source_class": "edgar",
+    "retrieved_at": "2026-11-03",
+    "age_days": 0,
+    "sha256": "01f522c7ce08e181db1fdca2194b9bea5048f9b1f05beafe3941460e2c284683",
     "hash_ok": true
    },
    {
@@ -3241,6 +3257,14 @@
     "hash_ok": true
    },
    {
+    "doc": "uber/10q-000154315126000032.html",
+    "source_class": "edgar",
+    "retrieved_at": "2026-11-03",
+    "age_days": 0,
+    "sha256": "d4db831385342f55e5e36260c27d702087d9e05fe05e5f454490a56a1ca6cd99",
+    "hash_ok": true
+   },
+   {
     "doc": "uber/congress/hr1319-actions.json",
     "source_class": "congress",
     "retrieved_at": "2026-09-16",
@@ -3358,6 +3382,14 @@
     "retrieved_at": "2026-09-14",
     "age_days": 50,
     "sha256": "276a6accff6066f00342ba03b390c6c2bd51aa7246f0346df22df0b839a5bf5c",
+    "hash_ok": true
+   },
+   {
+    "doc": "wmt/10q-000010416926000154.html",
+    "source_class": "edgar",
+    "retrieved_at": "2026-11-03",
+    "age_days": 0,
+    "sha256": "99e0d8e6758490d224ddf9506b2e4b801cf6925f8ff4b742ece953f98c4c1fcb",
     "hash_ok": true
    },
    {
@@ -3502,6 +3534,14 @@
     "retrieved_at": "2026-09-12",
     "age_days": 52,
     "sha256": "b14a35e56edf00a9870ab3bb255a6cea9667aaf39a11317ac7930ff87f9d67c6",
+    "hash_ok": true
+   },
+   {
+    "doc": "xom/10q-000003408826000093.html",
+    "source_class": "edgar",
+    "retrieved_at": "2026-11-03",
+    "age_days": 0,
+    "sha256": "305b3bc2bed352113281a4d07c2c7cab2b01caa41c621a7d7b9c67eb992fda99",
     "hash_ok": true
    },
    {

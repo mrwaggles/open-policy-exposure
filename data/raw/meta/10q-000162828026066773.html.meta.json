@@ -1,0 +1,12 @@
+{
+  "doc_id": "meta/10q-000162828026066773",
+  "source": "SEC EDGAR",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/meta-20260930.htm",
+  "retrieved_at": "2026-11-03T22:22:03Z",
+  "sha256": "acdccdd1bf60dcacfa6d8844225cf536ad26c97ef287b90f9b3a00eb1cd2d6ee",
+  "bytes": 1826162,
+  "form": "10-Q",
+  "accession": "0001628280-26-066773",
+  "filing_date": "2026-10-22",
+  "primary_document": "meta-20260930.htm"
+}

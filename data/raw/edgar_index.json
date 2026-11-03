@@ -6,12 +6,42 @@
       "cik": "0001326801",
       "ticker": "META"
     },
+    "form": "10-Q",
+    "accession": "0001628280-26-066773",
+    "filing_date": "2026-10-22",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/meta-20260930.htm",
+    "full_chars": 437038,
+    "rf_chars": 208566,
+    "lp_chars": 43565
+  },
+  {
+    "company": {
+      "id": "meta",
+      "name": "Meta Platforms, Inc.",
+      "cik": "0001326801",
+      "ticker": "META"
+    },
     "accession": "0001628280-26-003942",
     "filing_date": "2026-01-29",
     "doc_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
     "full_chars": 535746,
     "rf_chars": 233897,
     "lp_chars": 280188
+  },
+  {
+    "company": {
+      "id": "uber",
+      "name": "Uber Technologies, Inc.",
+      "cik": "0001543151",
+      "ticker": "UBER"
+    },
+    "form": "10-Q",
+    "accession": "0001543151-26-000032",
+    "filing_date": "2026-08-05",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000032/uber-20260630.htm",
+    "full_chars": 440883,
+    "rf_chars": 232166,
+    "lp_chars": 2470
   },
   {
     "company": {
@@ -34,6 +64,21 @@
       "cik": "0000034088",
       "ticker": "XOM"
     },
+    "form": "10-Q",
+    "accession": "0000034088-26-000093",
+    "filing_date": "2026-08-03",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000093/xom-20260630.htm",
+    "full_chars": 121942,
+    "rf_chars": 0,
+    "lp_chars": 245
+  },
+  {
+    "company": {
+      "id": "xom",
+      "name": "Exxon Mobil Corporation",
+      "cik": "0000034088",
+      "ticker": "XOM"
+    },
     "accession": "0000034088-26-000045",
     "filing_date": "2026-02-18",
     "doc_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
@@ -48,12 +93,42 @@
       "cik": "0000078003",
       "ticker": "PFE"
     },
+    "form": "10-Q",
+    "accession": "0000078003-26-000127",
+    "filing_date": "2026-11-03",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000127/pfe-20260927.htm",
+    "full_chars": 282406,
+    "rf_chars": 387,
+    "lp_chars": 439
+  },
+  {
+    "company": {
+      "id": "pfe",
+      "name": "Pfizer Inc.",
+      "cik": "0000078003",
+      "ticker": "PFE"
+    },
     "accession": "0000078003-26-000026",
     "filing_date": "2026-02-26",
     "doc_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm",
     "full_chars": 742216,
     "rf_chars": 221921,
     "lp_chars": 228224
+  },
+  {
+    "company": {
+      "id": "wmt",
+      "name": "Walmart Inc.",
+      "cik": "0000104169",
+      "ticker": "WMT"
+    },
+    "form": "10-Q",
+    "accession": "0000104169-26-000154",
+    "filing_date": "2026-08-28",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/wmt-20260731.htm",
+    "full_chars": 143325,
+    "rf_chars": 865,
+    "lp_chars": 5509
   },
   {
     "company": {

@@ -69,6 +69,7 @@ def tier_label(path):
     n = os.path.basename(path)
     if n.startswith("fr-"): return "A", "Federal Register document"
     if "10k" in n: return "B", "SEC 10-K filing section" if "." in n.replace("10k-","").split(".")[0] else "SEC 10-K filing"
+    if "10q" in n: return "B", "SEC 10-Q filing section"
     if n.startswith("lda"): return "C", "Senate LDA filing"
     if n.startswith("eu-"): return "A", "EUR-Lex act (EU primary law)"
     return "B", "source document"

@@ -1,0 +1,12 @@
+{
+  "doc_id": "uber/10q-000154315126000032",
+  "source": "SEC EDGAR",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000032/uber-20260630.htm",
+  "retrieved_at": "2026-11-03T22:22:03Z",
+  "sha256": "d4db831385342f55e5e36260c27d702087d9e05fe05e5f454490a56a1ca6cd99",
+  "bytes": 2419548,
+  "form": "10-Q",
+  "accession": "0001543151-26-000032",
+  "filing_date": "2026-08-05",
+  "primary_document": "uber-20260630.htm"
+}
