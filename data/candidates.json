@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03",
+ "generated_at": "2026-11-04",
  "extractor": "keyword-window v1 (deterministic regex over immutable snapshots)",
  "note": "UNREVIEWED CANDIDATES - machine-surfaced passages awaiting human review per REVIEW.md. Not findings.",
  "items": [
@@ -197,14 +197,14 @@
     "driver classification"
    ],
    "span": {
-    "doc_path": "data/raw/uber/fr/fr-2024-00067.txt",
-    "meta_path": "data/raw/uber/fr/fr-2024-00067.json.meta.json",
-    "doc_label": "Federal Register document (fr-2024-00067.txt)",
+    "doc_path": "data/raw/uber/10q-000154315126000041.risk-factors.txt",
+    "meta_path": "data/raw/uber/10q-000154315126000041.html.meta.json",
+    "doc_label": "SEC 10-Q filing section (10q-000154315126000041.risk-factors.txt)",
     "location": "sentence window around pattern match",
-    "tier": "A",
-    "start": "<html> <head> <title>Federal Register, Volume 89",
-    "end": "CY: Wage and Hour Division, Department of Labor.",
-    "publication_date": "unknown"
+    "tier": "B",
+    "start": "Other examples of judicial decisions include a d",
+    "end": "ing of the taxi collective bargaining agreement.",
+    "publication_date": "2026-11-04"
    }
   },
   {

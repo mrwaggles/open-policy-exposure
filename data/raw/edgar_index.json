@@ -9,10 +9,7 @@
     "form": "10-Q",
     "accession": "0001628280-26-066773",
     "filing_date": "2026-10-22",
-    "doc_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/meta-20260930.htm",
-    "full_chars": 437038,
-    "rf_chars": 208566,
-    "lp_chars": 43565
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/meta-20260930.htm"
   },
   {
     "company": {
@@ -36,12 +33,12 @@
       "ticker": "UBER"
     },
     "form": "10-Q",
-    "accession": "0001543151-26-000032",
-    "filing_date": "2026-08-05",
-    "doc_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000032/uber-20260630.htm",
-    "full_chars": 440883,
-    "rf_chars": 232166,
-    "lp_chars": 2470
+    "accession": "0001543151-26-000041",
+    "filing_date": "2026-11-04",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/uber-20260930.htm",
+    "full_chars": 467332,
+    "rf_chars": 233219,
+    "lp_chars": 2475
   },
   {
     "company": {
@@ -67,10 +64,7 @@
     "form": "10-Q",
     "accession": "0000034088-26-000093",
     "filing_date": "2026-08-03",
-    "doc_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000093/xom-20260630.htm",
-    "full_chars": 121942,
-    "rf_chars": 0,
-    "lp_chars": 245
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000093/xom-20260630.htm"
   },
   {
     "company": {
@@ -96,10 +90,7 @@
     "form": "10-Q",
     "accession": "0000078003-26-000127",
     "filing_date": "2026-11-03",
-    "doc_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000127/pfe-20260927.htm",
-    "full_chars": 282406,
-    "rf_chars": 387,
-    "lp_chars": 439
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000127/pfe-20260927.htm"
   },
   {
     "company": {
@@ -125,10 +116,7 @@
     "form": "10-Q",
     "accession": "0000104169-26-000154",
     "filing_date": "2026-08-28",
-    "doc_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/wmt-20260731.htm",
-    "full_chars": 143325,
-    "rf_chars": 865,
-    "lp_chars": 5509
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/wmt-20260731.htm"
   },
   {
     "company": {
