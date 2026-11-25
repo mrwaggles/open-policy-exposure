@@ -3,7 +3,9 @@
   "slug": "ic-final-rule-2024",
   "source": "Federal Register API",
   "source_url": "https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act",
-  "retrieved_at": "2026-11-24T22:36:03Z",
-  "sha256": "15e47bf770b9123b173adf0d943c0988211d8cb1925e0848ea971c901a655d6f",
-  "bytes": 7121
+  "retrieved_at": "2026-11-25T22:38:33Z",
+  "sha256": "23cd85ab799a8006217c1d5d190fb01cdb75511c53082d8876dae9380be49a48",
+  "bytes": 7121,
+  "raw_text_sha256": "6f95478553ac97420ce5bdc34062bfa7085b1b2ffb20a836237c29e56a28013c",
+  "raw_text_bytes": 906546
 }

@@ -3,7 +3,9 @@
   "slug": "methane-deadline-extension",
   "source": "Federal Register API",
   "source_url": "https://www.federalregister.gov/documents/2025/07/31/2025-14531/extension-of-deadlines-in-standards-of-performance-for-new-reconstructed-and-modified-sources-and",
-  "retrieved_at": "2026-11-24T22:36:07Z",
-  "sha256": "8bef32eea3462274a76f469ef2713cdf97ee23d3ddfc1ad23568a7e99a08702b",
-  "bytes": 10269
+  "retrieved_at": "2026-11-25T22:38:38Z",
+  "sha256": "567ddaaaed8fa2fdc35ff548a9ab69ca024ae8c1e3843f766aedd8839d0f0fb0",
+  "bytes": 10269,
+  "raw_text_sha256": "8d1dc1ed61df845be42c34553488e259c3f358caa28098cbca75571ae5e373b9",
+  "raw_text_bytes": 142651
 }

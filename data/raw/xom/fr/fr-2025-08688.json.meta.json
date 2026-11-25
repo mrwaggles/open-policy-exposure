@@ -3,7 +3,9 @@
   "slug": "wec-cra-revocation",
   "source": "Federal Register API",
   "source_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08688/congressional-review-act-revocation-of-waste-emissions-charge-for-petroleum-and-natural-gas-systems",
-  "retrieved_at": "2026-11-24T22:36:06Z",
-  "sha256": "34029baaab8b740bd60e97e4153a0bebc8fbaf6317338d83c0886234eda10f58",
-  "bytes": 10201
+  "retrieved_at": "2026-11-25T22:38:37Z",
+  "sha256": "70815bd409845104876c2fc604223ab363b909fb2d794ee63f7677aec17149a7",
+  "bytes": 10201,
+  "raw_text_sha256": "0bfdce669f2444c1f100a1b77b2accba7a847fe1620abbf00b3f0876c1ef2744",
+  "raw_text_bytes": 20323
 }

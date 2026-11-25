@@ -3,7 +3,9 @@
   "slug": "sec-climate-rescission-proposal",
   "source": "Federal Register API",
   "source_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11091/rescission-of-climate-related-disclosure-rules",
-  "retrieved_at": "2026-11-24T22:36:08Z",
-  "sha256": "c9589dd03c629de8e6d7f47b876c73816aa40a22a099a0c27819c49576912ef9",
-  "bytes": 27783
+  "retrieved_at": "2026-11-25T22:38:39Z",
+  "sha256": "a1f8933e54f8fc058c9e1a4585bc2b2ccd7eff66288b31adc83fa9431f9254dd",
+  "bytes": 27783,
+  "raw_text_sha256": "4e2cdeec7dbc0d1d291bd9a3ad2d2a6b6a399d21b9f1537720712421686a44b2",
+  "raw_text_bytes": 296444
 }
